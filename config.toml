@@ -1,8 +1,20 @@
 base_url = "https://ericscouten.travel"
+
+title = "Eric Scouten :: Travel"
+description = "In which I share notes from my travels."
+default_language = "en"
+
+theme = "zola-es-theme"
+
 compile_sass = true
 build_search_index = true
 
+generate_feed = true
+feed_filename = "rss.xml"
+
 [markdown]
 highlight_code = false
+smart_punctuation = true
 
 [extra]
+es_site = "travel"
