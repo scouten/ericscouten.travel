@@ -1,6 +1,6 @@
 # ericscouten.travel
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2fd8bac9-df82-4ece-823e-655ea4f4ee78/deploy-status)](https://app.netlify.com/sites/ericscouten-dev/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/186ee3cf-427a-4dc4-9ff7-966c0d9d281d/deploy-status)](https://app.netlify.com/sites/ericscouten-travel/deploys)
 
 Eric's blog about travel.
 
