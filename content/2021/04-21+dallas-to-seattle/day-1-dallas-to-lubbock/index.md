@@ -6,11 +6,16 @@ updated = 2021-05-06
 [extra]
 markers = "markers.js"
 track = "track.kml"
+distance = "516 km / 321 mi"
+route = "Dallas to Lubbock, Texas"
+lat = 32.892
+lon = -99.644
+zoom = 8
 +++
 
 I'd long been curious about the Texas Panhandle region, but never had a compelling reason to actually visit. That reason recently appeared in the form of a family matter that required me to go _to_ Dallas quickly, but left me with time to come home slowly and thoughtfully.
 
-Herewith, Day 1 of my sojourn from Dallas to Seattle through lonely west Texas:
+Herewith, Day 1 of my sojourn from Dallas to Seattle starting in west Texas:
 
 <!-- more -->
 
