@@ -8,9 +8,7 @@ markers = "markers.js"
 track = "track.kml"
 distance = "516 km / 321 mi"
 route = "Dallas to Lubbock, Texas"
-lat = 32.892
-lon = -99.644
-zoom = 8
+bounds = {sw = [32.401, -101.855], ne = [33.585, -97.459]}
 +++
 
 I'd long been curious about the Texas Panhandle region, but never had a compelling reason to actually visit. That reason recently appeared in the form of a family matter that required me to go _to_ Dallas quickly, but left me with time to come home slowly and thoughtfully.
