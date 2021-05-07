@@ -5,7 +5,7 @@ updated = 2021-05-07
 
 [extra]
 markers = "markers.js"
-track = "track.kml"
+track = "track1.kml"
 distance = "815 km / 506 mi"
 route = "Lubbock, Texas, to Taos, New Mexico"
 bounds = {sw = [33.505, -105.565], ne = [36.885, -101.635]}
