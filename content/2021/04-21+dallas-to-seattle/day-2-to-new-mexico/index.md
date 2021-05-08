@@ -36,5 +36,5 @@ Of all the states that I visited, I think New Mexico was the most assertive abou
 
 Fun graffiti under a railroad bridge:
 
-{{ es_image(id="es-4191-078", caption="south of Raton, New Mexico, 2021") }}
-{{ es_image(id="es-4191-079", caption="south of Raton, New Mexico, 2021") }}
+{{ es_image(id="es-4191-078", caption="south of Raton, New Mexico") }}
+{{ es_image(id="es-4191-079", caption="south of Raton, New Mexico") }}
