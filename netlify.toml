@@ -1,9 +1,6 @@
 [build]
 publish = "public"
-command = "zola build"
-
-[build.environment]
-ZOLA_VERSION = "0.13.0"
+command = "curl -sL https://github.com/scouten/zola/releases/download/v0.13.0.es2/zola-v0.13.0.es2-unknown-linux-gnu.tar.gz | tar zxv && chmod +x ./zola && ./zola build"
 
 [context.deploy-preview]
-command = "zola build --base-url $DEPLOY_PRIME_URL"
+command = "curl -sL https://github.com/scouten/zola/releases/download/v0.13.0.es2/zola-v0.13.0.es2-unknown-linux-gnu.tar.gz | tar zxv && chmod +x ./zola && ./zola build --base-url $DEPLOY_PRIME_URL"
