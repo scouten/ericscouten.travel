@@ -5,7 +5,7 @@ updated = 2021-06-13
 
 [extra]
 markers = "markers.js"
-track = "2021-04-23a.kml"
+track = "2021-04-23b.kml"
 distance = "550 km / 342 mi"
 route = "Taos, New Mexico, to Telluride, Colorado"
 bounds = {sw = [36.401, -108.061], ne = [38.544, -105.568]}
