@@ -9,7 +9,7 @@ track = "2021-04-21.kml"
 distance = "516 km / 321 mi"
 route = "Dallas to Lubbock, Texas"
 bounds = {sw = [32.401, -101.855], ne = [33.585, -97.459]}
-feature = "es-4190-036"
+cover = "es-4190-036"
 +++
 
 I'd long been curious about the Texas Panhandle region, but never had a compelling reason to actually visit. That reason recently appeared in the form of a family matter that required me to go _to_ Dallas quickly, but left me with time to come home slowly and thoughtfully.

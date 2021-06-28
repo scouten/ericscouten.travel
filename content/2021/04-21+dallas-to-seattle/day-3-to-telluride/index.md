@@ -9,7 +9,7 @@ track = "2021-04-23b.kml"
 distance = "550 km / 342 mi"
 route = "Taos, New Mexico, to Telluride, Colorado"
 bounds = {sw = [36.401, -108.061], ne = [38.544, -105.568]}
-feature = "es-4192-208"
+cover = "es-4192-208"
 +++
 
 After Taos, it was time for some high desert plains and some mountains. I landed this next night in the ski resort of Telluride.
