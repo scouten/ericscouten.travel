@@ -9,7 +9,7 @@ track = "2021-04-22.kml"
 distance = "815 km / 506 mi"
 route = "Lubbock, Texas, to Taos, New Mexico"
 bounds = {sw = [33.505, -105.565], ne = [36.885, -101.635]}
-feature = "es-4191-042"
+cover = "es-4191-042"
 +++
 
 Leaving Lubbock, I decided to continue satisfying my Panhandle curiosity. I drove north through Amarillo and into the far western edge of Oklahoma's Panhandle before turning west to my destination for the night, Taos, New Mexico.

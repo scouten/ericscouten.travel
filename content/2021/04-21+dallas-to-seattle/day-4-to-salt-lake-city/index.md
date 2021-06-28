@@ -9,7 +9,7 @@ route = "Telluride, Colorado, to Salt Lake City, Utah"
 markers = "markers.js"
 track = "2021-04-24.kml"
 bounds = {sw = [37.940, -111.914], ne = [40.765, -107.820]}
-feature = "es-4195-071"
+cover = "es-4195-071"
 +++
 
 <!-- more -->
