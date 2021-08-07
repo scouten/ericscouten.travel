@@ -19,6 +19,9 @@ This was a day for moody cloudscapes and quiet contemplation.
 {{ es_image(id="es-4196-001", caption = "Clive, Utah") }}
 {{ es_image(id="es-4196-002", caption = "Clive, Utah") }}
 {{ es_image(id="es-4196-010", caption = "northeast of Montello, Nevada") }}
+
+Who leaves Utah and then doubles back to drive more remote Utah desert? Right. This guy. (Notice the sign saying 93 miles before any services? I kinda dig those signs.)
+
 {{ es_image(id="es-4196-014", caption = "southwest of Park Valley, Utah") }}
 {{ es_image(id="es-4196-019p", caption = "southwest of Park Valley, Utah") }}
 {{ es_image(id="es-4196-053p", caption = "southwest of Park Valley, Utah") }}
