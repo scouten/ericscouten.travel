@@ -7,6 +7,7 @@ updated = 2021-08-06T23:10:32-07:00
 distance = "800 km / 497 mi"
 route = "Salt Lake City, Utah, to Boise, Idaho"
 markers = "markers.js"
+track = "2021-04-25.kml"
 bounds = {sw = [40.662, -116.204], ne = [43.615, -111.891]}
 cover = "es-4196-135"
 +++
