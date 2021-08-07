@@ -18,4 +18,4 @@ smart_punctuation = true
 
 [extra]
 es_site = "travel"
-map_clustering = true
+map_clustering = false
