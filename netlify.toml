@@ -1,6 +1,14 @@
 [build]
 publish = "public"
-command = "curl -sL https://github.com/scouten/zola/releases/download/v0.13.0.es2/zola-v0.13.0.es2-unknown-linux-gnu.tar.gz | tar zxv && chmod +x ./zola && ./zola build"
+command = "zola build"
+
+[build.environment]
+ZOLA_VERSION = "0.14.0"
+
+# The magic for deploying previews of branches.
+# We need to override the base url with whatever url Netlify assigns to our
+# preview site.  We do this using the Netlify environment variable
+# `$DEPLOY_PRIME_URL`.
 
 [context.deploy-preview]
-command = "curl -sL https://github.com/scouten/zola/releases/download/v0.13.0.es2/zola-v0.13.0.es2-unknown-linux-gnu.tar.gz | tar zxv && chmod +x ./zola && ./zola build --base-url $DEPLOY_PRIME_URL"
+command = "zola build --base-url $DEPLOY_PRIME_URL"
