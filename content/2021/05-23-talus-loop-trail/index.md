@@ -3,6 +3,10 @@ title = "Talus Loop Trail"
 date = 2021-05-23T12:06:07-07:00
 updated = 2021-07-27T08:34:34-07:00
 
+[taxonomies]
+country = ["United States"]
+state = ["Washington"]
+
 [extra]
 distance = "6.5 km / 4.0 mi"
 route = "Talus Loop Trail, east of North Bend, Washington"

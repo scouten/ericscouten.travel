@@ -3,6 +3,10 @@ title = "Day 1: Dallas to Lubbock"
 date = 2021-04-21
 updated = 2021-05-06
 
+[taxonomies]
+country = ["United States"]
+state = ["Texas"]
+
 [extra]
 markers = "markers.js"
 track = "2021-04-21.kml"

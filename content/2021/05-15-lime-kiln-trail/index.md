@@ -3,6 +3,10 @@ title = "Lime Kiln Trail"
 date = 2021-05-15
 updated = 2021-06-27T20:33:37-07:00
 
+[taxonomies]
+country = ["United States"]
+state = ["Washington"]
+
 [extra]
 distance = "11.8 km / 7.3 mi"
 route = "east of Granite Falls, Washington"
