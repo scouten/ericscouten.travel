@@ -19,3 +19,11 @@ smart_punctuation = true
 [extra]
 es_site = "travel"
 map_clustering = false
+
+[[taxonomies]]
+name = "country"
+feed = true
+
+[[taxonomies]]
+name = "state"
+feed = true
