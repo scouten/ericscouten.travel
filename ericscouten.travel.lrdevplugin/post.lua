@@ -75,7 +75,7 @@ function(context)
 		LrDialogs.message("No photos selected!")
 		return
 	end
-	
+
 	-- Segregate out photos and videos.
 
 	local regularPhotos = {}
@@ -150,10 +150,11 @@ function(context)
 	local index = assert(io.open(postPath .. "/index.md", "w"))
 	index:write("+++\n")
 	index:write("title = \"" .. escapedTitle .. "\"\n")
-	index:write("date = " .. dateTime .. "\n")
+	index:write("date = " .. dateTime .. checkTz .. "\n")
 	index:write("updated = " .. updated .. "\n")
 	index:write("\n")
 	index:write("[extra]\n")
+	index:write("first_published_on = \"where???\"\n")
 
 	index:write("distance = \"3 km / 2 mi\"\n")
 	index:write("route = \"city, state, to city, state\"\n")
@@ -378,6 +379,55 @@ function(context)
 	end
 
 	if #videos > 0 then
-		-- to do!
+		local exportSession = LrExportSession {
+			exportSettings = {
+				collisionHandling = 'overwrite',
+				embeddedMetadataOption = 'allExceptCameraRawInfo',
+				exportServiceProvider = 'com.adobe.ag.export.file',
+				exportServiceProviderTitle = "Hard Drive",
+				export_colorSpace = 'sRGB',
+				export_destinationPathPrefix = "/Users/scouten/Desktop",
+				export_destinationPathSuffix = "Upload to Vimeo",
+				export_destinationType = 'specificFolder',
+				export_postProcessing = 'revealInFinder',
+				export_useParentFolder = false,
+				export_useSubfolder = true,
+				export_videoFormat = "4e49434b-4832-3634-fbfb-fbfbfbfbfbfb",
+				export_videoPreset = "SIZE_medium",
+				extensionCase = 'lowercase',
+				format = 'JPEG',
+				includeFaceTagsAsKeywords = true,
+				includeFaceTagsInIptc = true,
+				includeVideoFiles = true,
+				initialSequenceNumber = 1,
+				jpeg_limitSize = 100,
+				jpeg_quality = 0.8,
+				jpeg_useLimitSize = false,
+				metadata_keywordOptions = 'flat',
+				outputSharpeningLevel = 2,
+				outputSharpeningMedia = 'screen',
+				outputSharpeningOn = true,
+				reimportExportedPhoto = false,
+				removeFaceMetadata = true,
+				removeLocationMetadata = true,
+				renamingTokensOn = true,
+				size_doConstrain = true,
+				size_doNotEnlarge = true,
+				size_maxHeight = 1500,
+				size_maxWidth = 500,
+				size_percentage = 100,
+				size_resizeType = 'longEdge',
+				size_resolution = 72,
+				size_resolutionUnits = 'inch',
+				size_units = 'pixels',
+				size_userWantsConstrain = true,
+				tokens = "{{image_name}}",
+				tokensArchivedToString2 = "{{image_name}}",
+				useWatermark = false,
+			},
+			photosToExport = videos
+		}
+
+		exportSession:doExportOnCurrentTask()
 	end
 end)
