@@ -211,23 +211,30 @@ function(context)
 
 	for _, photo in ipairs(catalog.targetPhotos) do
 		if not photo:getRawMetadata('isVirtualCopy') then
-			local pcaption = photo:getFormattedMetadata('caption'):gsub(", %d%d%d%d$", "")
-			if pcaption then
-				pcaption = ", caption = \"" .. pcaption .. "\""
+			local title = photo:getFormattedMetadata('title')
+			if title then
+				title = ", title = \"" .. title .. "\""
 			else
-				pcaption = ""
+				title = ""
+			end
+
+			local caption = photo:getFormattedMetadata('caption')
+			if caption then
+				caption = ", caption = \"" .. caption:gsub(", %d%d%d%d$", "") .. "\""
+			else
+				caption = ""
 			end
 
 			if photo:getRawMetadata('isVideo') then
 				local pid = photo.path
 				pid = pid:gsub("^.*/", "")
 				pid = pid:gsub("%..*$", "")
-				index:write("{{ es_vimeo(id=\"" .. pid .. "\" vmid=\"zzzzzzz\"" .. pcaption .. ") }}\n")
+				index:write("{{ es_vimeo(id=\"" .. pid .. "\" vmid=\"zzzzzzz\"" .. title .. caption .. ") }}\n")
 			else
 				local pid = photo.path
 				pid = pid:gsub("^.*/", "")
 				pid = pid:gsub("%..*$", "")
-				index:write("{{ es_image(id=\"" .. pid .. "\"" .. pcaption .. ") }}\n")
+				index:write("{{ es_image(id=\"" .. pid .. "\"" .. title .. caption .. ") }}\n")
 			end
 		end
 
