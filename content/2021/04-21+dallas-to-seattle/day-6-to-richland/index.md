@@ -7,7 +7,7 @@ updated = 2021-09-01T20:16:11-07:00
 distance = "506 km / 314 mi"
 route = "Boise, Idaho, to Richland, Washington"
 markers = "markers.js"
-# track = "2021-04-26.kml"
+track = "2021-04-26.kml"
 bounds = {sw = [43.594, -119.389], ne = [46.265, -116.193]}
 cover = "es-4199-001"
 +++
