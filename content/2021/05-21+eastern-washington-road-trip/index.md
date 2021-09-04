@@ -7,6 +7,7 @@ updated = 2021-09-03T22:32:57-07:00
 distance = "973 km / 605 mi"
 route = "all over eastern and central Washington over two days"
 markers = "markers.js"
+track = "2021-05-21+eastern-wa.kml"
 bounds = {sw = [45.935, -120.841], ne = [47.234, -117.223]}
 cover = "es-4206-113"
 +++
