@@ -16,7 +16,7 @@ I had the opportunity for a long weekend away and decided to make some progress 
 
 <!-- more -->
 
-I netted eight new parks on this weekend and a handful of other interesting photos in the points between.
+I netted eight new parks on this weekend (see the brown dots on the map below) and a handful of other interesting photos in the points between.
 
 {{ es_image(id="es-4206-004p", caption = "Hooper, Washington") }}
 {{ es_image(id="es-4206-014p", caption = "Hooper, Washington") }}
