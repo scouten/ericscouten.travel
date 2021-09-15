@@ -49,7 +49,11 @@ local function roundLatLon(value)
 	return math.floor((value * 1000) + .5) / 1000
 end
 
-LrFunctionContext.postAsyncTaskWithContext("Create ericscouten.travel Blog Post",
+local function escapeHtml(str)
+	return str:gsub("\\", "\\\\"):gsub("\"", "\\\"")
+end
+
+LrFunctionContext.postAsyncTaskWithContext("Create Blog Post",
 function(context)
 
 	local catalog = LrApplication.activeCatalog()
@@ -149,7 +153,7 @@ function(context)
 
 	local index = assert(io.open(postPath .. "/index.md", "w"))
 	index:write("+++\n")
-	index:write("title = \"" .. escapedTitle .. "\"\n")
+	index:write("title = \"" .. escapeHtml(title) .. "\"\n")
 	index:write("date = " .. dateTime .. checkTz .. "\n")
 	index:write("updated = " .. updated .. "\n")
 	index:write("\n")
