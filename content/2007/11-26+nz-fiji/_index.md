@@ -1,5 +1,5 @@
 +++
-title = "New Zealand to Fiji"
+title = "New Zealand and Fiji"
 sort_by = "date"
 transparent = true
 +++
