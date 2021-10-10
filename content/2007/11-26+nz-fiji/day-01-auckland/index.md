@@ -18,4 +18,6 @@ We arrived this morning in Auckland. Qantas made the flight about as pleasant as
 
 We busied ourselves today by settling into our hotel and doing an extensive walking tour of Auckland's central business district. I'll post more shortly on the photoblog about some striking similarities between Auckland and Seattle, but we've found the city very relaxed and amazingly well-kept.
 
+TO DO: Insert Seattle Espresso shot (cropped?).
+
 I must rant for a minute about the delightful meal we've just enjoyed. If you ever find yourself in Auckland, do yourself a favor and truck on over to [La Zeppa](https://www.lazeppa.co.nz), a tapas bar on the west side of the Central Business District. The food was absolutely delightful (we especially enjoyed the lamb koftas and the profiteroles) and the service was also top-notch. Highly recommended.
