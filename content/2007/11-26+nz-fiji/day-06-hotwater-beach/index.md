@@ -1,5 +1,5 @@
 +++
-title = "Hotwater Beach"
+title = "Day 6: Hotwater Beach"
 date = 2007-12-03T15:26:38.00+13:00
 updated = 2021-10-10T15:19:51-07:00
 
