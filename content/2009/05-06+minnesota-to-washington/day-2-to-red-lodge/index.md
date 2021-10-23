@@ -7,7 +7,7 @@ updated = 2021-10-20T20:43:53-07:00
 distance = "1011 km / 628 mi"
 route = "Redfield, South Dakota, to Red Lodge, Montana"
 markers = "markers.js"
-track = "trackx.kml"
+track = "track.kml"
 bounds = {sw = [44.675, -109.247], ne = [45.828, -98.523]}
 cover = "es-1425-065"
 +++
