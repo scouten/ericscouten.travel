@@ -24,6 +24,8 @@ I knew I was risking it to try to follow Highway 212 to its end. Here is where t
 
 Instead I backtracked to Red Lodge, looped around to the south of Yellowstone and came in through the southeast entrance to the park.
 
+I imagine this sign once had more to say, but nowadays, a simple "No" apparently suffices:
+
 {{ es_image(id="es-1427-001", title = "No. Just No.", caption = "Cody, Wyoming") }}
 
 {{ es_image(id="es-1427-020", caption = "Yellowstone Lake, Yellowstone National Park, Wyoming") }}
