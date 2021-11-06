@@ -16,4 +16,4 @@ I often hike Dungeness Spit when I need a moment to myself. On this morning, ret
 
 <!-- more -->
 
-{{ es_image(id="es-4249-050", caption = "Dungeness National Wildlife Refuge, north of Sequim, Washington") }}
+{{ es_image(id="es-4249-050") }}
