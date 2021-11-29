@@ -12,7 +12,7 @@ bounds = {sw = [47.005, -122.651], ne = [48.421, -119.502]}
 cover = "es-1564-117"
 +++
 
-I had fun driving today. Great photos mostly between Waterville and Bridgeport.
+I had fun driving today, mostly looking for winter farm scenes in the high plains east of Wenatchee, before winding up in Omak for the night. 
 
 <!-- more -->
 
@@ -24,6 +24,9 @@ I had fun driving today. Great photos mostly between Waterville and Bridgeport.
 {{ es_image(id="es-1564-051", caption = "north of Douglas, Washington") }}
 {{ es_image(id="es-1564-076", title = "Farmer’s Community Hall", caption = "west of Douglas, Washington") }}
 {{ es_image(id="es-1564-087", title = "Lonely Farm", caption = "west of Douglas, Washington") }}
+
+It was even better than I thought it would be. Got some amazing thick fog right at sunset. Fantastic case of right place, right time.
+
 {{ es_image(id="es-1564-101", title = "Freezing Fog", caption = "west of Mansfield, Washington") }}
 {{ es_image(id="es-1564-104", title = "Primitive Road", caption = "west of Mansfield, Washington") }}
 {{ es_image(id="es-1564-117", caption = "west of Mansfield, Washington") }}
