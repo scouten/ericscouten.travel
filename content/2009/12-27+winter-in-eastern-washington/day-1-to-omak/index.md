@@ -5,7 +5,7 @@ updated = 2021-11-28T23:34:03-08:00
 
 [extra]
 distance = "553 km / 343 mi"
-route = "Poulsbo, Washington, to Omak, Washington"
+route = "Poulsbo to Omak, Washington"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.005, -122.651], ne = [48.421, -119.502]}
