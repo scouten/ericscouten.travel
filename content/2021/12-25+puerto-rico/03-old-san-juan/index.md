@@ -9,6 +9,7 @@ route = "San Juan, Puerto Rico"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [18.447, -66.128], ne = [18.469, -66.054]}
+cover = "es-4290-061"
 +++
 
 Having spent our first two days of acclimating and relaxing on the beach, we've now moved on to the historic district of Old San Juan.
