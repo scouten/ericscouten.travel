@@ -7,7 +7,7 @@ updated = 2022-01-06T20:00:40-08:00
 distance = "190 km / 118 mi"
 route = "San Juan, Puerto Rico, to Salinas, Puerto Rico"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [17.959, -66.297], ne = [18.466, -65.758]}
 cover = "es-4295-030"
 +++
