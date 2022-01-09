@@ -54,4 +54,4 @@ Our final visit as we departed was at the [Yokahú Tower](https://www.fs.usda.go
 {{ es_image(id="lr-1319", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4295-099") }}
 
-After leaving the park, we drove to Salinas where we spent the night at [Marina de Salinas](https://www.marinadesalinas.com). The restaurant offered nice water views and good food, but the room was shall we say ... minimally ... finished.
+After leaving the park, we drove to Salinas where we spent the night at [Marina de Salinas](https://www.marinadesalinas.com). The restaurant offered nice water views and good food, but the room was shall we say ... minimally ... furnished.
