@@ -12,7 +12,7 @@ bounds = {sw = [17.933, -67.200], ne = [18.147, -67.024]}
 cover = "es-4299-025"
 +++
 
-Happy New Year! Today, we drove down to the southwesternmost point of Puerto Rico to see Cabo Rojo and its lighthouse, [Faro Los Morrillos](https://www.discoverpuertorico.com/profile/faro-los-morrillos-de-cabo-rojo/8058)st.
+Happy New Year! Today, we drove down to the southwesternmost point of Puerto Rico to see Cabo Rojo and its lighthouse, [Faro Los Morrillos](https://www.discoverpuertorico.com/profile/faro-los-morrillos-de-cabo-rojo/8058).
 
 <!-- more -->
 
