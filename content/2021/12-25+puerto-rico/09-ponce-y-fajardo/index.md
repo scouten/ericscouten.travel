@@ -7,7 +7,7 @@ updated = 2022-01-13T17:40:46-08:00
 distance = "294 km / 183 mi"
 route = "Ponce to Fajardo and San Juan, Puerto Rico"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track2.kml"
 bounds = {sw = [17.974, -67.099], ne = [18.438, -65.620]}
 cover = "es-4301-127"
 +++
