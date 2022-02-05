@@ -8,7 +8,7 @@ template = "section.html"
 
 This my home for my travel photography.
 
-As of this writing (September 2021), I'm just getting started with this blog. I plan to move some previous content from other sites and will be writing new articles soon.
+As of this writing (February 2022), I'm just getting started with this blog. I plan to move some previous content from other sites and will be writing new articles soon.
 
 I am also [a software developer](https://ericscouten.dev) and [an explorer of my home state](https://146parks.blog).
 
