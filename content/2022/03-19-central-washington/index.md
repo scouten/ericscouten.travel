@@ -12,7 +12,7 @@ bounds = {sw = [46.996, -120.549], ne = [48.478, -119.142]}
 cover = "es-4321-096"
 +++
 
-The idea, [again](../01-14-eastern-washington/) was to visit some more parks for the [146 Parks](https://146parks.blog) project. Weather intervened; that plan didn't happen, but a good trip was had nonetheless.
+The idea, [again](../01-14-eastern-washington/) was to visit some more parks for the [146 Parks](https://146parks.blog) project. Weather intervened and my plans had to change a bit, but a good trip was had nonetheless.
 
 <!-- more -->
 
