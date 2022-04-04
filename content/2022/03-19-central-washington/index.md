@@ -31,7 +31,7 @@ A fair amount of Sun Lakes-Dry Falls State Park was seasonally closed, so I deci
 
 {{ es_image(id="es-4321-081", caption = "Coulee City, Washington") }}
 
-I started a more serious hike in Steamboat Rock State Park a couple hours later, but serious rains set in before I could accomplish my hiking goal for the day. I'll share one highlight photo from the park and save this again for another day.
+I started a more serious hike in Steamboat Rock State Park a couple hours later, but heavy rains set in before I could accomplish my hiking goal for the day. I'll share one highlight photo from the park and otherwise save this park for another day.
 
 {{ es_image(id="es-4321-096", caption = "Steamboat Rock State Park, southwest of Electric City, Washington") }}
 
