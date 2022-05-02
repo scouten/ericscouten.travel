@@ -7,7 +7,7 @@ updated = 2022-05-02T12:43:58-07:00
 distance = "1476 km / 917 mi"
 route = "Olympia, Washington, to Salt Lake City, Utah"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [40.534, -122.869], ne = [47.642, -111.894]}
 cover = "es-4329-013"
 +++
