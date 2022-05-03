@@ -20,6 +20,10 @@ But ... why? You'd miss out on some amazing scenery.
 
 I love time to myself and especially in quiet/lonely desert landscapes, so having this day for a solo roadtrip was a special treat.
 
+No services next 83 miles? Game on!
+
+{{ es_image(id="es-4330-006", caption = "west of Delta, Utah") }}
+
 {{ es_image(id="es-4330-028", caption = "west of Delta, Utah") }}
 {{ es_image(id="es-4330-057", caption = "west of Delta, Utah") }}
 {{ es_image(id="es-4330-068", caption = "west of Delta, Utah") }}
@@ -29,6 +33,7 @@ I love time to myself and especially in quiet/lonely desert landscapes, so havin
 {{ es_image(id="es-4330-093", caption = "north of Baker, Nevada") }}
 {{ es_image(id="es-4330-098", caption = "north of Ely, Nevada") }}
 {{ es_image(id="es-4330-101", caption = "south of McGill, Nevada") }}
+{{ es_image(id="es-4330-103", title = "Frosty Stand", caption = "McGill, Nevada") }}
 {{ es_image(id="es-4330-109p", caption = "north of McGill, Nevada") }}
 
 Ooh, I love a good dramatic thunderstorm. We don't get those so much in the Northwest. Here we go!
