@@ -4,7 +4,6 @@ date = 2022-04-22T20:17:31.851-07:00
 updated = 2022-05-08T21:07:31-04:00
 
 [extra]
-first_published_on = "where???"
 distance = "234 km / 146 mi"
 route = "Pullman to Richland, Washington"
 markers = "markers.js"
