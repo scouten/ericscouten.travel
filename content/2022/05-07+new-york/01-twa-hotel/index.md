@@ -7,7 +7,7 @@ updated = 2022-05-08T22:32:59-04:00
 distance = "4120 km / 2560 mi"
 route = "Seattle, Washington, to New York, New York"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [40.344, -122.541], ne = [47.816, -73.519]}
 cover = "es-4340-035"
 +++
