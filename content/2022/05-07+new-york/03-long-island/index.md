@@ -18,8 +18,6 @@ As I am so often inclined to do, I took the long way from Port Jefferson into th
 
 And by the long way, I mean the very long way ... to the very eastern tip of the north fork of Long Island.
 
-Turns out I had covered some of this same ground [20 years earlier](/2002/02-23-long-island/), ironically also when adding a weekend to an Adobe business trip.
-
 {{ es_image(id="es-4343-002", caption = "Dam Pond, east of East Marion, New York") }}
 
 I was tempted to ride another ferry, but it did not fit my schedule for this day.
