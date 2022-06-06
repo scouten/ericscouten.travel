@@ -1,7 +1,9 @@
 +++
-title = "Ensign Peak, Salt Lake City"
+title = "Day 1: Ensign Peak"
 date = 2022-05-27T18:50:04.333-06:00
 updated = 2022-05-29T21:57:43-07:00
+
+aliases = ["2022/05-27-ensign-peak"]
 
 [extra]
 route = "Ensign Peak, Salt Lake City, Utah"
