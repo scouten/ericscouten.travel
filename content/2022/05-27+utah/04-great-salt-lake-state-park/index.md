@@ -12,7 +12,7 @@ bounds = {sw = [40.725, -112.218], ne = [40.745, -112.198]}
 cover = "es-4361-068"
 +++
 
-This afternoon (Memorial Day), we visited Great Salt Lake State Park a bit west of Salt Lake City.
+This afternoon (Memorial Day), we visited [Great Salt Lake State Park](https://stateparks.utah.gov/parks/great-salt-lake/) a bit west of Salt Lake City.
 
 <!-- more -->
 
