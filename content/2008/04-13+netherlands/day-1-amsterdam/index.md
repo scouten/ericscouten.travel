@@ -3,6 +3,9 @@ title = "Day 1: Amsterdam"
 date = 2008-04-13T14:40:33+02:00
 updated = 2021-10-13T20:55:27-07:00
 
+[taxonomies]
+country = ["Netherlands"]
+
 [extra]
 first_published_on = "photoblog.ericscouten.com"
 markers = "markers.js"

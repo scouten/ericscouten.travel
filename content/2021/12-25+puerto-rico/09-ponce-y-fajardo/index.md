@@ -3,6 +3,9 @@ title = "Day 9: Ponce and Fajardo"
 date = 2022-01-02
 updated = 2022-01-13T17:40:46-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "294 km / 183 mi"
 route = "Ponce to Fajardo and San Juan, Puerto Rico"

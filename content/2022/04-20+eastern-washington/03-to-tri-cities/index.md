@@ -3,6 +3,9 @@ title = "Day 3: To the Tri Cities"
 date = 2022-04-22T20:17:31.851-07:00
 updated = 2022-05-08T21:07:31-04:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "234 km / 146 mi"
 route = "Pullman to Richland, Washington"

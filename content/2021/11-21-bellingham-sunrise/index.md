@@ -2,6 +2,9 @@
 title = "Bellingham Sunrise"
 date = 2021-11-21T07:31:55-08:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 route = "Bellingham, Washington"
 markers = "markers.js"

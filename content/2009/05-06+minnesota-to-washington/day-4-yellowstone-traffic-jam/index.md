@@ -3,6 +3,9 @@ title = "Day 4: A Yellowstone Traffic Jam"
 date = 2009-05-09T09:04:38.02-06:00
 updated = 2021-10-24T19:32:55-07:00
 
+[taxonomies]
+state = ["Montana", "Wyoming", "Idaho"]
+
 [extra]
 distance = "836 km / 519 mi"
 route = "West Yellowstone, Montana, to Nampa, Idaho"

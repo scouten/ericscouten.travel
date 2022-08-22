@@ -3,6 +3,9 @@ title = "Day 3: Old San Juan"
 date = 2021-12-27T17:29:34.191-04:00
 updated = 2022-01-04T18:36:49-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "13 km / 8 mi"
 route = "San Juan, Puerto Rico"

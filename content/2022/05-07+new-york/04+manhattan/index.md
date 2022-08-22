@@ -4,6 +4,7 @@ date = 2022-05-12
 updated = 2022-05-19T09:40:10-07:00
 
 [taxonomies]
+state = ["New York"]
 
 [extra]
 route = "Manhattan, New York, New York"

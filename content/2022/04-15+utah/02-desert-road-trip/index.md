@@ -3,6 +3,9 @@ title = "Day 2: A Desert Road Trip"
 date = 2022-04-16T16:59:02-06:00
 updated = 2022-05-03T08:27:58-07:00
 
+[taxonomies]
+state = ["Utah", "Nevada"]
+
 [extra]
 distance = "886 km / 551 mi"
 route = "Salt Lake City to Park City, Utah"

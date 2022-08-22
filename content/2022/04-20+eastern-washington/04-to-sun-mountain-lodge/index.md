@@ -4,6 +4,7 @@ date = 2022-04-23T19:13:27.115-07:00
 updated = 2022-05-14T20:08:12-07:00
 
 [taxonomies]
+state = ["Washington"]
 
 [extra]
 distance = "468 km / 291 mi"

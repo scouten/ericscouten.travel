@@ -3,6 +3,9 @@ title = "Day 4: To Salt Lake City"
 date = 2021-04-24
 updated = 2021-06-26T17:42:18-07:00
 
+[taxonomies]
+state = ["Colorado", "Utah"]
+
 [extra]
 distance = "595 km / 370 mi"
 route = "Telluride, Colorado, to Salt Lake City, Utah"

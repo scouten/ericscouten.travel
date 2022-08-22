@@ -3,6 +3,9 @@ title = "Green Mountain Hike"
 date = 2022-04-30T12:31:04.782-07:00
 updated = 2022-05-12T08:11:04-04:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "8.2 km / 5.1 mi"
 route = "Green Mountain State Forest, west of Bremerton, Washington"

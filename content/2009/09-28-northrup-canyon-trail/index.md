@@ -3,6 +3,9 @@ title = "Northrup Canyon Trail"
 date = 2009-09-28T12:58:44.96-07:00
 updated = 2021-11-10T17:54:28-07:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "6.9 km / 4.3 mi"
 route = "Northrup Canyon Trail, Steamboat Rock State Park, south of Electric City, Washington"

@@ -3,6 +3,9 @@ title = "Day 5: To Boise"
 date = 2021-04-25
 updated = 2021-08-06T23:10:32-07:00
 
+[taxonomies]
+state = ["Utah", "Nevada", "Idaho"]
+
 [extra]
 distance = "800 km / 497 mi"
 route = "Salt Lake City, Utah, to Boise, Idaho"

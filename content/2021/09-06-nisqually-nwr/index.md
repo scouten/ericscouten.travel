@@ -3,6 +3,9 @@ title = "Nisqually National Wildlife Refuge"
 date = 2021-09-06T11:36:18.201-07:00
 updated = 2021-11-05T19:42:10-07:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 route = "Billy Frank Junior Nisqually National Wildlife Refuge, east of Olympia, Washington"
 markers = "markers.js"

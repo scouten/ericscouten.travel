@@ -31,6 +31,8 @@ name = "state"
 # I really wish taxonomies could have titles independent of their names!
 [extra.taxonomies.country]
 title = "Countries I’ve Visited"
+sort = "date"
 
 [extra.taxonomies.state]
 title = "US States and Territories"
+sort = "date"

@@ -3,6 +3,9 @@ title = "A Week in Mau’i"
 date = 2009-06-04
 updated = 2021-09-01T19:10:30-07:00
 
+[taxonomies]
+state = ["Hawaii"]
+
 [extra]
 distance = "270 km / 168 mi"
 route = "two trips around Mau’i, Hawaii"

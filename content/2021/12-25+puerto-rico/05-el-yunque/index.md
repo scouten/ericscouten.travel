@@ -3,6 +3,9 @@ title = "Day 5: El Yunque National Forest"
 date = 2021-12-29
 updated = 2022-01-06T20:00:40-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "190 km / 118 mi"
 route = "San Juan, Puerto Rico, to Salinas, Puerto Rico"

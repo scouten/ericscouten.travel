@@ -3,6 +3,9 @@ title = "Day 3: Saltair and Antelope Island"
 date = 2022-04-17T15:55:04-06:00
 updated = 2022-05-03T20:55:01-07:00
 
+[taxonomies]
+state = ["Utah"]
+
 [extra]
 distance = "338 km / 210 mi"
 route = "Park City to Salt Lake City, Utah"

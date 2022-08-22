@@ -3,6 +3,9 @@ title = "Inspiration at Dungeness"
 date = 2021-08-28T10:32:59.088-07:00
 updated = 2021-11-05T17:25:40-07:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "8.2 km / 5.1 mi"
 route = "Dungeness National Wildlife Refuge, north of Sequim, Washington"

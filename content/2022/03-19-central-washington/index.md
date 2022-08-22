@@ -3,6 +3,9 @@ title = "A Central Washington Roadtrip"
 date = 2022-03-19T19:12:00-08:00
 updated = 2022-04-03T20:16:44-07:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "422 km / 262 mi"
 route = "Ellensburg to Winthrop, Washington"

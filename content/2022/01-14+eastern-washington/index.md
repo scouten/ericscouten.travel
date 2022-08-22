@@ -3,6 +3,9 @@ title = "An Eastern Washington Roadtrip"
 date = 2022-01-17
 updated = 2022-01-17T19:41:43-08:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "1351 km / 840 mi"
 route = "to Spokane, Washington, and back over 3.5 days"

@@ -3,6 +3,9 @@ title = "Day 7: Utuado and the Treehouse"
 date = 2021-12-31
 updated = 2022-01-09T20:23:37-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "218 km / 135 mi"
 route = "Salinas to Utuado to San Germán, Puerto Rico"

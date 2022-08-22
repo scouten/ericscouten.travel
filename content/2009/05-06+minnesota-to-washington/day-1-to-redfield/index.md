@@ -3,6 +3,9 @@ title = "Day 1: To Redfield, South Dakota"
 date = 2009-05-06T20:30:00-05:00
 updated = 2021-10-19T13:38:00-07:00
 
+[taxonomies]
+state = ["Minnesota", "South Dakota"]
+
 [extra]
 distance = "423 km / 263 mi"
 route = "Eden Prairie, Minnesota, to Redfield, South Dakota"
