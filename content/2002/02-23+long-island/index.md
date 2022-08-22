@@ -3,6 +3,9 @@ title = "Long Island"
 date = 2002-02-24
 updated = 2022-05-15T18:50:41-07:00
 
+[taxonomies]
+state = ["New York"]
+
 [extra]
 route = "around Long Island, New York"
 markers = "markers.js"

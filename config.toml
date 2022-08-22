@@ -21,3 +21,16 @@ endmark = true
 es_site = "travel"
 map_clustering = false
 is_dark = true
+
+[[taxonomies]]
+name = "country"
+
+[[taxonomies]]
+name = "state"
+
+# I really wish taxonomies could have titles independent of their names!
+[extra.taxonomies.country]
+title = "Countries I’ve Visited"
+
+[extra.taxonomies.state]
+title = "US States and Territories"
