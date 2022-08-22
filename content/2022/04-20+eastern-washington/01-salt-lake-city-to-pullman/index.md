@@ -3,6 +3,9 @@ title = "Day 1: Back to Washington"
 date = 2022-04-20
 updated = 2022-05-06T19:58:14-07:00
 
+[taxonomies]
+state = ["Washington", "Idaho"]
+
 [extra]
 distance = "1217 km / 756 mi"
 route = "Salt Lake City, Utah, to Pullman, Washington"

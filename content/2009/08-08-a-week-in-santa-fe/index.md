@@ -3,6 +3,9 @@ title = "A Week in Santa Fe"
 date = 2009-08-08
 updated = 2021-10-29T21:52:23-07:00
 
+[taxonomies]
+state = ["New Mexico"]
+
 [extra]
 markers = "markers.js"
 bounds = {sw = [35.483, -106.407], ne = [35.683, -105.933]}

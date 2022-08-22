@@ -3,6 +3,9 @@ title = "Day 1: Spokane and Salt Lake City"
 date = 2022-04-15T18:58:04.973-06:00
 updated = 2022-05-02T12:43:58-07:00
 
+[taxonomies]
+state = ["Washington", "Idaho", "Utah"]
+
 [extra]
 distance = "1476 km / 917 mi"
 route = "Olympia, Washington, to Salt Lake City, Utah"

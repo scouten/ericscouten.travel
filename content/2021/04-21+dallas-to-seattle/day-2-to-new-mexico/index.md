@@ -3,6 +3,9 @@ title = "Day 2: To New Mexico"
 date = 2021-04-22
 updated = 2021-05-07
 
+[taxonomies]
+state = ["Texas", "Oklahoma", "New Mexico"]
+
 [extra]
 markers = "markers.js"
 track = "2021-04-22.kml"

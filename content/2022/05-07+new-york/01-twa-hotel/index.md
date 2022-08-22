@@ -3,6 +3,9 @@ title = "Day 1: TWA Hotel"
 date = 2022-05-07T22:32:40.667-04:00
 updated = 2022-05-08T22:32:59-04:00
 
+[taxonomies]
+state = ["Washington", "New York"]
+
 [extra]
 distance = "4120 km / 2560 mi"
 route = "Seattle, Washington, to New York, New York"

@@ -3,6 +3,9 @@ title = "A Weekend in Portland and Astoria"
 date = 2022-01-23
 updated = 2022-02-02T19:30:00-08:00
 
+[taxonomies]
+state = ["Oregon", "Washington"]
+
 [extra]
 distance = "780 km / 485 mi"
 route = "to Portland and Astoria, Oregon, and back over three days"

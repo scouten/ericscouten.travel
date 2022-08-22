@@ -3,6 +3,9 @@ title = "Day 3: To Yellowstone"
 date = 2009-05-08
 updated = 2021-10-22T20:46:45-07:00
 
+[taxonomies]
+state = ["Montana", "Wyoming"]
+
 [extra]
 distance = "356 km / 221 mi"
 route = "Red Lodge, Montana, to West Yellowstone, Montana"

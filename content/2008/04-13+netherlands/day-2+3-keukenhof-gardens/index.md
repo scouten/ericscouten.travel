@@ -3,6 +3,9 @@ title = "Days 2 and 3: Keukenhof Gardens"
 date = 2008-04-15T09:30:35+02:00
 updated = 2021-10-13T21:27:30-07:00
 
+[taxonomies]
+country = ["Netherlands"]
+
 [extra]
 first_published_on = "photoblog.ericscouten.com"
 markers = "markers.js"

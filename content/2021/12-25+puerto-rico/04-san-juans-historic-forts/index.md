@@ -3,6 +3,9 @@ title = "Day 4: San Juan’s Historic Forts"
 date = 2021-12-28
 updated = 2022-01-05T20:15:39-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "6 km / 4 mi"
 route = "San Juan, Puerto Rico"

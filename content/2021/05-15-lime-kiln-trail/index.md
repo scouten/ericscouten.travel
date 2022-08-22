@@ -3,6 +3,9 @@ title = "Lime Kiln Trail"
 date = 2021-05-15
 updated = 2021-06-27T20:33:37-07:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "11.8 km / 7.3 mi"
 route = "east of Granite Falls, Washington"
@@ -12,7 +15,7 @@ bounds = {sw = [48.077, -121.932], ne = [48.107, -121.908]}
 cover = "es-4203-029"
 +++
 
-A good friend and I hiked the Lime Kiln Trail, east of Granite Falls, in mid-May.
+I hiked the Lime Kiln Trail, east of Granite Falls, in mid-May.
 
 <!-- more -->
 

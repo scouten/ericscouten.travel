@@ -3,6 +3,9 @@ title = "Day 3: Long Island"
 date = 2022-05-09
 updated = 2022-05-16T21:02:49-07:00
 
+[taxonomies]
+state = ["New York"]
+
 [extra]
 distance = "278 km / 173 mi"
 route = "Port Jefferson to New York City, New York"

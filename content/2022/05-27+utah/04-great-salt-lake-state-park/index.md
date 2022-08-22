@@ -4,6 +4,7 @@ date = 2022-05-30T18:37:16.566-06:00
 updated = 2022-06-05T21:38:13-07:00
 
 [taxonomies]
+state = ["Utah"]
 
 [extra]
 route = "Great Salt Lake State Park, west of Magna, Utah"

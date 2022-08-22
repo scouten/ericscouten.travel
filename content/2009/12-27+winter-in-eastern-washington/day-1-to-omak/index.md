@@ -3,6 +3,9 @@ title = "Day 1: To Omak"
 date = 2009-12-27T16:12:23-08:00
 updated = 2021-11-28T23:34:03-08:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "553 km / 343 mi"
 route = "Poulsbo to Omak, Washington"

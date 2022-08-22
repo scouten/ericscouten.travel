@@ -3,6 +3,9 @@ title = "Part 1: ¡Feliz Navidad! and Chill"
 date = 2021-12-27T13:30:00-04:00
 updated = 2022-01-03T13:25:07-06:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "6242 km / 3879 mi"
 route = "Seattle, Washington, to San Juan, Puerto Rico"

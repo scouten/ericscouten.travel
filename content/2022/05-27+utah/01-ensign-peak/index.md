@@ -5,6 +5,9 @@ updated = 2022-05-29T21:57:43-07:00
 
 aliases = ["2022/05-27-ensign-peak"]
 
+[taxonomies]
+state = ["Utah"]
+
 [extra]
 route = "Ensign Peak, Salt Lake City, Utah"
 markers = "markers.js"

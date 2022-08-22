@@ -3,6 +3,9 @@ title = "Day 8: Cabo Rojo"
 date = 2022-01-01
 updated = 2022-01-10T19:35:56-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "100 km / 62 mi"
 route = "San Germán to Cabo Rojo, Puerto Rico, and back"

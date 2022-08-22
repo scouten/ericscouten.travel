@@ -3,6 +3,9 @@ title = "Day 6: Guayama and Húcares"
 date = 2021-12-30
 updated = 2022-01-08T18:41:49-08:00
 
+[taxonomies]
+state = ["Puerto Rico"]
+
 [extra]
 distance = "224 km / 139 mi"
 route = "Salinas, Puerto Rico, to Guayama and Húcares and back"

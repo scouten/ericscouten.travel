@@ -3,6 +3,9 @@ title = "Eastern Washington Road Trip"
 date = 2021-05-21
 updated = 2021-09-03T22:32:57-07:00
 
+[taxonomies]
+state = ["Washington"]
+
 [extra]
 distance = "973 km / 605 mi"
 route = "all over eastern and central Washington over two days"
