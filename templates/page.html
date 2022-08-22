@@ -1,0 +1,20 @@
+{% extends "zola-es-theme/templates/page.html" -%}
+
+{% block page_meta_extra -%}
+{% set countries = page | get(key="taxonomies", default=[]) | get(key="country", default=[]) | sort -%}
+{% set states = page | get(key="taxonomies", default=[]) | get(key="state", default=[]) | sort -%}
+{% if countries | length > 0 or states | length > 0 -%}
+<li class="countries_and_states">
+{% for country in countries -%}
+{% set es_tax = "country" -%}
+{% set es_term = country -%}
+{% include "tag.html" -%}
+{% endfor -%}
+{% for state in states -%}
+{% set es_tax = "state" -%}
+{% set es_term = state -%}
+{% include "tag.html" -%}
+{% endfor -%}
+</li>
+{% endif -%}
+{% endblock page_meta_extra -%}
