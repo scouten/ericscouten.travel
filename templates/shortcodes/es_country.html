@@ -1,7 +1,69 @@
-<div class="es-country">
-<p>Country name = {{name}}</p>
-
-{% if body -%}
-{{body}}
+{% set country_link = false -%}
+{% set country_slug = name | slugify -%}
+{% if country_term -%}
+  {% set country_link = "/country/" ~ country_slug ~ "/" -%}
 {% endif -%}
+{% if state_term -%}
+  {% set country_link = "/state/" ~ country_slug ~ "/" -%}
+{% endif -%}
+{% if not article -%}
+  {% set article = "" -%}
+{% endif -%}
+{% if not caption -%}
+  {% set caption = "" -%}
+{% endif -%}
+
+<div class="card">
+  <card-header class="card-header">
+    <card-header-title class="card-header-title">
+      <info class="card-header-meta">
+        <item class="title">
+          <seq>{{ seq }}:</seq>
+          {% if country_link -%}
+          <a href="{{ country_link | safe }}">{{ name }}</a>
+          {% else -%}
+          {{ name }}
+          {% endif -%}
+          {{ flag }}
+        </item>
+        <item class="date">{% if drive %}🚗 {% endif -%}{{ years }}</item>
+      </info>
+    </card-header-title>
+  </card-header>
+  {% if image -%}
+  <div class="card-image">
+    <figure class="image is-16by9">
+      {% if country_link -%}
+      <a href="{{ country_link | safe }}">
+      {% endif -%}
+      <img src="/log/{{ image | safe}}.jpg" alt="{{ caption }}" />
+      {% if country_link -%}
+      </a>
+      {% endif -%}
+    </figure>
+  </div>
+  {% endif -%}
+  <div class="card-content">
+    {% if body or image_title or caption or country_link -%}
+    <div class="content">
+    {% if image_title or caption -%}
+    <div class="es_image">
+      <div class="caption">
+        {% if image_title -%}
+          <span class="caption-title">{{ title }} </span>
+          {% if caption -%} &middot; {% endif -%}
+        {% endif -%}
+        {% if caption -%}{{ caption }}{% endif -%}
+      </div>
+    </div>
+    {% endif -%}
+    {% if body -%}
+    {{ body | safe }}
+    {% endif -%}
+    {% if country_link -%}
+    <div class="read-more"><a href="{{ page.permalink | safe }}">See travel stories from {{ article }} {{ name }} &rarr;</a></div>
+    {% endif -%}
+    </div>
+    {% endif -%}
+  </div>
 </div>
