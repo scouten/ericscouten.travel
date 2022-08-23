@@ -9,11 +9,11 @@ hide_from_section = true
 
 I'll admit it. I'm a travel addict.
 
+As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some previous travel stories from other sites and re-telling others, but that effort leaves some countries and territories without travel stories _here_ yet. Bear with me.
+
 I am a provisional member of the [Traveler’s Century Club](http://travelerscenturyclub.org/). I aspire to full membership, but that requires more countries and territories visited than I can currently claim. Using their [list of countries and territories](http://travelerscenturyclub.org/countries-and-territories) which is admittedly quite generous, here’s where I’ve been so far, in order of appearance:
 
 I've driven a car in each of the 55 countries and territories listed below marked with the 🚗 emoji.
-
-As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some previous travel stories from other sites and re-telling others, but that effort leaves some countries and territories without travel stories _here_ yet. Bear with me.
 
 <ul class="countries">
 
@@ -26,7 +26,8 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
     image = "es-4289-040"
     caption = "Numero Uno Beach House, San Juan, Puerto Rico, 2021") }}
 
-{{ es_country(seq = 75
+{{ es_country(
+    seq = 75
     name = "Japan"
     flag = "🇯🇵"
     years = "2019"
@@ -35,7 +36,8 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
     title = "Sunrise, Mount Fuji"
     caption = "Yamanakako, Yamanashi, Japan") }}
 
-{% es_country(seq = 74
+{% es_country(
+    seq = 74
     name = "Tunisia"
     flag = "🇹🇳"
     years = "2019"
@@ -47,200 +49,360 @@ My first visit to Africa.
 
 {% end %}
 
-{% es_country 73 Malta 🇲🇹 (2019) %}. I visited all 28 EU 🇪🇺 member nations as of this trip.
-
-{% es_image large es-3909-009 Senglea, Malta %}
-
-
-{% es_country 72 British Sovereign Base Areas, Cyprus 🇬🇧 (2019) %}
-
-{% es_image small es-3900-013 Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom %}
-
-
-{% es_country 71 Republic of Cyprus 🇨🇾 (2019) %}
-
-{% es_image large es-3901-003 The Whole Catastrophe · Prodromi, Cyprus %}
-
-
-{% es_country 70 Jersey, United Kingdom 🇬🇧 (2018) %}
-
-{% es_image small es-3814-037 Mont Orgueil Castle, Saint Martin, Jersey, United Kingdom %}
-
-
-{% es_country 69 Wales, United Kingdom 🇬🇧 (2018) %}
-
-{% es_image small es-3805-024 Some Kind of Apparition · south of Crossgates, Wales, United Kingdom %}
-
-
-{% es_country 68 Isle of Man 🇮🇲 (2018) %}
-
-{% es_image small es-3803-049 Wrapped in Something Beautiful · Ballaugh, Isle of Man, United Kingdom %}
-
-
-{% es_country 67 Taiwan 🇹🇼 (2018) %}
-
-{% es_image large es-3711-004 Xiangde Temple, Taroko National Park, Taiwan %}
-
-
-{% es_country 66 Panama 🇵🇦 (2018) nodrive %}
-
-{% es_image small es-3687-037 Panama Canal “Mule” · Panama Canal, Colón, Panama %}
-
-
-{% es_country 65 Colombia 🇨🇴 (2018) nodrive %}
-
-{% es_image small es-3685-044 Cartagena, Columbia %}
-
-
-{% es_country 64 Curaçao 🇨🇼 (2017) nodrive %}
-
-{% es_image small es-3678-006 Willemstad, Curaçao %}
-
-
-{% es_country 63 Aruba 🇦🇼 (2017) nodrive %}
-
-{% es_image small es-3673-006 The Hardest Mile · Alto Vista Chapel, Alto Vista, Aruba %}
-
-
-{% es_country 62 Croatia 🇭🇷 (2017) %}
-
-{% es_image large es-3597-018 Vanishing Lines · Most-Rasa, Croatia %}
-
-
-{% es_country 61 Romania 🇷🇴 (2017) %}
-
-{% es_image small es-3595-016 Bucharest, Romania %}
-
-
-{% es_country 60 Vatican City 🇻🇦 (2017) nodrive %}
-
-{% es_image small es-3589-021 Vatican City %}
-
-
-{% es_country 59 San Marino 🇸🇲 (2017) %}
-
-{% es_image large es-3588-015p View from the central city of San Marino %}
-
-
-{% es_country 58 Lithuania 🇱🇹 (2017) %}
-
-{% es_image small es-3581-002 Smelyne, Lithuania %}
-
-
-{% es_country 57 Latvia 🇱🇻 (2017) %}
-
-{% es_image small es-3579-007 Vecumnieki, Latvia %}
-
-
-{% es_country 56 Estonia 🇪🇪 (2017) %}
-
-{% es_image large es-3575-038 Tallinn, Estonia %}
-
-
-{% es_country 55 Finland 🇫🇮 (2017) %}
-
-{% es_image small es-3563-016 Helsinki, Finland %}
-
-
-{% es_country 54 Norway 🇳🇴 (2017) %}
-
-{% es_image small es-3559-027 Tregde, Norway %}
-
-
-{% es_country 53 Northern Ireland, United Kingdom 🇬🇧 (2017, 2018) %}
-
-{% es_image large es-3795-011 Unperfected · south of Magheraveely, Northern Ireland, 2018 %}
-
-
-{% es_country 52 Ireland 🇮🇪 (2017, 2018) %}
-
-{% es_image small es-3528-007 Last Ray of Hope · Inch Beach, County Kerry, Ireland, 2017 %}
-
-
-{% es_country 51 Scotland, United Kingdom 🇬🇧 (2017) %}
-
-{% es_image large es-3504-007 Someone Said Forever · Arnprior, Scotland, United Kingdom %}
-
-
-{% es_country 50 Jamaica 🇯🇲 (2017) %}
-
-{% es_image small es-3438-016 Runaway Bay, Jamaica %}
-
-
-{% es_country 49 Martinique, France 🇲🇶 (2016) nodrive %}
-
-{% es_image large es-3372-037 Into the Storm · Caribbean Ocean, south of Martinique, France %}
-
-
-{% es_country 48 Saint Lucia 🇱🇨 (2016) %}
-
-{% es_image small es-3359-003 Micoud Highway, La Ressource, Saint Lucia %}
-
-
-{% es_country 47 Bahamas 🇧🇸 (2016, 2017) %}
-
-{% es_image small es-3293-007 Light at the End of the Tunnel · Freeport, Bahamas, 2016 %}
-
-
-{% es_country 46 India 🇮🇳 (2016) nodrive %}
-
-{% es_image small es-3141-052 Vypin, Kerala, India %}
-
-
-{% es_country 45 Sri Lanka 🇱🇰 (2016) nodrive %}
-
-{% es_image large es-3129-144 Yala National Park, Sri Lanka %}
-
-
-{% es_country 44 Dubai 🇦🇪 (2016, 2019) nodrive %}
-
-{% es_image small es-3104-003 Starbucks Coffee · Dubai Airport, Dubai, United Arab Emirates, 2016 %}
-
-
-{% es_country 43 Portugal 🇵🇹 (2015) %}
-
-{% es_image large es-2974-077 Roasting Chestnuts · Golegã, Portugal %}
-
-
-{% es_country 42 Spain 🇪🇸 (2015) %}
-
-{% es_image small es-2947-008 La Farga de Moles, Catalunya, Spain %}
-
-
-{% es_country 41 Andorra 🇦🇩 (2015) %}
-
-{% es_image large es-2948-007 El Pas de la Casa, Andorra %}
-
-
-{% es_country 40 Monaco 🇲🇨 (2015) %}
-
-{% es_image small es-2945-009 Monaco-Ville, Monaco %}
-
-
-{% es_country 39 Liechtenstein 🇱🇮 (2014) %}
-
-{% es_image small es-2691-012 Schaan, Liechtenstein %}
-
-
-{% es_country 38 Luxembourg 🇱🇺 (2014) %}
-
-{% es_image small es-2689-003 Beidweiler, Luxembourg %}
-
-
-{% es_country 37 England, United Kingdom 🇬🇧 (2013, 2015, 2017, 2018) %}
-
-{% es_image large es-2485-003a Palace of Westminster · London, England, 2013 %}
-
-
-{% es_country 36 Switzerland 🇨🇭 (2013, 2014, 2017) %}
-
-{% es_image large es-2477-004 Lugano, Switzerland, 2013 %}
-
-
-{% es_country 35 Italy 🇮🇹 (2013, 2015, 2017) %}
-
-{% es_image large es-2472-077a Gondolier I · Venice, Italy, 2013 %}
-
+{{ es_country(
+    seq = 73
+    name = "Malta"
+    flag = "🇲🇹"
+    years = "2019"
+    image = "es-3909-009"
+    caption = "Senglea, Malta"
+    drive = true) }}
+
+{{ es_country(
+    seq = 72
+    name = "British Sovereign Base Areas, Cyprus"
+    flag = "🇬🇧"
+    years = "2019"
+    image = "es-3900-013"
+    caption = "Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom"
+    drive = true) }}
+
+{{ es_country(
+    seq = 71
+    name = "Republic of Cyprus"
+    flag = "🇨🇾"
+    years = "2019"
+    image = "es-3902-023"
+    caption = "Pyla, Cyprus"
+    drive = true) }}
+
+{{ es_country(
+    seq = 70
+    name = "Jersey, United Kingdom"
+    flag = "🇬🇧"
+    years = "2018"
+    image = "es-3814-037"
+    caption = "Mont Orgueil Castle, Saint Martin, Jersey, United Kingdom"
+    drive = true) }}
+
+{{ es_country(
+    seq = 69
+    name = "Wales, United Kingdom"
+    flag = "🇬🇧"
+    years = "2018"
+    image = "es-3805-004"
+    caption = "north of Welshpool, Wales, United Kingdom"
+    drive = true) }}
+
+{{ es_country(
+    seq = 68
+    name = "Isle of Man"
+    flag = "🇮🇲"
+    years = "2018"
+    image = "es-3802-063"
+    caption = "south of Ramsey, Isle of Man, United Kingdom"
+    drive = true) }}
+
+{{ es_country(
+    seq = 67
+    name = "Taiwan"
+    flag = "🇹🇼"
+    years = "2018"
+    image = "es-3709-009"
+    caption = "Xiangde Temple, Taroko National Park, Taiwan"
+    drive = true) }}
+
+{{ es_country(
+    seq = 66
+    name = "Panama"
+    flag = "🇵🇦"
+    years = "2018"
+    image = "es-3687-028"
+    caption = "Panama Canal, Colón, Panama"
+    drive = false) }}
+
+{{ es_country(
+    seq = 65
+    name = "Colombia"
+    flag = "🇨🇴"
+    years = "2018"
+    image = "es-3685-044"
+    caption = "Cartagena, Columbia"
+    drive = false) }}
+
+{{ es_country(
+    seq = 64
+    name = "Curaçao"
+    flag = "🇨🇼"
+    years = "2017"
+    image = "es-3677-022"
+    caption = "Willemstad, Curaçao"
+    drive = false) }}
+
+{{ es_country(
+    seq = 63
+    name = "Aruba"
+    flag = "🇦🇼"
+    years = "2017"
+    image = "es-3674-016"
+    caption = "Tamarijn, Aruba"
+    drive = false) }}
+
+{{ es_country(
+    seq = 62
+    name = "Croatia"
+    flag = "🇭🇷"
+    years = "2017"
+    image = "es-3601-001"
+    caption = "Buje, Croatia"
+    drive = true) }}
+
+{{ es_country(
+    seq = 61
+    name = "Romania"
+    flag = "🇷🇴"
+    years = "2017"
+    image = "es-3593-018"
+    caption = "Râmnicu Vâlcea, Romania"
+    drive = true) }}
+
+{{ es_country(
+    seq = 60
+    name = "Vatican City"
+    flag = "🇻🇦"
+    years = "2017"
+    image = "es-3589-021"
+    drive = false) }}
+
+{{ es_country(
+    seq = 59
+    name = "San Marino"
+    flag = "🇸🇲"
+    years = "2017"
+    image = "es-3588-013"
+    caption = "Borgo Maggiore, San Marino"
+    drive = true) }}
+
+{{ es_country(
+    seq = 58
+    name = "Lithuania"
+    flag = "🇱🇹"
+    years = "2017"
+    image = "es-3579-022"
+    caption = "Vilnius, Lithuania"
+    drive = true) }}
+
+{{ es_country(
+    seq = 57
+    name = "Latvia"
+    flag = "🇱🇻"
+    years = "2017"
+    image = "es-3579-007"
+    caption = "Vecumnieki, Latvia"
+    drive = true) }}
+
+{{ es_country(
+    seq = 56
+    name = "Estonia"
+    flag = "🇪🇪"
+    years = "2017"
+    image = "es-3575-038"
+    caption = "Tallinn, Estonia"
+    drive = true) }}
+
+{{ es_country(
+    seq = 55
+    name = "Finland"
+    flag = "🇫🇮"
+    years = "2017"
+    image = "es-3563-016"
+    caption = "Helsinki, Finland"
+    drive = true) }}
+
+{{ es_country(
+    seq = 54
+    name = "Norway"
+    flag = "🇳🇴"
+    years = "2017"
+    image = "es-3559-027"
+    caption = "Tregde, Norway"
+    drive = true) }}
+
+{{ es_country(
+    seq = 53
+    name = "Northern Ireland, United Kingdom"
+    flag = "🇬🇧"
+    years = "2017, 2018"
+    image = "es-3795-011"
+    title = "Unperfected"
+    caption = "south of Magheraveely, Northern Ireland, 2018"
+    drive = true) }}
+
+{{ es_country(
+    seq = 52
+    name = "Ireland"
+    flag = "🇮🇪"
+    years = "2017, 2018"
+    image = "es-3528-007"
+    title = "Last Ray of Hope"
+    caption = "Inch Beach, County Kerry, Ireland, 2017"
+    drive = true) }}
+
+{{ es_country(
+    seq = 51
+    name = "Scotland, United Kingdom"
+    flag = "🇬🇧"
+    years = "2017"
+    image = "es-3501-005"
+    title = "The Gatekeeper’s Cottage"
+    caption = "Kinross, Scotland"
+    drive = true) }}
+
+{{ es_country(
+    seq = 50
+    name = "Jamaica"
+    flag = "🇯🇲"
+    years = "2017"
+    image = "es-3438-016"
+    caption = "Runaway Bay, Jamaica"
+    drive = true) }}
+
+{{ es_country(
+    seq = 49
+    name = "Martinique, France"
+    flag = "🇲🇶"
+    years = "2016"
+    image = "es-3372-037"
+    title = "Into the Storm"
+    caption = "Caribbean Ocean, south of Martinique, France"
+    drive = false) }}
+
+{{ es_country(
+    seq = 48
+    name = "Saint Lucia"
+    flag = "🇱🇨"
+    years = "2016"
+    image = "es-3359-003"
+    caption = "Micoud Highway, La Ressource, Saint Lucia"
+    drive = true) }}
+
+{{ es_country(
+    seq = 47
+    name = "Bahamas"
+    flag = "🇧🇸"
+    years = "2016, 2017"
+    image = "es-3666-001"
+    caption = "Half Moon Cay, Little San Salvador Island, Bahamas, 2017"
+    drive = true) }}
+
+{{ es_country(
+    seq = 46
+    name = "India"
+    flag = "🇮🇳"
+    years = "2016"
+    image = "es-3141-052"
+    caption = "Vypin, Kerala, India"
+    drive = false) }}
+
+{{ es_country(
+    seq = 45
+    name = "Sri Lanka"
+    flag = "🇱🇰"
+    years = "2016"
+    image = "es-3128-071"
+    caption = "Yala National Park, Sri Lanka"
+    drive = false) }}
+
+{{ es_country(
+    seq = 44
+    name = "Dubai"
+    flag = "🇦🇪"
+    years = "2016, 2019"
+    image = "es-3104-003"
+    title = "Starbucks Coffee"
+    caption = "Dubai Airport, Dubai, United Arab Emirates, 2016"
+    drive = false) }}
+
+{{ es_country(
+    seq = 43
+    name = "Portugal"
+    flag = "🇵🇹"
+    years = "2015"
+    image = "es-2960-019"
+    title = "Dance of the Masks"
+    caption = "Ourém, Portugal"
+    drive = true) }}
+
+{{ es_country(
+    seq = 42
+    name = "Spain"
+    flag = "🇪🇸"
+    years = "2015"
+    drive = true) }}
+
+{{ es_country(
+    seq = 41
+    name = "Andorra"
+    flag = "🇦🇩"
+    years = "2015"
+    image = "es-2948-007"
+    caption = "El Pas de la Casa, Andorra"
+    drive = true) }}
+
+{{ es_country(
+    seq = 40
+    name = "Monaco"
+    flag = "🇲🇨"
+    years = "2015"
+    image = "es-2945-009"
+    caption = "Monaco-Ville, Monaco"
+    drive = true) }}
+
+{{ es_country(
+    seq = 39
+    name = "Liechtenstein"
+    flag = "🇱🇮"
+    years = "2014"
+    image = "es-2693-005"
+    caption = "Vaduz, Liechtenstein"
+    drive = true) }}
+
+{{ es_country(
+    seq = 38
+    name = "Luxembourg"
+    flag = "🇱🇺"
+    years = "2014"
+    image = "es-2689-003"
+    caption = "Beidweiler, Luxembourg"
+    drive = true) }}
+
+{{ es_country(
+    seq = 37
+    name = "England, United Kingdom"
+    flag = "🇬🇧"
+    years = "2013, 2015, 2017, 2018"
+    image = "es-2485-003a"
+    title = "Palace of Westminster"
+    caption = "London, England, 2013"
+    drive = true) }}
+
+{{ es_country(
+    seq = 36
+    name = "Switzerland"
+    flag = "🇨🇭"
+    years = "2013, 2014, 2017"
+    image = "es-2477-004"
+    caption = "Lugano, Switzerland, 2013"
+    drive = true) }}
+
+{{ es_country(
+    seq = 35
+    name = "Italy"
+    flag = "🇮🇹"
+    years = "2013, 2015, 2017"
+    image = "es-2472-028"
+    caption = "Venice, Italy, 2013"
+    drive = true) }}
 
 {% es_country 34 Slovenia 🇸🇮 (2013, 2017) %}
 

@@ -44,12 +44,12 @@
   </div>
   {% endif -%}
   <div class="card-content">
-    {% if body or image_title or caption or country_link -%}
+    {% if body or title or caption or country_link -%}
     <div class="content">
-    {% if image_title or caption -%}
+    {% if title or caption -%}
     <div class="es_image">
       <div class="caption">
-        {% if image_title -%}
+        {% if title -%}
           <span class="caption-title">{{ title }} </span>
           {% if caption -%} &middot; {% endif -%}
         {% endif -%}
