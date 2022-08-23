@@ -523,49 +523,90 @@ My first visit to Africa.
     caption = "Puerto Plata, Dominican Republic"
     drive = false) }}
 
+{{ es_country(
+    seq = 21
+    name = "Fiji"
+    flag = "🇫🇯"
+    years = "2007"
+    image = "es-1258-019"
+    title = "Warm Thoughts"
+    caption = "Malolo Lailai Island, Fiji"
+    drive = false) }}
 
-{% es_country 21 Fiji 🇫🇯 (2007) nodrive %}
+{{ es_country(
+    seq = 20
+    name = "New Zealand"
+    flag = "🇳🇿"
+    years = "2007"
+    image = "es-1234-010"
+    title = "Lake Rotorua Sunset"
+    caption = "Rotorua, New Zealand"
+    drive = true) }}
 
-{% es_image small es-1258-019 Warm Thoughts · Malolo Lailai Island, Fiji %}
+{{ es_country(
+    seq = 19
+    name = "Costa Rica"
+    flag = "🇨🇷"
+    years = "2007, 2018"
+    image = "es-1115-034"
+    title = "Baby Caiman"
+    caption = "La Fortuna, Costa Rica, 2007"
+    drive = false) }}
 
+{{ es_country(
+    seq = 18
+    name = "Greece"
+    flag = "🇬🇷"
+    years = "2005"
+    image = "es-0955-003"
+    title = "Mykonos Village"
+    caption = "Mykonos, Greece"
+    drive = true) }}
 
-{% es_country 20 New Zealand 🇳🇿 (2007) %}
+{{ es_country(
+    seq = 17
+    name = "Dodecanese Islands, Greece"
+    flag = "🇬🇷"
+    years = "2005"
+    image = "es-0945-001p"
+    caption = "Patmos, Greece"
+    drive = true) }}
 
-{% es_image large es-1246-091 Walk Between the Raindrops · Milford Sound, New Zealand %}
+{{ es_country(
+    seq = 16
+    name = "Turkey in Asia"
+    flag = "🇹🇷"
+    years = "2005"
+    image = "es-0936-025p"
+    caption = "Bodrum, Turkey"
+    drive = false) }}
 
+{{ es_country(
+    seq = 15
+    name = "Turkey in Europe"
+    flag = "🇹🇷"
+    years = "2005"
+    image = "es-0920-017"
+    title = "Istanbul Skyline at Night"
+    caption = "Bosporus, Istanbul, Turkey"
+    drive = false) }}
 
-{% es_country 19 Costa Rica 🇨🇷 (2007, 2018) nodrive %}
+{{ es_country(
+    seq = 14
+    name = "Iceland"
+    flag = "🇮🇸"
+    years = "2003"
+    image = "es-0692-019c"
+    title = "Church on Gloomy Afternoon"
+    caption = "Akranes, Iceland"
+    drive = true) }}
 
-{% es_image small es-1115-034 Baby Caiman · La Fortuna, Costa Rica, 2007 %}
-
-
-{% es_country 18 Greece 🇬🇷 (2005) %}
-
-{% es_image small es-0955-003 Mykonos Village · Mykonos, Greece %}
-
-
-{% es_country 17 Dodecanese Islands, Greece 🇬🇷 (2005) nodrive %}
-
-{% es_image large es-0945-001p Patmos, Greece %}
-
-
-{% es_country 16 Turkey in Asia 🇹🇷 (2005) nodrive %}
-
-{% es_image large es-0936-025p Bodrum, Turkey %}
-
-
-{% es_country 15 Turkey in Europe 🇹🇷 (2005) nodrive %}
-
-{% es_image small es-0920-017 Istanbul Skyline at Night · Bosporus, Istanbul, Turkey %}
-
-
-{% es_country 14 Iceland 🇮🇸 (2003) %}
-
-{% es_image large es-0700-020 Blonde Bombshell · Hvammstangi, Iceland %}
-
-
-{% es_country 13 Belgium 🇧🇪 (2001) %}
-
+{{ es_country(
+    seq = 13
+    name = "Belgium"
+    flag = "🇧🇪"
+    years = "2001"
+    drive = true) }}
 
 {% es_country 12 France 🇫🇷 (2001, 2013, 2015, 2017) %}
 
