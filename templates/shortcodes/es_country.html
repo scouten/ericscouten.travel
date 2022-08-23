@@ -58,7 +58,9 @@
     </div>
     {% endif -%}
     {% if body -%}
+    <div class="body">
     {{ body | safe }}
+    </div>
     {% endif -%}
     {% if country_link -%}
     <div class="read-more"><a href="{{ page.permalink | safe }}">See travel stories from {{ article }} {{ name }} &rarr;</a></div>

@@ -20,7 +20,7 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
 {{ es_country(seq = 76
     name = "Puerto Rico"
     flag = "🇺🇸"
-    years = "2021, 2022"
+    years = "2021 – 2022"
     drive = true
     state_term = true
     image = "es-4289-040"
@@ -30,21 +30,22 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
     name = "Japan"
     flag = "🇯🇵"
     years = "2019"
-    drive = true) }}
-
-<!-- {% es_image large es-3932-202 Sunrise, Mount Fuji · Yamanakako, Yamanashi, Japan %} -->
+    drive = true
+    image = "es-3932-202"
+    title = "Sunrise, Mount Fuji"
+    caption = "Yamanakako, Yamanashi, Japan") }}
 
 {% es_country(seq = 74
     name = "Tunisia"
     flag = "🇹🇳"
     years = "2019"
+    image = "es-3916-015"
+    caption = "La Marsa, Tunisia"
     drive = false) %}
 
 My first visit to Africa.
 
 {% end %}
-
-<!-- {% es_image small es-3916-015 La Marsa, Tunisia %} -->
 
 {% es_country 73 Malta 🇲🇹 (2019) %}. I visited all 28 EU 🇪🇺 member nations as of this trip.
 
