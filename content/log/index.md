@@ -404,65 +404,124 @@ My first visit to Africa.
     caption = "Venice, Italy, 2013"
     drive = true) }}
 
-{% es_country 34 Slovenia 🇸🇮 (2013, 2017) %}
+{{ es_country(
+    seq = 34
+    name = "Slovenia"
+    flag = "🇸🇮"
+    years = "2013, 2017"
+    image = "es-2465-010"
+    caption = "Dovje, Slovenia, 2013"
+    drive = true) }}
 
-{% es_image small es-2465-010 Dovje, Slovenia, 2013 %}
+{{ es_country(
+    seq = 33
+    name = "Austria"
+    flag = "🇦🇹"
+    years = "2013, 2014, 2017"
+    image = "es-3610-030"
+    caption = "Radau, Austria, 2017"
+    drive = true) }}
 
+{{ es_country(
+    seq = 32
+    name = "Hungary"
+    flag = "🇭🇺"
+    years = "2013"
+    drive = true) }}
 
-{% es_country 33 Austria 🇦🇹 (2013, 2014, 2017) %}
+{{ es_country(
+    seq = 31
+    name = "Slovak Republic"
+    flag = "🇸🇰"
+    years = "2013"
+    drive = true) }}
 
-{% es_image small es-3610-030 Radau, Austria, 2017 %}
+{{ es_country(
+    seq = 30
+    name = "Czech Republic"
+    flag = "🇨🇿"
+    years = "2013"
+    image = "es-2458-160"
+    caption = "Prague, Czech Republic"
+    drive = true) }}
 
+{{ es_country(
+    seq = 29
+    name = "Poland"
+    flag = "🇵🇱"
+    years = "2013"
+    image = "es-2383-002"
+    title = "What Lies Beneath"
+    caption = "Pamięcin, Poland"
+    drive = true) }}
 
-{% es_country 32 Hungary 🇭🇺 (2013) %}
+{{ es_country(
+    seq = 28
+    name = "Sweden"
+    flag = "🇸🇪"
+    years = "2013"
+    image = "es-2427-087"
+    caption = "Stockholm, Sweden"
+    drive = true) }}
 
+{{ es_country(
+    seq = 27
+    name = "Ecuador"
+    flag = "🇪🇨"
+    years = "2012"
+    image = "es-2302-012"
+    title = "Christmas Parade"
+    caption = "Cuenca, Ecuador"
+    drive = false) }}
 
-{% es_country 31 Slovak Republic 🇸🇰 (2013) %}
+{{ es_country(
+    seq = 26
+    name = "Chile"
+    flag = "🇨🇱"
+    years = "2012"
+    image = "es-2294-067"
+    title = "Swirling About"
+    caption = "Lago Todos los Santos, near Puerto Varas, Chile"
+    drive = false) }}
 
+{{ es_country(
+    seq = 25
+    name = "Argentina"
+    flag = "🇦🇷"
+    years = "2012"
+    image = "es-2281-008"
+    title = "Broken Promises"
+    caption = "La Boca, Buenos Aires, Argentina"
+    drive = false) }}
 
-{% es_country 30 Czech Republic 🇨🇿 (2013) %}
+{{ es_country(
+    seq = 24
+    name = "Uruguay"
+    flag = "🇺🇾"
+    years = "2012"
+    image = "es-2276-051"
+    title = "Let’s Drive Like We’re Young Again"
+    caption = "Colonia del Sacramento, Uruguay"
+    drive = true) }}
 
-{% es_image small es-2458-160 Prague, Czech Republic %}
+{{ es_country(
+    seq = 23
+    name = "Brazil"
+    flag = "🇧🇷"
+    years = "2012"
+    image = "es-2259-101"
+    title = "Iguaçu Falls"
+    caption = "Foz do Iguaçu National Park, Paraná, Brazil"
+    drive = false) }}
 
-
-{% es_country 29 Poland 🇵🇱 (2013) %}
-
-{% es_image large es-2383-002 What Lies Beneath · Pamiecin, Poland %}
-
-
-{% es_country 28 Sweden 🇸🇪 (2013) %}
-
-{% es_image small es-2427-096 Stockholm, Sweden %}
-
-
-{% es_country 27 Ecuador 🇪🇨 (2012) nodrive %}
-
-{% es_image small es-2305-057a Selling Scarves · Quito, Ecuador %}
-
-
-{% es_country 26 Chile 🇨🇱 (2012) nodrive %}
-
-{% es_image small es-2294-067 Swirling About · Lago Todos los Santos, near Puerto Varas, Chile %}
-
-
-{% es_country 25 Argentina 🇦🇷 (2012) nodrive %}
-
-{% es_image small es-2281-008 Broken Promises · La Boca, Buenos Aires, Argentina %}
-
-
-{% es_country 24 Uruguay 🇺🇾 (2012) %}
-
-{% es_image small es-2276-051 Let’s Drive Like We’re Young Again · Colonia del Sacramento, Uruguay %}
-
-
-{% es_country 23 Brazil 🇧🇷 (2012) nodrive %}
-
-{% es_image large es-2239-012 The Fire of Sadness · Salvador, Bahía, Brazil %}
-
-
-{% es_country 22 Dominican Republic 🇩🇴 (2012) nodrive %}
-
-{% es_image small es-2115-035 Premonition · Fortaleza San Felipe, Puerto Plata, Dominican Republic %}
+{{ es_country(
+    seq = 22
+    name = "Dominican Republic"
+    flag = "🇩🇴"
+    years = "2012"
+    image = "es-2115-005"
+    caption = "Puerto Plata, Dominican Republic"
+    drive = false) }}
 
 
 {% es_country 21 Fiji 🇫🇯 (2007) nodrive %}
