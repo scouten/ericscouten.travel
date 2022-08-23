@@ -12,6 +12,8 @@ I'll admit it. I'm a travel addict.
 I am a provisional member of the [Traveler’s Century Club](http://travelerscenturyclub.org/). I aspire to full membership, but that requires more countries and territories visited. Using their [list of countries and territories](http://travelerscenturyclub.org/countries-and-territories) which is admittedly quite generous, here’s where I’ve been so far, in order of appearance.
 
 I’ve driven a car in each of the 55 countries and territories listed below marked with an orange dot.
+As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some previous travel stories from other sites and re-telling others, but that effort leaves some countries and territories without travel stories _here_ yet. Bear with me.
+
 
 {{ es_country(seq = 75
     name = "Japan"
