@@ -608,14 +608,23 @@ My first visit to Africa.
     years = "2001"
     drive = true) }}
 
-{% es_country 12 France 🇫🇷 (2001, 2013, 2015, 2017) %}
+{{ es_country(
+    seq = 12
+    name = "France"
+    flag = "🇫🇷"
+    years = "2001, 2013, 2015, 2017"
+    image = "es-0467-003"
+    caption = "Paris, France, 2001"
+    drive = true) }}
 
-{% es_image small es-0467-003 Paris, France, 2001 %}
-
-
-{% es_country 11 Prince Edward Island, Canada 🇨🇦 (2000) %}
-
-{% es_image small es-0429-035 Covehead Harbour Lighthouse, Covehead Harbour, Prince Edward Island, Canada %}
+{{ es_country(
+    seq = 11
+    name = "Prince Edward Island, Canada"
+    flag = "🇨🇦"
+    years = "2000"
+    image = "es-0429-035"
+    caption = "Covehead Harbour Lighthouse, Covehead Harbour, Prince Edward Island, Canada"
+    drive = true) }}
 
 {{ es_country(
     seq = 10
@@ -623,53 +632,110 @@ My first visit to Africa.
     name = "Netherlands"
     flag = "🇳🇱"
     years = "1999, 2000, 2008, 2013, 2014, 2017"
+    image = "es-1288-071"
+    title = "Flower Path"
+    caption = "Keukenhof Gardens, Lisse, The Netherlands, 2008"
     drive = true
     country_term = true) }}
 
-<!-- {% es_image small es-1288-071 Flower Path · Keukenhof Gardens, Lisse, Netherlands, 2008 %} -->
+{{ es_country(
+    seq = 9
+    name = "Denmark"
+    flag = "🇩🇰"
+    years = "1999, 2013"
+    image = "es-2372-017"
+    caption = "Copenhagen, Denmark, 2013"
+    drive = true) }}
 
-{% es_country 9 Denmark 🇩🇰 (1999, 2013) %}
+{% es_country(
+    seq = 8
+    name = "Germany"
+    flag = "🇩🇪"
+    years = "1999, 2000, 2013, 2014, 2017, 2018"
+    image = "es-2676-012"
+    title = "Periscope Up"
+    caption = "Hamburg, Germany, 2014"
+    drive = true) %}
 
-{% es_image small es-2430-004 Odense, Denmark, 2013 %}
+I lived in Hamburg during the summer of 2013.
 
+{% end %}
 
-{% es_country 8 Germany 🇩🇪 (1999, 2000, 2013, 2014, 2017, 2018) %}. I lived in Hamburg during the summer of 2013.
+{{ es_country(
+    seq = 7
+    name = "Alaska"
+    flag = "🇺🇸"
+    years = "1998, 2006"
+    image = "es-1045-004"
+    title = "Steller Sea Lions"
+    caption = "Chiswell Islands, near Seward, Alaska, 2006"
+    drive = true) }}
 
-{% es_image large es-2676-012 Periscope Up · Hamburg, Germany, 2014 %}
+{{ es_country(
+    seq = 6
+    name = "Nicaragua"
+    flag = "🇳🇮"
+    years = "1998"
+    image = "es-0316-001"
+    title = "Doña Angela Cooking"
+    caption = "Talolinga, Nicaragua"
+    drive = false) }}
 
+{{ es_country(
+    seq = 5
+    name = "Australia"
+    flag = "🇦🇺"
+    years = "1996"
+    image = "es-0186-003"
+    title = "Pinnacles"
+    caption = "Nambung National Park, Western Australia"
+    drive = true) }}
 
-{% es_country 7 Alaska 🇺🇸 (1998, 2006) %}
+{{ es_country(
+    seq = 4
+    name = "Hawaii"
+    flag = "🇺🇸"
+    years = "1996, 2003, 2009, 2014"
+    image = "es-0649-038"
+    title = "Akaka Falls"
+    caption = "Akaka Falls State Park, Hilo, Hawaii, 2003"
+    drive = true) }}
 
-{% es_image large es-1045-004a Steller Sea Lions · Chiswell Islands, near Seward, Alaska, 2006 %}
+{{ es_country(
+    seq = 3
+    name = "Mexico"
+    flag = "🇲🇽"
+    years = "1986, 1997, 1998, 1999, 2015"
+    image = "es-2797-192"
+    title = "Tall Tales"
+    caption = "Pacific Ocean, near Cabo San Lucas, Mexico, 2015"
+    drive = true) }}
 
+{% es_country(
+    seq = 2
+    name = "Canada"
+    flag = "🇨🇦"
+    years = "numerous visits 1970s – present"
+    image = "es-0351-001"
+    caption = "Tagish Lake, Carcross, Yukon, Canada, 1998"
+    drive = true) %}
 
-{% es_country 6 Nicaragua 🇳🇮 (1998) nodrive %}
+I visited all 10 provinces as of 2000.
 
-{% es_image small es-0316-001 Doña Angela Cooking · Talolinga, Nicaragua %}
+{% end %}
 
+{% es_country(
+    seq = 1
+    name = "United States mainland"
+    flag = "🇺🇸"
+    years = "by birth and residence"
+    image = "es-1936-072a"
+    title = "Snow Cap Root Beer Stand"
+    caption = "Seligman, Arizona, 2011"
+    drive = true) %}
 
-{% es_country 5 Australia 🇦🇺 (1996) %}
+I visited all 48 mainland states as of 1994.
 
-{% es_image small es-0186-003 Pinnacles · Nambung National Park, Western Australia %}
-
-
-{% es_country 4 Hawaii 🇺🇸 (1996, 2003, 2009, 2014) %}
-
-{% es_image small es-0635-018 Giant Sea Turtle · Kailua-Kona, Hawaii, 2003 %}
-
-
-{% es_country 3 Mexico 🇲🇽 (1986, 1997, 1998, 1999, 2015) %}
-
-{% es_image small es-2797-192 Tall Tales · Pacific Ocean, near Cabo San Lucas, Mexico, 2015 %}
-
-
-{% es_country 2 Canada 🇨🇦 (numerous visits 1970s – present) %}. I visited all 10 provinces as of 2000.
-
-{% es_image small es-0350-030 Tagish Lake, Carcross, Yukon, Canada, 1998 %}
-
-
-{% es_country 1 United States mainland 🇺🇸 (by birth and residence) %}. I visited all 48 mainland states as of 1994.
-
-{% es_image large es-1936-072a Snow Cap Root Beer Stand · Seligman, Arizona, 2011 %}
+{% end %}
 
 </ul>
