@@ -1,6 +1,7 @@
 +++
-title = "Travel Log"
+title = "Countries I’ve Visited"
 date = 2022-08-22
+aliases = ["log"]
 
 [extra]
 hide_date = true
