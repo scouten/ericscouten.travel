@@ -699,7 +699,8 @@ I lived in Hamburg during the summer of 2013.
     image = "es-0649-038"
     title = "Akaka Falls"
     caption = "Akaka Falls State Park, Hilo, Hawaii, 2003"
-    drive = true) }}
+    drive = true
+    state_term = true) }}
 
 {{ es_country(
     seq = 3
@@ -732,7 +733,8 @@ I visited all 10 provinces as of 2000.
     image = "es-1936-072a"
     title = "Snow Cap Root Beer Stand"
     caption = "Seligman, Arizona, 2011"
-    drive = true) %}
+    drive = true
+    link = "/state") %}
 
 I visited all 48 mainland states as of 1994.
 

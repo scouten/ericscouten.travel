@@ -6,6 +6,9 @@
 {% if state_term -%}
   {% set country_link = "/state/" ~ country_slug ~ "/" -%}
 {% endif -%}
+{% if link -%}
+  {% set country_link = link -%}
+{% endif -%}
 {% if not article -%}
   {% set article = "" -%}
 {% endif -%}
@@ -63,7 +66,7 @@
     </div>
     {% endif -%}
     {% if country_link -%}
-    <div class="read-more"><a href="{{ page.permalink | safe }}">See travel stories from {{ article }} {{ name }} &rarr;</a></div>
+    <div class="read-more"><a href="{{ country_link | safe }}">See travel stories from {{ article }} {{ name }} &rarr;</a></div>
     {% endif -%}
     </div>
     {% endif -%}
