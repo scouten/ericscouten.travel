@@ -6,9 +6,11 @@ template = "section.html"
 
 **Hi, I'm Eric.**
 
-This my home for my travel photography.
+I'm an avid world traveler, photographer, and digital storyteller.
 
-As of this writing ({{ es_now(format="%B %Y") }}), I'm posting all my new travel articles here and slowly moving move some previous articles from other sites.
+I share new stories of my travels here and am gradually retelling old travel stories, either by moving them from other sites or crafting new articles about them.
+
+I've been to [over 70 countries and territories around the world](/countries/) and am looking forward to seeing many more.
 
 I am also [a software developer](https://ericscouten.dev) and [an explorer of my home state](https://146parks.blog).
 
