@@ -571,7 +571,7 @@ My first visit to Africa.
     years = "2005"
     image = "es-0945-001p"
     caption = "Patmos, Greece"
-    drive = true) }}
+    drive = false) }}
 
 {{ es_country(
     seq = 16
