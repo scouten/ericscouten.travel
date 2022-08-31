@@ -513,6 +513,7 @@ My first visit to Africa.
     image = "es-2259-101"
     title = "Iguaçu Falls"
     caption = "Foz do Iguaçu National Park, Paraná, Brazil"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
