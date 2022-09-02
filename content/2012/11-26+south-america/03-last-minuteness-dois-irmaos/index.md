@@ -10,7 +10,7 @@ country = ["Brazil"]
 distance = "35 km / 22 mi"
 route = "around Rio de Janeiro, Brazil"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [-22.990, -43.228], ne = [-22.913, -43.170]}
 cover = "es-2229-012"
 +++
