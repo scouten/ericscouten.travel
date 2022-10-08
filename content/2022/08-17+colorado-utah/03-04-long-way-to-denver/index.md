@@ -10,11 +10,10 @@ state = ["Wyoming", "Colorado"]
 distance = "824 km / 512 mi"
 route = "Salt Lake City, Utah, to Denver, Colorado over two days"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [39.733, -111.842], ne = [41.793, -104.979]}
 cover = "es-4403-005"
 comments = true
-discourse_hack = true
 +++
 
 So, it turns out it's a long way from Salt Lake City to Denver. We drove this over two days with a brief stop in Wyoming. Mostly it gave us a chance to catch up and talk and do some shopping. There were lots of wide-open spaces and we didn't take much time to stop for photos.
