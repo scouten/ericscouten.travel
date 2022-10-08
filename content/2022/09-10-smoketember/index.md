@@ -12,6 +12,8 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [47.648, -122.702], ne = [48.583, -122.173]}
 cover = "es-4408-020"
+comments = true
+discourse_hack = true
 +++
 
 The plan was to spend the night in Seattle, have fun watching a friend's band play, and then set out for a weekend of [visiting more parks](https://146parks.blog) in the San Juans, ideally to use my kayak to visit a couple of the marine state parks.
