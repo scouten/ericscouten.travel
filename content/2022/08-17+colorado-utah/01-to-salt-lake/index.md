@@ -1,6 +1,6 @@
 +++
 title = "Day 1: To Salt Lake"
-date = 2022-08-17T19:56:10-07:00
+date = 2022-08-17T19:56:10-06:00
 updated = 2022-10-07T22:28:07-07:00
 
 [taxonomies]
