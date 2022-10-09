@@ -14,7 +14,6 @@ track = "track.kml"
 bounds = {sw = [39.405, -105.731], ne = [39.767, -105.062]}
 cover = "es-4403-045"
 comments = true
-discourse_hack = true
 +++
 
 This was mostly a lay-low day, but we took a brief road trip through the mountains west of Denver. Local guides suggested that Guanella Pass, an hour or so west of the city, would be an especially scenic route. It was.
