@@ -10,11 +10,10 @@ state = ["Colorado", "Utah"]
 distance = "520 km / 323 mi"
 route = "Denver, Colorado, to Vernal, Utah"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [39.501, -109.511], ne = [40.456, -105.100]}
 cover = "es-4404-012"
 comments = true
-discourse_hack = true
 +++
 
 We made most of our way back to Utah today, but this time via the "southern" route (i.e. I-70 as far as was reasonable).
