@@ -14,7 +14,6 @@ track = "track.kml"
 bounds = {sw = [40.152, -122.319], ne = [47.460, -109.532]}
 cover = "es-4405-035"
 comments = true
-discourse_hack = true
 +++
 
 All great things must come to an end. Today we parted company and I flew home to Seattle. I had a window seat and was able to capture a few nice landscape photos on the way home.
