@@ -14,7 +14,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [29.949, -122.390], ne = [38.519, -90.062]}
 comments = true
-discourse_hack = true
 +++
 
 After a few days meeting with my team in our Bay Area offices, I flew to New Orleans to meet my partner who would be attending a conference here for a few days.
