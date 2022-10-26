@@ -11,7 +11,7 @@ distance = "3151 km / 1958 mi"
 route = "San Francisco, California, to New Orleans, Louisiana"
 cover = "es-4419-062"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [29.949, -122.390], ne = [38.519, -90.062]}
 comments = true
 discourse_hack = true
