@@ -1,6 +1,6 @@
 +++
 title = "Day 4: Haunted History Ghost Tour"
-date = 2022-10-09T20:10:38-05:00
+date = 2022-10-11T20:10:38-05:00
 updated = 2022-11-25T11:37:36-07:00
 
 [taxonomies]
