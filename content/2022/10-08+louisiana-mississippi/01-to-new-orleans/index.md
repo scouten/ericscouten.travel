@@ -4,7 +4,7 @@ date = 2022-10-08T20:45:00-05:00
 updated = 2022-10-25T21:26:56-07:00
 
 [taxonomies]
-state = ["Louisiana"]
+state = ["Louisiana", "Utah"]
 
 [extra]
 distance = "3151 km / 1958 mi"
