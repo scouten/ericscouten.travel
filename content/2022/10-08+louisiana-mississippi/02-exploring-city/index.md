@@ -10,8 +10,6 @@ state = ["Louisiana"]
 markers = "markers.js"
 bounds = {sw = [29.939, -90.076], ne = [29.959, -90.056]}
 cover = "es-4421-006"
-comments = true
-discourse_hack = true
 +++
 
 On Sunday, we mostly laid low and explored the immediate area around our hotel.

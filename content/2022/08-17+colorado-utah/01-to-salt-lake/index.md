@@ -13,7 +13,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [40.594, -122.308], ne = [47.620, -111.854]}
 cover = "es-4400-001"
-comments = true
 +++
 
 I flew down to Salt Lake City today. I'll work for a couple of days from there and then my daughter and I will embark on a road trip together for a few days.
