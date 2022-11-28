@@ -13,8 +13,6 @@ markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [29.941, -90.086], ne = [30.271, -89.659]}
 cover = "es-4423-362"
-comments = true
-discourse_hack = true
 +++
 
 Louisiana is famous for its swamps and bayous. And the gators that live within them. We took a sightseeing tour today with [Cajun Encounters](https://www.cajunencounters.com) to the Honey Island Swamp near Slidell. And we saw gators!

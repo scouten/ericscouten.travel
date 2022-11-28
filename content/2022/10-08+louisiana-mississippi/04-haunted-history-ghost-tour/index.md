@@ -10,8 +10,6 @@ state = ["Louisiana"]
 markers = "markers.js"
 bounds = {sw = [29.95, -90.073], ne = [29.97, -90.053]}
 cover = "es-4422-011"
-comments = true
-discourse_hack = true
 +++
 
 With the conference nearly over, we decided to take an evening walking tour of the French Quarter and to learn about the city's ghostly history.
