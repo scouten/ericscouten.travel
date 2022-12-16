@@ -29,7 +29,7 @@ Meanwhile, it was fun to tour the lighthouse.
 
 I am prone to vertigo, so I had to turn back midway up. A few more photos from the top, courtesy of Lisa Rozmyn.
 
-{{ es_image(id="lr-0676", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-0680", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-0690", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-0693", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-218-0676", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-218-0680", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-218-0690", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-218-0693", creator = "Lisa Rozmyn") }}
