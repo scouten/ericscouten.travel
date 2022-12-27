@@ -1,0 +1,33 @@
++++
+title = "Day 2: Iceberg Point"
+date = 2022-11-11T14:16:53-08:00
+updated = 2022-12-27T09:50:30-08:00
+
+[taxonomies]
+state = ["Washington"]
+
+[extra]
+distance = "4.1 km / 2.6 mi"
+route = "Iceberg Point, Lopez Island, Washington"
+markers = "markers.js"
+track = "track.kml"
+bounds = {sw = [48.412, -122.896], ne = [48.432, -122.876]}
+cover = "es-4433-009"
++++
+
+We mostly worked today, but did make time for an afternoon hike through Iceberg Point at the south end of the island.
+
+<!-- more -->
+
+{{ es_image(id="es-4432-078") }}
+{{ es_image(id="es-4432-080") }}
+{{ es_image(id="es-4433-004") }}
+{{ es_image(id="es-4433-009") }}
+{{ es_image(id="es-4433-014") }}
+{{ es_image(id="es-4433-021") }}
+{{ es_image(id="es-4433-022") }}
+{{ es_image(id="es-4433-024") }}
+{{ es_image(id="es-4433-031") }}
+{{ es_image(id="es-4433-036") }}
+{{ es_image(id="es-4433-038") }}
+{{ es_image(id="es-4433-040") }}
