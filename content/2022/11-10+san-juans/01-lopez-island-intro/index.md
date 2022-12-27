@@ -10,7 +10,7 @@ state = ["Washington"]
 distance = "45 km / 28 mi"
 route = "around Lopez Island, Washington"
 markers = "markers.js"
-track = "trackxxx.kml"
+track = "track.kml"
 bounds = {sw = [48.426, -122.942], ne = [48.527, -122.814]}
 cover = "es-4432-044"
 +++
