@@ -10,7 +10,7 @@ state = ["South Carolina"]
 distance = "291 km / 181 mi"
 route = "Edisto Island to Hunting Island to Charleston, South Carolina"
 markers = "markers.js"
-track = "track.kml"
+track = "track1.kml"
 bounds = {sw = [32.342, -80.760], ne = [32.803, -79.945]}
 cover = "es-4440-152"
 +++
