@@ -7,7 +7,7 @@ updated = 2023-01-02T11:25:25-08:00
 country = ["Brazil"]
 
 [extra]
-pushdistance = "228 km / 142 mi"
+distance = "228 km / 142 mi"
 route = "Salvador to Praia do Forte, Brazil, and back"
 markers = "markers.js"
 track = "track.kml"
