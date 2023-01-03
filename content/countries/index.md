@@ -493,6 +493,7 @@ My first visit to Africa.
     image = "es-2281-008"
     title = "Broken Promises"
     caption = "La Boca, Buenos Aires, Argentina"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
