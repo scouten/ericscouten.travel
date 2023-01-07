@@ -504,6 +504,7 @@ My first visit to Africa.
     image = "es-2276-051"
     title = "Let’s Drive Like We’re Young Again"
     caption = "Colonia del Sacramento, Uruguay"
+    country_term = true
     drive = true) }}
 
 {{ es_country(
