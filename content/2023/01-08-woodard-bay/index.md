@@ -12,7 +12,7 @@ bounds = {sw = [47.124, -122.853], ne = [47.144, -122.833]}
 cover = "es-4468-019"
 +++
 
-Lisa and I went for a hike in [Woodard Bay Conversation Area](https://www.dnr.wa.gov/WoodardBay) recently.
+Lisa and I went for a hike in [Woodard Bay Conservation Area](https://www.dnr.wa.gov/WoodardBay) recently.
 
 <!-- more -->
 
