@@ -7,6 +7,7 @@ updated = 2023-01-24T21:15:37-08:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109765039854656040"
 hashtags = "#pugetsound #seattle #washington #sunrise"
 first_published_on = "Facebook"
 markers = "markers.js"

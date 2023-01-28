@@ -7,6 +7,7 @@ updated = 2023-01-08T16:20:03-07:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109765039475200271"
 hashtags = "#sequim #washington"
 route = "Sequim, Washington"
 markers = "markers.js"
