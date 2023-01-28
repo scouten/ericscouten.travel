@@ -14,6 +14,6 @@ I've been to [over 70 countries and territories around the world](/countries/) a
 
 I am also [a software developer](https://ericscouten.dev) and [an explorer of my home state](https://146parks.blog).
 
-**New (November 2022):** If you want to stay updated for new travel stories, follow my Mastodon account at <a rel="me" href="https://techhub.social/@scouten">@scouten@techhub.social</a>.
+**New (January 2023):** If you want to stay updated for new travel stories, follow my Mastodon account at <a rel="me" href="https://ericscouten.social/@travel">Mastodon</a>.
 
 I hope you enjoy following this or another of my blogs!
