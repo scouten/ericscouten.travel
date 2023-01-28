@@ -7,6 +7,7 @@ updated = 2023-01-17T20:29:42-08:00
 state = ["Washington"]
 
 [extra]
+hashtags = "#shelton #washington"
 markers = "markers.js"
 bounds = {sw = [47.242, -123.05], ne = [47.262, -123.03]}
 cover = "es-4468-034"

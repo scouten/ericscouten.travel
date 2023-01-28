@@ -17,6 +17,8 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
+credits = "by @scouten@techhub.social"
+hashtags = "#travel #photography"
 endmark = true
 es_site = "travel"
 map_clustering = false
