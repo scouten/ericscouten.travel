@@ -7,6 +7,7 @@ updated = 2023-01-17T20:36:32-07:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109765039613389177"
 hashtags = "#olympia #washington"
 markers = "markers.js"
 bounds = {sw = [47.124, -122.853], ne = [47.144, -122.833]}

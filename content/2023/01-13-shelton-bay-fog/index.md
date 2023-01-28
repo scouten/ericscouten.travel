@@ -7,6 +7,7 @@ updated = 2023-01-17T20:29:42-08:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109765039741693246"
 hashtags = "#shelton #washington"
 markers = "markers.js"
 bounds = {sw = [47.242, -123.05], ne = [47.262, -123.03]}
