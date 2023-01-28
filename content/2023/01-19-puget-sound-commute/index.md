@@ -7,6 +7,7 @@ updated = 2023-01-24T21:15:37-08:00
 state = ["Washington"]
 
 [extra]
+hashtags = "#pugetsound #seattle #washington #sunrise"
 first_published_on = "Facebook"
 markers = "markers.js"
 bounds = {sw = [47.594, -122.479], ne = [47.614, -122.346]}

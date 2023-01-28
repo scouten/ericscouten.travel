@@ -7,6 +7,7 @@ updated = 2023-01-08T16:20:03-07:00
 state = ["Washington"]
 
 [extra]
+hashtags = "#sequim #washington"
 route = "Sequim, Washington"
 markers = "markers.js"
 bounds = {sw = [48.068, -123.102], ne = [48.088, -123.078]}
