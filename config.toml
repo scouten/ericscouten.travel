@@ -17,6 +17,8 @@ highlight_code = false
 smart_punctuation = true
 
 [extra]
+mastodon_site_account = "@travel@ericscouten.social"
+mastodon_site_url = "https://ericscouten.social/@travel"
 credits = "by @scouten@techhub.social"
 hashtags = "#travel #photography"
 endmark = true
