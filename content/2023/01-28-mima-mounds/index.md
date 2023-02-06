@@ -7,6 +7,7 @@ updated = 2023-02-05T11:56:10-08:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109815839330245494"
 distance = "5.7 km / 3.5 mi"
 route = "Mima Mounds Natural Area Preserve, southwest of Olympia, Washington"
 hashtags = "#olympia #washington"
