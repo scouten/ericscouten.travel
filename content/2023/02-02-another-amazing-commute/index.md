@@ -7,6 +7,7 @@ updated = 2023-02-06T20:35:10-08:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109821619817609881"
 hashtags = "#pugetsound #seattle #ferry #washington #sunrise"
 route = "Ferry from Bainbridge Island to Seattle, Washington"
 markers = "markers.js"
