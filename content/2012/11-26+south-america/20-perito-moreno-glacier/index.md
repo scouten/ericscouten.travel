@@ -33,3 +33,7 @@ I had the opportunity to view the glacier up close (by boat) and then from above
 {{ es_image(id="es-2289-029a", title = "Perito", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
 {{ es_image(id="es-2290-067", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
 {{ es_image(id="es-2290-072", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+
+As an extra bonus travel adventure, the municipal water system in El Calafate failed while I was away. No hot shower for me, or anyone else.
+
+It will be back tonight "we hope," says the manager at the hotel.
