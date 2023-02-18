@@ -1,0 +1,35 @@
++++
+title = "Day 20: Perito Moreno Glacier"
+date = 2012-12-15T10:34:11.05-03:00
+updated = 2023-02-17T20:47:06-07:00
+
+[taxonomies]
+country = ["Argentina"]
+
+[extra]
+distance = "183 km / 114 mi"
+route = "El Calafate, Santa Cruz, Argentina, to Parque Nacional Los Glaciares, Santa Cruz, Argentina, and back"
+markers = "markers.js"
+track = "track.kml"
+bounds = {sw = [-50.489, -73.047], ne = [-50.320, -72.230]}
+cover = "es-2290-056"
++++
+
+Today I took a tour west from El Calafate to Parque Nacional Los Glaciares, home to the Perito Moreno glacier.
+
+<!-- more -->
+
+The park is roughly an hour drive from El Calafate over some very quiet roads:
+
+{{ es_image(id="es-2288-002", caption = "west of El Calafate, Argentina") }}
+{{ es_image(id="es-2290-004", caption = "west of Estancia Alice, Santa Cruz, Argentina") }}
+
+I had the opportunity to view the glacier up close (by boat) and then from above (from some trails and overlooks in the park). I can only hope to have captured a bit of the scale of this river of ice.
+
+{{ es_image(id="es-2289-001", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+{{ es_image(id="es-2290-019", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+{{ es_image(id="es-2290-039", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+{{ es_image(id="es-2290-056", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+{{ es_image(id="es-2289-029a", title = "Perito", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+{{ es_image(id="es-2290-067", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
+{{ es_image(id="es-2290-072", caption = "Glaciar Perito Moreno, Parque Nacional Los Glaciares, Santa Cruz, Argentina") }}
