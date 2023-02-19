@@ -483,6 +483,7 @@ My first visit to Africa.
     image = "es-2294-067"
     title = "Swirling About"
     caption = "Lago Todos los Santos, near Puerto Varas, Chile"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
