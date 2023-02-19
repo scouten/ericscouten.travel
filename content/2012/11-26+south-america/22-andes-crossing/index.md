@@ -45,6 +45,7 @@ From here a short bus tour up to Lago Frías:
 From here, we boarded another bus up and over some _very_ windy gravel roads. We stopped briefly at the border to take pictures of the border crossing ...
 
 {{ es_image(id="es-2295-007", caption = "Parque Nacional Nahuel Huapí, west of Puerto Frías, Río Negro, Argentina") }}
+{{ es_image(id="es-2295-012", caption = "Parque Nacional Vicente Pérez Rosales, Peulla, Los Lagos, Chile") }}
 
 ... and then it was on into Chile.
 
