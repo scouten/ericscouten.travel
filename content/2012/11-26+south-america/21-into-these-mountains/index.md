@@ -7,7 +7,7 @@ updated = 2023-02-18T07:48:54-07:00
 country = ["Argentina"]
 
 [extra]
-distance = "1058 km / 2 mi"
+distance = "1058 km / 657 mi"
 route = "El Calafate, Santa Cruz, Argentina, to San Carlos de Bariloche, Río Negro, Argentina"
 markers = "markers.js"
 track = "track.kml"
