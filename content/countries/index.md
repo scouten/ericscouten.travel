@@ -1,6 +1,6 @@
 +++
 title = "Countries I’ve Visited"
-date = 2022-08-22
+date = 1900-01-01
 aliases = ["log"]
 
 [extra]
