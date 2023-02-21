@@ -27,7 +27,9 @@ After a short flight to Cuenca, I walked around a bit ...
 
 {{ es_image(id="es-2298-003", caption = "San Blas, Cuenca, Ecuador") }}
 
-My hotel placed a bit of Christmas cheer on my door!
+I almost made it through dinner tonight entirely in Spanish. Then I stumbled on something and the waitress just immediately switched to (perfectly fluent) English. Sigh. Game over.
+
+Later, my hotel placed a bit of Christmas cheer on my door!
 
 {{ es_image(id="es-2298-006", caption = "Hotel Santa Lucia, Cuenca, Ecuador") }}
 
