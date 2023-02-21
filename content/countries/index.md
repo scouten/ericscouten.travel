@@ -473,6 +473,7 @@ My first visit to Africa.
     image = "es-2302-012"
     title = "Christmas Parade"
     caption = "Cuenca, Ecuador"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
