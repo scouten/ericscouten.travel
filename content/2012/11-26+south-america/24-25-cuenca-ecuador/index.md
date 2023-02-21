@@ -41,9 +41,18 @@ Earlier today, I took a long guided driving/walking tour of the city. Lots of hi
 And, of course, a farmers' market:
 
 {{ es_image(id="es-2300-008", caption = "Mercado 10 de Agosto, Cuenca, Ecuador") }}
+
+{{ es_vimeo(id="es-2300-010" vmid="800713725", caption = "Mercado 10 de Agosto, Cuenca, Ecuador") }}
+
 {{ es_image(id="es-2300-012", caption = "Mercado 10 de Agosto, Cuenca, Ecuador") }}
 
+{{ es_vimeo(id="es-2300-014" vmid="800714051", caption = "Mercado 10 de Agosto, Cuenca, Ecuador") }}
+
 {{ es_image(id="es-2299-014a", title = "Something Old, Something New", caption = "Plaza de San Francisco, Cuenca, Ecuador") }}
+
+We then went to a high point in the city for some panoramic views.
+
+{{ es_vimeo(id="es-2300-022" vmid="800714285", caption = "Cuenca, Ecuador") }}
 
 {{ es_image(id="es-2300-023", caption = "Cuenca, Ecuador") }}
 
