@@ -6,6 +6,7 @@ aliases = ["log"]
 [extra]
 hide_date = true
 hide_from_section = true
+cover_abs = "/countries/es-3359-003.jpg"
 +++
 
 I'll admit it. I'm a travel addict.
