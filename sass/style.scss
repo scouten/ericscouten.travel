@@ -20,3 +20,7 @@ $accent-text-color: hsl(0, 0, 100%);
     .es_image .caption { color: #bbb; }
     .body { margin-bottom: 1.5em; }
 }
+
+cta {
+    background-color: darken($main-section-background, 10%);
+}
