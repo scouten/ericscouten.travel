@@ -19,7 +19,7 @@ smart_punctuation = true
 [extra]
 mastodon_site_account = "@travel@ericscouten.social"
 mastodon_site_url = "https://ericscouten.social/@travel"
-credits = "by @scouten@techhub.social"
+credits = "by @scouten@ericscouten.social"
 hashtags = "#travel #photography"
 endmark = true
 es_site = "travel"
