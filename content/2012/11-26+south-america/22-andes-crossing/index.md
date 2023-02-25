@@ -61,6 +61,8 @@ The last boat of the day took us across Lago Todos los Santos and gave us specta
 {{ es_image(id="es-2295-026", caption = "Lago Todos los Santos, east of Petrohué, Los Lagos, Chile") }}
 {{ es_image(id="es-2294-067", title = "Swirling About", caption = "Lago Todos los Santos, east of Petrohué, Los Lagos, Chile") }}
 
-I wish I had allotted more time to Chile on this trip. It's the surprise hit so far!
+I'm in Puerto Varas, Chile, tonight, but I can't really explore much due to a heavy, heavy rainstorm, but I think I would have enjoyed it a lot. I found people (taxi drivers, hotel staff, restaurant, etc.) very friendly and very helpful. The city is unusually clean and orderly as South American cities go.
+
+Chile is the surprise hit so far of this trip. I wish I had allotted more time here.
 
 I will be spending most of tomorrow on planes. Heading from southern Chile to Quito, Ecuador. Three flight legs spanning 11am to 11pm. Gah! Hope to have something fun from Quito the next day!

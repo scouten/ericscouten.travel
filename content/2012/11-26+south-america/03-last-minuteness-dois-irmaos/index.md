@@ -23,7 +23,7 @@ Some plans I had made for these first few days in Brazil fell through right befo
 
 The Brazilian tourist industry is running at about 99% capacity, even though it is really only late spring here. I would have expected it to peak in January, but it's only late November and almost all places are sold out. What remains is at the fringes of the price curve: either really sketchy or more expensive than you might prefer. I'm traveling with a lot of camera gear so I don't feel comfortable with "sketchy." (Maybe I should be taking photos of the upscale lodging instead. 😉)
 
-I've been staying in the [Santa Teresa](https://en.wikipedia.org/wiki/Santa_Teresa,_Rio_de_Janeiro) neighborhood so far (will be elsewhere in Rio tomorrow) and have found great places to eat and stay here.
+I've been staying in the [Santa Teresa](https://en.wikipedia.org/wiki/Santa_Teresa,_Rio_de_Janeiro) neighborhood so far (will be elsewhere in Rio tomorrow) and have found great places to eat and stay here. My favorite has been a [little coffee shop / restaurant](https://www.yelp.com/biz/cafecito-rio-de-janeiro-2) around the corner (**2017 update**: sadly, now closed) so much I've been both nights I've been here.
 
 I did get to spend an hour or so around lunch time walking along the famous Ipanema Beach. What follows are some photos including the Dois Irmãos (Two Brothers) mountains that form the western end of the beach.
 

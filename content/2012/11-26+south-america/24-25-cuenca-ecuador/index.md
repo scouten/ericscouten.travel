@@ -67,3 +67,5 @@ Later we toured a hat factory, where the would-be hats were soaking in some kind
 I love the disembodied legs that make the Ecuadorian sign for pedestrian crossing:
 
 {{ es_image(id="es-2301-002", title = "Cruce", caption = "Cuenca, Ecuador") }}
+
+Cuenca’s old city retains a lot of its historical flavor, both in its building and also in its people. I especially enjoyed the _chollas,_ older women of the traditional communities surrounding Cuenca who come into the city to sell various handmade goods and produce. I regret that I didn’t quite capture a suitable picture of a cholla. (A few that I saw were reluctant to have photos taken.) The woman above was working in a market, but wasn't quite dressed in that traditional style.

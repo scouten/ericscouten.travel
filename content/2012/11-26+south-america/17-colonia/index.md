@@ -19,7 +19,9 @@ And now for something completely different!
 
 <!-- more -->
 
-If Punta del Este is everything modern and hip in Uruguay, Colonia del Sacramento, on the east bank of the Río de la Plata, is everything historic and quaint. The center of the city has been designated as a UNESCO World Heritage Site and still maintains much of what I have to assume was its original feel. 
+If Punta del Este is everything modern and hip in Uruguay, Colonia del Sacramento, on the east bank of the Río de la Plata, is everything historic and quaint. The center of the city has been designated as a UNESCO World Heritage Site and still maintains much of what I have to assume was its original feel.
+
+We are staying at the [Costa Colonia Riverside Hotel](https://www.costacolonia.com/costa-colonia/es/index.html) on the north edge of the historic district. For all the historic flavor of the city center, this hotel is obviously a recent construction: very trendy, but enjoyable. We have a nice view out over the Río de la Plata.
 
 We enjoyed a long photowalk through the historic district. Many of today's photos are in infrared to accentuate the contrast between greenery (very bright) and stone and metal (very dark).
 

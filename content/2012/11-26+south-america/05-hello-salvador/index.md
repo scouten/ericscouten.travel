@@ -21,6 +21,8 @@ Today I have arrived in Salvador, Brazil, where I will spend the next three days
 
 {{ es_image(id="es-2237-004a", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
 
+This leg of the trip was a last-minute improvisation. Salvador is Brazil's third largest city, and a good refuge from the crazy-high prices of Rio at this time of year.
+
 I received a lot of advice about rush hour traffic being bad (it wasn't) and wound up getting through security almost two hours ahead of departure time. (It's probably worth noting that I flew out of the smaller [Santos Dumont Airport](https://en.wikipedia.org/wiki/Santos_Dumont_Airport) instead of Rio's international airport.) I would have slept in a bit more if I had known _that_ would happen!
 
 Domestic terminal security moves pretty quickly here. Small wonder: Nobody has to take their shoes or belts off. Also: No need to remove laptops from bags. After scanning my bag, the X-ray tech smiled at me and said "tomar fotos?"
@@ -38,3 +40,5 @@ Most of the images that follow are from the hotel itself or from some short walk
 {{ es_image(id="es-2239-006", caption = "Pelourinho, Salvador, Bahía, Brazil") }}
 
 {{ es_image(id="es-2239-012", title = "The Fire of Sadness", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+
+Being in this location, on the edge of Salvador’s historic Pelourinho district, was both a blessing and a curse. A blessing because there was a lot of interesting subject matter to shoot within easy walking district. A curse because everyone warned me that I needed to be hyper-vigilant due to the high rate of street crime in that area. So I took relatively short walks in daylight in areas I came to know and feel safer in. Being a very fair-skinned person with an expensive camera around my neck definitely made me feel highly visible.

@@ -29,3 +29,5 @@ We made a few photos walking around the La Boca neighborhood where we are stayin
 {{ es_image(id="es-2280-017", caption = "La Boca, Buenos Aires, Argentina") }}
 {{ es_image(id="es-2281-011", caption = "La Boca, Buenos Aires, Argentina") }}
 {{ es_image(id="es-2280-033", caption = "La Boca, Buenos Aires, Argentina") }}
+
+I regret that we have only a day here. We heard a lot about Buenos Aires and I think we would have enjoyed more time there had it been feasible. Some other trip, I hope.

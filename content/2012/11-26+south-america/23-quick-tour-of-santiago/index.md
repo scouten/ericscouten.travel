@@ -40,3 +40,5 @@ The highlight -- and high _point_ of the trip -- was the view from Parque Metrop
 {{ es_vimeo(id="es-2296-027" vmid="800383648", title = "Sopapillas", caption = "Independencia, Región Metropolitana, Chile") }}
 
 I realized as I landed in Ecuador this evening that I most definitely have the travel bug. At some point my life, I have set foot in every state in the US, every province of Canada, and (as of today) 20 other countries.
+
+Quito and Rio share honors for most badly run airports I've experienced while in South America. My flight from Santiago landed about an hour later than scheduled, which meant its arrival coincided with two _large_ flights from the US. It took over an hour from walking into the terminal to getting my passport stamped and almost another hour to get my luggage cleared. Given that this all started at 11pm, I was a bit grumpy by the end of the process.
