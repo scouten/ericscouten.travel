@@ -9,7 +9,7 @@ country = ["Argentina", "Brazil", "Chile", "Ecuador", "Uruguay"]
 [extra]
 first_published_on = "ericscouten.com"
 distance = "34,173 km / 21,234 mi"
-route = "city, state, to city, state"
+route = "Seattle, Washington, to South America, and back"
 track = "track.kml"
 bounds = {sw = [-50.489, -122.309], ne = [47.449, -38.001]}
 cover = "es-2295-020"
