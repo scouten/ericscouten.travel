@@ -19,6 +19,9 @@ Before embarking on the long journey home, I took one last tour to see some high
 
 <!-- more -->
 
+It being the Saturday before Christmas, the city was completely overrun with last-minute shoppers, as you might imagine. I think having a car would be a curse. It was difficult enough to navigate the city on foot.
+
+Unlike typical US cities, the "market" is largely conducted outside with street vendors in booths and impromptu tents along the sidewalks. I was warned against walking alone with expensive camera equipment especially today, so most of today's photos and videos of the pedestrian chaos are from my iPhone.
 
 {{ es_image(id="es-2305-001", caption = "Virgen del Panecillo, Quito, Ecuador") }}
 {{ es_image(id="es-2305-004", caption = "Quito, Ecuador") }}

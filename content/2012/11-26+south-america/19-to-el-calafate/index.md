@@ -21,6 +21,8 @@ This morning I strolled around La Recoleta Cemetery, near where we are staying. 
 
 As I write this, Tara is flying home (yay for rest of family; boo for me!) and I have flown four hours farther south.
 
+My flight south marked a welcome respite from the heat and humidity of the previous two weeks (and for this cold-blooded northwoods boy, that was a very welcome change indeed!). El Calafate is a clean, quiet town in far southern Patagonia with something like 22,000 people -- and almost no development to speak of beyond the city limits.
+
 {{ es_image(id="es-2284-007", caption = "La Recoleta Cemetery, Buenos Aires, Argentina") }}
 {{ es_image(id="es-2284-013", caption = "La Recoleta Cemetery, Buenos Aires, Argentina") }}
 {{ es_image(id="es-2284-023", caption = "La Recoleta Cemetery, Buenos Aires, Argentina") }}

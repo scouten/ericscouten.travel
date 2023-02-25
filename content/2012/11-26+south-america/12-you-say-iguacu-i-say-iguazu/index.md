@@ -27,7 +27,7 @@ No idea who this creature was, but I thought it was adorable.
 
 {{ es_vimeo(id="es-2261-009" vmid="786165743", caption = "Foz do Iguaçu National Park, Paraná, Brazil") }}
 
-This video by Tara, is a bit jittery, but it gives you an idea of the enormity of the falls.
+This video by Tara is a bit jittery but it gives you an idea of the enormity of the falls.
 
 {{ es_vimeo(id="ts-2261-022" vmid="786165802", caption = "Foz do Iguaçu National Park, Paraná, Brazil", creator = "Tara Scouten") }}
 

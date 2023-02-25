@@ -1,5 +1,5 @@
 +++
-title = "Day 26: More Christmas Parades"
+title = "Day 26: Christmas Parades"
 date = 2012-12-21T11:05:06.03-05:00
 updated = 2023-02-24T20:30:00-08:00
 
@@ -15,14 +15,19 @@ bounds = {sw = [-2.907, -79.014], ne = [-0.139, -78.487]}
 cover = "es-2303-017"
 +++
 
-This morning I went for one more walk around downtown Cuenca. There were many more Christmas / school-end parades. Such a festive time!
+This morning I went for one more walk around downtown Cuenca before heading back to Quito.
 
 <!-- more -->
 
+Cuenca, being a very, very Catholic community (96% according to my tour guide) was in the throes of celebrating the holiday. This is the end of the school year and so I was treated to lots of parades in which students of all ages were marching from church services back to the end-of-year party at school. (Many schools there are church-run.) The parades were very elaborate, with heavily-decorated cars and trucks and marching bands. Parents and grandparents would stand on the sidewalk and watch the parade and police blocked traffic as each parade passed.
+
 {{ es_vimeo(id="es-2302-004" vmid="802177362", title = "Christmas Parade", caption = "Cuenca, Ecuador") }}
+
 {{ es_image(id="es-2303-008", caption = "Cuenca, Ecuador") }}
 {{ es_image(id="es-2303-010", caption = "Cuenca, Ecuador") }}
+
 {{ es_image(id="es-2303-011", title = "Morning of the Parade", caption = "Cuenca, Ecuador") }}
+
 {{ es_vimeo(id="es-2302-009" vmid="802177390", caption = "Cuenca, Ecuador") }}
 {{ es_image(id="es-2302-012", title = "Christmas Parade", caption = "Cuenca, Ecuador") }}
 {{ es_vimeo(id="es-2302-013" vmid="802177420", caption = "Cuenca, Ecuador") }}

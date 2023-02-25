@@ -15,11 +15,11 @@ bounds = {sw = [-13.014, -38.532], ne = [-12.562, -38.001]}
 cover = "es-2245-018a"
 +++
 
-Today, I took a bus tour up to Praia do Forte, a tourist beach village an hour or so up the coast from Salvador.
+Today, I took a bus tour up to [Praia do Forte](https://wikitravel.org/en/Praia_do_Forte), a tourist beach village about 80 km / 50 miles east of Salvador.
 
 <!-- more -->
 
-It being a very hot and sunny day when we arrived, I experimented a lot with the infrared camera.
+It’s definitely a touristy resort, but still offered some interesting sights and a welcome contrast to the urban center of Salvador. It being a very hot and sunny day when we arrived, I experimented a lot with the infrared camera.
 
 {{ es_image(id="es-2245-002", caption = "Praia do Forte, Bahía, Brazil") }}
 {{ es_image(id="es-2245-015", caption = "Praia do Forte, Bahía, Brazil") }}
