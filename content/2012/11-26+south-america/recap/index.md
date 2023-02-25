@@ -41,7 +41,6 @@ Some of these were just the painful sacrifices one must inevitably make when set
 No trip of this scale would be possible without some important contributions from key people. A big think you to …
 
 * **my parents,** for watching our 4-year-old daughter while both Tara and I were away. Thanks also to Margaret, Donna, and Lyndsey for providing them some much-needed relief.
-* **my wife,** for running the show at home on her own for the extra time while I was away alone.
 * **my daughter,** for being very patient while one or both of us were away. She was a real trouper.
 * **Rollie Haugen** of ~~Ladyslipper Travel~~ (**2023 update**: no longer open) in Walker, MN. This is the third trip she has planned for us. (The previous two were our trips to Costa Rica and New Zealand/Fiji in 2007.) Each of these trips have come together very smoothly for us. In each each case, she did a great job of blending our input with some great ideas of her own.
 * **Adobe,** for offering a very generous [sabbatical](https://benefits.adobe.com/us/time-off/sabbatical) program (6 weeks of continuous time off for old-timers like me plus the holiday shutdown that everybody takes) — and for paying me well enough that I could afford a big trip like this.
