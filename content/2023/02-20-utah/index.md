@@ -7,6 +7,7 @@ updated = 2023-02-26T17:08:09-08:00
 state = ["Utah"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/109934157884728501"
 route = "east of Salt Lake City, Utah"
 markers = "markers.js"
 # bounds = {sw = [40.574, -111.669], ne = [40.594, -111.422]}
