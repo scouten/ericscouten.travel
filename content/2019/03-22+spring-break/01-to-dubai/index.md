@@ -11,7 +11,7 @@ country = ["United Arab Emirates"]
 distance = "12,717 km / 7908 mi"
 route = "Seattle, Washington, to Dubai, United Arab Emirates"
 markers = "markers.js"
-track = "track.kml"
+track = "track1.kml"
 bounds = {sw = [25.242, -122.509], ne = [70.041, 55.376]}
 cover = "es-3896-003"
 +++
