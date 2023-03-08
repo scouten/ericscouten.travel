@@ -317,12 +317,13 @@ My first visit to Africa.
 
 {{ es_country(
     seq = 44
-    name = "Dubai"
+    name = "United Arab Emirates"
     flag = "🇦🇪"
     years = "2016, 2019"
     image = "es-3104-003"
     title = "Starbucks Coffee"
     caption = "Dubai Airport, Dubai, United Arab Emirates, 2016"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
