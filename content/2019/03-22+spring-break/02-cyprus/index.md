@@ -10,7 +10,7 @@ country = ["Cyprus"]
 distance = "3218 km / 2000 mi"
 route = "Dubai, United Arab Emirates, to Larnaca, Cyprus"
 markers = "markers.js"
-track = "track.kml"
+track = "track1.kml"
 bounds = {sw = [25.142, 32.399], ne = [35.039, 55.448]}
 cover = "es-3900-013"
 +++
