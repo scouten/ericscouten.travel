@@ -71,11 +71,12 @@ My first visit to Africa.
 
 {{ es_country(
     seq = 71
-    name = "Republic of Cyprus"
+    name = "Cyprus"
     flag = "🇨🇾"
     years = "2019"
     image = "es-3902-023"
     caption = "Pyla, Cyprus"
+    country_term = true
     drive = true) }}
 
 {{ es_country(
