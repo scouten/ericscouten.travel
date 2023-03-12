@@ -7,6 +7,7 @@ updated = 2023-03-11T23:19:34-08:00
 country = ["Cyprus"]
 
 [extra]
+first_published_on = "ericscouten.com"
 distance = "3218 km / 2000 mi"
 route = "Dubai, United Arab Emirates, to Larnaca, Cyprus"
 markers = "markers.js"
