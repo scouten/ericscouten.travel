@@ -8,6 +8,7 @@ state = ["Washington"]
 country = ["United Arab Emirates"]
 
 [extra]
+first_published_on = "ericscouten.com"
 distance = "12,717 km / 7908 mi"
 route = "Seattle, Washington, to Dubai, United Arab Emirates"
 markers = "markers.js"

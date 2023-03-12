@@ -7,6 +7,7 @@ updated = 2023-03-12T12:15:06-07:00
 country = ["Cyprus"]
 
 [extra]
+first_published_on = "ericscouten.com"
 distance = "346 km / 215 mi"
 route = "around Cyprus"
 markers = "markers.js"
