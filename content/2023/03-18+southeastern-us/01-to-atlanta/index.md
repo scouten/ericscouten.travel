@@ -10,7 +10,7 @@ distance = "3639 km / 2261 mi"
 route = "Seattle, Washington, to Atlanta, Georgia"
 markers = "markers.js"
 track = "track.kml"
-bounds = {sw = [33.733, -121.115], ne = [47.329, 33.701]}
+bounds = {sw = [33.733, -121.115], ne = [47.329, -84.222]}
 cover = "es-4486-058"
 +++
 
