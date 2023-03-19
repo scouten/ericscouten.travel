@@ -6,6 +6,7 @@ date = 2023-03-18T21:47:00-04:00
 state = ["Georgia", "Montana", "Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110047678371264822"
 distance = "3639 km / 2261 mi"
 route = "Seattle, Washington, to Atlanta, Georgia"
 markers = "markers.js"
