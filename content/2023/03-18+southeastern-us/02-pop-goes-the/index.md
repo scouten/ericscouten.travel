@@ -7,6 +7,7 @@ updated = 2023-03-20T21:33:36-04:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110058892657781980"
 distance = "660 km / 410 mi"
 route = "Atlanta, Georgia, to Manning, South Carolina"
 markers = "markers.js"
