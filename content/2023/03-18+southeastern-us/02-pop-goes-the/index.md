@@ -27,13 +27,13 @@ My route took me through some long and pretty quiet two-lane roads in South Caro
 
 {{ es_image(id = "es-4487-004", caption = "southeast of Jackson, South Carolina") }}
 
-I had enjoyed this country road on the way to Edisto back in December, but didn't capture an image I liked of it then. Now that spring is here and trees are budding out, it was much nicer:
-
 {{ es_image(id = "es-4487-007", caption = "Allendale, South Carolina") }}
 
-I had slept in a bit longer than anticipated in Atlanta, so I only got to spend a little bit of time in and around Edisto. Here's a scene from a short time we spent on the beach in Edisto:
+I had enjoyed this country road on the way to Edisto back in December, but didn't capture an image I liked of it then. Now that spring is here and trees are budding out, it was much nicer:
 
 {{ es_image(id = "es-4487-009", title = "Wescott Road", caption = "Edisto Island, South Carolina") }}
+
+I had slept in a bit longer than anticipated in Atlanta, so I only got to spend a little bit of time in and around Edisto. Here's a scene from a short time we spent on the beach in Edisto:
 
 {{ es_image(id = "es-4487-010", caption = "Edisto Island, South Carolina") }}
 
