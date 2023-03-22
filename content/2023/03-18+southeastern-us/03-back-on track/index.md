@@ -7,6 +7,7 @@ updated = 2023-03-21T21:08:35-04:00
 state = ["North Carolina", "South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110064368268046132"
 distance = "277 km / 172 mi"
 route = "Manning, South Carolina, to Wilmington, North Carolina"
 markers = "markers.js"
