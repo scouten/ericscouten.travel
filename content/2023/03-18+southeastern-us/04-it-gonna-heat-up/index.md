@@ -7,6 +7,7 @@ updated = 2023-03-21T22:22:21-04:00
 state = ["North Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110064601040526312"
 distance = "100 km / 62 mi"
 route = "Wilmington to Wrightsville Beach, North Carolina, and back"
 markers = "markers.js"
