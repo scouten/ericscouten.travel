@@ -1,7 +1,6 @@
 +++
 title = "Day 4: It Gonna Heat Up"
-date = 2023-03-21T19:18:19.507-04:00
-updated = 2023-03-21T22:22:21-04:00
+date = 2023-03-21T22:22:21-04:00
 
 [taxonomies]
 state = ["North Carolina"]
