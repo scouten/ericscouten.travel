@@ -7,6 +7,7 @@ updated = 2023-03-25T20:44:46-04:00
 state = ["North Carolina", "South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110086891997371359"
 distance = "275 km / 171 mi"
 route = "Wilmington, North Carolina, to Charleston, South Carolina"
 markers = "markers.js"
