@@ -7,6 +7,7 @@ updated = 2023-03-25T23:11:44-04:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110098356475519094"
 distance = "28 km / 17 mi"
 route = "around Charleston, South Carolina"
 markers = "markers.js"

@@ -7,6 +7,7 @@ updated = 2023-03-27T21:25:49-04:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110098356606165583"
 distance = "105 km / 65 mi"
 route = "Charleston to Rockville, South Carolina, and back"
 markers = "markers.js"
