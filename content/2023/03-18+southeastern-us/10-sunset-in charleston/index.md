@@ -1,7 +1,6 @@
 +++
 title = "Day 10: Sunset in Charleston"
 date = 2023-03-27T19:50:20.343-04:00
-updated = 2023-03-27T21:53:48-04:00
 
 [taxonomies]
 state = ["South Carolina"]
