@@ -7,6 +7,7 @@ updated = 2023-03-30T21:00:42-04:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110115258064329510"
 distance = "164 km / 102 mi"
 route = "Charleston to Hilton Head Island, South Carolina"
 markers = "markers.js"
