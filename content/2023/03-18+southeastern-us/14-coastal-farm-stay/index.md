@@ -7,6 +7,7 @@ updated = 2023-04-01T16:10:38-04:00
 state = ["Georgia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110125589128624511"
 distance = "258 km / 161 mi"
 route = "Hilton Head Island, South Carolina, to Townsend, Georgia"
 markers = "markers.js"
