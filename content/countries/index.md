@@ -688,7 +688,8 @@ I lived in Hamburg during the summer of 2013.
     image = "es-0316-001"
     title = "Doña Angela Cooking"
     caption = "Talolinga, Nicaragua"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 5
