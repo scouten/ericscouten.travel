@@ -38,12 +38,12 @@ On my (rather circuitous) route to the farm stay, I stopped through the town of 
 
 One of the benefits of this AirBNB is the free use of their kayaks. Having heard that the resident alligator has been "taken care of" by a neighbor recently, I decided it would be safe to venture forth for a sunset paddle.
 
-{{ es_image(id = "es-4498-038", caption = "Sapelo River, west of Townsend, Georgia") }}
+{{ es_image(id = "es-4498-038", caption = "Sapelo River, east of Townsend, Georgia") }}
 
-{{ es_image(id = "es-4498-046", caption = "Sapelo River, west of Townsend, Georgia") }}
+{{ es_image(id = "es-4498-046", caption = "Sapelo River, east of Townsend, Georgia") }}
 
-{{ es_image(id = "es-4498-050", caption = "Sapelo River, west of Townsend, Georgia") }}
+{{ es_image(id = "es-4498-050", caption = "Sapelo River, east of Townsend, Georgia") }}
 
-{{ es_image(id = "es-4498-059", caption = "Sapelo River, west of Townsend, Georgia") }}
+{{ es_image(id = "es-4498-059", caption = "Sapelo River, east of Townsend, Georgia") }}
 
 Lots more to explore around here tomorrow. Looking forward to it!
