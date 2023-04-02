@@ -108,6 +108,8 @@ As an American visiting in this time, I was encouraged to use my ears more than 
 
 {{ es_image(id = "es-0316-002", title = "Doña Angela Closeup", caption = "Talolinga, Nicaragua") }}
 
+{{ es_image(id = "es-0316-006", title = "Fireside Cat", caption = "A cat sleeps in the warmth of the kitchen in this remote Nicaraguan mountain village. This scene was lit only by the light of the kitchen fire. · Talolinga, Nicaragua") }}
+
 {{ es_image(id = "es-0316-030", caption = "Talolinga, Nicaragua") }}
 
 {{ es_image(id = "es-0316-034", caption = "Talolinga, Nicaragua") }}
@@ -127,6 +129,8 @@ As an American visiting in this time, I was encouraged to use my ears more than 
 {{ es_image(id = "es-0318-006", caption = "León, Nicaragua") }}
 
 {{ es_image(id = "es-0318-013", caption = "León, Nicaragua") }}
+
+{{ es_image(id = "es-0318-015", title = "Red Door", caption = "León, Nicaragua") }}
 
 {{ es_image(id = "es-0318-018", caption = "León, Nicaragua") }}
 
