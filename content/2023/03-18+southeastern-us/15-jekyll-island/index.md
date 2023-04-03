@@ -7,6 +7,7 @@ updated = 2023-04-02T21:24:54-04:00
 state = ["Georgia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110132333468734561"
 distance = "157 km / 98 mi"
 route = "Townsend to Jekyll Island, Georgia, and back"
 markers = "markers.js"
