@@ -7,6 +7,7 @@ updated = 2023-04-07T11:13:45-04:00
 state = ["Georgia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110158279350666188"
 distance = "233 km / 144 mi"
 route = "Townsend, Georgia, to Hilton Head Island, South Carolina, and then to Savannah, Georgia"
 markers = "markers.js"
