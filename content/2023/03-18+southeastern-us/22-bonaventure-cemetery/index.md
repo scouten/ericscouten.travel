@@ -7,6 +7,7 @@ updated = 2023-04-08T19:43:37-04:00
 state = ["Georgia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110165884453567835"
 distance = "182 km / 113 mi"
 route = "Savannah, Georgia, to Edisto Island, South Carolina"
 markers = "markers.js"
