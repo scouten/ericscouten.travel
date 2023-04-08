@@ -7,6 +7,7 @@ updated = 2023-04-08T09:38:12-04:00
 state = ["Georgia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110163612885280712"
 distance = "97 km / 60 mi"
 hashtags = "#wormsloe #savannah #georgia"
 route = "Savannah to Tybee Island, Georgia, and back"
