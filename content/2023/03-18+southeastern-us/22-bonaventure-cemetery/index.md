@@ -1,7 +1,6 @@
 +++
 title = "Day 22: Bonaventure Cemetery"
 date = 2023-04-08T12:03:58.321-04:00
-updated = 2023-04-08T19:43:37-04:00
 
 [taxonomies]
 state = ["Georgia"]
