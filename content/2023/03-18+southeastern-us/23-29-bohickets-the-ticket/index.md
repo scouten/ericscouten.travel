@@ -6,6 +6,7 @@ date = 2023-04-15T15:52:59-04:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110204724567929578"
 distance = "162 km / 100 mi"
 route = "Edisto Island to Johns Island, South Carolina"
 markers = "markers.js"
