@@ -37,7 +37,7 @@ On Wednesday, we left Isle of Palms and spent the day in Charleston. On our way 
 
 {{ es_image(id = "es-4511-051", caption = "Sullivan’s Island, South Carolina") }}
 
-Since Wednesday afternoon, we've been in a delightful AirBNB on the shore of Bohicket Creek a bit southwest of Charleston. The sunset and sunrise views have been a real treat:
+Since Wednesday afternoon, we've been in a [delightful AirBNB on the shore of Bohicket Creek](https://www.airbnb.com/rooms/39203440) a bit southwest of Charleston. The sunset and sunrise views have been a real treat:
 
 {{ es_image(id = "es-4511-060", caption = "Johns Island, South Carolina") }}
 
