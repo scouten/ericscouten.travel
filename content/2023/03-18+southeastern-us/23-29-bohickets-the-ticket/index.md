@@ -72,7 +72,7 @@ Since Wednesday afternoon, we've been in a delightful AirBNB on the shore of Boh
 
 {{ es_image(id = "es-4516-017", caption = "Johns Island, South Carolina") }}
 
-We went a couple nights ago to the [Tattooed Moose](https://tattooedmoose.com/) for drinks and some grub.
+We were out in a low country bar (the [Tattooed Moose](https://tattooedmoose.com/)) in the middle of a thunderstorm a few nights ago. Loved the experience of hearing the rumbles (you can take the boy out of the Midwest, but ...). We were inside but everything was open so we could hear the rumbles and feel the storm-induced breeze.
 
 {{ es_image(id = "es-4513-001", caption = "Tattooed Moose, Johns Island, South Carolina") }}
 
