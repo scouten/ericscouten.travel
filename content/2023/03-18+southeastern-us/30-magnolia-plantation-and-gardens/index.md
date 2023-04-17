@@ -7,6 +7,7 @@ updated = 2023-04-17T12:43:34-04:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110215228904890086"
 markers = "markers.js"
 bounds = {sw = [32.865, -80.096], ne = [32.885, -80.076]}
 cover = "es-4520-071"
