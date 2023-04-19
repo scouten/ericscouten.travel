@@ -296,7 +296,8 @@ My first visit to Africa.
     years = "2016, 2017"
     image = "es-3666-001"
     caption = "Half Moon Cay, Little San Salvador Island, Bahamas, 2017"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 46
