@@ -7,6 +7,7 @@ updated = 2023-04-18T14:51:35-07:00
 state = ["Alabama", "Georgia", "Mississippi", "South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110222561204026645"
 distance = "4070 km / 2529 mi"
 route = "Johns Island, South Carolina, to Mountain View, California"
 markers = "markers.js"
