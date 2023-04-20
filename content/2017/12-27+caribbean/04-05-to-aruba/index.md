@@ -36,6 +36,10 @@ As we approached port in Oranjestad, a pilot boat was sent out to escort us in:
 
 We had most of a day on shore and I took advantage of some tours that were offered:
 
+{{ es_image(id = "es-3674-008", caption = "Oranjestad, Aruba") }}
+
+{{ es_image(id = "es-3674-010", caption = "Oranjestad, Aruba") }}
+
 {{ es_image(id = "es-3674-012", caption = "Paradera, Oranjestad, Aruba") }}
 
 {{ es_image(id = "es-3674-016", caption = "Casibari Rock Formations, Tamarijn, Aruba") }}
