@@ -5,6 +5,8 @@ function addGpxMarkers(map) {
         addGpxMarker(map, "es-3672-003", 16.999695, -73.471152),
         addGpxMarker(map, "es-3671-005", 16.990918, -73.464364),
         addGpxMarker(map, "es-3674-004", 12.528029, -70.061971),
+        addGpxMarker(map, "es-3674-008", 12.518467, -70.037693),
+        addGpxMarker(map, "es-3674-010", 12.518218, -70.037338),
         addGpxMarker(map, "es-3674-012", 12.536033, -70.003117),
         addGpxMarker(map, "es-3674-016", 12.530952, -69.996412),
         addGpxMarker(map, "es-3674-023", 12.541421, -69.958188),
