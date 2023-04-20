@@ -1,7 +1,6 @@
 +++
 title = "Days 4 and 5: To Aruba"
 date = 2017-12-30T16:05:22-04:00
-updated = 2023-04-19T20:28:41-07:00
 
 [taxonomies]
 country = ["Aruba"]
