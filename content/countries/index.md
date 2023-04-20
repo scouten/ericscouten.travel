@@ -149,7 +149,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3674-016"
     caption = "Tamarijn, Aruba"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 62
