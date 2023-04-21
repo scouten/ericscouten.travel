@@ -138,9 +138,10 @@ My first visit to Africa.
     name = "Curaçao"
     flag = "🇨🇼"
     years = "2017"
-    image = "es-3677-022"
+    image = "es-3681-002"
     caption = "Willemstad, Curaçao"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 63
