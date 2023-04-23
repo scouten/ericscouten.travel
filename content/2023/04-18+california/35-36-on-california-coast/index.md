@@ -7,6 +7,7 @@ updated = 2023-04-23T15:12:45-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110250592628849749"
 distance = "345 km / 215 mi"
 route = "Mountain View to Mendocino, California"
 markers = "markers.js"
