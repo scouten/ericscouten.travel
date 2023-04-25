@@ -7,6 +7,7 @@ updated = 2023-04-24T23:45:21-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110258143710928706"
 distance = "391 km / 243 mi"
 route = "Mendocino to San Jose, California"
 markers = "markers.js"
