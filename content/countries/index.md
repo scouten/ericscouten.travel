@@ -129,9 +129,10 @@ My first visit to Africa.
     name = "Colombia"
     flag = "🇨🇴"
     years = "2018"
-    image = "es-3685-044"
+    image = "es-3685-035"
     caption = "Cartagena, Columbia"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 64
