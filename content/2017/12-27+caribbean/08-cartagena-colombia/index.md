@@ -9,7 +9,7 @@ country = ["Colombia"]
 [extra]
 first_published_on = "ericscouten.com"
 distance = "901 km / 560 mi"
-route = "city, state, to city, state"
+route = "Willemstad, Curaçao, to Cartagena, Colombia"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [10.316, -75.738], ne = [12.557, -68.939]}
