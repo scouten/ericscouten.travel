@@ -7,6 +7,7 @@ updated = 2023-04-28T09:05:07-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110277346992732950"
 distance = "107 km / 67 mi"
 route = "San Jose to Felton, California, and back"
 markers = "markers.js"
