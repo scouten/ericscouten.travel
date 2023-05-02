@@ -7,7 +7,6 @@ updated = 2023-04-28T13:39:13-07:00
 country = ["Colombia"]
 
 [extra]
-first_published_on = "ericscouten.com"
 distance = "901 km / 560 mi"
 route = "Willemstad, Curaçao, to Cartagena, Colombia"
 markers = "markers.js"
