@@ -120,9 +120,10 @@ My first visit to Africa.
     name = "Panama"
     flag = "🇵🇦"
     years = "2018"
-    image = "es-3687-028"
+    image = "es-3687-020"
     caption = "Panama Canal, Colón, Panama"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 65
