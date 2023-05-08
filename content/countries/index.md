@@ -565,7 +565,8 @@ My first visit to Africa.
     image = "es-1115-034"
     title = "Baby Caiman"
     caption = "La Fortuna, Costa Rica, 2007"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 18
