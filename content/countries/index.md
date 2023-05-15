@@ -113,7 +113,8 @@ My first visit to Africa.
     years = "2018"
     image = "es-3709-009"
     caption = "Xiangde Temple, Taroko National Park, Taiwan"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 66
