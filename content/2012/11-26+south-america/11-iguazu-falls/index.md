@@ -1,5 +1,5 @@
 +++
-title = "Day 11: Iguazú Falls"
+title = "South America Day 11: Iguazú Falls"
 date = 2012-12-06T16:55:05.23-03:00
 updated = 2023-01-02T18:00:07-08:00
 

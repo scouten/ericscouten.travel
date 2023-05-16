@@ -1,5 +1,5 @@
 +++
-title = "Day 12: You Say Iguaçu, I Say Iguazú"
+title = "South America Day 12: You Say Iguaçu, I Say Iguazú"
 date = 2012-12-07T10:33:32.78-03:00
 updated = 2023-01-03T21:08:22-08:00
 

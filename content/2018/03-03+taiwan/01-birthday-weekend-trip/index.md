@@ -1,5 +1,5 @@
 +++
-title = "Day 1: A Birthday Weekend Trip"
+title = "Taiwan Day 1: A Birthday Weekend Trip"
 date = 2018-03-03T18:24:33+08:00
 updated = 2023-05-12T19:34:01-07:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 4: Amsterdam"
+title = "Netherlands Day 4: Amsterdam"
 date = 2008-04-16T17:21:54+02:00
 updated = 2021-10-14T09:47:00-07:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 2: A Desert Road Trip"
+title = "Utah Day 2: A Desert Road Trip"
 date = 2022-04-16T16:59:02-06:00
 updated = 2022-05-03T08:27:58-07:00
 

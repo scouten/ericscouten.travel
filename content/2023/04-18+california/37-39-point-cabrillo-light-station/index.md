@@ -1,5 +1,5 @@
 +++
-title = "Days 37-39: Point Cabrillo Light Station"
+title = "California Days 37-39: Point Cabrillo Light Station"
 date = 2023-04-24T09:52:21.665-07:00
 updated = 2023-04-24T23:45:21-07:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 1: Lopez Island Intro"
+title = "San Juan Islands Day 1: Lopez Island Intro"
 date = 2022-11-10T14:58:37.636-08:00
 updated = 2022-12-26T17:47:12-08:00
 

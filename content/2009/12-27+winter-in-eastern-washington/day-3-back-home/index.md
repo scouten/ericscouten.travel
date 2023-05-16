@@ -1,5 +1,5 @@
 +++
-title = "Day 3: Back Home"
+title = "Eastern Washington Day 3: Back Home"
 date = 2009-12-29T20:00:00-08:00
 updated = 2021-11-30T12:29:00-08:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 1: To Redfield, South Dakota"
+title = "Minnesota to Washington Day 1: To Redfield, South Dakota"
 date = 2009-05-06T20:30:00-05:00
 updated = 2021-10-19T13:38:00-07:00
 

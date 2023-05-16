@@ -1,5 +1,5 @@
 +++
-title = "Day 8: Cartagena, Colombia"
+title = "Caribbean Day 8: Cartagena, Colombia"
 date = 2018-01-02T13:59:08-05:00
 updated = 2023-04-28T13:39:13-07:00
 

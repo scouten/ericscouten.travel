@@ -1,5 +1,5 @@
 +++
-title = "Day 10: Take the Long Way Home"
+title = "Puerto Rico Day 10: Take the Long Way Home"
 date = 2022-01-03
 updated = 2022-01-14T13:46:47-08:00
 

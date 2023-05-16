@@ -1,5 +1,5 @@
 +++
-title = "Day 3: Completing the Loop"
+title = "Taiwan Day 3: Completing the Loop"
 date = 2018-03-05T16:55:04+08:00
 updated = 2023-05-14T00:11:18-07:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 2: A Midnight Stampede"
+title = "Taiwan Day 2: A Midnight Stampede"
 date = 2018-03-04T19:57:28.149+08:00
 updated = 2023-05-13T14:54:10-07:00
 

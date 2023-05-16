@@ -1,5 +1,5 @@
 +++
-title = "Day 2: Hunting Island State Park"
+title = "South Carolina Day 2: Hunting Island State Park"
 date = 2022-11-29T17:06:41.197-05:00
 updated = 2022-12-28T13:30:01-08:00
 

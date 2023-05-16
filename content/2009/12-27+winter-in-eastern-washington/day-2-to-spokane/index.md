@@ -1,5 +1,5 @@
 +++
-title = "Day 2: To Spokane"
+title = "Eastern Washington Day 2: To Spokane"
 date = 2009-12-28T20:00:00-08:00
 updated = 2021-11-29T16:22:45-08:00
 

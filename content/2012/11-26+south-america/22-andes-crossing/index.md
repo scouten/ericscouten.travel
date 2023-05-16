@@ -1,5 +1,5 @@
 +++
-title = "Day 22: Andes Crossing"
+title = "South America Day 22: Andes Crossing"
 date = 2012-12-17T14:31:44-03:00
 updated = 2023-02-19T10:05:48-07:00
 

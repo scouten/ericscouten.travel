@@ -1,5 +1,5 @@
 +++
-title = "Day 3: Orcas Island"
+title = "San Juan Islands Day 3: Orcas Island"
 date = 2022-11-12T16:41:32.798-08:00
 updated = 2022-12-27T11:09:24-08:00
 

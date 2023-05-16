@@ -1,5 +1,5 @@
 +++
-title = "Day 6: Curaçao"
+title = "Caribbean Day 6: Curaçao"
 date = 2017-12-31T17:01:54-04:00
 
 [taxonomies]

@@ -1,5 +1,5 @@
 +++
-title = "Day 5: To Boise"
+title = "Dallas to Seattle Day 5: To Boise"
 date = 2021-04-25
 updated = 2021-08-06T23:10:32-07:00
 

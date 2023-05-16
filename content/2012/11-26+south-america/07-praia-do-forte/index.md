@@ -1,5 +1,5 @@
 +++
-title = "Day 7: Praia do Forte"
+title = "South America Day 7: Praia do Forte"
 date = 2012-12-02T11:27:55-02:00
 updated = 2023-01-02T11:25:25-08:00
 

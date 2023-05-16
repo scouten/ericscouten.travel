@@ -1,5 +1,5 @@
 +++
-title = "Day 4: Angel Oak Tree"
+title = "South Carolina Day 4: Angel Oak Tree"
 date = 2022-12-01T13:46:38.261-05:00
 updated = 2022-12-30T22:02:53-08:00
 

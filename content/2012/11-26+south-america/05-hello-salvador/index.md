@@ -1,5 +1,5 @@
 +++
-title = "Day 5: Hello, Salvador!"
+title = "South America Day 5: Hello, Salvador!"
 date = 2012-11-30T15:44:23 # check time zone (not in Washington)
 updated = 2022-09-03T12:30:54-07:00
 

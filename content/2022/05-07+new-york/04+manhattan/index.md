@@ -1,5 +1,5 @@
 +++
-title = "Days 4-6: Manhattan"
+title = "New York Days 4-6: Manhattan"
 date = 2022-05-12
 updated = 2022-05-19T09:40:10-07:00
 

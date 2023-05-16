@@ -1,5 +1,5 @@
 +++
-title = "Day 6: Amsterdam Canals"
+title = "Netherlands Day 6: Amsterdam Canals"
 date = 2008-04-18T21:04:52.00+02:00
 updated = 2021-10-14T21:58:45-07:00
 

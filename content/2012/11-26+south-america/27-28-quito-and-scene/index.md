@@ -1,5 +1,5 @@
 +++
-title = "Days 27 and 28: Quito … and Scene"
+title = "South America Days 27 and 28: Quito … and Scene"
 date = 2012-12-23
 updated = 2023-02-24T22:22:04-08:00
 

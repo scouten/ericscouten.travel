@@ -1,5 +1,5 @@
 +++
-title = "Day 2: To Port Jefferson"
+title = "New York Day 2: To Port Jefferson"
 date = 2022-05-08T16:44:48.404-04:00
 updated = 2022-05-11T22:18:33-04:00
 

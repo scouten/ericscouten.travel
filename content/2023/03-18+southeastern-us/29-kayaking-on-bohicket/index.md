@@ -1,5 +1,5 @@
 +++
-title = "Day 29: Kayaking on Bohicket"
+title = "Southeastern US Day 29: Kayaking on Bohicket"
 date = 2023-04-15T19:31:33.783-04:00
 updated = 2023-04-16T11:12:07-04:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 6: Farewell, Wilmington; Hello, Charleston"
+title = "Southeastern US Day 6: Farewell, Wilmington; Hello, Charleston"
 date = 2023-03-23T19:15:16.98-04:00
 updated = 2023-03-25T20:44:46-04:00
 

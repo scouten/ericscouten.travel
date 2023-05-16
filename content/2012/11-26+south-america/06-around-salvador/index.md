@@ -1,5 +1,5 @@
 +++
-title = "Day 6: Around Salvador"
+title = "South America Day 6: Around Salvador"
 date = 2012-12-01T16:44:51-02:00
 updated = 2022-09-03T15:37:33-07:00
 

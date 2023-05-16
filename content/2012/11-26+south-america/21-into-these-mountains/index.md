@@ -1,5 +1,5 @@
 +++
-title = "Day 21: Into These Mountains"
+title = "South America Day 21: Into These Mountains"
 date = 2012-12-16T20:20:07-03:00
 updated = 2023-02-18T07:48:54-07:00
 

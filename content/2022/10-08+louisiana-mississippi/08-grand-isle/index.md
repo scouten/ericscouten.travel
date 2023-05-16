@@ -1,5 +1,5 @@
 +++
-title = "Day 8: Grand Isle"
+title = "Louisiana and Mississippi Day 8: Grand Isle"
 date = 2022-10-15T13:29:23.464-05:00
 updated = 2022-12-10T12:44:59-07:00
 

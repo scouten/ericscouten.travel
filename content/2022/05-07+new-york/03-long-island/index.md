@@ -1,5 +1,5 @@
 +++
-title = "Day 3: Long Island"
+title = "New York Day 3: Long Island"
 date = 2022-05-09
 updated = 2022-05-16T21:02:49-07:00
 

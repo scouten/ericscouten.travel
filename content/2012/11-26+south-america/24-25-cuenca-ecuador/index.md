@@ -1,5 +1,5 @@
 +++
-title = "Days 24 and 25: Cuenca, Ecuador"
+title = "South America Days 24 and 25: Cuenca, Ecuador"
 date = 2012-12-20
 updated = 2023-02-20T17:09:57-07:00
 

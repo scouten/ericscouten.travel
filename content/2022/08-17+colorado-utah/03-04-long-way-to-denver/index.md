@@ -1,5 +1,5 @@
 +++
-title = "Days 3 and 4: It’s a Long Way to Denver"
+title = "Colorado and Utah Days 3 and 4: It’s a Long Way to Denver"
 date = 2022-08-20T16:13:03-06:00
 updated = 2022-10-08T07:43:36-07:00
 

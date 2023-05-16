@@ -1,5 +1,5 @@
 +++
-title = "Day 1: To Dubai"
+title = "Spring Break Day 1: To Dubai"
 date = 2019-03-22T12:48:15.391-07:00
 updated = 2023-03-07T21:15:43-08:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 1: Back to Washington"
+title = "Eastern Washington Day 1: Back to Washington"
 date = 2022-04-20
 updated = 2022-05-06T19:58:14-07:00
 
