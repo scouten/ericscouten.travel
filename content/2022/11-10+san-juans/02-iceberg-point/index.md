@@ -1,5 +1,5 @@
 +++
-title = "Day 2: Iceberg Point"
+title = "San Juan Islands Day 2: Iceberg Point"
 date = 2022-11-11T14:16:53-08:00
 updated = 2022-12-27T09:50:30-08:00
 

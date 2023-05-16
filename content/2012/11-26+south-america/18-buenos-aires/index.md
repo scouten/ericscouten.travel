@@ -1,5 +1,5 @@
 +++
-title = "Day 18: Buenos Aires"
+title = "South America Day 18: Buenos Aires"
 date = 2012-12-13T16:15:07-03:00
 updated = 2023-02-16T21:04:44-08:00
 

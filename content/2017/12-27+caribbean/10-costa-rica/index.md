@@ -1,5 +1,5 @@
 +++
-title = "Day 10: Costa Rica"
+title = "Caribbean Day 10: Costa Rica"
 date = 2018-01-04T15:30:45-06:00
 updated = 2023-05-07T22:51:09-07:00
 

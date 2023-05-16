@@ -1,5 +1,5 @@
 +++
-title = "Day 4: To Sun Mountain Lodge"
+title = "Eastern Washington Day 4: To Sun Mountain Lodge"
 date = 2022-04-23T19:13:27.115-07:00
 updated = 2022-05-14T20:08:12-07:00
 

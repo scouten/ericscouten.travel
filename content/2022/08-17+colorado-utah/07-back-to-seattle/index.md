@@ -1,5 +1,5 @@
 +++
-title = "Day 7: Back to Seattle"
+title = "Colorado and Utah Day 7: Back to Seattle"
 date = 2022-08-23T18:54:51-07:00
 updated = 2022-10-18T19:14:09-07:00
 

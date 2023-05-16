@@ -1,5 +1,5 @@
 +++
-title = "Day 30: Magnolia Plantation and Gardens"
+title = "Southeastern US Day 30: Magnolia Plantation and Gardens"
 date = 2023-04-16T16:30:40-04:00
 updated = 2023-04-17T12:43:34-04:00
 

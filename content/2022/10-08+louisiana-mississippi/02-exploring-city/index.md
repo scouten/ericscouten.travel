@@ -1,5 +1,5 @@
 +++
-title = "Day 2: Exploring the City"
+title = "Louisiana and Mississippi Day 2: Exploring the City"
 date = 2022-10-09T18:51:24.491-05:00
 updated = 2022-11-24T18:22:25-07:00
 

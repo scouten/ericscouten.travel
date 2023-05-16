@@ -1,5 +1,5 @@
 +++
-title = "Day 2: Pop Goes the …"
+title = "Southeastern US Day 2: Pop Goes the …"
 date = 2023-03-19T18:42:42.409-04:00
 updated = 2023-03-20T21:33:36-04:00
 

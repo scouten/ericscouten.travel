@@ -1,5 +1,5 @@
 +++
-title = "Day 6: Guayama and Húcares"
+title = "Puerto Rico Day 6: Guayama and Húcares"
 date = 2021-12-30
 updated = 2022-01-08T18:41:49-08:00
 

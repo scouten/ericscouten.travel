@@ -1,5 +1,5 @@
 +++
-title = "Day 9: Panama Canal"
+title = "Caribbean Day 9: Panama Canal"
 date = 2018-01-03T16:48:43-05:00
 updated = 2023-05-06T22:38:35-07:00
 

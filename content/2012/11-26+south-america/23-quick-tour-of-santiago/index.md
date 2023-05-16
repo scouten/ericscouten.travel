@@ -1,5 +1,5 @@
 +++
-title = "Day 23: A Quick Tour of Santiago"
+title = "South America Day 23: A Quick Tour of Santiago"
 date = 2012-12-18T15:46:56-03:00
 updated = 2023-02-19T18:31:50-07:00
 

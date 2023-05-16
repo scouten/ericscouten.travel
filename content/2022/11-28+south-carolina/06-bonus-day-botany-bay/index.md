@@ -1,5 +1,5 @@
 +++
-title = "Day 6 (Bonus Day): Botany Bay"
+title = "South Carolina Day 6 (Bonus Day): Botany Bay"
 date = 2022-12-03T11:35:05.278-05:00
 updated = 2022-12-31T12:44:40-08:00
 

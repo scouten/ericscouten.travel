@@ -1,5 +1,5 @@
 +++
-title = "Day 3: Middleton Place"
+title = "South Carolina Day 3: Middleton Place"
 date = 2022-11-30T14:02:13.858-05:00
 updated = 2022-12-28T21:58:42-08:00
 

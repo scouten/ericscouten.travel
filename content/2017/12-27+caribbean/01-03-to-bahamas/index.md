@@ -1,5 +1,5 @@
 +++
-title = "Days 1 to 3: To the Bahamas"
+title = "Caribbean Days 1 to 3: To the Bahamas"
 date = 2017-12-28T15:44:34-05:00
 
 [taxonomies]

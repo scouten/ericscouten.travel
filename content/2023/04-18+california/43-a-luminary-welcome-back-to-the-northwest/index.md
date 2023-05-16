@@ -1,5 +1,5 @@
 +++
-title = "Day 43: A Luminary Welcome Back to the Northwest"
+title = "California Day 43: A Luminary Welcome Back to the Northwest"
 date = 2023-04-28T21:00:03.486-07:00
 updated = 2023-05-01T11:35:58-07:00
 

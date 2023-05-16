@@ -1,5 +1,5 @@
 +++
-title = "Day 10: Sunset in Charleston"
+title = "Southeastern US Day 10: Sunset in Charleston"
 date = 2023-03-27T19:50:20.343-04:00
 
 [taxonomies]

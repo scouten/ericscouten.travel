@@ -1,5 +1,5 @@
 +++
-title = "Day 13: Hello, Uruguay!"
+title = "South America Day 13: Hello, Uruguay!"
 date = 2012-12-08T19:50:22-03:00
 updated = 2023-01-06T20:25:20-08:00
 

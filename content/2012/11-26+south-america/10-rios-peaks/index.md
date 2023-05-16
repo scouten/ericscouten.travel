@@ -1,5 +1,5 @@
 +++
-title = "Day 10: Rio’s Peaks"
+title = "South America Day 10: Rio’s Peaks"
 date = 2012-12-05T11:56:56-03:00
 updated = 2023-01-02T14:56:41-08:00
 

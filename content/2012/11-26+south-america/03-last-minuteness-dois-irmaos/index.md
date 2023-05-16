@@ -1,5 +1,5 @@
 +++
-title = "Day 3: Last-Minuteness / Dois Irmãos"
+title = "South America Day 3: Last-Minuteness / Dois Irmãos"
 date = 2012-11-28T20:09:43-02:00
 updated = 2022-09-02T10:56:02-07:00
 

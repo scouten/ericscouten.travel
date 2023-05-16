@@ -1,5 +1,5 @@
 +++
-title = "Day 26: Christmas Parades"
+title = "South America Day 26: Christmas Parades"
 date = 2012-12-21T11:05:06.03-05:00
 updated = 2023-02-24T20:30:00-08:00
 

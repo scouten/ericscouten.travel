@@ -1,5 +1,5 @@
 +++
-title = "Day 6: Gator Tour!"
+title = "Louisiana and Mississippi Day 6: Gator Tour!"
 date = 2022-10-13T13:33:24-05:00
 updated = 2022-11-25T16:14:52-07:00
 

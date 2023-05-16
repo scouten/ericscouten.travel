@@ -1,5 +1,5 @@
 +++
-title = "Day 8: Cabo Rojo"
+title = "Puerto Rico Day 8: Cabo Rojo"
 date = 2022-01-01
 updated = 2022-01-10T19:35:56-08:00
 

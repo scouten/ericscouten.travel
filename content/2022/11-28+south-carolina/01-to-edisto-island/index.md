@@ -1,5 +1,5 @@
 +++
-title = "Day 1: To Edisto Island"
+title = "South Carolina Day 1: To Edisto Island"
 date = 2022-11-28T17:08:20.701-05:00
 updated = 2022-12-27T14:59:29-08:00
 

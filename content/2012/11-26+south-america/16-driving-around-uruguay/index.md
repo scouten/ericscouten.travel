@@ -1,5 +1,5 @@
 +++
-title = "Days 14-16: Driving around Uruguay"
+title = "South America Days 14-16: Driving around Uruguay"
 date = 2012-12-11T15:56:00-03:00
 updated = 2023-01-07T12:18:03-08:00
 

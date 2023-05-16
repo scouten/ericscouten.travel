@@ -1,5 +1,5 @@
 +++
-title = "Day 2: I Won’t Starve"
+title = "South America Day 2: I Won’t Starve"
 date = 2012-11-27T14:17:32-02:00
 updated = 2022-08-31T14:58:28-07:00
 

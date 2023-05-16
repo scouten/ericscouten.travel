@@ -1,5 +1,5 @@
 +++
-title = "Day 5: Guanella Pass"
+title = "Colorado and Utah Day 5: Guanella Pass"
 date = 2022-08-21T15:27:10-06:00
 updated = 2022-10-09T17:16:57-07:00
 

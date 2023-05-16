@@ -1,5 +1,5 @@
 +++
-title = "Days 40-42: Fun with the Team"
+title = "California Days 40-42: Fun with the Team"
 date = 2023-04-26T12:03:18-07:00
 updated = 2023-04-28T09:05:07-07:00
 

@@ -1,5 +1,5 @@
 +++
-title = "Day 9: Ponce and Fajardo"
+title = "Puerto Rico Day 9: Ponce and Fajardo"
 date = 2022-01-02
 updated = 2022-01-13T17:40:46-08:00
 

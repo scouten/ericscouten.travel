@@ -1,5 +1,5 @@
 +++
-title = "Day 1: To Atlanta"
+title = "Southeastern US Day 1: To Atlanta"
 date = 2023-03-18T21:47:00-04:00
 
 [taxonomies]

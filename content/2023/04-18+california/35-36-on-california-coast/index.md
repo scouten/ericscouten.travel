@@ -1,5 +1,5 @@
 +++
-title = "Days 35 and 36: On the California Coast"
+title = "California Days 35 and 36: On the California Coast"
 date = 2023-04-21T19:59:20.068-07:00
 updated = 2023-04-23T15:12:45-07:00
 

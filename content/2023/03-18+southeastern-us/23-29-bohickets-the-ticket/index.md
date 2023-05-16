@@ -1,5 +1,5 @@
 +++
-title = "Days 23-29: Bohicket’s the Ticket!"
+title = "Southeastern US Days 23-29: Bohicket’s the Ticket!"
 date = 2023-04-15T15:52:59-04:00
 
 [taxonomies]

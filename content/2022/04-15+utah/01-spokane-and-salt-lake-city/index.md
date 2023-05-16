@@ -1,5 +1,5 @@
 +++
-title = "Day 1: Spokane and Salt Lake City"
+title = "Utah Day 1: Spokane and Salt Lake City"
 date = 2022-04-15T18:58:04.973-06:00
 updated = 2022-05-02T12:43:58-07:00
 
