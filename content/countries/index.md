@@ -45,7 +45,8 @@ I've driven a car in each of the 55 countries and territories listed below marke
     years = "2019"
     image = "es-3916-015"
     caption = "La Marsa, Tunisia"
-    drive = false) %}
+    drive = false
+    country_term = true) %}
 
 My first visit to Africa.
 
@@ -58,7 +59,8 @@ My first visit to Africa.
     years = "2019"
     image = "es-3909-009"
     caption = "Senglea, Malta"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 72
