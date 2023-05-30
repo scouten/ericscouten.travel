@@ -9,7 +9,7 @@ country = ["Tunisia"]
 [extra]
 first_published_on = "ericscouten.com"
 distance = "56 km / 35 mi"
-route = "city, state, to city, state"
+route = "Mohammedia to Sidi Bou Said, Tunisia"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [36.605, 10.166], ne = [36.874, 10.352]}
