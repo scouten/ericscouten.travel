@@ -10,7 +10,7 @@ country = ["Japan", "Tunisia"]
 distance = "25,912 km / 16,101 mi"
 route = "Tunis, Tunisia, to Kyoto, Japan"
 markers = "markers.js"
-track = "track.kml"
+track = "track2.kml"
 bounds = {sw = [25.079, 10.157], ne = [60.000, -122.294]}
 # bounds = {sw = [25.079, 10.157], ne = [87.935, -122.294]}
 cover = "es-3921-047"
