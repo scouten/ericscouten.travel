@@ -36,7 +36,8 @@ I've driven a car in each of the 55 countries and territories listed below marke
     drive = true
     image = "es-3932-202"
     title = "Sunrise, Mount Fuji"
-    caption = "Yamanakako, Yamanashi, Japan") }}
+    caption = "Yamanakako, Yamanashi, Japan"
+    country_term = true) }}
 
 {% es_country(
     seq = 74
