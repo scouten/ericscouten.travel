@@ -38,6 +38,11 @@ First, let's bid farewell to Tunisia, as seen on departure from Tunis-Carthage A
 
 {{ es_image(id = "es-3921-047", caption = "above the Mediterranean Ocean, south of Greece") }}
 
+The flight into Tunis took a rather curvy path for two reasons, as I understand it:
+
+1. Israeli airspace is closed to Emirates airlines because the two countries do not have diplomatic relations.
+2. There were heavy thunderstorms over the part of Saudi Arabia where the "normal" flight path would have taken us. We got some turbulence for a bit, but judging by the lightning flashes I saw out my window (right/south side of the plane), we were wise to divert to the north as we did.
+
 Not much from my other flights, as it was dark much of the time.
 
 Ayla and I made a few videos of the passing countryside on the train from Ōsaka to Kyoto.
