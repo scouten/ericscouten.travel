@@ -41,14 +41,6 @@ We started today with a photo walk through [Heian Shrine](https://en.wikipedia.o
 
 {{ es_image(id = "es-3932-152", caption = "Heian Shrine, Kyōto, Japan") }}
 
-Ayla especially enjoyed the peach juice available from the vending machines here and there ...
-
-{{ es_image(id = "es-3930-006", caption = "Kyōto, Japan") }}
-
-One last view from where we were staying before moving on:
-
-{{ es_image(id = "es-3930-010", caption = "Kyōto, Japan") }}
-
 {{ es_image(id = "es-3932-158", caption = "Kyōto, Japan") }}
 
 Next up ... a very fast train!
