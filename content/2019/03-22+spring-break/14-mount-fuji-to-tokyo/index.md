@@ -15,7 +15,7 @@ bounds = {sw = [35.099, 138.852], ne = [35.709, 139.772]}
 cover = "es-3932-202"
 +++
 
-Being the crazy photographer that I am, I awoke at 5am to capture sunrise at Mount Fuji. I was blessed with good weather that morning, and the resulting photo is the lead photo for today.
+Being the crazy photographer that I am, I awoke at 5am to capture sunrise at Mount Fuji. I was blessed with good weather this morning, and the resulting photo is the lead photo for today.
 
 <!-- more -->
 
