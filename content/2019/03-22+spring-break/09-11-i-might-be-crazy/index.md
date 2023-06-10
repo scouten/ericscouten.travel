@@ -43,7 +43,17 @@ The flight into Tunis took a rather curvy path for two reasons, as I understand 
 1. Israeli airspace is closed to Emirates airlines because the two countries do not have diplomatic relations.
 2. There were heavy thunderstorms over the part of Saudi Arabia where the "normal" flight path would have taken us. We got some turbulence for a bit, but judging by the lightning flashes I saw out my window (right/south side of the plane), we were wise to divert to the north as we did.
 
-Not much from my other flights, as it was dark much of the time.
+...
+
+Problem: Power outlet at my seat on the plane is loose. Laptop's power adapter falls out immediately.
+
+Solution: This appears to be one of those "we'll fit anything plugs." Insert an otherwise-unnecessary UK-to-US power adapter (which I just happened to have handy) into the plug and then insert laptop power adapter into that.
+
+Problem solved. #travelgeeksrule
+
+{{ es_image(id = "es-3925-002", caption = "Pacific Ocean, west of Ketchikan, Alaska") }}
+
+...
 
 Ayla and I made a few videos of the passing countryside on the train from Ōsaka to Kyoto.
 
