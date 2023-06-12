@@ -32,3 +32,21 @@ The subway map is _just_ a little complicated ...
 {{ es_vimeo(id = "es-3940-028", vmid = "835263566", caption = "Ota City, Tōkyō, Japan") }}
 
 We've enjoyed our time in Japan and look forward to returning some day!
+
+## Postscript from Seattle
+
+Finally back in Seattle, I had this funny exchange:
+
+**Ferry toll booth attendant:** "How's your day going?"
+
+**Me:** "Good. Yours?"
+
+**Him:** "Sleepy. I had to wake up at four this morning."
+
+**Me:** "I woke up in Tokyo this morning."
+
+**Him** _(thinks a moment)_: "I think you have me beat."
+
+**Me:** "I think I do."
+
+😹😳
