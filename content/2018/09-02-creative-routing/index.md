@@ -15,7 +15,7 @@ bounds = {sw = [46.622, -122.713], ne = [47.760, -120.440]}
 cover = "es-3778-002"
 +++
 
-Give me 10 hours to drive from Bainbridge Island to Seattle and creative routing will occur.
+Give me ten hours to drive from Bainbridge Island to Seattle and creative routing will occur.
 
 <!-- more -->
 
