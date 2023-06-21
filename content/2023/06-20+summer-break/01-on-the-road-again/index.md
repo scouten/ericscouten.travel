@@ -7,6 +7,7 @@ updated = 2023-06-21T08:10:14-07:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110582885939544936"
 distance = "422 km / 262 mi"
 route = "Olympia to Richland, Washington"
 markers = "markers.js"
