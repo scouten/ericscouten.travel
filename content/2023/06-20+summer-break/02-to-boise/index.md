@@ -7,6 +7,7 @@ updated = 2023-06-21T22:24:32-06:00
 state = ["Idaho", "Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110586019996114300"
 distance = "660 km / 410 mi"
 route = "Richland, Washington, to Boise, Idaho"
 markers = "markers.js"
