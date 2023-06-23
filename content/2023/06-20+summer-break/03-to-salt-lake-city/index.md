@@ -7,6 +7,7 @@ updated = 2023-06-22T22:40:16-06:00
 state = ["Idaho", "Utah"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110591722324640108"
 distance = "732 km / 455 mi"
 route = "city, state, to city, state"
 markers = "markers.js"
