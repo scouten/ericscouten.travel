@@ -7,6 +7,7 @@ updated = 2023-06-25T22:24:17-07:00
 state = ["Nevada", "Utah"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110608925356921485"
 distance = "841 km / 522 mi"
 route = "Salt Lake City, Utah, to Reno, Nevada"
 markers = "markers.js"
