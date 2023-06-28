@@ -1,7 +1,6 @@
 +++
 title = "Summer Break Days 7 and 8: San Francisco"
 date = 2023-06-27T23:39:44-07:00
-updated = 2023-06-27T23:39:53-07:00
 
 [taxonomies]
 state = ["California", "Nevada"]
