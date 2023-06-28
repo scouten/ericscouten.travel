@@ -6,6 +6,7 @@ date = 2023-06-27T23:39:44-07:00
 state = ["California", "Nevada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110620508338362251"
 distance = "553 km / 343 mi"
 route = "Reno, Nevada, to Half Moon Bay, California"
 markers = "markers.js"
