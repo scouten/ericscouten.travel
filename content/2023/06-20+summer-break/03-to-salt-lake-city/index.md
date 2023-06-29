@@ -9,7 +9,7 @@ state = ["Idaho", "Utah"]
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110591722324640108"
 distance = "732 km / 455 mi"
-route = "city, state, to city, state"
+route = "Boise, Idaho, to Salt Lake City, Utah"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [40.746, -116.203], ne = [43.611, -111.891]}
