@@ -12,6 +12,9 @@ build_search_index = true
 generate_feed = true
 feed_filename = "rss.xml"
 
+[search]
+index_format = "elasticlunr_json"
+
 [markdown]
 highlight_code = false
 smart_punctuation = true
