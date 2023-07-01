@@ -7,6 +7,7 @@ updated = 2023-07-01T12:27:26-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/110640612387328875"
 distance = "1758 km / 1092 mi"
 route = "Half Moon Bay, California, to Poulsbo, Washington"
 markers = "markers.js"
