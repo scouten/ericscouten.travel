@@ -52,4 +52,8 @@ A few of the photos are from my dinner with Thor at [Oloroso](https://www.oloros
 
 As I write this, I am at the airport in Newark, New Jersey, awaiting word that it’s time to board my flight to Dublin.
 
+Good news: It looks like Hurricane Florence did not significantly impact my plans on the East Coast this weekend. (I went farther north than its path.)
+
+Bad news: It looks like Hurricane Helene will make a direct hit on Ireland when I'm there, although it is expected to weaken to a tropical storm or even less by then. I'm warned to expect heavy rain next week.
+
 I will be working remotely from Dublin this following week and then traveling in other parts of Europe for the week following. Stay tuned. 😊
