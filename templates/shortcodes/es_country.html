@@ -1,8 +1,13 @@
 {% set country_link = false -%}
 {% set country_slug = name | slugify -%}
-{% if country_term -%}
-  {% set country_link = "/country/" ~ country_slug ~ "/" -%}
-{% endif -%}
+{%- if country_term -%}
+  {%- if country_term is string -%}
+    {%- set country_slug = country_term | slugify -%}
+    {%- set country_link = "/country/" ~ country_slug ~ "/" -%}
+  {%- else -%}
+    {%- set country_link = "/country/" ~ country_slug ~ "/" -%}
+  {%- endif -%}
+{%- endif -%}
 {% if state_term -%}
   {% set country_link = "/state/" ~ country_slug ~ "/" -%}
 {% endif -%}

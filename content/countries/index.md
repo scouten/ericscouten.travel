@@ -247,7 +247,8 @@ My first visit to Africa.
     image = "es-3795-011"
     title = "Unperfected"
     caption = "south of Magheraveely, Northern Ireland, 2018"
-    drive = true) }}
+    drive = true
+    country_term = "Northern Ireland") }}
 
 {{ es_country(
     seq = 52
@@ -257,7 +258,8 @@ My first visit to Africa.
     image = "es-3528-007"
     title = "Last Ray of Hope"
     caption = "Inch Beach, County Kerry, Ireland, 2017"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 51
