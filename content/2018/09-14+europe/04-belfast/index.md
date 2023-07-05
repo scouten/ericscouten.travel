@@ -4,7 +4,7 @@ date = 2018-09-20T11:27:43.418+01:00
 updated = 2018-09-20T20:25:18+01:00
 
 [taxonomies]
-country = ["United Kingdom"]
+country = ["Northern Ireland", "United Kingdom"]
 
 [extra]
 first_published_on = "ericscouten.com"
