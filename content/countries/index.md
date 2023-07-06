@@ -102,12 +102,13 @@ My first visit to Africa.
 
 {{ es_country(
     seq = 68
-    name = "Isle of Man"
+    name = "Isle of Man, United Kingdom"
     flag = "🇮🇲"
     years = "2018"
     image = "es-3802-063"
     caption = "south of Ramsey, Isle of Man, United Kingdom"
-    drive = true) }}
+    drive = true
+    country_term = "Isle of Man") }}
 
 {{ es_country(
     seq = 67
