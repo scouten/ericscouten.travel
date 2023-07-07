@@ -98,7 +98,8 @@ My first visit to Africa.
     years = "2018"
     image = "es-3805-004"
     caption = "north of Welshpool, Wales, United Kingdom"
-    drive = true) }}
+    drive = true
+    country_term = "Wales") }}
 
 {{ es_country(
     seq = 68
@@ -400,7 +401,8 @@ My first visit to Africa.
     image = "es-2485-003a"
     title = "Palace of Westminster"
     caption = "London, England, 2013"
-    drive = true) }}
+    drive = true
+    country_term = "England") }}
 
 {{ es_country(
     seq = 36
