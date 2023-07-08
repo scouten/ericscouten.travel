@@ -89,7 +89,8 @@ My first visit to Africa.
     years = "2018"
     image = "es-3814-037"
     caption = "Mont Orgueil Castle, Saint Martin, Jersey, United Kingdom"
-    drive = true) }}
+    drive = true
+    country_term = "Jersey") }}
 
 {{ es_country(
     seq = 69
