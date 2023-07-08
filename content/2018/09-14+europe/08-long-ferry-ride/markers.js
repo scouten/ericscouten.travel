@@ -1,0 +1,26 @@
+function addGpxMarkers(map) {
+    return [
+        addGpxMarker(map, "es-3809-005", 50.707537, -1.989803),
+        addGpxMarker(map, "es-3808-005", 50.700960, -1.959520),
+        addGpxMarker(map, "es-3808-021", 50.686710, -1.954797),
+        addGpxMarker(map, "es-3808-032", 50.680171, -1.945840),
+        addGpxMarker(map, "es-3808-055", 50.651519, -1.915427),
+        addGpxMarker(map, "es-3808-061", 50.639665, -1.891450),
+        addGpxMarker(map, "es-3809-009", 50.617600, -1.875900),
+        addGpxMarker(map, "es-3811-004", 49.456094, -2.397288),
+        addGpxMarker(map, "es-3811-030", 49.455775, -2.524043),
+        addGpxMarker(map, "es-3811-055", 49.456055, -2.527848),
+        addGpxMarker(map, "es-3811-077", 49.169627, -2.249147),
+        addGpxMarker(map, "es-3811-095", 49.160777, -2.182897),
+        addGpxMarker(map, "es-3811-097", 49.160728, -2.175273),
+        addGpxMarker(map, "es-3811-116", 49.164478, -2.132282),
+        addGpxMarker(map, "es-3811-145", 49.175815, -2.117130),
+        addGpxMarker(map, "es-3811-149", 49.176378, -2.116292),
+        addGpxMarker(map, "es-3811-157", 49.257293, -2.224805),
+        addGpxMarker(map, "es-3811-162", 49.240690, -2.249523),
+        addGpxMarker(map, "es-3811-166", 49.240587, -2.248938),
+        addGpxMarker(map, "es-3811-177", 49.240573, -2.249260),
+        addGpxMarker(map, "es-3811-179", 49.234852, -2.227018),
+        addGpxMarker(map, "es-3811-185", 49.234778, -2.226895),
+    ]
+}
