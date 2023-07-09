@@ -46,6 +46,8 @@ That's quite the wake! At the time I clocked us going 60 km/h / 32 knots across 
 
 Here are a few photos of Guernsey. I wasn't allowed to disembark the ferry, so these photos are what I could see from port.
 
+Maybe someday I'll be back to explore the Channel Islands in more detail. I especially regret that I couldn't make time to spend on Guernsey. On the other hand, I now know that I'd want to make time for a day trip to nearby Sark, so if/when I do return to Guernsey, I;ll be better prepared.
+
 {{ es_image(id = "es-3811-030", caption = "Saint Peter Port Harbour, Saint Peter Port, Guernsey, United Kingdom") }}
 
 {{ es_image(id = "es-3811-055", caption = "Saint Peter Port Harbour, Saint Peter Port, Guernsey, United Kingdom") }}
