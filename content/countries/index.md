@@ -680,7 +680,8 @@ My first visit to Africa.
     image = "es-2676-012"
     title = "Periscope Up"
     caption = "Hamburg, Germany, 2014"
-    drive = true) %}
+    drive = true
+    country_term = true) %}
 
 I lived in Hamburg during the summer of 2013.
 
