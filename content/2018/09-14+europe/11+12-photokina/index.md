@@ -56,3 +56,9 @@ This morning I walked the halls of the epic [Photokina](https://www.photokina.co
 After the show, I took a little time to drive around Cologne before settling in for the evening.
 
 **2023 Update:** Sadly, it looks like this may well have been the last Photokina ever held. For the 2010s, Photokina exhibitions were held on an every-other-year basis. The next one would have been in the fall of 2020 and of course had to be canceled due to the pandemic. The show organizers have since posted a note stating that they have suspended the exhibition "for the time being." It is warmly remembered.
+
+· · ·
+
+This has been a very good trip, a good salve for my soul.
+
+Tomorrow I shall head home. I'm ready.
