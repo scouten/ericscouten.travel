@@ -22,7 +22,6 @@ I left Dublin this morning and flew to the Isle of Man, which is in the Irish Se
 
 <!-- more -->
 
-
 Good news: I drove over 160 km / 100 miles across the island and the picture-taking was amazing.
 
 Bad news: I was up very early this morning (curse you, insomnia!), so I don’t have a lot of energy left for writing after editing photos. They shall have to speak for themselves tonight.
@@ -89,3 +88,16 @@ Love the cast-in-iron navigational markers here ...
 
 {{ es_image(id = "es-3802-085", caption = "Douglas, Isle of Man, United Kingdom") }}
 
+. . .
+
+A funny story from this morning's travels, as described at the time on Facebook:
+
+It's going to be one of _those_ days, I see.
+
+Had a moment of panic that I had left my laptop somewhere in the airport terminal.
+
+Looked around for a moment and found it quickly.
+
+On my lap.
+
+This is what happens when you wake up three hours ahead of your alarm.
