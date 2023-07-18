@@ -272,7 +272,8 @@ My first visit to Africa.
     image = "es-3501-005"
     title = "The Gatekeeper’s Cottage"
     caption = "Kinross, Scotland"
-    drive = true) }}
+    drive = true
+    country_term = "Scotland") }}
 
 {{ es_country(
     seq = 50
