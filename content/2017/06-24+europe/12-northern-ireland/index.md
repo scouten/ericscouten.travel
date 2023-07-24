@@ -22,7 +22,7 @@ Borders are like magnets to me.
 
 If there's one nearby, I am compelled to cross it just to see what things are like on the other side. So, naturally, the thing we did on the first full day in Ireland was to cross the nearest available border.
 
-Given "the troubles" of recent decades, the crossing from the Republic of Ireland to Northern Ireland and back is remarkably understated. There's a small sign telling you that the speed limits use different measures (Ireland uses the metric system on its roads; the UK does not); the lane striping changes subtly; and that's about it. They don't even really announce the national border, making it even less ceremonial than border crossings in the Schengen area of mainland Europe and nothing resembling the enormous advertisements that announce most state borders within the US.
+Given "the troubles" of recent decades, the crossing from the Republic of Ireland to Northern Ireland and back is remarkably understated. There's a small sign telling you that the speed limits use different measures (Ireland uses the metric system on its roads; the UK does not), the lane striping changes subtly, and that's about it. They don't even really announce the national border, making it even less ceremonial than border crossings in the Schengen area of mainland Europe and nothing resembling the enormous advertisements that announce most state borders within the US.
 
 Today's photos are all from Northern Ireland. Given that I hail from Bainbridge Island in Washington State, I could not pass up the chance to visit the town of Banbridge, just a few miles over the border. The rural area near Banbridge offered some fun farmscapes.
 
