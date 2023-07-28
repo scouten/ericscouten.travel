@@ -650,7 +650,8 @@ My first visit to Africa.
     years = "2000"
     image = "es-0429-035"
     caption = "Covehead Harbour Lighthouse, Covehead Harbour, Prince Edward Island, Canada"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 10
