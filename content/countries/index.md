@@ -240,7 +240,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3559-027"
     caption = "Tregde, Norway"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 53
