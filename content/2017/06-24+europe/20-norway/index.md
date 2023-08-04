@@ -1,7 +1,7 @@
 +++
 title = "Europe Day 20: Norway!"
-date = 2017-07-14T13:46:07.121+01:00
-updated = 2017-07-14T22:35:22+02:00
+date = 2017-07-14T22:35:22+02:00
+updated = 2023-08-04T12:31:48-07:00
 
 [taxonomies]
 country = ["Ireland", "Norway"]
