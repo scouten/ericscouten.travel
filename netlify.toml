@@ -21,3 +21,9 @@ from = "/country"
 to = "/log"
 force = true
 status = 301
+
+[[redirects]]
+from = "/2023/06-20+summer-break/36-38-into-british-columbia/"
+to = "/2023/07-25-british-columbia/"
+force = true
+status = 301

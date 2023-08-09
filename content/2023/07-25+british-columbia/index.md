@@ -1,5 +1,5 @@
 +++
-title = "Summer Break Resumes: Into British Columbia"
+title = "Into British Columbia"
 date = 2023-07-27T23:32:49-07:00
 updated = 2023-07-27T23:34:21-07:00
 
@@ -16,7 +16,7 @@ bounds = {sw = [48.417, -123.274], ne = [52.987, -121.287]}
 cover = "es-4564-027"
 +++
 
-After an extended intermission at home, our summer break road trip has resumed. My daughter and I both spent some time in the San Juan Islands. (See [146 Parks](https://146parks.blog) for some details of my explorations.) Since then, we've headed north into parts of British Columbia neither of us have seen before.
+My daughter and I are on one last road trip before our summer vacation comes to an end. We both spent some time in the San Juan Islands over the last few days. (See [146 Parks](https://146parks.blog) for some details of my explorations.) Since then, we've headed north into parts of British Columbia neither of us have seen before.
 
 <!-- more -->
 
