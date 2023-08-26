@@ -222,7 +222,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3575-038"
     caption = "Tallinn, Estonia"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 55
@@ -231,7 +232,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3563-016"
     caption = "Helsinki, Finland"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 54
