@@ -204,7 +204,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3579-022"
     caption = "Vilnius, Lithuania"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 57
@@ -213,7 +214,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3579-007"
     caption = "Vecumnieki, Latvia"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 56
