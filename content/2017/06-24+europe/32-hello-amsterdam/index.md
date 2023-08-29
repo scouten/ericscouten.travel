@@ -7,18 +7,20 @@ updated = 2023-08-28T20:57:34-07:00
 country = ["Lithuania", "Netherlands"]
 
 [extra]
-first_published_on = "e"
+first_published_on = "ericscouten.com"
 distance = "1553 km / 965 mi"
-route = "city, state, to city, state"
+route = "Vilnius, Lithuania, to Amsterdam, The Netherlands"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [52.298, 4.711], ne = [54.972, 25.307]}
 cover = "es-3583-012"
 +++
 
-(witty commentary goes here)
+Today I flew to Amsterdam where I will shortly be meeting some friends.
 
 <!-- more -->
+
+I know I said there wouldn't be any photos today, but ... I lied. Today's photo selections are from brief photo walks in both Vilnius and Amsterdam and also from takeoff and landing.
 
 {{ es_image(id = "es-3582-003", caption = "Near my hotel in central Vilnius. · Vilnius, Lithuania") }}
 
@@ -46,11 +48,14 @@ cover = "es-3583-012"
 
 {{ es_image(id = "es-3583-018", caption = "above Zuidschermer, The Netherlands") }}
 
-{{ es_image(id = "es-3583-012", caption = "Ahhh … love love ❤️ this place! · above Buitenhuizen, The Netherlands") }}
+Ahhh ... love love ❤️ this place!
+
+{{ es_image(id = "es-3583-012", caption = "above Buitenhuizen, The Netherlands") }}
 
 {{ es_image(id = "es-3584-014", caption = "Amsterdam, The Netherlands") }}
 
 {{ es_image(id = "es-3584-008", caption = "Amsterdam, The Netherlands") }}
 
-{{ es_image(id = "es-3584-006", caption = "Love, love, love the canals in Amsterdam. · Amsterdam, The Netherlands") }}
+Love, love, love the canals in Amsterdam ...
 
+{{ es_image(id = "es-3584-006", caption = "Amsterdam, The Netherlands") }}
