@@ -16,17 +16,23 @@ bounds = {sw = [50.936, 4.870], ne = [52.385, 7.020]}
 cover = "es-3586-028"
 +++
 
-I thought I would take the day off from photos and such, but ... here I am. (Somebody help me, I can't stop!)
+I've spent most of the last 24 hours saying "How could you not love this?" to myself. 
+
+Amsterdam was at its best: perfect weather, everyone out and enjoying the canals and the cafés. 
+
+Alas, it was time to move on. This afternoon I took the train to Cologne.
 
 <!-- more -->
-
-Had the chance to catch up with good friends who I haven't seen in a long time this evening. After we were done and they headed home, I took some time to walk through Cologne's main cathedral and made a few photos there.
 
 {{ es_image(id = "es-3585-005", caption = "Amsterdam, The Netherlands") }}
 
 {{ es_image(id = "es-3585-010", caption = "Amsterdam, The Netherlands") }}
 
+Once I had arrived and checked in, I had the chance to catch up with good friends who I haven't seen in a long time this evening.
+
 {{ es_image(id = "es-3585-007", caption = "Heumarkt, Cologne, Germany") }}
+
+After we were done and they headed home, I took some time to walk through Cologne's main cathedral and made a few photos there.
 
 {{ es_image(id = "es-3586-005n", caption = "Cologne Cathedral, Cologne, Germany") }}
 
