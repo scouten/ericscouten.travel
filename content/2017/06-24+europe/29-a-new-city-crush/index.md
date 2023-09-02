@@ -24,7 +24,7 @@ Rather than use a taxi, I walked the 20-30 minutes from the ferry terminal to my
 
 This makes three European cities that I have full-on crushes on ... the other two being Amsterdam (see you soon!) and Barcelona. Tallinn goes high on my must-revisit list.
 
-Here's a little taste of why:
+My hotel is right in the heart of the old town, which made it easy for me to go out for a photo walk. Here are some of my favorite sights:
 
 {{ es_image(id = "es-3573-003") }}
 
@@ -91,3 +91,9 @@ Here's a little taste of why:
 {{ es_image(id = "es-3575-053") }}
 
 {{ es_image(id = "es-3575-057") }}
+
+One of the things that fascinates me about Tallinn is the extent to which any traces of the Soviet era have been eliminated. (Estonia was occupied by the USSR from 1944 to 1991.)
+
+Very little is printed in Russian, even though it is only a 2.5 hour drive to the Russian border from here. (To be clear, unlike most borders, _that_ border is not tempting to me right now). Little is evident of the infamously austere Soviet architecture.
+
+By contrast, much remains of 18th-century architecture (and probably before that, even). The city center is heavily focused on being walkable. Today's weather is highly conducive to that (sunny at 72°F / 22°C) and _lots_ of people were out and about.

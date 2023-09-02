@@ -44,7 +44,15 @@ Herewith, some photos from rural Latvia and Lithuania.
 
 {{ es_image(id = "es-3581-012", caption = "Želva, Lithuania") }}
 
-I would have loved to explore the old town of Vilnius, where I am now staying, but while it was daylight, it was raining hard here. (When I drove in, a car in an adjacent lane hit a rut in the pavement and kicked up so much water that I could not see for a couple of seconds!)
+Tonight I'm in Vilnius where the airport is closed for repairs.
+
+Good news: I knew that already, so tomorrow's flight is booked from Kaunas instead with enough time to drive there. 
+
+Good news (for me) #2: Because the airport is closed, there aren't so many tourists. I got a very nice upgrade to my room.
+
+Good news #3: Old town Vilnius looks charming.
+
+Bad news: It's raining like crazy here, so no photo walk tonight. (When I drove in, a car in an adjacent lane hit a rut in the pavement and kicked up so much water that I could not see for a couple of seconds!)
 
 {{ es_image(id = "es-3579-022", caption = "Vilnius, Lithuania") }}
 
