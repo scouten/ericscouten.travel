@@ -186,7 +186,8 @@ My first visit to Africa.
     flag = "🇻🇦"
     years = "2017"
     image = "es-3589-021"
-    drive = false) }}
+    drive = false
+    country_term = true) }}
 
 {{ es_country(
     seq = 59
@@ -195,7 +196,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3588-013"
     caption = "Borgo Maggiore, San Marino"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 58
