@@ -244,7 +244,7 @@ My first visit to Africa.
     name = "Norway"
     flag = "🇳🇴"
     years = "2017"
-    image = "es-3559-027"
+    image = "es-3559-023"
     caption = "Tregde, Norway"
     drive = true
     country_term = true) }}
