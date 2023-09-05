@@ -178,7 +178,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3593-018"
     caption = "Râmnicu Vâlcea, Romania"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 60
