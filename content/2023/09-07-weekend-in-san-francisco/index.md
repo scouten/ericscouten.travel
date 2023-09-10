@@ -6,6 +6,7 @@ date = 2023-09-10T15:15:42.628-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111043441621388497"
 markers = "markers.js"
 route = "around San Francisco, California"
 bounds = {sw = [37.645, -122.411], ne = [37.811, -122.315]}
