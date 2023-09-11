@@ -7,6 +7,7 @@ updated = 2023-09-10T22:45:40-07:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111045039352382274"
 distance = "11 km / 7 mi"
 route = "around Budd Inlet, near Olympia, Washington"
 markers = "markers.js"
