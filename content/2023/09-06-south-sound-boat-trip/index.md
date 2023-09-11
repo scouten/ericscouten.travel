@@ -19,6 +19,8 @@ Lisa and I bumped into some friends of ours in Olympia on Wednesday night. They 
 
 <!-- more -->
 
+Thank you, Brett and Sandi for a fun evening!
+
 {{ es_image(id = "es-4571-017") }}
 
 {{ es_image(id = "es-4571-019") }}
