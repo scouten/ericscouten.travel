@@ -55,14 +55,12 @@
     {% if body or title or caption or country_link -%}
     <div class="content">
     {% if title or caption -%}
-    <div class="es_image">
-      <div class="caption">
-        {% if title -%}
-          <span class="caption-title">{{ title }} </span>
-          {% if caption -%} &middot; {% endif -%}
-        {% endif -%}
-        {% if caption -%}{{ caption }}{% endif -%}
-      </div>
+    <div class="card-image-caption">
+      {% if title -%}
+        <span class="caption-title">{{ title }} </span>
+        {% if caption -%} &middot; {% endif -%}
+      {% endif -%}
+      {% if caption -%}{{ caption }}{% endif -%}
     </div>
     {% endif -%}
     {% if body -%}
