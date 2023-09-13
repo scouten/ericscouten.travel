@@ -21,6 +21,18 @@ $accent-text-color: hsl(0, 0, 100%);
     .body { margin-bottom: 1.5em; }
 }
 
+.card-image-caption {
+    .caption-title {
+        font-style: normal;
+        font-weight: bold;
+    }
+
+    margin: .75em 0 1.5em;
+    font-style: italic;
+    font-size: 80%;
+    text-align: center;
+}
+
 cta {
     background-color: darken($main-section-background, 10%);
 }
