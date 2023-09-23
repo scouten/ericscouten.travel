@@ -9,7 +9,7 @@ country = ["Romania"]
 [extra]
 first_published_on = "ericscouten.com"
 distance = "579 km / 360 mi"
-route = "București to Sibiu, Romania, and back"
+route = "Bucharest to Sibiu, Romania, and back"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [44.428, 24.168], ne = [45.844, 26.113]}

@@ -9,7 +9,7 @@ country = ["Croatia", "Romania"]
 [extra]
 first_published_on = "ericscouten.com"
 distance = "1226 km / 762 mi"
-route = "București, Romania, to Pula, Croatia"
+route = "Bucharest, Romania, to Pula, Croatia"
 markers = "markers.js"
 track = "track.kml"
 bounds = {sw = [44.430, 13.834], ne = [46.405, 26.234]}
@@ -20,41 +20,41 @@ This morning I took a brief but very productive photo walk around the Old Town d
 
 <!-- more -->
 
-{{ es_image(id = "es-3595-001", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-001", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-010", caption = "Apparently U don’t know me so well? · București, Romania") }}
+{{ es_image(id = "es-3595-010", caption = "Apparently U don’t know me so well? · Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-013", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-013", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-016", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-016", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-022", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-022", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-058", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-058", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-067", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-067", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-070", title = "You Are Poor", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-070", title = "You Are Poor", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-073", title = "Ferrari Owners’ Club", caption = "Ironically, this is just 10m (30’) away from the “you are poor” grafitti. · București, Romania") }}
+{{ es_image(id = "es-3595-073", title = "Ferrari Owners’ Club", caption = "Ironically, this is just 10m (30’) away from the “you are poor” grafitti. · Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-079", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-079", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-082", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-082", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-088", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-088", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-097", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-097", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-106", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-106", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-112", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-112", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-115", caption = "București, Romania") }}
+{{ es_image(id = "es-3595-115", caption = "Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-124", caption = "Hotel Cișmigiu, București, Romania") }}
+{{ es_image(id = "es-3595-124", caption = "Hotel Cișmigiu, Bucharest, Romania") }}
 
-{{ es_image(id = "es-3595-130", caption = "Hotel Cișmigiu, București, Romania") }}
+{{ es_image(id = "es-3595-130", caption = "Hotel Cișmigiu, Bucharest, Romania") }}
 
 {{ es_image(id = "es-3596-004", caption = "From the air near Bucharest airport. · above Otopeni, Romania") }}
 
