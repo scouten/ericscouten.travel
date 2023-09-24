@@ -42,7 +42,7 @@ I was shooting this picture ...
 
 ... when I heard somebody behind me yelling, "Hrvatska? Hrvatska?"
 
-An older man was walking toward us quickly. He did not look at all friendly. At this moment, I remembered that "Hrvastka" is how you say Croatia in several of the local langauges. Our car had Croatian license plates.
+An older man was walking toward us. Quickly. He did not look at all friendly. At this moment, I remembered that "Hrvastka" is how you say Croatia in several of the local langauges. Our car had Croatian license plates.
 
 I interrupted: "No. No. We're American."
 
