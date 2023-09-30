@@ -29,7 +29,6 @@ es_site = "travel"
 map_clustering = false
 is_dark = true
 fathom_site_id = "FOORZJBV"
-plausible_site_id = "ericscouten.travel"
 
 [[taxonomies]]
 name = "country"
