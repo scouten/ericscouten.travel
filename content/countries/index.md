@@ -169,7 +169,8 @@ My first visit to Africa.
     years = "2017"
     image = "es-3601-001"
     caption = "Buje, Croatia"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 61
@@ -430,7 +431,8 @@ My first visit to Africa.
     years = "2013, 2015, 2017"
     image = "es-2472-028"
     caption = "Venice, Italy, 2013"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 34
@@ -439,7 +441,8 @@ My first visit to Africa.
     years = "2013, 2017"
     image = "es-2465-010"
     caption = "Dovje, Slovenia, 2013"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 33
@@ -448,7 +451,8 @@ My first visit to Africa.
     years = "2013, 2014, 2017"
     image = "es-3610-030"
     caption = "Radau, Austria, 2017"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 32
@@ -647,9 +651,10 @@ My first visit to Africa.
     name = "France"
     flag = "🇫🇷"
     years = "2001, 2013, 2015, 2017"
-    image = "es-0467-003"
-    caption = "Paris, France, 2001"
-    drive = true) }}
+    image = "es-3621-001"
+    caption = "Paris, France, 2017"
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 11
