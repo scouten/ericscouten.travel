@@ -22,6 +22,8 @@ I especially enjoyed the mountain regions and small rural villages. Here's a sam
 
 <!-- more -->
 
+For some reason this cracks me up: This morning I was driving on a 130 km/h (81 mph) expressway. There was a guy standing on the side of the road making sure his goats didn't stray onto the roadway. **(2023 Update: My cousin, an insufferable punster like me, asked at the time if I was on the "autobaaaan." 🤦🏻‍♂️)**
+
 If I had it to do over again, I would have spent more time in the valley between Brașov and Câmpina. By the time I got there, it was getting later than I wanted it to be, but I will remember it well. Next time, right?
 
 {{ es_image(id = "es-3593-002", caption = "Dumbrăvești, Romania") }}
