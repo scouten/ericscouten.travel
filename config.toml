@@ -29,6 +29,9 @@ es_site = "travel"
 map_clustering = false
 is_dark = true
 fathom_site_id = "FOORZJBV"
+hyvor_site_id = 9789
+comments_enabled_default = true
+section_reverse_default = true
 
 [[taxonomies]]
 name = "country"
