@@ -7,6 +7,7 @@ updated = 2023-10-13T21:28:52-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111279612547187489"
 markers = "markers.js"
 bounds = {sw = [37.404, -122.087], ne = [37.424, -122.067]}
 cover = "es-4588-046"
