@@ -7,6 +7,7 @@ updated = 2023-10-22T12:17:31-04:00
 state = ["Missouri", "South Carolina", "Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111279612723492546"
 distance = "4052 km / 2518 mi"
 route = "Seattle, Washington, to Edisto Island, South Carolina"
 markers = "markers.js"

@@ -7,6 +7,7 @@ updated = 2023-10-13T18:54:49-07:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111279612432615123"
 distance = "1.9 km / 1.2 mi"
 route = "Bob Bammert Grove Trail, west of Littlerock, Washington"
 markers = "markers.js"
