@@ -7,6 +7,7 @@ updated = 2023-10-29T23:10:05-04:00
 state = ["Georgia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111321813378434758"
 distance = "166 km / 103 mi"
 route = "Edisto Beach, South Carolina, to Savannah, Georgia"
 markers = "markers.js"
