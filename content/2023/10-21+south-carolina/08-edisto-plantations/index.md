@@ -7,6 +7,7 @@ updated = 2023-11-03T10:45:55-05:00
 state = ["South Carolina"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111347449331432452"
 distance = "251 km / 156 mi"
 route = "Savannah, Georgia, to Johns Island, South Carolina"
 markers = "markers.js"
