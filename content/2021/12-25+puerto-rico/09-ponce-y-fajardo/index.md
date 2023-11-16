@@ -32,7 +32,7 @@ On our way out of town, we were struck by the remains of the old municipal hospi
 
 {{ es_image(id="es-4301-087", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
 {{ es_image(id="es-4301-097", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
-{{ es_image(id="lr-1457", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-221-1457", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4301-101", caption = "Ponce, Puerto Rico") }}
 {{ es_image(id="es-4301-103", caption = "Ponce, Puerto Rico") }}
 {{ es_image(id="es-4301-106", caption = "Ponce, Puerto Rico") }}
@@ -44,8 +44,8 @@ We had heard about bioluminescent bays and that Puerto Rico had a few of them. W
 
 They advised us to arrive an hour early so we could find a parking place, because ... "well, you'll see why when you get here." Turns out there was either some kind of festival or big party and it took us a while to find a parking place. This was a lot of fun, but it made finding dinner before the tour ... challenging.
 
-{{ es_image(id="lr-1464", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-1467", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-221-1464", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-221-1467", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4301-126", caption = "Parque Recreativo, Fajardo, Puerto Rico") }}
 {{ es_image(id="es-4301-127", caption = "Parque Recreativo, Fajardo, Puerto Rico") }}
 
