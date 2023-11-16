@@ -23,7 +23,7 @@ What it _is_ is a very remote place towards the west side of Great Salt Lake. So
 
 We enjoyed what we could see from the road:
 
-{{ es_image(id="lr-1988", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-226-1988", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4361-088") }}
 {{ es_image(id="es-4361-140") }}
 {{ es_image(id="es-4361-148") }}
