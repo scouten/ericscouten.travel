@@ -29,9 +29,9 @@ I intend to someday revive my [long-defunct black-and-white photoblog](https://p
 
 {{ es_image(id="es-4291-005", title = "Le Chat Noir et Blanc") }}
 
-{{ es_image(id="lr-1182", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-1183", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-1186", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1182", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1183", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1186", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4290-031", caption = "Paseo del Morro, San Juan, Puerto Rico") }}
 {{ es_image(id="es-4290-039", caption = "Paseo del Morro, San Juan, Puerto Rico") }}
 {{ es_image(id="es-4290-048", caption = "Puerta de San Juan, San Juan, Puerto Rico") }}
