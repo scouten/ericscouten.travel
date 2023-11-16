@@ -31,7 +31,7 @@ We then drove to [Antelope Island State Park](https://stateparks.utah.gov/parks/
 {{ es_image(id="es-4361-201", caption = "Ladyfinger Point, Antelope Island State Park, west of Syracuse, Utah") }}
 {{ es_image(id="es-4361-202", caption = "Ladyfinger Point, Antelope Island State Park, west of Syracuse, Utah") }}
 {{ es_image(id="es-4361-203", caption = "Ladyfinger Point, Antelope Island State Park, west of Syracuse, Utah") }}
-{{ es_image(id="lr-2029", caption = "Ladyfinger Point, Antelope Island State Park, west of Syracuse, Utah", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-226-2029", caption = "Ladyfinger Point, Antelope Island State Park, west of Syracuse, Utah", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4361-214", caption = "Antelope Island State Park, west of Syracuse, Utah") }}
 {{ es_image(id="es-4361-217", caption = "Antelope Island State Park, west of Syracuse, Utah") }}
 {{ es_image(id="es-4361-221", caption = "Antelope Island State Park, west of Syracuse, Utah") }}
