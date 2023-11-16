@@ -22,7 +22,7 @@ Happy New Year! Today, we drove down to the southwesternmost point of Puerto Ric
 {{ es_image(id="es-4299-008p") }}
 {{ es_image(id="es-4299-025") }}
 {{ es_image(id="es-4299-027") }}
-{{ es_image(id="lr-1383", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-221-1383", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4299-035") }}
 {{ es_image(id="es-4299-046") }}
 {{ es_image(id="es-4299-055") }}
@@ -40,7 +40,7 @@ Later we met the property owners, Matt and Janine, who gave us a very nice tour 
 {{ es_image(id="es-4299-065") }}
 {{ es_image(id="es-4299-066") }}
 {{ es_image(id="es-4299-067") }}
-{{ es_image(id="lr-1401", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-221-1401", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4299-079") }}
 {{ es_image(id="es-4299-081") }}
 {{ es_image(id="es-4301-014") }}
