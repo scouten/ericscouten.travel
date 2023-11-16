@@ -41,18 +41,18 @@ We started at the [Castillo San Felipe del Morro](https://www.discoverpuertorico
 {{ es_image(id="es-4293-082", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
 {{ es_image(id="es-4293-086", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
 {{ es_image(id="es-4293-092", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
-{{ es_image(id="lr-1207", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1207", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4293-113", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
-{{ es_image(id="lr-1211", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1211", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4293-132", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
 {{ es_image(id="es-4293-134", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
-{{ es_image(id="lr-1219", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1219", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4293-153", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico") }}
 
 We then walked along the north coast, where we skirted the [la Perla (the Pearl)](https://www.discoverpuertorico.com/article/visiting-la-perla-neighborhood-old-san-juan) neighborhood.
 
 {{ es_image(id="es-4293-170") }}
-{{ es_image(id="lr-1230", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1230", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4293-184") }}
 {{ es_image(id="es-4293-189") }}
 {{ es_image(id="es-4293-199") }}

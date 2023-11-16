@@ -43,16 +43,16 @@ After Guayama, we drove a couple hours farther up the coast and found the coasta
 
 Along the coast we found the ruins of what must have been an elegant mansion in its time. It's now a canvas for many graffiti artists.
 
-{{ es_image(id="lr-1342", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1342", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4298-051", caption = "Húcares, Puerto Rico") }}
 {{ es_image(id="es-4298-053", caption = "Húcares, Puerto Rico") }}
-{{ es_image(id="lr-1345", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1345", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4298-054", caption = "I have questions. Húcares, Puerto Rico") }}
 {{ es_image(id="es-4298-059", caption = "Húcares, Puerto Rico") }}
 {{ es_image(id="es-4298-062", caption = "Húcares, Puerto Rico") }}
 {{ es_image(id="es-4298-063", caption = "Húcares, Puerto Rico") }}
-{{ es_image(id="lr-1352", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1352", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4298-067", caption = "Húcares, Puerto Rico") }}
 {{ es_image(id="es-4298-066", caption = "Húcares, Puerto Rico") }}
 {{ es_image(id="es-4298-069", caption = "Húcares, Puerto Rico") }}
-{{ es_image(id="lr-1359", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1359", caption = "Húcares, Puerto Rico", creator = "Lisa Rozmyn") }}

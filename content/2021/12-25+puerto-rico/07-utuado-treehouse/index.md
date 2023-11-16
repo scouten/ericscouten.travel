@@ -41,7 +41,7 @@ Sorry for the wind noise, but this is a brief sample of driving through rural Pu
 
 And then we arrived at the open-air [Treehouse of the Royal Palm](https://www.airbnb.com/rooms/33345310). It was absolutely magical!
 
-{{ es_image(id="lr-1376", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-21c-1376", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4300-067") }}
 {{ es_image(id="es-4300-068") }}
 {{ es_image(id="es-4300-071") }}
