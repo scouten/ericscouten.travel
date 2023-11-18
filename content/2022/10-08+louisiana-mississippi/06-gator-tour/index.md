@@ -36,11 +36,11 @@ We later would learn that these were just the kids – a mere four or five feet
 
 We were thankful to be in a self-contained boat; every tree, every bit of land contains a potential hazard:
 
-{{ es_image(id="lr-3145", caption = "Honey Island Swamp, east of Slidell, Louisiana", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-22a-3145", caption = "Honey Island Swamp, east of Slidell, Louisiana", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4423-281", caption = "Honey Island Swamp, east of Slidell, Louisiana") }}
 
 After the swamp, our captain took us around the bend in the Old Pearl River (at an exhilarating 30mph on the water!) to a lagoon where the big gators live. These were thought to be 10-15 feet long and there were _many_ of them. Here are a few close-ups!
 
 {{ es_image(id="es-4423-362", caption = "Old Pearl River, east of Slidell, Louisiana") }}
 {{ es_image(id="es-4423-378", caption = "Old Pearl River, east of Slidell, Louisiana") }}
-{{ es_image(id="lr-3162", caption = "Old Pearl River, east of Slidell, Louisiana", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-22a-3162", caption = "Old Pearl River, east of Slidell, Louisiana", creator = "Lisa Rozmyn") }}

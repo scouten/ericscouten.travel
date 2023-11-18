@@ -27,9 +27,9 @@ Haunted or not, the tour served as an excuse to admire the well-preserved histor
 {{ es_image(id="es-4422-028") }}
 {{ es_image(id="es-4422-029") }}
 {{ es_image(id="es-4422-036") }}
-{{ es_image(id="lr-3103", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-22a-3103", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4422-042") }}
-{{ es_image(id="lr-3105", creator = "Lisa Rozmyn") }}
+{{ es_image(id="lr-22a-3105", creator = "Lisa Rozmyn") }}
 {{ es_image(id="es-4422-049") }}
 {{ es_image(id="es-4422-052", caption = "Andrew Jackson Hotel, New Orleans, Louisiana") }}
 {{ es_image(id="es-4422-065", caption = "Andrew Jackson Hotel, New Orleans, Louisiana") }}
