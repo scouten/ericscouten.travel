@@ -7,6 +7,7 @@ state = ["Washington"]
 country = ["Canada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111655947887169820"
 distance = "249 km / 155 mi"
 route = "Poulsbo, Washington, to Nanaimo, British Columbia, Canada"
 markers = "markers.js"
