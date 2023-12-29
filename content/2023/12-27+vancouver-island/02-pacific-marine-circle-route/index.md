@@ -6,6 +6,7 @@ date = 2023-12-28T19:55:23-08:00
 country = ["Canada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111661802501695587"
 distance = "407 km / 253 mi"
 route = "Nanaimo to Port Renfrew to Parkville, British Columbia, Canada"
 markers = "markers.js"
