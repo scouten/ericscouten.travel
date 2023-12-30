@@ -6,6 +6,7 @@ date = 2023-12-29T19:14:55-08:00
 country = ["Canada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111667239450889843"
 distance = "360 km / 224 mi"
 route = "Parksville to Port Hardy, British Columbia, Canada"
 markers = "markers.js"
