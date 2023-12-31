@@ -6,6 +6,7 @@ date = 2023-12-30T19:32:23-08:00
 country = ["Canada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111672984671906262"
 distance = "103 km / 64 mi"
 route = "Port Hardy to Port Alice, British Columbia, Canada, and back"
 markers = "markers.js"
