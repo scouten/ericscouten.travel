@@ -1,5 +1,5 @@
 +++
-title = "Day 5: To Tofino"
+title = "Vancouver Island Day 5: To Tofino"
 date = 2023-12-31T16:31:38.951-08:00
 updated = 2024-01-01T17:00:29-08:00
 
