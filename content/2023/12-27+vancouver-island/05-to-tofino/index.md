@@ -7,6 +7,7 @@ updated = 2024-01-01T17:00:29-08:00
 country = ["Canada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111683798919110440"
 distance = "516 km / 321 mi"
 route = "Port Hardy to Tofino, British Columbia, Canada"
 markers = "markers.js"
