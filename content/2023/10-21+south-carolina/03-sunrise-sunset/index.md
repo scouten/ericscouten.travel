@@ -16,7 +16,7 @@ Keeping it simple today; took the day off from work (as did the most of Adobe) a
 
 <!-- more -->
 
-Next couple of days I'll be focusing on work, so may not be much until later in the week. Meanwhile, enjoy today's sunsrise (as filtered through spanish moss) and sunset.
+Next couple of days I'll be focusing on work, so may not be much until later in the week. Meanwhile, enjoy today's sunrise (as filtered through Spanish moss) and sunset.
 
 {{ es_image(id = "es-4601-035", title = "Sunrise and Spanish Moss", caption = "Edisto Island, South Carolina") }}
 
