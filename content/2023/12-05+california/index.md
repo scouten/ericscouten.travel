@@ -27,6 +27,8 @@ On the way down (Monday afternoon), it was a very rainy day at Sea-Tac airport:
 
 {{ es_image(id = "es-4617-030", caption = "Cueing up for my flight to San Jose on a rainy day. · Seattle-Tacoma International Airport, Sea-Tac, Washington") }}
 
+{{ es_image(id = "es-4618-014", caption = "Adobe’s East Tower. · Adobe, San Jose, California") }}
+
 I had a few moments on Tuesday evening to walk around downtown San Jose. The cathedral there had arranged for some holiday images to be projected onto its building.
 
 {{ es_image(id = "es-4620-026", caption = "Cathedral Basilica of Saint Joseph, San Jose, California") }}
