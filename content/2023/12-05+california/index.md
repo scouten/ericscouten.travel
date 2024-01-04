@@ -7,6 +7,7 @@ updated = 2024-01-03T19:26:46-08:00
 state = ["California", "Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111696000978294967"
 distance = "1238 km / 769 mi"
 route = "Seattle, Washington, to San Jose, California, and back"
 markers = "markers.js"

@@ -7,6 +7,7 @@ updated = 2024-01-03T21:05:38-08:00
 country = ["Canada"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111696001075126179"
 distance = "95 km / 59 mi"
 route = "Tofino to Ucluelet, British Columbia, Canada, and back"
 markers = "markers.js"
