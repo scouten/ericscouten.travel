@@ -8,6 +8,7 @@ state = ["Nevada"]
 country = ["Mexico"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/111959256373904229"
 distance = "3152 km / 1959 mi"
 route = "Seattle, Washington, to Cabo San Lucas, Baja California Sur, Mexico"
 markers = "markers.js"
