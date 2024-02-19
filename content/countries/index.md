@@ -748,11 +748,12 @@ I lived in Hamburg during the summer of 2013.
     seq = 3
     name = "Mexico"
     flag = "🇲🇽"
-    years = "1986, 1997, 1998, 1999, 2015"
+    years = "1986, 1997, 1998, 1999, 2015, 2024"
     image = "es-2797-192"
     title = "Tall Tales"
     caption = "Pacific Ocean, near Cabo San Lucas, Mexico, 2015"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {% es_country(
     seq = 2
@@ -761,7 +762,8 @@ I lived in Hamburg during the summer of 2013.
     years = "numerous visits 1970s – present"
     image = "es-0351-001"
     caption = "Tagish Lake, Carcross, Yukon, Canada, 1998"
-    drive = true) %}
+    drive = true
+    country_term = true) %}
 
 I visited all 10 provinces as of 2000.
 
