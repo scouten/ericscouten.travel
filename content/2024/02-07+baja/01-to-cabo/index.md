@@ -29,7 +29,7 @@ I had the window seat on the way down and had a good laugh when I looked out the
 
 {{ es_image(id = "es-4632-017", caption = "Aerial view of a snowy city landscape. · above Carson City, Nevada") }}
 
-But enough about snow ...fast forward a couple more hours and I had a great view of [Isla del Carmen](https://en.wikipedia.org/wiki/Isla_del_Carmen_(Baja_California)) a large island that is now mostly protected as a nature preserve.
+But enough about snow ...fast forward a couple more hours and I had a great view of [Isla del Carmen](https://en.wikipedia.org/wiki/Isla_del_Carmen_(Baja_California)), a large island that is now mostly protected as a nature preserve.
 
 {{ es_image(id = "es-4632-026", caption = "above Loreto, Baja California Sur, Mexico") }}
 
