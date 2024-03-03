@@ -7,6 +7,7 @@ updated = 2024-03-03T10:59:07-08:00
 country = ["Mexico"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112033378022534847"
 distance = "82 km / 51 mi"
 route = "Cabo San Lucas to Todos Santos, Baja California Sur, Mexico"
 markers = "markers.js"
