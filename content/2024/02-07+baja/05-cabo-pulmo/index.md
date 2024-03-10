@@ -7,6 +7,7 @@ updated = 2024-03-09T17:29:03-08:00
 country = ["Mexico"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112068904102948074"
 distance = "181 km / 113 mi"
 route = "Todos Santos to Cabo Pulmo, Baja California Sur, Mexico"
 markers = "markers.js"
