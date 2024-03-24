@@ -7,6 +7,7 @@ updated = 2024-03-24T10:27:51-07:00
 state = ["Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112151908401991908"
 distance = "270 km / 168 mi"
 route = "Poulsbo to Port Angeles, Washington, and back"
 markers = "markers.js"
