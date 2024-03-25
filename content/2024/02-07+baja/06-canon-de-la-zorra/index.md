@@ -7,6 +7,7 @@ updated = 2024-03-24T19:06:14-07:00
 country = ["Mexico"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112153934288248034"
 distance = "62 km / 39 mi"
 route = "Cabo Pulmo to Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico"
 markers = "markers.js"
