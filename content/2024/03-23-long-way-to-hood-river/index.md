@@ -7,6 +7,7 @@ updated = 2024-03-24T21:33:38-07:00
 state = ["Oregon"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112154513163429830"
 distance = "660 km / 410 mi"
 route = "Poulsbo, Washington, to Hood River, Oregon"
 markers = "markers.js"
