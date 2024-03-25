@@ -39,7 +39,7 @@ I'm often chided for taking "texture photos." In case there was any question, I'
 
 {{ es_image(id = "lr-242-4904", caption = "Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico", creator = "Lisa Rozmyn") }}
 
-This is as close as we got to the waterfalls in the canyon. My knees were not too happy on this day, so we decided to avoid the stairs and climb down into the canyon. Here was the view from as close as we got:
+This is as close as we got to the waterfalls in the canyon. My knees were not too happy today, so we decided to avoid the stairs and climb down into the canyon. Here was the view from as close as we got:
 
 {{ es_image(id = "lr-242-4909", caption = "Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico", creator = "Lisa Rozmyn") }}
 
