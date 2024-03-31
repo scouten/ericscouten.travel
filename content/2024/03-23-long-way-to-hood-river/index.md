@@ -22,7 +22,7 @@ A last-minute opportunity presented itself and so I am taking a few days to myse
 
 I didn't exactly go the direct route from home to Hood River. _(You are shocked, I know.)_ And I was rewarded with some delightful desert cloudscapes along the way.
 
-{{ es_image(id = "es-4638-001", caption = "A desert landscape with clouds in the background, · northwest of Warm Springs, Oregon") }}
+{{ es_image(id = "es-4638-001", caption = "A desert landscape with clouds in the background. · northwest of Warm Springs, Oregon") }}
 
 {{ es_image(id = "es-4638-011", caption = "A desert landscape with dramatic clouds in the background. · northwest of Warm Springs, Oregon") }}
 
