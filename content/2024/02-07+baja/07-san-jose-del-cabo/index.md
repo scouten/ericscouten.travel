@@ -20,7 +20,7 @@ We wrapped up our time in Baja with three nights in San José del Cabo. While Ca
 
 <!-- more -->
 
-We stayed on the edge of the arts district and we wound up spending pretty much all of our time here was spent walking through that district.
+We stayed on the edge of the arts district and loved it. Pretty much all of our time these few days was spent walking through that district.
 
 {{ es_image(id = "es-4632-479", caption = "Plaza Mijares, a vibrant part of San José del Cabo’s arts district, at dusk. · Plaza Mijares, San José del Cabo, Baja California Sur, Mexico") }}
 
