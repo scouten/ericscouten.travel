@@ -7,6 +7,7 @@ updated = 2024-04-02T19:32:06-07:00
 country = ["Mexico"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112205006228461918"
 distance = "67 km / 41 mi"
 route = "Cañón de la Zorra, west of Santiago, to San José del Cabo, Baja California Sur, Mexico"
 markers = "markers.js"
