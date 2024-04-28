@@ -13,6 +13,6 @@ function addGpxMarkers(map) {
         addGpxMarker(map, "es-4147-018", 44.816478, -124.062708),
         addGpxMarker(map, "es-4146-067", 45.244667, -123.852312),
 
-        addParkMarker(map, 7, "Leadabetter Point", "leadbetter-point", 46.6070, -124.0433, "es-4146-122"),
+        addParkMarker(map, 7, "Leadbetter Point", "leadbetter-point", 46.6070, -124.0433, "es-4146-122"),
     ]
 }
