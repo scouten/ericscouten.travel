@@ -7,6 +7,7 @@ updated = 2024-04-27T19:13:28-07:00
 state = ["California"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112346466409419603"
 distance = "1578 km / 981 mi"
 route = "Poulsbo, Washington, to Mountain View, California"
 markers = "markers.js"
