@@ -49,7 +49,7 @@ We arranged to go to Glass Beach, a short drive north from Mendocino, when there
 
 I enjoyed the ebb and flow of waves in the tidal basins.
 
-{{ es_vimeo(id = "es-4642-012", vmid = "940580474", title = "Ebb and Flow", caption = "Glass Beach, Fort Bragg, California") }}
+{{ es_vimeo(id = "es-4642-012", vmid = "940583173", title = "Ebb and Flow", caption = "Glass Beach, Fort Bragg, California") }}
 
 We did a brief exploration of Noyo Bay on our way out of Fort Bragg.
 
