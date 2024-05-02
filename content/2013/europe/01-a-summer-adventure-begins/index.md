@@ -31,4 +31,6 @@ And this is just part of my (walking) commute home. Not bad, eh?
 
 {{ es_image(id = "es-2368-021", caption = "Altona, Hamburg, Germany") }}
 
+This idyllic walk was interrupted a few minutes later by some crows (?) or magpies (?) that were _very_ upset that I was invading their turf. They started dive bombing me until I crossed the street and walked on the "normal" sidewalk.
+
 We've just booked a weekend getaway to Copenhagen and Malmo. A mere 5-hour drive (with ferry!) from here. Looking forward to sharing those stories!
