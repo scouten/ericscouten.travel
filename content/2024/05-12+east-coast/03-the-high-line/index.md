@@ -7,6 +7,7 @@ updated = 2024-05-19T21:43:27-04:00
 state = ["New York"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112471014438744686"
 distance = "2.2 km / 1.4 mi"
 route = "The High Line, New York, New York"
 markers = "markers.js"
