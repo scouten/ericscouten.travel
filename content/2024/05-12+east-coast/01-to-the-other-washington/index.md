@@ -19,7 +19,7 @@ Where I live, we refer to Washington DC as "the other Washington." I'm not sure 
 
 <!-- more -->
 
-Today, we took the 4½-hour flight from Seattle to Washington.
+Last night, we took the 4½-hour flight from Seattle to Washington.
 
 {{ es_image(id = "es-4647-012", caption = "above Palos Park, Illinois") }}
 
@@ -31,7 +31,7 @@ We arrived later in the afternoon so there was just time for a quick tour of the
 
 {{ es_image(id = "es-4647-039", caption = "A black wrought-iron staircase leading to a building with a yellow door. · Washington, District of Columbia") }}
 
-I had a little time for a walking tour of the capitol area before heading out from Washington.
+I had a little time for a walking tour of the Capitol area this morning before heading out from Washington.
 
 {{ es_image(id = "es-4647-045", caption = "A single red scooter sits on the sidewalk in front of the US Capitol building. · Washington, District of Columbia") }}
 
