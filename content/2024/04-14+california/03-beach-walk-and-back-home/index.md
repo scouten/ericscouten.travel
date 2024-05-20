@@ -7,6 +7,7 @@ updated = 2024-05-06T20:55:35-07:00
 state = ["California", "Oregon"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112470672243223226"
 distance = "1511 km / 939 mi"
 route = "Mendocino, California, to Poulsbo, Washington"
 markers = "markers.js"

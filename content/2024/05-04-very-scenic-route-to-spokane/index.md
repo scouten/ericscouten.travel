@@ -7,6 +7,7 @@ updated = 2024-05-10T21:23:35-07:00
 state = ["Oregon", "Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112470672329314139"
 distance = "1007 km / 626 mi"
 route = "Poulsbo to Spokane, Washington"
 markers = "markers.js"
