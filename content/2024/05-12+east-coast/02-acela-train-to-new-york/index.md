@@ -7,6 +7,7 @@ updated = 2024-05-19T20:07:12-04:00
 state = ["Delaware", "District of Columbia", "Maryland", "New Jersey", "Pennsylvania"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112470672516223313"
 distance = "361 km / 224 mi"
 route = "Washington, District of Columbia, to New York, New York"
 markers = "markers.js"

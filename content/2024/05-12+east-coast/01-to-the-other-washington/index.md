@@ -7,6 +7,7 @@ updated = 2024-05-17T21:00:24-04:00
 state = ["District of Columbia", "Illinois"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112470672412525246"
 distance = "3961 km / 2462 mi"
 route = "Poulsbo, Washington, to Washington, District of Columbia"
 markers = "markers.js"
