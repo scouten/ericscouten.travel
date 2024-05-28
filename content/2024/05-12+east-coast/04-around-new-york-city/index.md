@@ -7,6 +7,7 @@ updated = 2024-05-22T12:21:47-07:00
 state = ["New York"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112516640436650624"
 markers = "markers.js"
 bounds = {sw = [40.731, -74.009], ne = [40.751, -73.989]}
 cover = "es-4650-033"

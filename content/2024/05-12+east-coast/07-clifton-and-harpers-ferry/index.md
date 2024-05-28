@@ -7,6 +7,7 @@ updated = 2024-05-27T20:12:19-07:00
 state = ["Virginia", "West Virginia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112516640737015406"
 distance = "193 km / 120 mi"
 route = "Fairfax, Virginia, to Harpers Ferry, West Virginia, and back"
 markers = "markers.js"
