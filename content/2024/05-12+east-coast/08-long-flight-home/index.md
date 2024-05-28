@@ -7,6 +7,7 @@ updated = 2024-05-28T15:21:03-07:00
 state = ["Michigan", "Ohio", "Virginia", "Washington"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112521118614873014"
 distance = "4094 km / 2544 mi"
 route = "Fairfax, Virginia, to Poulsbo, Washington"
 markers = "markers.js"
