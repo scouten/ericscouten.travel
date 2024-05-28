@@ -7,6 +7,7 @@ updated = 2024-05-26T21:28:02-07:00
 state = ["District of Columbia", "Maryland", "New Jersey", "New York"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112516640648131208"
 distance = "402 km / 250 mi"
 route = "New York, New York, to Fairfax, Virginia"
 markers = "markers.js"
