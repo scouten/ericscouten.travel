@@ -448,7 +448,7 @@ My first visit to Africa.
     seq = 33
     name = "Austria"
     flag = "🇦🇹"
-    years = "2013, 2014, 2017"
+    years = "2013, 2014, 2017, 2024"
     image = "es-3610-030"
     caption = "Radau, Austria, 2017"
     drive = true
@@ -463,10 +463,13 @@ My first visit to Africa.
 
 {{ es_country(
     seq = 31
-    name = "Slovak Republic"
+    name = "Slovakia"
     flag = "🇸🇰"
-    years = "2013"
-    drive = true) }}
+    years = "2013, 2024"
+    image = "es-4660-086"
+    caption = "Bratislava, Slovakia"
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 30
@@ -691,7 +694,7 @@ My first visit to Africa.
     seq = 8
     name = "Germany"
     flag = "🇩🇪"
-    years = "1999, 2000, 2013, 2014, 2017, 2018"
+    years = "1999, 2000, 2013, 2014, 2017, 2018, 2024"
     image = "es-2676-012"
     title = "Periscope Up"
     caption = "Hamburg, Germany, 2014"
