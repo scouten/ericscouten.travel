@@ -8,6 +8,7 @@ state = ["Washington"]
 country = ["Austria", "Canada", "Slovakia"]
 
 [extra]
+mastodon_url = "https://ericscouten.social/@travel/112595804965096507"
 distance = "9176 km / 5701 mi"
 route = "Seattle, Washington, to Bratislava, Slovakia"
 markers = "markers.js"
