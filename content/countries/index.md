@@ -473,22 +473,24 @@ My first visit to Africa.
 
 {{ es_country(
     seq = 30
-    name = "Czech Republic"
+    name = "Czechia"
     flag = "🇨🇿"
-    years = "2013"
+    years = "2013, 2024"
     image = "es-2458-160"
-    caption = "Prague, Czech Republic"
-    drive = true) }}
+    caption = "Prague, Czechia"
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 29
     name = "Poland"
     flag = "🇵🇱"
-    years = "2013"
+    years = "2013, 2024"
     image = "es-2383-002"
     title = "What Lies Beneath"
     caption = "Pamięcin, Poland"
-    drive = true) }}
+    drive = true
+    country_term) }}
 
 {{ es_country(
     seq = 28
