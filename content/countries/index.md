@@ -467,7 +467,7 @@ My first visit to Africa.
     flag = "🇸🇰"
     years = "2013, 2024"
     image = "es-4660-086"
-    caption = "Bratislava, Slovakia"
+    caption = "Bratislava, Slovakia, 2024"
     drive = true
     country_term = true) }}
 
@@ -477,7 +477,7 @@ My first visit to Africa.
     flag = "🇨🇿"
     years = "2013, 2024"
     image = "es-2458-160"
-    caption = "Prague, Czechia"
+    caption = "Prague, Czechia, 2013"
     drive = true
     country_term = true) }}
 
@@ -490,7 +490,7 @@ My first visit to Africa.
     title = "What Lies Beneath"
     caption = "Pamięcin, Poland, 2013"
     drive = true
-    country_term) }}
+    country_term = true) }}
 
 {{ es_country(
     seq = 28
