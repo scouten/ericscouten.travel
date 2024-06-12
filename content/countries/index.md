@@ -488,7 +488,7 @@ My first visit to Africa.
     years = "2013, 2024"
     image = "es-2383-002"
     title = "What Lies Beneath"
-    caption = "Pamięcin, Poland"
+    caption = "Pamięcin, Poland, 2013"
     drive = true
     country_term) }}
 
