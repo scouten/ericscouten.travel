@@ -499,7 +499,8 @@ My first visit to Africa.
     years = "2013"
     image = "es-2427-087"
     caption = "Stockholm, Sweden"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 27
@@ -690,7 +691,8 @@ My first visit to Africa.
     years = "1999, 2013"
     image = "es-2372-017"
     caption = "Copenhagen, Denmark, 2013"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {% es_country(
     seq = 8
