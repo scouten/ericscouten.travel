@@ -33,7 +33,7 @@ These two boats were similar to the one we were on:
 
 {{ es_image(id = "es-2371-035", caption = "Scandlines Ferry, near Rødby, Denmark") }}
 
-We had paid for upgraded space on the ferry, which wound up meaning we were first off the board. And we got an up-close view as we were approaching the terminal in Denmark.
+We paid for upgraded space on the ferry, which wound up meaning we were first off the boat. It also meant we got an up-close view as we were approaching the terminal in Denmark.
 
 {{ es_image(id = "es-2370-020", caption = "Scandlines Ferry, near Rødby, Denmark") }}
 
