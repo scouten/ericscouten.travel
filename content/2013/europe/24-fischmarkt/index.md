@@ -31,3 +31,7 @@ I came back this (Monday) afternoon to capture the entrance to the market hall.
 Love the fish sculptures in the doorway.
 
 {{ es_image(id = "es-2398-009", caption = "Fischmarkt, Hamburg, Germany") }}
+
+Oh, and right next door is Adobe's office in Hamburg:
+
+{{ es_image(id = "es-2398-010", caption = "Adobe, Hamburg, Germany") }}
