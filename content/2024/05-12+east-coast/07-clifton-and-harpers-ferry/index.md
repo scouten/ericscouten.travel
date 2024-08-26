@@ -32,7 +32,11 @@ It started raining a bit, so we decided to hop in the car and go exploring. We w
 
 {{ es_image(id = "es-4657-021", caption = "Harpers Ferry National Historical Park, Harpers Ferry, West Virginia") }}
 
+{{ es_image(id = "lr-245-5198", caption = "Harpers Ferry National Historical Park, Harpers Ferry, West Virginia", creator = "Lisa Rozmyn") }}
+
 {{ es_image(id = "es-4657-024", caption = "Harpers Ferry National Historical Park, Harpers Ferry, West Virginia") }}
+
+{{ es_image(id = "lr-245-5200", caption = "Harpers Ferry National Historical Park, Harpers Ferry, West Virginia", creator = "Lisa Rozmyn") }}
 
 {{ es_image(id = "es-4657-030", caption = "Harpers Ferry National Historical Park, Harpers Ferry, West Virginia") }}
 
