@@ -1,0 +1,17 @@
+<div class="es_image anti-section" id="{{id}}">
+    <img src="{{id}}.jpg" srcset="{{id}}.jpg 1200w" alt="">
+    {% if caption or title or creator -%}
+      <div class="caption">
+        {% if title -%}
+          <span class="caption-title">{{ title }} </span>
+          {% if caption or creator %} &middot; {% endif -%}
+        {% endif -%}
+        {% if caption -%}{{ caption }}{% endif -%}
+        {% if creator -%}
+          {% if title or caption %} &middot; {% endif -%}
+          by {{ creator }}
+        {% endif -%}
+      </div>
+    {% endif -%}
+  </div>
+  
