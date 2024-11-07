@@ -1,5 +1,11 @@
 <div class="es_image anti-section" id="{{id}}">
-    <img src="{{id}}.jpg" srcset="{{id}}.jpg 1200w" alt="">
+    <img src="{{id}}.jpg" srcset="
+    https://recommendation-demo.akamaized.net/?origin={{page.permalink}}{{id}}.jpg&width=200 200w
+    https://recommendation-demo.akamaized.net/?origin={{page.permalink}}{{id}}.jpg&width=400 400w
+    https://recommendation-demo.akamaized.net/?origin={{page.permalink}}{{id}}.jpg&width=600 600w
+    https://recommendation-demo.akamaized.net/?origin={{page.permalink}}{{id}}.jpg&width=800 800w
+    https://recommendation-demo.akamaized.net/?origin={{page.permalink}}{{id}}.jpg&width=1000 1000w
+    {{id}}.jpg 1200w" alt="">
     {% if caption or title or creator -%}
       <div class="caption">
         {% if title -%}
