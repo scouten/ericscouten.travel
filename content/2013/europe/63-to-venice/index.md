@@ -31,7 +31,9 @@ First, a few photos from our brief foray into Slovenia this afternoon ...
 
 Like most major cities, Venice runs a bus line ... except theirs are on ferries.
 
-It took us most of an hour to make the 9km / 6mi journey from where we parked our car to our hotel, but we managed to time it to be on the water as the sun was setting, so we got some pretty spectacular views, especially towards the end.
+It took us most of an hour to make the 9km / 6mi journey from where we parked our car to our hotel, but we managed to time it to be on the water just as the sun was setting.
+
+That meant we got some pretty spectacular views, especially towards the end.
 
 {{ es_image(id = "es-2469-007", caption = "Venice, Italy") }}
 
