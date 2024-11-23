@@ -422,7 +422,8 @@ My first visit to Africa.
     years = "2013, 2014, 2017"
     image = "es-2477-004"
     caption = "Lugano, Switzerland, 2013"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 35
