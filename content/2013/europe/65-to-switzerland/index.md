@@ -45,6 +45,6 @@ It is very hot here (38°C / 100°F), but otherwise very nice.
 
 {{ es_image(id = "es-2476-014", caption = "Lugano, Switzerland") }}
 
-A note about the map route: The detour to the north around Verona was an attempt at a scenic bypass that was thwarted when we got into an hour-long traffic jam. The detour to the south around Milano was recommended by our car's navigation system in an effort to avoid an hour-long traffic jam that as best I can tell never existed.
+_A note about the map route:_ The detour to the north around Verona was an attempt at a scenic bypass that was thwarted when we got into an hour-long traffic jam. The detour to the south around Milano was recommended by our car's navigation system in an effort to **avoid** an hour-long traffic jam that as best I can tell never existed.
 
 Still was pretty country and we enjoyed the trip.
