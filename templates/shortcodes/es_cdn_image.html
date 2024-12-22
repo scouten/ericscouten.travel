@@ -1,0 +1,20 @@
+<div class="es_image anti-section" id="{{id}}">
+    <img src="{{id}}.jpg" srcset="https://poprox.wasmcloud.app/?origin={{page.permalink | urlencode_strict}}{{id}}.jpg&width=400 400w,
+    https://poprox.wasmcloud.app/?origin={{page.permalink | urlencode_strict}}{{id}}.jpg&width=1000 1000w,
+    https://poprox.wasmcloud.app/?origin={{page.permalink | urlencode_strict}}{{id}}.jpg&width=1400 1400w,
+    {{id}}.jpg 1500w" sizes="(max-width: 800px) 400px, (max-width: 1500px) 800px, (max-width: 2000px) 1400px, 1500px" alt="">
+    {% if caption or title or creator -%}
+      <div class="caption">
+        {% if title -%}
+          <span class="caption-title">{{ title }} </span>
+          {% if caption or creator %} &middot; {% endif -%}
+        {% endif -%}
+        {% if caption -%}{{ caption }}{% endif -%}
+        {% if creator -%}
+          {% if title or caption %} &middot; {% endif -%}
+          by {{ creator }}
+        {% endif -%}
+      </div>
+    {% endif -%}
+  </div>
+  
