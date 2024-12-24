@@ -13,6 +13,7 @@ markers = "markers.js"
 track_log_key = "kml/v1/2024/11/2024-11-29.kml"
 bounds = {sw = [20.609, -105.285], ne = [20.696, -105.225]}
 cover = "es-4706-304"
+cover_cdn_key = "img/v1/2024/11/es-4706-304"
 +++
 
 For today, we made a lazy day of it and went back to the _malecón_ and did a bit more shopping.
