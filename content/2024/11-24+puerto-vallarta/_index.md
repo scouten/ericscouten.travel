@@ -3,8 +3,9 @@ title = "Mexico"
 sort_by = "date"
 transparent = true
 
-# [extra]
-# cover_abs = "/2024/04-14+california/01-half-moon-bay-and-pigeon-point/cover-es-4640-046.jpg"
+[extra]
+cover = "es-4706-304"
+cover_cdn_key = "img/v1/2024/11/es-4706-304"
 +++
 
 Lisa and I took a Thanksgiving week break to Puerto Vallarta.
