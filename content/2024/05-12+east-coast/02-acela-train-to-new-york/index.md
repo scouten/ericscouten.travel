@@ -11,9 +11,10 @@ mastodon_url = "https://ericscouten.social/@travel/112470672516223313"
 distance = "361 km / 224 mi"
 route = "Washington, District of Columbia, to New York, New York"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2024/05/2024-05-13b.kml"
 bounds = {sw = [38.896, -77.007], ne = [40.773, -73.995]}
 cover = "es-4647-180"
+cover_cdn_key = "img/v1/2024/05/es-4647-180"
 +++
 
 Today I took the [Acela train](https://www.amtrak.com/acela-train) from Washington to New York City.
@@ -22,28 +23,28 @@ Today I took the [Acela train](https://www.amtrak.com/acela-train) from Washingt
 
 The trip began in Washington's beautifully-restored [Union Station](https://www.unionstationdc.com).
 
-{{ es_image(id = "es-4647-057", caption = "Union Station with flags in front of it on a clear day. · Union Station, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4647-057", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-057", caption = "Union Station with flags in front of it on a clear day. · Union Station, Washington, District of Columbia") }}
 
-{{ es_image(id = "es-4647-059", caption = "An intricate arched ceiling at Union Station. · Union Station, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4647-059", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-059", caption = "An intricate arched ceiling at Union Station. · Union Station, Washington, District of Columbia") }}
 
-{{ es_image(id = "es-4647-062", caption = "An intricate arched ceiling at Union Station. · Union Station, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4647-062", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-062", caption = "An intricate arched ceiling at Union Station. · Union Station, Washington, District of Columbia") }}
 
-{{ es_image(id = "es-4647-072", caption = "A white stone archway with lights and a person walking through. · Union Station, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4647-072", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-072", caption = "A white stone archway with lights and a person walking through. · Union Station, Washington, District of Columbia") }}
 
-{{ es_image(id = "es-4647-080", caption = "Union Station, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4647-080", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-080", caption = "Union Station, Washington, District of Columbia") }}
 
 Acela claims a top speed of 241 km/h / 150mph and my track log suggests we got very close to that a few times. Despite the speed, I did manage to get a few nice views of the countryside from my window seat.
 
-{{ es_image(id = "es-4647-101", caption = "Gunpowder River Crossing, Chase, Maryland") }}
+{{ es_cdn_image(id = "es-4647-101", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-101", caption = "Gunpowder River Crossing, Chase, Maryland") }}
 
-{{ es_image(id = "es-4647-113", caption = "Susquehanna River Crossing, Havre de Grace, Maryland") }}
+{{ es_cdn_image(id = "es-4647-113", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-113", caption = "Susquehanna River Crossing, Havre de Grace, Maryland") }}
 
-{{ es_image(id = "es-4647-117", caption = "Wilmington, Delaware") }}
+{{ es_cdn_image(id = "es-4647-117", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-117", caption = "Wilmington, Delaware") }}
 
-{{ es_image(id = "es-4647-120", caption = "Wilmington, Delaware") }}
+{{ es_cdn_image(id = "es-4647-120", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-120", caption = "Wilmington, Delaware") }}
 
-{{ es_image(id = "es-4647-143", caption = "Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-4647-143", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-143", caption = "Philadelphia, Pennsylvania") }}
 
-{{ es_image(id = "es-4647-153", caption = "Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-4647-153", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-153", caption = "Philadelphia, Pennsylvania") }}
 
-{{ es_image(id = "es-4647-180", caption = "New York City skyline as seen from the train over a grassy marsh. · Kearny, New Jersey") }}
+{{ es_cdn_image(id = "es-4647-180", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-180", caption = "New York City skyline as seen from the train over a grassy marsh. · Kearny, New Jersey") }}
