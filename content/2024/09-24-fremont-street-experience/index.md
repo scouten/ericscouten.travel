@@ -10,6 +10,7 @@ state = ["Nevada"]
 markers = "markers.js"
 bounds = {sw = [36.160, -115.152], ne = [36.180, -115.132]}
 cover = "es-4697-031"
+cover_cdn_key = "img/v1/2024/09/es-4697-031"
 +++
 
 As I mentioned yesterday, Lisa and I are taking a few days in Las Vegas for a conference. For dinner tonight, we ventured away from the Strip to check out the [Fremont Street Experience](https://www.visitlasvegas.com/listing/fremont-street-experience/35013/), which is a pedestrian mall in a more historic part of the city.
@@ -18,30 +19,30 @@ As I mentioned yesterday, Lisa and I are taking a few days in Las Vegas for a co
 
 It's kind of fascinating. A few blocks of the "experience" are a walkway covered by enormous video displays on which they play all kinds of effects and videos timed to the music that is playing.
 
-{{ es_image(id = "es-4697-001", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-001", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-001", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-003", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-003", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-003", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-005", caption = "Fremont Street, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-005", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-005", caption = "Fremont Street, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-014", caption = "Fremont Street, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-014", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-014", caption = "Fremont Street, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-016", caption = "Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-016", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-016", caption = "Las Vegas, Nevada") }}
 
 We ventured a few blocks east of the "experience" and found dinner at [The Mona Rosa](https://www.lamonarosalv.com) (the pink monkey), an excellent Mexican restaurant just off the strip.
 
-{{ es_image(id = "es-4697-015", caption = "Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-015", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-015", caption = "Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-017", caption = "La Mona Rosa, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-017", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-017", caption = "La Mona Rosa, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-019", caption = "La Mona Rosa, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-019", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-019", caption = "La Mona Rosa, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-021", caption = "El Cortez Hotel, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-021", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-021", caption = "El Cortez Hotel, Las Vegas, Nevada") }}
 
 Only in Vegas ...
 
-{{ es_image(id = "es-4697-026", caption = "Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-026", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-026", caption = "Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-030", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-030", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-030", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
 
-{{ es_image(id = "es-4697-031", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
+{{ es_cdn_image(id = "es-4697-031", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4697-031", caption = "Fremont Street Experience, Las Vegas, Nevada") }}
