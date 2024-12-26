@@ -10,9 +10,10 @@ country = ["Germany"]
 distance = "8879 km / 5517 mi"
 route = "Berlin, Germany, to Seattle, Washington"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2024/06/2024-06-08.kml"
 bounds = {sw = [47.439, -122.308], ne = [73.244, 13.426]}
 cover = "es-4664-065"
+cover_cdn_key = "img/v1/2024/06/es-4664-065"
 +++
 
 My main reason for being in Berlin was to present on the work of the [Content Authenticity Initiative](https://contentauthenticity.org) to my fellow digital identity professionals. My slot was on Wednesday after the lunch break.
@@ -21,55 +22,55 @@ My main reason for being in Berlin was to present on the work of the [Content Au
 
 Being a one-time theatre and stage geek, I decided to see if I could go "backstage" during the lunch intermission. Ostensibly it was to make sure my slide deck was in order (good thing I did - there were some last-minute repairs to be made!), but also I wanted to ogle the impressive set of technology they'd assembled to produce the event.
 
-{{ es_image(id = "es-4663-016", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4663-016", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4663-016", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 Backstage, about to go on ...
 
-{{ es_image(id = "es-4663-020", caption = "Berlin Congress Center, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4663-020", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4663-020", caption = "Berlin Congress Center, Berlin, Germany") }}
 
 And a few photos during my presentation, captured by my friend Judith Fleenor, executive director of the [Trust Over IP Foundation](https://trustoverip.org):
 
-{{ es_image(id = "jf-246-2683", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2683", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2683", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
-{{ es_image(id = "jf-246-2686", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2686", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2686", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
-{{ es_image(id = "jf-246-2693", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2693", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2693", caption = "Berlin Congress Center, Berlin, Germany", creator = "Judith Fleenor") }}
 
 ## Spree River Tour
 
 The conference organizers invited speakers and sponsors on a two-hour river cruise on Wednesday night. Here's the boat that we were soon to board:
 
-{{ es_image(id = "es-4664-003", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-003", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-003", caption = "Spree River, Berlin, Germany") }}
 
 It rained in the early part of the tour, but that conveniently coincided with the dinner service. I took a moment (as a few others did) to catch some fresh air once the rains ended.
 
-{{ es_image(id = "es-4664-011", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-011", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-011", caption = "Spree River, Berlin, Germany") }}
 
 The gloomy weather did not at all dampen Berliners' enthusiasm for getting out and enjoying themselves!
 
-{{ es_image(id = "es-4664-027", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-027", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-027", caption = "Spree River, Berlin, Germany") }}
 
 And then dusk came, the rains ended, and there were beautiful city/river views to be had:
 
-{{ es_image(id = "es-4664-038", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-038", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-038", caption = "Spree River, Berlin, Germany") }}
 
-{{ es_image(id = "es-4664-048", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-048", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-048", caption = "Spree River, Berlin, Germany") }}
 
-{{ es_image(id = "es-4664-057", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-057", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-057", caption = "Spree River, Berlin, Germany") }}
 
-{{ es_image(id = "es-4664-062", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-062", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-062", caption = "Spree River, Berlin, Germany") }}
 
-{{ es_image(id = "es-4664-065", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-065", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-065", caption = "Spree River, Berlin, Germany") }}
 
 ## Trust Over IP Dinner
 
 Several members of the [Trust Over IP Foundation](https://trustoverip.org) were attending the conference from all corners of the world, so we arranged to meet for dinner on Thursday night. The venue was the delightful [Zur Letzten Instanz](https://zurletzteninstanz.com/), which has been a restaurant in one form or another since 1621!
 
-{{ es_image(id = "es-4666-016", caption = "Zur Letzten Instanz, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4666-016", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-016", caption = "Zur Letzten Instanz, Berlin, Germany") }}
 
-{{ es_image(id = "es-4666-018", caption = "Zur Letzten Instanz, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4666-018", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-018", caption = "Zur Letzten Instanz, Berlin, Germany") }}
 
-{{ es_image(id = "es-4666-022", caption = "I loved the spiral staircase that led to our dining quarters. · Zur Letzten Instanz, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4666-022", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-022", caption = "I loved the spiral staircase that led to our dining quarters. · Zur Letzten Instanz, Berlin, Germany") }}
 
 I wish I had been a true foodie and captured some of the delightful food they served us.
 
@@ -77,7 +78,7 @@ I wish I had been a true foodie and captured some of the delightful food they se
 
 One more panel appearance on Friday morning ...
 
-{{ es_image(id = "jf-246-2746", creator = "Judith Fleenor") }}
+{{ es_cdn_image(id = "jf-246-2746", cdn_version = "v1", cdn_key = "img/v1/2024/06/jf-246-2746", creator = "Judith Fleenor") }}
 
 ... and then it was time to head back home.
 
