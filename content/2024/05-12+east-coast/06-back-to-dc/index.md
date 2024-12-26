@@ -11,9 +11,10 @@ mastodon_url = "https://ericscouten.social/@travel/112516640648131208"
 distance = "402 km / 250 mi"
 route = "New York, New York, to Fairfax, Virginia"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2024/05/2024-05-17.kml"
 bounds = {sw = [38.864, -77.354], ne = [40.773, -73.995]}
 cover = "es-4655-123"
+cover_cdn_key = "img/v1/2024/05/es-4655-123"
 +++
 
 Now that our work weeks are over, I came back to Washington to reconnect with Lisa and spend some time near DC before heading back home.
@@ -22,22 +23,22 @@ Now that our work weeks are over, I came back to Washington to reconnect with Li
 
 Today's travels were a reverse of Monday's – I walked back on the High Line and took the Acela train from New York to Washington again. Here are a few highlights from that journey:
 
-{{ es_image(id = "es-4655-098", caption = "The High Line, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-098", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-098", caption = "The High Line, New York, New York") }}
 
-{{ es_image(id = "es-4655-100", caption = "The High Line, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-100", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-100", caption = "The High Line, New York, New York") }}
 
-{{ es_image(id = "es-4655-101", caption = "The High Line, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-101", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-101", caption = "The High Line, New York, New York") }}
 
-{{ es_image(id = "es-4655-103", caption = "The High Line, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-103", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-103", caption = "The High Line, New York, New York") }}
 
-{{ es_image(id = "es-4655-107", caption = "The High Line, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-107", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-107", caption = "The High Line, New York, New York") }}
 
-{{ es_image(id = "es-4655-114", caption = "Moynihan Train Hall at Penn Station, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-114", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-114", caption = "Moynihan Train Hall at Penn Station, New York, New York") }}
 
-{{ es_image(id = "es-4655-117", caption = "Moynihan Train Hall at Penn Station, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-117", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-117", caption = "Moynihan Train Hall at Penn Station, New York, New York") }}
 
-{{ es_image(id = "es-4655-123", caption = "Secaucus, New Jersey") }}
+{{ es_cdn_image(id = "es-4655-123", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-123", caption = "Secaucus, New Jersey") }}
 
-{{ es_image(id = "es-4656-018", caption = "Gunpowder River Crossing, Chase, Maryland") }}
+{{ es_cdn_image(id = "es-4656-018", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4656-018", caption = "Gunpowder River Crossing, Chase, Maryland") }}
 
-{{ es_image(id = "es-4656-033", caption = "Supreme Court, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4656-033", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4656-033", caption = "Supreme Court, Washington, District of Columbia") }}
