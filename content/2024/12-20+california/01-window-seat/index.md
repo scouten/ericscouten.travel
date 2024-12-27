@@ -33,4 +33,3 @@ On our way down, I captured a few views of the desert scenery that I expect to e
 {{ es_cdn_image(id = "es-4710-007", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4710-007", caption = "above Running Springs, California") }}
 
 {{ es_cdn_image(id = "es-4710-008", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4710-008", caption = "above Indio, California") }}
-
