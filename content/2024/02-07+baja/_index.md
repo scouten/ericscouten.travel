@@ -4,7 +4,8 @@ sort_by = "date"
 transparent = true
 
 [extra]
-cover_abs = "/2024/02-07+cabo/01-to-cabo/cover-es-4632-133.jpg"
+cover = "es-4632-133"
+cover_cdn_key = "img/v1/2024/02/es-4632-133"
 +++
 
 Lisa and I are exploring the Baja Peninsula for several days.
