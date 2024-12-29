@@ -11,9 +11,10 @@ mastodon_url = "https://ericscouten.social/@travel/112033378022534847"
 distance = "82 km / 51 mi"
 route = "Cabo San Lucas to Todos Santos, Baja California Sur, Mexico"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2024/02/2024-02-11.kml"
 bounds = {sw = [22.885, -110.226], ne = [23.451, -109.905]}
 cover = "es-4632-339"
+cover_cdn_key = "img/v1/2024/02/es-4632-339"
 +++
 
 This morning, we had one last breakfast in Cabo and headed north to the historic/arts community of Todos Santos. Both of us had been here before and we were eager to make this part of our trip.
@@ -24,47 +25,46 @@ Unlike Cabo, which we felt was overrun by noisy tourists, we found Todos Santos 
 
 We walked around the historic central district for a while. A few views along the way:
 
-{{ es_image(id = "es-4632-289", caption = "A window and wooden door on a brick building. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-289", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-289", caption = "A window and wooden door on a brick building. · Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-291", caption = "A 1940s-era theatre building with Mexican flags on either side of the entrance. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-291", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-291", caption = "A 1940s-era theatre building with Mexican flags on either side of the entrance. · Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-292", title = "Preferencia", caption = "A worn road sign reading “Preferencia” (preference for pedestrians) on a brick wall. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-292", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-292", title = "Preferencia", caption = "A worn road sign reading “Preferencia” (preference for pedestrians) on a brick wall. · Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-302", caption = "A brick hotel building with white umbrellas on the sidewalk. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-302", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-302", caption = "A brick hotel building with white umbrellas on the sidewalk. · Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-309", title = "The Sky’s the Limit", caption = "A speed limit sign with clouds in the sky in the background. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-309", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-309", title = "The Sky’s the Limit", caption = "A speed limit sign with clouds in the sky in the background. · Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-313", caption = "A brick building with windows and vines growing on it. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-313", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-313", caption = "A brick building with windows and vines growing on it. · Todos Santos, Baja California Sur, Mexico") }}
 
 We stopped in for lunch at a cute wine bar and coffee shop.
 
-{{ es_image(id = "es-4632-307", caption = "A sidewalk with a sign advertising a coffee shop. · La Confianza, Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-307", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-307", caption = "A sidewalk with a sign advertising a coffee shop. · La Confianza, Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-317", caption = "La Confianza, Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-317", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-317", caption = "La Confianza, Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-321", caption = "A brick building with a tree next to it in a historic district. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-321", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-321", caption = "A brick building with a tree next to it in a historic district. · Todos Santos, Baja California Sur, Mexico") }}
 
 Walked by (but did not enter) our Baja branch office. 😉
 
-{{ es_image(id = "es-4632-324", title = "Los Adobes", caption = "Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-324", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-324", title = "Los Adobes", caption = "Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-325", caption = "Los Adobes, Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-325", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-325", caption = "Los Adobes, Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-327", caption = "Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-327", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-327", caption = "Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-328", caption = "Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-328", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-328", caption = "Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-331", caption = "Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-331", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-331", caption = "Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-332", caption = "A pink wall with pink shelves and pink flower pots and succulent plants. · Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-332", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-332", caption = "A pink wall with pink shelves and pink flower pots and succulent plants. · Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "es-4632-333", caption = "Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-333", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-333", caption = "Todos Santos, Baja California Sur, Mexico") }}
 
 It's not even hot summer weather and the dogs are already sacked out ...
 
-{{ es_image(id = "es-4632-334", caption = "Todos Santos, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-334", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-334", caption = "Todos Santos, Baja California Sur, Mexico") }}
 
-{{ es_image(id = "lr-242-4847", caption = "Todos Santos, Baja California Sur, Mexico", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "lr-242-4847", cdn_version = "v1", cdn_key = "img/v1/2024/02/lr-242-4847", caption = "Todos Santos, Baja California Sur, Mexico", creator = "Lisa Rozmyn") }}
 
-{{ es_image(id = "es-4632-339", caption = "Todos Santos, Baja California Sur, Mexico") }}
-
+{{ es_cdn_image(id = "es-4632-339", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-339", caption = "Todos Santos, Baja California Sur, Mexico") }}
