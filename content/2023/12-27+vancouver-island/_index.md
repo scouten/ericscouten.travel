@@ -4,7 +4,8 @@ sort_by = "date"
 transparent = true
 
 [extra]
-# cover_abs = "/2023/04-18+california/37-39-point-cabrillo-light-station/cover-es-4525-064.jpg"
+cover = "es-4622-075"
+cover_cdn_key = "img/v1/2023/12/es-4622-075"
 +++
 
 I'm exploring Vancouver Island beyond Victoria.
