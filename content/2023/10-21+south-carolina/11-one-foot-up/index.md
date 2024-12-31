@@ -11,6 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/111353977401613024"
 markers = "markers.js"
 bounds = {sw = [32.533, -80.244], ne = [32.553, -80.224]}
 cover = "es-4609-064n"
+cover_cdn_key = "img/v1/2023/11/es-4609-064n"
 +++
 
 The _plan_ was ... OK, the _hope_ was that there would be a day with fog and low tides while we were in South Carolina so I could come back to Botany Bay and make some of the ethereal photos that this location is famous for.
@@ -23,28 +24,28 @@ The shorebirds were skittering about in search of some microscopic meal I couldn
 
 Herewith, a bunch of shorebirds with one foot up:
 
-{{ es_image(id = "es-4609-012n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-012n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-012n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-039n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-039n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-039n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-042n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-042n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-042n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-058n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-058n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-058n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-064n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-064n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-064n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-086", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-086", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-086", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-093", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-093", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-093", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-094", title = "Two Feet Up", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-094", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-094", title = "Two Feet Up", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-114", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-114", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-114", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-144", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-144", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-144", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-159", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-159", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-159", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
-{{ es_image(id = "es-4609-166", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-166", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-166", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
 This is the end of this trip to South Carolina. Thank you for following along and I look forward to sharing the next adventure with you all!

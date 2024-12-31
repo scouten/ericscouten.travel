@@ -11,9 +11,10 @@ mastodon_url = "https://ericscouten.social/@travel/111279612645629443"
 distance = "1183 km / 735 mi"
 route = "San Jose, California, to Seattle, Washington"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2023/10/2023-10-12-sunset-on-the-way-home.kml"
 bounds = {sw = [37.329, -122.738], ne = [47.460, -121.861]}
 cover = "es-4595-002"
+cover_cdn_key = "img/v1/2023/10/es-4595-002"
 +++
 
 This week I've been attending [Internet Identity Workshop](https://ericscouten.dev/2023/iiw/) (warning: that link is mostly deeply geeky).
@@ -22,4 +23,4 @@ This week I've been attending [Internet Identity Workshop](https://ericscouten.d
 
 I'm on my way home tonight. My flight departed San Jose at 6pm. I was sitting on the left (west) side of the plane at just the right moment to catch sunset over the Bay on our way out.
 
-{{ es_image(id = "es-4595-002", caption = "above Danville, California") }}
+{{ es_cdn_image(id = "es-4595-002", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4595-002", caption = "above Danville, California") }}
