@@ -11,9 +11,10 @@ mastodon_url = "https://ericscouten.social/@travel/110582885939544936"
 distance = "422 km / 262 mi"
 route = "Olympia to Richland, Washington"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2023/06/2023-06-20-on-the-road-again.kml"
 bounds = {sw = [46.211, -122.902], ne = [47.515, -119.252]}
 cover = "es-4538-022"
+cover_cdn_key = "img/v1/2023/06/es-4538-022"
 +++
 
 
@@ -27,12 +28,12 @@ Tomorrow the fun explorations begin in earnest. Looking forward to sharing that 
 
 Meanwhile, a few captures from the road as I transitioned from Seattle's fog and rain to central Washington's sun:
 
-{{ es_image(id = "es-4538-015", caption = "east of North Bend, Washington") }}
+{{ es_cdn_image(id = "es-4538-015", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4538-015", caption = "east of North Bend, Washington") }}
 
-{{ es_image(id = "es-4538-017", caption = "west of Snoqualmie Pass, Washington") }}
+{{ es_cdn_image(id = "es-4538-017", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4538-017", caption = "west of Snoqualmie Pass, Washington") }}
 
-{{ es_image(id = "es-4538-022", caption = "west of Benton City, Washington") }}
+{{ es_cdn_image(id = "es-4538-022", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4538-022", caption = "west of Benton City, Washington") }}
 
 This view. It's part of why I keep coming back!
 
-{{ es_image(id = "es-4538-028", caption = "The Lodge at Columbia Point, Richland, Washington") }}
+{{ es_cdn_image(id = "es-4538-028", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4538-028", caption = "The Lodge at Columbia Point, Richland, Washington") }}

@@ -11,9 +11,10 @@ mastodon_url = "https://ericscouten.social/@travel/110586019996114300"
 distance = "660 km / 410 mi"
 route = "Richland, Washington, to Boise, Idaho"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2023/06/2023-06-21-to-boise.kml"
 bounds = {sw = [43.613, -119.268], ne = [46.547, -115.999]}
 cover = "es-4540-008"
+cover_cdn_key = "img/v1/2023/06/es-4540-008"
 +++
 
 I'm on my way to Salt Lake City for an important family occasion this weekend. Today's travels took me to Boise by way of a part of Idaho I had not seen before.
@@ -22,18 +23,18 @@ I'm on my way to Salt Lake City for an important family occasion this weekend. T
 
 Today's route started with a part of the Palouse that I was well familiar with between Richland and Clarkston. Along the way, I got to make progress on my [Washington state parks project](https://146parks.blog/lewis-and-clark-trail/).
 
-{{ es_image(id = "es-4539-002", caption = "west of Prescott, Washington") }}
+{{ es_cdn_image(id = "es-4539-002", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4539-002", caption = "west of Prescott, Washington") }}
 
-{{ es_image(id = "es-4539-011", caption = "west of Prescott, Washington") }}
+{{ es_cdn_image(id = "es-4539-011", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4539-011", caption = "west of Prescott, Washington") }}
 
-{{ es_image(id = "es-4539-012", caption = "west of Waitsburg, Washington") }}
+{{ es_cdn_image(id = "es-4539-012", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4539-012", caption = "west of Waitsburg, Washington") }}
 
-{{ es_image(id = "es-4539-017", caption = "Waitsburg, Washington") }}
+{{ es_cdn_image(id = "es-4539-017", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4539-017", caption = "Waitsburg, Washington") }}
 
 Once into Idaho, the route along US 95 and Idaho 55 offered lots of scenery but few safe places to stop for photography. Here are a few that represent the area from today:
 
-{{ es_image(id = "es-4540-001", caption = "Lapwai, Idaho") }}
+{{ es_cdn_image(id = "es-4540-001", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4540-001", caption = "Lapwai, Idaho") }}
 
-{{ es_image(id = "es-4540-008", caption = "south of Lucile, Idaho") }}
+{{ es_cdn_image(id = "es-4540-008", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4540-008", caption = "south of Lucile, Idaho") }}
 
-{{ es_image(id = "es-4540-014", caption = "north of McCall, Idaho") }}
+{{ es_cdn_image(id = "es-4540-014", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4540-014", caption = "north of McCall, Idaho") }}
