@@ -12,6 +12,7 @@ hashtags = "#olympia #washington"
 markers = "markers.js"
 bounds = {sw = [47.124, -122.853], ne = [47.144, -122.833]}
 cover = "es-4468-019"
+cover_cdn_key = "img/v1/2023/01/es-4468-019"
 +++
 
 Lisa and I went for a hike in [Woodard Bay Conservation Area](https://www.dnr.wa.gov/WoodardBay) recently.
@@ -20,4 +21,4 @@ Lisa and I went for a hike in [Woodard Bay Conservation Area](https://www.dnr.wa
 
 It was mostly a rainy affair, but we did enjoy this view of the former railway pier, which is now used as a habitat for bats.
 
-{{ es_image(id="es-4468-019", caption = "Woodard Bay Conservation Area, north of Olympia, Washington") }}
+{{ es_cdn_image(id = "es-4468-019", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4468-019", caption = "Woodard Bay Conservation Area, north of Olympia, Washington") }}

@@ -12,10 +12,11 @@ hashtags = "#shelton #washington"
 markers = "markers.js"
 bounds = {sw = [47.242, -123.05], ne = [47.262, -123.03]}
 cover = "es-4468-034"
+cover_cdn_key = "img/v1/2023/01/es-4468-034"
 +++
 
 A random photo grab while I was driving near Shelton recently ...
 
 <!-- more -->
 
-{{ es_image(id="es-4468-034", caption = "Oakland Bay, northeast of Shelton, Washington") }}
+{{ es_cdn_image(id = "es-4468-034", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4468-034", caption = "Oakland Bay, northeast of Shelton, Washington") }}

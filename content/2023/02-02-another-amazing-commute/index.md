@@ -13,12 +13,13 @@ route = "Ferry from Bainbridge Island to Seattle, Washington"
 markers = "markers.js"
 bounds = {sw = [47.604, -122.496], ne = [47.624, -122.457]}
 cover = "es-4476-029"
+cover_cdn_key = "img/v1/2023/02/es-4476-029"
 +++
 
 Once again, I was in for a real treat on my morning commute.
 
 <!-- more -->
 
-{{ es_image(id="es-4476-013") }}
-{{ es_image(id="es-4476-018") }}
-{{ es_image(id="es-4476-029") }}
+{{ es_cdn_image(id = "es-4476-013", cdn_version = "v1", cdn_key = "img/v1/2023/02/es-4476-013") }}
+{{ es_cdn_image(id = "es-4476-018", cdn_version = "v1", cdn_key = "img/v1/2023/02/es-4476-018") }}
+{{ es_cdn_image(id = "es-4476-029", cdn_version = "v1", cdn_key = "img/v1/2023/02/es-4476-029") }}
