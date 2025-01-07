@@ -10,9 +10,10 @@ state = ["South Carolina"]
 distance = "177 km / 110 mi"
 route = "Charleston to Edisto Island, South Carolina, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/12/2022-12-03-bonus-day-botany-bay.kml"
 bounds = {sw = [32.539, -80.353], ne = [32.894, -79.849]}
 cover = "es-4452-163"
+cover_cdn_key = "img/v1/2022/12/es-4452-163"
 +++
 
 We awoke this morning to news that our flight home to Seattle had been canceled. This gave us the opportunity to sleep in a bit and then go visit Botany Bay, near Edisto Beach.
@@ -23,15 +24,15 @@ I'd long heard of this location, famous for its weather-worn trees standing in t
 
 I hope to return some day in moodier weather.
 
-{{ es_image(id="es-4452-050", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
-{{ es_image(id="es-4452-085", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
-{{ es_image(id="es-4452-088", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
-{{ es_image(id="es-4452-096", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
-{{ es_image(id="es-4452-163", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
-{{ es_image(id="lr-22c-3643", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
-{{ es_image(id="es-4452-179", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
-{{ es_image(id="lr-22c-3634", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "es-4452-050", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-050", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4452-085", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-085", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4452-088", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-088", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4452-096", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-096", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4452-163", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-163", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "lr-22c-3643", cdn_version = "v1", cdn_key = "img/v1/2022/12/lr-22c-3643", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "es-4452-179", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-179", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "lr-22c-3634", cdn_version = "v1", cdn_key = "img/v1/2022/12/lr-22c-3634", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
 
 If ya gotta spend an extra day away from home, this view ain’t bad.
 
-{{ es_image(id="es-4454-007", caption = "Charleston Harbor Resort and Marina, Mount Pleasant, South Carolina") }}
+{{ es_cdn_image(id = "es-4454-007", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4454-007", caption = "Charleston Harbor Resort and Marina, Mount Pleasant, South Carolina") }}
