@@ -10,6 +10,7 @@ state = ["Louisiana"]
 markers = "markers.js"
 bounds = {sw = [29.918, -90.09], ne = [29.938, -90.07]}
 cover = "es-4428-045"
+cover_cdn_key = "img/v1/2022/10/es-4428-045"
 +++
 
 Friends told us that we should walk down a certain street in the Garden District at night and there would be a show to behold. Mind you, New Orleans in general does not disappoint when it comes to Halloween decor, but our friends were right. This house stood out.
@@ -22,8 +23,8 @@ And a show unlike any other I've seen.
 
 {{ es_vimeo(id="es-4428-041" vmid="780221457", title = "Puttin’ on the Ritz", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
-{{ es_image(id="es-4428-045", caption = "Ghost Manor, New Orleans, Louisiana") }}
-{{ es_image(id="es-4428-047", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_image(id = "es-4428-045", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-045", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_image(id = "es-4428-047", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-047", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
 {{ es_vimeo(id="es-4428-049" vmid="780221579", title = "Skeleton Dance", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
