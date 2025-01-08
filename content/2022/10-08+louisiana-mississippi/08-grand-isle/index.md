@@ -10,9 +10,10 @@ state = ["Louisiana"]
 distance = "385 km / 239 mi"
 route = "New Orleans to Grand Isle, Louisiana, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/10/2022-10-15-grand-isle.kml"
 bounds = {sw = [29.113, -90.573], ne = [30.010, -89.954]}
 cover = "es-4426-066"
+cover_cdn_key = "img/v1/2022/10/es-4426-066"
 +++
 
 On our last full day of the trip, we decided to divide and conquer. I road-tripped again (shocker!) and Lisa explored the city a bit. My travels today took me to another coastal area, Grand Isle.
@@ -21,30 +22,30 @@ On our last full day of the trip, we decided to divide and conquer. I road-tripp
 
 First, meet my friend "Henry Alex," who seemed to be out of place (i.e. on land).
 
-{{ es_image(id="es-4426-007", title = "Henry Alex", caption = "west of Larose, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-007", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-007", title = "Henry Alex", caption = "west of Larose, Louisiana") }}
 
 Closer to the coast, the road was clinging to a fairly narrow strip of land.
 
-{{ es_image(id="es-4426-010", caption = "south of Golden Meadow, Louisiana") }}
-{{ es_image(id="es-4426-032", caption = "south of Golden Meadow, Louisiana") }}
-{{ es_image(id="es-4426-037", caption = "Leeville, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-010", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-010", caption = "south of Golden Meadow, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-032", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-032", caption = "south of Golden Meadow, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-037", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-037", caption = "Leeville, Louisiana") }}
 
 As in much of the Gulf Coast, homes in Grand Isle are built well above ground level in an effort to survive the storm surges that accompany hurricanes.
 
-{{ es_image(id="es-4426-043", caption = "Grand Isle, Louisiana") }}
-{{ es_image(id="es-4426-045", title = "Hurricane Hole", caption = "Grand Isle, Louisiana") }}
-{{ es_image(id="es-4426-066", caption = "Grand Isle, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-043", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-043", caption = "Grand Isle, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-045", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-045", title = "Hurricane Hole", caption = "Grand Isle, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-066", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-066", caption = "Grand Isle, Louisiana") }}
 
 Part of my reason for wanting to visit Grand Isle was to satisfy a curiosity about the Gateway to the Gulf Expressway, one of the longest bridges in the world at more than 13km / 8 miles long.
 
 Here is the south end of the bridge:
 
-{{ es_image(id="es-4426-073p", caption = "north of Port Fourchon, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-073p", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-073p", caption = "north of Port Fourchon, Louisiana") }}
 
 I drove back along the old Highway 1. The new bridge is on the horizon, maybe half a mile from where I took this photo:
 
-{{ es_image(id="es-4426-091", caption = "north of Port Fourchon, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-091", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-091", caption = "north of Port Fourchon, Louisiana") }}
 
 And, finally, on the way back, here, again, is my friend Henry Alex, as seen from the other side of the river.
 
-{{ es_image(id="es-4426-096", caption = "west of Larose, Louisiana") }}
+{{ es_cdn_image(id = "es-4426-096", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4426-096", caption = "west of Larose, Louisiana") }}
