@@ -10,9 +10,10 @@ state = ["Colorado", "Utah"]
 distance = "520 km / 323 mi"
 route = "Denver, Colorado, to Vernal, Utah"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/08/2022-08-22-back-to-utah.kml"
 bounds = {sw = [39.501, -109.511], ne = [40.456, -105.100]}
 cover = "es-4404-012"
+cover_cdn_key = "img/v1/2022/08/es-4404-012"
 comments = true
 +++
 
@@ -24,14 +25,14 @@ I regret that it wasn't possible to make photographs while driving Glenwood Cany
 
 Once we turned off the freeway and onto smaller roads, I could make some photos again. Most of these are in the northwest corner of Colorado:
 
-{{ es_image(id="es-4404-008", caption = "west of Meeker, Colorado") }}
-{{ es_image(id="es-4404-012", caption = "east of Dinosaur, Colorado") }}
-{{ es_image(id="es-4404-033q", caption = "Harpers Corner Road, Dinosaur National Monument, north of Dinosaur, Colorado") }}
-{{ es_image(id="es-4404-053", caption = "Harpers Corner Road, Dinosaur National Monument, north of Dinosaur, Colorado") }}
-{{ es_image(id="es-4404-059", caption = "Harpers Corner Road, Dinosaur National Monument, north of Dinosaur, Colorado") }}
-{{ es_image(id="es-4404-063", caption = "east of Jensen, Utah") }}
-{{ es_image(id="es-4404-064", caption = "east of Jensen, Utah") }}
+{{ es_cdn_image(id = "es-4404-008", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-008", caption = "west of Meeker, Colorado") }}
+{{ es_cdn_image(id = "es-4404-012", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-012", caption = "east of Dinosaur, Colorado") }}
+{{ es_cdn_image(id = "es-4404-033q", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-033q", caption = "Harpers Corner Road, Dinosaur National Monument, north of Dinosaur, Colorado") }}
+{{ es_cdn_image(id = "es-4404-053", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-053", caption = "Harpers Corner Road, Dinosaur National Monument, north of Dinosaur, Colorado") }}
+{{ es_cdn_image(id = "es-4404-059", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-059", caption = "Harpers Corner Road, Dinosaur National Monument, north of Dinosaur, Colorado") }}
+{{ es_cdn_image(id = "es-4404-063", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-063", caption = "east of Jensen, Utah") }}
+{{ es_cdn_image(id = "es-4404-064", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-064", caption = "east of Jensen, Utah") }}
 
 We spent the night in Vernal, Utah, a few hours east of Salt Lake City, and the supposed gateway to dinosaur land.
 
-{{ es_image(id="es-4404-066", caption = "Vernal, Utah") }}
+{{ es_cdn_image(id = "es-4404-066", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4404-066", caption = "Vernal, Utah") }}
