@@ -10,9 +10,10 @@ state = ["Colorado"]
 distance = "188 km / 117 mi"
 route = "Denver, Colorado, to Guanella Pass Summit and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/08/2022-08-21-guanella-pass.kml"
 bounds = {sw = [39.405, -105.731], ne = [39.767, -105.062]}
 cover = "es-4403-045"
+cover_cdn_key = "img/v1/2022/08/es-4403-045"
 comments = true
 +++
 
@@ -24,7 +25,7 @@ Word to the wise ... this is a very windy road. If lots of switchbacks are not y
 
 Here's a sample of the scenery that we enjoyed.
 
-{{ es_image(id="es-4403-034", caption = "south of Georgetown, Colorado") }}
-{{ es_image(id="es-4403-043", caption = "Green Lake, south of Georgetown, Colorado") }}
-{{ es_image(id="es-4403-045", caption = "Guanella Pass Summit, south of Georgetown, Colorado") }}
-{{ es_image(id="es-4403-074", caption = "Guanella Pass Summit, south of Georgetown, Colorado") }}
+{{ es_cdn_image(id = "es-4403-034", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-034", caption = "south of Georgetown, Colorado") }}
+{{ es_cdn_image(id = "es-4403-043", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-043", caption = "Green Lake, south of Georgetown, Colorado") }}
+{{ es_cdn_image(id = "es-4403-045", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-045", caption = "Guanella Pass Summit, south of Georgetown, Colorado") }}
+{{ es_cdn_image(id = "es-4403-074", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-074", caption = "Guanella Pass Summit, south of Georgetown, Colorado") }}

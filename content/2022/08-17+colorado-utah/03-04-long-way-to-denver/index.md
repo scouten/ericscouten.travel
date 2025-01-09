@@ -10,9 +10,10 @@ state = ["Wyoming", "Colorado"]
 distance = "824 km / 512 mi"
 route = "Salt Lake City, Utah, to Denver, Colorado over two days"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/08/2022-08-20-long-way-to-denver.kml"
 bounds = {sw = [39.733, -111.842], ne = [41.793, -104.979]}
 cover = "es-4403-005"
+cover_cdn_key = "img/v1/2022/08/es-4403-005"
 comments = true
 +++
 
@@ -20,9 +21,9 @@ So, it turns out it's a long way from Salt Lake City to Denver. We drove this ov
 
 <!-- more -->
 
-{{ es_image(id="es-4403-002", caption = "Rawlins, Wyoming") }}
-{{ es_image(id="es-4403-005", caption = "south of Laramie, Wyoming") }}
+{{ es_cdn_image(id = "es-4403-002", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-002", caption = "Rawlins, Wyoming") }}
+{{ es_cdn_image(id = "es-4403-005", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-005", caption = "south of Laramie, Wyoming") }}
 
 Loved this mural on a school near where we're staying in Denver:
 
-{{ es_image(id="es-4403-009", caption = "Cowell Elementary School, Denver, Colorado") }}
+{{ es_cdn_image(id = "es-4403-009", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-009", caption = "Cowell Elementary School, Denver, Colorado") }}
