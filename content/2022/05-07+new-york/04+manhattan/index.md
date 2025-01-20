@@ -11,6 +11,7 @@ route = "Manhattan, New York, New York"
 markers = "markers.js"
 bounds = {sw = [40.721, -74], ne = [40.741, -73.98]}
 cover = "es-4344-009"
+cover_cdn_key = "img/v1/2022/05/es-4344-009"
 +++
 
 And now to business ...
@@ -19,10 +20,10 @@ Adobe's offices are near Union Square, so what follows are a few pictures from m
 
 <!-- more -->
 
-{{ es_image(id="es-4344-009", caption = "Union Square Park, Manhattan, New York, New York") }}
-{{ es_image(id="es-4344-011", caption = "Manhattan, New York, New York") }}
-{{ es_image(id="es-4344-061", caption = "The Standard, Manhattan, New York, New York") }}
-{{ es_image(id="es-4344-064", caption = "The Standard, Manhattan, New York, New York") }}
-{{ es_image(id="es-4344-065", caption = "The Standard, Manhattan, New York, New York") }}
-{{ es_image(id="es-4344-067", caption = "The Standard, Manhattan, New York, New York") }}
-{{ es_image(id="es-4344-080", caption = "The Standard, Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-009", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-009", caption = "Union Square Park, Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-011", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-011", caption = "Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-061", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-061", caption = "The Standard, Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-064", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-064", caption = "The Standard, Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-065", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-065", caption = "The Standard, Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-067", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-067", caption = "The Standard, Manhattan, New York, New York") }}
+{{ es_cdn_image(id = "es-4344-080", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4344-080", caption = "The Standard, Manhattan, New York, New York") }}
