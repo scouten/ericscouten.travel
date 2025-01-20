@@ -10,9 +10,10 @@ state = ["Washington", "Idaho", "Utah"]
 distance = "1476 km / 917 mi"
 route = "Olympia, Washington, to Salt Lake City, Utah"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/04/2022-04-15-spokane-and-salt-lake-city.kml"
 bounds = {sw = [40.534, -122.869], ne = [47.642, -111.894]}
 cover = "es-4329-013"
+cover_cdn_key = "img/v1/2022/04/es-4329-013"
 +++
 
 For something a little different, I drove across the state today before heading to Utah for a few days to visit family. (Why? I need to be in eastern Washington right away when I get back.)
@@ -23,7 +24,7 @@ I had to focus on making it to Spokane on time, so no pictures along the way.
 
 My flight to Salt Lake was operated on an E175 regional jet. I paid the relatively small upgrade charge to sit in first class on this flight and wound up sitting by myself (i.e. my seat was both aisle and window). Here are some cloudscapes from that flight and approach into Salt Lake City.
 
-{{ es_image(id="es-4329-007", caption = "above Slate Creek, Idaho") }}
-{{ es_image(id="es-4329-013", caption = "above Hailey, Idaho") }}
-{{ es_image(id="es-4329-014", caption = "above Great Salt Lake, Utah") }}
-{{ es_image(id="es-4329-019", caption = "above Magna, Utah") }}
+{{ es_cdn_image(id = "es-4329-007", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-007", caption = "above Slate Creek, Idaho") }}
+{{ es_cdn_image(id = "es-4329-013", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-013", caption = "above Hailey, Idaho") }}
+{{ es_cdn_image(id = "es-4329-014", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-014", caption = "above Great Salt Lake, Utah") }}
+{{ es_cdn_image(id = "es-4329-019", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-019", caption = "above Magna, Utah") }}
