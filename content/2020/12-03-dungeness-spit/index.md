@@ -10,9 +10,10 @@ state = ["Washington"]
 distance = "178 km / 111 mi"
 route = "Poulsbo to Sequim, Washington, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2020/12/2020-12-03-dungeness-spit.kml"
 bounds = {sw = [47.737, -123.216], ne = [48.149, -122.610]}
 cover = "es-4155-028"
+cover_cdn_key = "img/v1/2020/12/es-4155-028"
 +++
 
 I woke up early this morning for a walk in one of my favorite quiet places.
@@ -21,4 +22,4 @@ I woke up early this morning for a walk in one of my favorite quiet places.
 
 Dungeness National Wildlife Refuge, north of Sequim, Washington
 
-{{ es_image(id = "es-4155-028") }}
+{{ es_cdn_image(id = "es-4155-028", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4155-028") }}
