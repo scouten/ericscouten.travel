@@ -10,9 +10,10 @@ state = ["Puerto Rico", "California", "Washington"]
 distance = "8145 km / 5061 mi"
 route = "San Juan, Puerto Rico, to Seattle, Washington"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2022/01/2022-01-03-take-the-long-way-home.kml"
 bounds = {sw = [18.437, -122.737], ne = [47.681, -65.968]}
 cover = "es-4302-045"
+cover_cdn_key = "img/v1/2022/01/es-4302-045"
 +++
 
 It was going to be a long day in any case. But when our 2am flight from San Juan became a 4:30am flight, there was no longer a direct flight available for us from Newark to Seattle. So ... we took the long(er) way home.
@@ -23,8 +24,8 @@ Some upsides to this longer route: Lisa and I got some extra time together, and 
 
 On the final leg from SFO to Seattle, I had a window seat, which gave me some beautiful sunset views on takeoff and a fun video of Seattle's city lights as we came in for our landing.
 
-{{ es_image(id="es-4302-045", caption = "above Foster City, California") }}
-{{ es_image(id="es-4302-047", caption = "above Hayward, California") }}
+{{ es_cdn_image(id = "es-4302-045", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-045", caption = "above Foster City, California") }}
+{{ es_cdn_image(id = "es-4302-047", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-047", caption = "above Hayward, California") }}
 {{ es_vimeo(id="es-4302-057" vmid="666155223", title = "Seattle at Night", caption = "above Seattle, Washington") }}
 
 You'll notice some extra curves on the track log over Oregon. The pilot came on the intercom around that time and said that he had been asked to delay our arrival into Seattle a bit due to worsening weather conditions. So we zig-zagged over the mountains near Bend to add some time. A cute little endcap to the longer-than-planned long way home.

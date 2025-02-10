@@ -10,9 +10,10 @@ state = ["Puerto Rico"]
 distance = "294 km / 183 mi"
 route = "Ponce to Fajardo and San Juan, Puerto Rico"
 markers = "markers.js"
-track = "track2.kml"
+track_log_key = "kml/v1/2022/01/2022-01-02-ponce-y-fajardo.kml"
 bounds = {sw = [17.974, -67.099], ne = [18.438, -65.620]}
 cover = "es-4301-127"
+cover_cdn_key = "img/v1/2022/01/es-4301-127"
 +++
 
 This morning, we said goodbye to the treehouse and started our journey home. We had a full day to spend on the island, so we spent our lunch time in the southern coastal city of Ponce and then made our way to the very northeast corner of the island for a night-time bioluminescent kayak tour before heading back to the airport.
@@ -21,33 +22,33 @@ This morning, we said goodbye to the treehouse and started our journey home. We 
 
 After lunch at a roadside coffee shop, we walked around the main square of Ponce for a bit.
 
-{{ es_image(id="es-4301-016", caption = "CoffeeHouse, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-029", caption = "Plaza Degetau, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-052", caption = "Catedral Nuestra Señora de Guadalupe, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-072", caption = "Parque de Bombas, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-077", caption = "Plaza Degetau, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-081", caption = "Plaza Degetau, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-016", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-016", caption = "CoffeeHouse, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-029", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-029", caption = "Plaza Degetau, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-052", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-052", caption = "Catedral Nuestra Señora de Guadalupe, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-072", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-072", caption = "Parque de Bombas, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-077", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-077", caption = "Plaza Degetau, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-081", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-081", caption = "Plaza Degetau, Ponce, Puerto Rico") }}
 
 On our way out of town, we were struck by the remains of the old municipal hospital, so we stopped and made a few photos:
 
-{{ es_image(id="es-4301-087", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-097", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
-{{ es_image(id="lr-221-1457", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_image(id="es-4301-101", caption = "Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-103", caption = "Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-106", caption = "Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-114", caption = "Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-115", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
-{{ es_image(id="es-4301-117", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-087", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-087", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-097", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-097", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "lr-221-1457", cdn_version = "v1", cdn_key = "img/v1/2022/01/lr-221-1457", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "es-4301-101", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-101", caption = "Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-103", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-103", caption = "Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-106", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-106", caption = "Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-114", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-114", caption = "Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-115", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-115", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-117", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-117", caption = "Antiguo Hospital Tricoche, Ponce, Puerto Rico") }}
 
 We had heard about bioluminescent bays and that Puerto Rico had a few of them. We managed to finagle a spot at the last moment with [Glass Bottom Kayak Tours](https://glassbottompr.com), so we drove all the way to Fajardo on the very northeast corner of the island during the afternoon.
 
 They advised us to arrive an hour early so we could find a parking place, because ... "well, you'll see why when you get here." Turns out there was either some kind of festival or big party and it took us a while to find a parking place. This was a lot of fun, but it made finding dinner before the tour ... challenging.
 
-{{ es_image(id="lr-221-1464", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_image(id="lr-221-1467", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_image(id="es-4301-126", caption = "Parque Recreativo, Fajardo, Puerto Rico") }}
-{{ es_image(id="es-4301-127", caption = "Parque Recreativo, Fajardo, Puerto Rico") }}
+{{ es_cdn_image(id = "lr-221-1464", cdn_version = "v1", cdn_key = "img/v1/2022/01/lr-221-1464", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "lr-221-1467", cdn_version = "v1", cdn_key = "img/v1/2022/01/lr-221-1467", caption = "Parque Recreativo, Fajardo, Puerto Rico", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "es-4301-126", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-126", caption = "Parque Recreativo, Fajardo, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4301-127", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4301-127", caption = "Parque Recreativo, Fajardo, Puerto Rico") }}
 
 Sadly, bioluminescence is only really visible in almost absolute darkness, so we have no photos to share. But it was a truly magical experience. If you go to Puerto Rico, you should definitely plan on taking this or a similar tour.
 

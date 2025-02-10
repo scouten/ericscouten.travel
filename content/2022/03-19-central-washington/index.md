@@ -14,7 +14,6 @@ track_log_key = "kml/v1/2022/03/2022-03-19-central-washington.kml"
 bounds = {sw = [46.996, -120.549], ne = [48.478, -119.142]}
 cover = "es-4321-096"
 cover_cdn_key = "img/v1/2022/03/es-4321-096"
-cover_cdn_key = "img/v1/2022/03/es-4321-096"
 +++
 
 The idea, [again](../01-14-eastern-washington/) was to visit some more parks for the [146 Parks](https://146parks.blog) project. Weather intervened and my plans had to change a bit, but a good trip was had nonetheless.
