@@ -10,9 +10,10 @@ state = ["Washington"]
 distance = "502 km / 312 mi"
 route = "Poulsbo to Friday Harbor, Washington, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2020/10/2020-10-11-san-juan-islands.kml"
 bounds = {sw = [47.736, -123.165], ne = [48.611, -122.581]}
 cover = "es-4128-005"
+cover_cdn_key = "img/v1/2020/10/es-4128-005"
 +++
 
 I had the opportunity to take a long weekend away and visit two of the San Juan Islands.
@@ -32,22 +33,22 @@ The first two are here:
 
 While getting to and from those parks, there were a few other fun scenes, documented here:
 
-{{ es_image(id = "es-4127-001", caption = "Ferry from Anacortes to Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4127-001", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4127-001", caption = "Ferry from Anacortes to Lopez Island, Washington") }}
 
-{{ es_image(id = "es-4126-032", caption = "Ferry from Anacortes to Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-032", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-032", caption = "Ferry from Anacortes to Lopez Island, Washington") }}
 
-{{ es_image(id = "es-4126-041", caption = "Spencer Spit State Park, Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-041", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-041", caption = "Spencer Spit State Park, Lopez Island, Washington") }}
 
-{{ es_image(id = "es-4126-067", caption = "Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-067", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-067", caption = "Lopez Island, Washington") }}
 
-{{ es_image(id = "es-4126-078", caption = "Ferry from Lopez Island to Friday Harbor, Washington") }}
+{{ es_cdn_image(id = "es-4126-078", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-078", caption = "Ferry from Lopez Island to Friday Harbor, Washington") }}
 
-{{ es_image(id = "es-4126-079", caption = "Ferry from Lopez Island to Friday Harbor, Washington") }}
+{{ es_cdn_image(id = "es-4126-079", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-079", caption = "Ferry from Lopez Island to Friday Harbor, Washington") }}
 
-{{ es_image(id = "es-4126-093", caption = "San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-093", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-093", caption = "San Juan Island, Washington") }}
 
-{{ es_image(id = "es-4126-095", caption = "Lime Kiln Point State Park, San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-095", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-095", caption = "Lime Kiln Point State Park, San Juan Island, Washington") }}
 
-{{ es_image(id = "es-4128-005", caption = "San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4128-005", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4128-005", caption = "San Juan Island, Washington") }}
 
-{{ es_image(id = "es-4130-004", caption = "San Juan Island National Historical Park, San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4130-004", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4130-004", caption = "San Juan Island National Historical Park, San Juan Island, Washington") }}
