@@ -10,9 +10,10 @@ state = ["Washington"]
 distance = "6.5 km / 4.0 mi"
 route = "Talus Loop Trail, east of North Bend, Washington"
 markers = "markers.js"
-track = "2021-05-23-talus-loop-trail.kml"
+track_log_key = "kml/v1/2021/05/2021-05-23-talus-loop-trail.kml"
 bounds = {sw = [47.488, -121.738], ne = [47.508, -121.718]}
 cover = "es-4217-013p"
+cover_cdn_key = "img/v1/2021/05/es-4217-013p"
 +++
 
 I hiked the Talus Loop Trail near North Bend in May.
@@ -21,7 +22,7 @@ I hiked the Talus Loop Trail near North Bend in May.
 
 This was mostly a gray-day forested hike, but I did get one photo I especially enjoyed when we crossed a rocky clearing.
 
-{{ es_image(id="es-4217-013p", caption = "Talus Loop Trail, east of North Bend, Washington") }}
+{{ es_cdn_image(id = "es-4217-013p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4217-013p", caption = "Talus Loop Trail, east of North Bend, Washington") }}
 
 For more information:
 
