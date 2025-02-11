@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "1927 km / 1197 mi"
 route = "Pyla, Cyprus, to Senglea, Malta"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2019/03/2019-03-26-a-plan comes to fruition.kml"
 bounds = {sw = [34.680, 14.328], ne = [35.987, 33.701]}
 cover = "es-3909-009"
+cover_cdn_key = "img/v1/2019/03/es-3909-009"
 +++
 
 Like the last two days, there was a plan for today.
@@ -24,9 +25,9 @@ This plan had been in the works for years.
 
 But unlike the last two days, this plan came to fruition.
 
-{{ es_image(id = "es-3908-004", caption = "above Birżebbuġa, Malta") }}
+{{ es_cdn_image(id = "es-3908-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3908-004", caption = "above Birżebbuġa, Malta") }}
 
-{{ es_image(id = "es-3908-012", caption = "28 🇲🇹 🇪🇺 · Malta International Airport, Luqa, Malta") }}
+{{ es_cdn_image(id = "es-3908-012", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3908-012", caption = "28 🇲🇹 🇪🇺 · Malta International Airport, Luqa, Malta") }}
 
 20 years ago, I had my first opportunity to visit Europe. From that first visit, to Germany, for work, I fell in love. I have enjoyed returning many times in the years since.
 
@@ -58,41 +59,40 @@ In Malta, I have the opposite struggle: There is an abundance of photographic ri
 
 Herewith, my favorites from today’s initial exploration:
 
-{{ es_image(id = "es-3908-017", caption = "Mdina, Malta") }}
+{{ es_cdn_image(id = "es-3908-017", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3908-017", caption = "Mdina, Malta") }}
 
-{{ es_image(id = "es-3905-013", caption = "Mgarr, Malta") }}
+{{ es_cdn_image(id = "es-3905-013", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-013", caption = "Mgarr, Malta") }}
 
-{{ es_image(id = "es-3905-018", caption = "Mgarr, Malta") }}
+{{ es_cdn_image(id = "es-3905-018", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-018", caption = "Mgarr, Malta") }}
 
-{{ es_image(id = "es-3905-022", caption = "Mellieha, Malta") }}
+{{ es_cdn_image(id = "es-3905-022", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-022", caption = "Mellieha, Malta") }}
 
-{{ es_image(id = "es-3905-025", caption = "Mellieha, Malta") }}
+{{ es_cdn_image(id = "es-3905-025", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-025", caption = "Mellieha, Malta") }}
 
-{{ es_image(id = "es-3905-027", caption = "Mellieha, Malta") }}
+{{ es_cdn_image(id = "es-3905-027", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-027", caption = "Mellieha, Malta") }}
 
-{{ es_image(id = "es-3905-043", caption = "Mellieha, Malta") }}
+{{ es_cdn_image(id = "es-3905-043", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-043", caption = "Mellieha, Malta") }}
 
-{{ es_image(id = "es-3905-044", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-044", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-044", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-045", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-045", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-045", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-052", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-052", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-052", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-055", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-055", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-055", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-061", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-061", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-061", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-062", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-062", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-062", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-068", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3905-068", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-068", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3906-004", title = "Unsent Letters", caption = "Saint Paul’s Bay, Malta") }}
+{{ es_cdn_image(id = "es-3906-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3906-004", title = "Unsent Letters", caption = "Saint Paul’s Bay, Malta") }}
 
-{{ es_image(id = "es-3905-071", caption = "Senglea, Malta") }}
+{{ es_cdn_image(id = "es-3905-071", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3905-071", caption = "Senglea, Malta") }}
 
-{{ es_image(id = "es-3908-026", caption = "Senglea, Malta") }}
+{{ es_cdn_image(id = "es-3908-026", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3908-026", caption = "Senglea, Malta") }}
 
-{{ es_image(id = "es-3909-003", caption = "Senglea, Malta") }}
+{{ es_cdn_image(id = "es-3909-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3909-003", caption = "Senglea, Malta") }}
 
-{{ es_image(id = "es-3909-009", caption = "Senglea, Malta") }}
-
+{{ es_cdn_image(id = "es-3909-009", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3909-009", caption = "Senglea, Malta") }}
