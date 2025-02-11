@@ -22,7 +22,7 @@ As I mentioned in [a recent photoblog post](https://photoblog.ericscouten.com/so
 
 <!-- more -->
 
-The trip started Friday night, when I left Seattle for New Jersey and Pennsylvania. I met up with [Thor Iverson](http://www.thoriverson.com/), who is now a writer and educator on wine and food. When I last saw him, he was a classmate of mine in a small town in northern Minnesota. That was more than 30 years ago. It was an absolute pleasure to catch up and share delightful food, wine, and cocktails with him over the course of a few hours last evening.
+The trip started Friday night, when I left Seattle for New Jersey and Pennsylvania. I met up with my friend Thor, who is now a writer and educator on wine and food. _(Update from 2025: Thor is has sadly passed away since we connected in 2019. His web site -- which I had linked to in the original version of this article -- appears to have also met its demise. 😢)_ When I last saw him, he was a classmate of mine in a small town in northern Minnesota. That was more than 30 years ago. It was an absolute pleasure to catch up and share delightful food, wine, and cocktails with him over the course of a few hours last evening.
 
 I landed at 7am in Newark and had something like 12 hours, by car, to make it to Philadelphia. The "direct" route from point A to point B might take 90 minutes in weekend traffic, but did I go that way? Of course not!
 
