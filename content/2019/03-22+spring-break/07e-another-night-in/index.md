@@ -10,9 +10,10 @@ country = ["Tunisia"]
 distance = "4.1 km / 2.5 mi"
 route = "Sidi Bou Said to La Marsa, Tunisia"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2019/03/2019-03-29-e-another-night-in.kml"
 bounds = {sw = [36.869, 10.329], ne = [36.889, 10.349]}
 cover = "es-3921-006"
+cover_cdn_key = "img/v1/2019/03/es-3921-006"
 +++
 
 After a long day of exploring and photographing, it was time to go back to my hotel in La Marsa.
@@ -21,18 +22,18 @@ After a long day of exploring and photographing, it was time to go back to my ho
 
 And ... what did I do? Went for yet another photo walk at sunset. This place is irresistable.
 
-{{ es_image(id = "es-3920-001") }}
+{{ es_cdn_image(id = "es-3920-001", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3920-001") }}
 
-{{ es_image(id = "es-3920-004") }}
+{{ es_cdn_image(id = "es-3920-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3920-004") }}
 
-{{ es_image(id = "es-3920-008") }}
+{{ es_cdn_image(id = "es-3920-008", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3920-008") }}
 
-{{ es_image(id = "es-3920-010") }}
+{{ es_cdn_image(id = "es-3920-010", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3920-010") }}
 
-{{ es_image(id = "es-3920-012") }}
+{{ es_cdn_image(id = "es-3920-012", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3920-012") }}
 
 Friday night and there’s a dance happening across the street from me:
 
 {{ es_vimeo(id = "es-3921-004", vmid = "831350430") }}
 
-{{ es_image(id = "es-3921-006") }}
+{{ es_cdn_image(id = "es-3921-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-006") }}
