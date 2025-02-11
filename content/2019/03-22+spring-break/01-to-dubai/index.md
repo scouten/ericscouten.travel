@@ -12,9 +12,10 @@ first_published_on = "ericscouten.com"
 distance = "12,717 km / 7908 mi"
 route = "Seattle, Washington, to Dubai, United Arab Emirates"
 markers = "markers.js"
-track = "track1.kml"
+track_log_key = "kml/v1/2019/03/2019-03-22-to-dubai.kml"
 bounds = {sw = [25.242, -122.509], ne = [70.041, 55.376]}
 cover = "es-3896-003"
+cover_cdn_key = "img/v1/2019/03/es-3896-003"
 +++
 
 Ah, spring break is here.
@@ -27,9 +28,9 @@ Tonight I am overnighting in the desert palace that is Dubai. Tomorrow morning I
 
 Few pictures today, as this was a day full of plane travel without the benefit (or curse) of a window seat. Tomorrow should be good.
 
-{{ es_image(id="es-3896-003", caption = "ferry from Bainbridge Island to Seattle, Washington") }}
+{{ es_cdn_image(id = "es-3896-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3896-003", caption = "ferry from Bainbridge Island to Seattle, Washington") }}
 
-{{ es_image(id="es-3897-004", caption = "Sea-Tac International Airport, Seattle, Washington") }}
+{{ es_cdn_image(id = "es-3897-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3897-004", caption = "Sea-Tac International Airport, Seattle, Washington") }}
 
 I may always find pilots’ ability to find a runway amazing, especially in the middle of the night:
 
