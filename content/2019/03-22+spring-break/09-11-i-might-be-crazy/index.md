@@ -10,10 +10,11 @@ country = ["Japan", "Tunisia"]
 distance = "25,912 km / 16,101 mi"
 route = "Tunis, Tunisia, to Kyoto, Japan"
 markers = "markers.js"
-track = "track3.kml"
+track_log_key = "kml/v1/2019/04/2019-04-02-i-might-be-crazy.kml"
 bounds = {sw = [25.079, 10.157], ne = [60.000, -122.294]}
 # bounds = {sw = [25.079, 10.157], ne = [87.935, -122.294]}
 cover = "es-3921-047"
+cover_cdn_key = "img/v1/2019/03/es-3921-047"
 +++
 
 And now, for something _completely_ different ...
@@ -28,15 +29,15 @@ But the thing is ... I wanted a special travel companion with me. So I few from 
 
 First, let's bid farewell to Tunisia, as seen on departure from Tunis-Carthage Airport:
 
-{{ es_image(id = "es-3921-027", caption = "above Tunis, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-027", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-027", caption = "above Tunis, Tunisia") }}
 
-{{ es_image(id = "es-3921-032", caption = "above Tunis, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-032", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-032", caption = "above Tunis, Tunisia") }}
 
-{{ es_image(id = "es-3921-036", caption = "above Raoued, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-036", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-036", caption = "above Raoued, Tunisia") }}
 
-{{ es_image(id = "es-3921-040", caption = "above Raoued, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-040", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-040", caption = "above Raoued, Tunisia") }}
 
-{{ es_image(id = "es-3921-047", caption = "above the Mediterranean Ocean, south of Greece") }}
+{{ es_cdn_image(id = "es-3921-047", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-047", caption = "above the Mediterranean Ocean, south of Greece") }}
 
 The flight into Tunis took a rather curvy path for two reasons, as I understand it:
 
@@ -51,7 +52,7 @@ Solution: This appears to be one of those "we'll fit anything plugs." Insert an 
 
 Problem solved. #travelgeeksrule
 
-{{ es_image(id = "es-3925-002", caption = "Pacific Ocean, west of Ketchikan, Alaska") }}
+{{ es_cdn_image(id = "es-3925-002", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3925-002", caption = "Pacific Ocean, west of Ketchikan, Alaska") }}
 
 ...
 
