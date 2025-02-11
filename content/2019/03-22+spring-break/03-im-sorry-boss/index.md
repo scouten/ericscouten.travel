@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "346 km / 215 mi"
 route = "around Cyprus"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2019/03/2019-03-25-im-sorry-boss.kml"
 bounds = {sw = [34.695, 32.897], ne = [35.175, 34.081]}
 cover = "es-3902-023"
+cover_cdn_key = "img/v1/2019/03/es-3902-023"
 +++
 
 As they say, be careful what you wish for.
@@ -41,7 +42,7 @@ The Grand Plan B for today was:
 
 As planned, I drove to the east from Larnaca as far as I could.
 
-{{ es_image(id = "es-3902-001", caption = "Typical view in Cypriot countryside. · Ormideia, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-001", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-001", caption = "Typical view in Cypriot countryside. · Ormideia, Cyprus") }}
 
 . . .
 
@@ -51,19 +52,19 @@ Let’s cut right to the chase, shall we?
 
 It's fascinating and a bit macabre to drive through a tourist area in off-season.
 
-{{ es_image(id = "es-3902-002", caption = "Ayia Napa, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-002", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-002", caption = "Ayia Napa, Cyprus") }}
 
-{{ es_image(id = "es-3902-004", caption = "Livadia, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-004", caption = "Livadia, Cyprus") }}
 
 ## Step 3: Nicosia
 
 I made it to Nicosia, where I spotted this Turkish flag on the hills north of Nicosia -- presumably a bit of a jab to Greek Cypriot commuters on their way into their capitol.
 
-{{ es_image(id = "es-3904-001", caption = "Latsia, Cyprus") }}
+{{ es_cdn_image(id = "es-3904-001", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3904-001", caption = "Latsia, Cyprus") }}
 
 I parked and walked a bit around the old city. This was on my way to the border crossing ...
 
-{{ es_image(id = "es-3902-006", caption = "Nicosia, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-006", caption = "Nicosia, Cyprus") }}
 
 ## Step 4: Surprise!
 
@@ -113,7 +114,7 @@ _shrug_
 
 Here is Ledras Street, on the Greek Cypriot side, a block or so south of the border crossing. This is as close as I really got to having a photo from Northern Cyprus.
 
-{{ es_image(id = "es-3903-006", caption = "Ledras Street, Nicosia, Cyprus") }}
+{{ es_cdn_image(id = "es-3903-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3903-006", caption = "Ledras Street, Nicosia, Cyprus") }}
 
 ## Remember Plan A?
 
@@ -139,18 +140,18 @@ And, for that, I’m thankful. If the Turkish authorities were going to have a p
 
 A little frazzled from that unexpected encounter, I left Nicosia and went for a longish drive back to my hotel by way of the mountains west of the city. That was welcome therapy, and you’ll find below some photos taken from the South, looking across the border to the North.
 
-{{ es_image(id = "es-3902-011", caption = "Kato Koutrafas, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-011", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-011", caption = "Kato Koutrafas, Cyprus") }}
 
-{{ es_image(id = "es-3902-012", caption = "Looking across the line of control into Northern Cyprus. · Kato Koutrafas, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-012", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-012", caption = "Looking across the line of control into Northern Cyprus. · Kato Koutrafas, Cyprus") }}
 
-{{ es_image(id = "es-3902-016", caption = "Kato Koutrafas, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-016", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-016", caption = "Kato Koutrafas, Cyprus") }}
 
-{{ es_image(id = "es-3902-019", caption = "Galata, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-019", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-019", caption = "Galata, Cyprus") }}
 
-{{ es_image(id = "es-3902-020", caption = "Pelentri, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-020", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-020", caption = "Pelentri, Cyprus") }}
 
-{{ es_image(id = "es-3902-023", caption = "Sunset near my hotel. · Pyla, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-023", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-023", caption = "Sunset near my hotel. · Pyla, Cyprus") }}
 
-{{ es_image(id = "es-3902-024", caption = "Pyla, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-024", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-024", caption = "Pyla, Cyprus") }}
 
 I’m going to avoid wishing for anything specific tomorrow. That seems to cause problems.
