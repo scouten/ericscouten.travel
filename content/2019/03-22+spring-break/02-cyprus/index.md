@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "3218 km / 2000 mi"
 route = "Dubai, United Arab Emirates, to Larnaca, Cyprus"
 markers = "markers.js"
-track = "track1.kml"
+track_log_key = "kml/v1/2019/03/2019-03-24-cyprus.kml"
 bounds = {sw = [25.142, 32.399], ne = [35.039, 55.448]}
 cover = "es-3900-013"
+cover_cdn_key = "img/v1/2019/03/es-3900-013"
 +++
 
 Come to the Mediterranean, they said. It will be warm, they said.
@@ -31,19 +32,19 @@ There was a grand plan for today. It was:
 
 It … seemed like a good idea at the time.
 
-{{ es_image(id = "es-3900-004", caption = "Poli Crysochous, Cyprus") }}
+{{ es_cdn_image(id = "es-3900-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-004", caption = "Poli Crysochous, Cyprus") }}
 
 P.S. Good thing I know how to drive a stick shift, left- or right-handed. Automatics were hard to find here!
 
-{{ es_image(id = "es-3899-009", caption = "Poli Crysochous, Cyprus") }}
+{{ es_cdn_image(id = "es-3899-009", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3899-009", caption = "Poli Crysochous, Cyprus") }}
 
 Here, you can see that I got as far as step 3. Maybe even 3½. Here is as close as I got to the northwestern most point of the island:
 
-{{ es_image(id = "es-3900-006", caption = "Latsi, Cyprus") }}
+{{ es_cdn_image(id = "es-3900-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-006", caption = "Latsi, Cyprus") }}
 
 I made a few photos, including some fun, dramatic ones like this ...
 
-{{ es_image(id = "es-3901-003", title = "The Whole Catastrophe", caption = "Prodromi, Cyprus") }}
+{{ es_cdn_image(id = "es-3901-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3901-003", title = "The Whole Catastrophe", caption = "Prodromi, Cyprus") }}
 
 And then the **rain** came.
 
@@ -55,14 +56,14 @@ At that point, I was no longer sure if it was rain, freezing rain, hail, or snow
 
 I tapped the brakes on the car. Not much happened, aside from the car bleating out a feeble warning that the road was slippery. (Fortunately, being used to things like that from my northern Minnesota upbringing, I was already driving very slowly.)
 
-{{ es_image(id = "es-3899-012", caption = "Current status: Driving through a thunderstorm with freezing rain … · Kathikas, Cyprus") }}
+{{ es_cdn_image(id = "es-3899-012", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3899-012", caption = "Current status: Driving through a thunderstorm with freezing rain … · Kathikas, Cyprus") }}
 
 And that mostly defined the afternoon. You might understand my reticence to get out and make more photos. Getting struck by lightning and then freezing to death while getting pelted by hailstones somehow didn’t sound all that charming.
 
 
-{{ es_image(id = "es-3900-011", caption = "Tsada, Cyprus") }}
+{{ es_cdn_image(id = "es-3900-011", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-011", caption = "Tsada, Cyprus") }}
 
-{{ es_image(id = "es-3900-013", caption = "During a brief respite from the rains … · Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom") }}
+{{ es_cdn_image(id = "es-3900-013", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-013", caption = "During a brief respite from the rains … · Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom") }}
 
 . . .
 
