@@ -10,9 +10,10 @@ country = ["Taiwan"]
 distance = "400 km / 248 mi"
 route = "Xincheng Township, Hualien County, to Kaohsiung, Taiwan"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2018/03/2018-03-04-midnight-stampede.kml"
 bounds = {sw = [22.203, 120.296], ne = [24.182, 121.649]}
 cover = "es-3709-009"
+cover_cdn_key = "img/v1/2018/03/es-3709-009"
 +++
 
 It's dark. I'm asleep. There are elephants.
@@ -53,7 +54,7 @@ The adrenaline wears off and I fall back asleep.
 
 A couple hours later, my phone bleeps and offers me this confirmation:
 
-{{ es_image(id = "es-3711-002", caption = "Taroko Liiko Hotels, Xincheng Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-002", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-002", caption = "Taroko Liiko Hotels, Xincheng Township, Hualien County, Taiwan") }}
 
 The epicenter was 1.4 km (less than a mile) from my hotel.
 
@@ -67,46 +68,46 @@ I awoke again at dawn (this time, without the elephants) and drove back into Tar
 
 Getting there early paid off:
 
-{{ es_image(id = "es-3711-004", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-004", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-004", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
 
-{{ es_image(id = "es-3709-009", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-009", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-009", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
 
-{{ es_image(id = "es-3709-014", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-014", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-014", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
 
-{{ es_image(id = "es-3709-015", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-015", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-015", caption = "Xiangde Temple, Taroko National Park, Taiwan") }}
 
 Obviously, I'm here to tell the tale, but I did feel a bit nervous driving under these cliffs only a few hours after that earthquake.
 
-{{ es_image(id = "es-3711-010", caption = "Central Cross-Island Highway, Taroko National Park, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-010", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-010", caption = "Central Cross-Island Highway, Taroko National Park, Taiwan") }}
 
 I got back to my hotel in time to enjoy their breakfast buffet, which looks ... just a little different from what we are offered back home:
 
-{{ es_image(id = "es-3711-012", caption = "Taroko Liiko Hotels, Xincheng Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-012", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-012", caption = "Taroko Liiko Hotels, Xincheng Township, Hualien County, Taiwan") }}
 
 My overall plan for this long weekend is to circumnavigate the island. Today's route took me along most of the eastern coast of Taiwan, alternating between rice paddies and winding mountain roads.
 
-{{ es_image(id = "es-3709-024", caption = "Yuli Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-024", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-024", caption = "Yuli Township, Hualien County, Taiwan") }}
 
-{{ es_image(id = "es-3710-004", caption = "Yuli Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3710-004", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3710-004", caption = "Yuli Township, Hualien County, Taiwan") }}
 
-{{ es_image(id = "es-3711-016", caption = "Yuli Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-016", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-016", caption = "Yuli Township, Hualien County, Taiwan") }}
 
-{{ es_image(id = "es-3709-032", caption = "Fuli Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-032", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-032", caption = "Fuli Township, Hualien County, Taiwan") }}
 
-{{ es_image(id = "es-3709-035", caption = "Fuli Township, Hualien County, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-035", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-035", caption = "Fuli Township, Hualien County, Taiwan") }}
 
 A few scenes from some of the towns along the way:
 
-{{ es_image(id = "es-3711-018", caption = "Guanshan Township, Taitung County, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-018", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-018", caption = "Guanshan Township, Taitung County, Taiwan") }}
 
-{{ es_image(id = "es-3711-023", caption = "Taitung City, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-023", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-023", caption = "Taitung City, Taiwan") }}
 
-{{ es_image(id = "es-3709-037", caption = "Taimali Township, Taitung County, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-037", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-037", caption = "Taimali Township, Taitung County, Taiwan") }}
 
-{{ es_image(id = "es-3709-040", caption = "Taimali Township, Taitung County, Taiwan") }}
+{{ es_cdn_image(id = "es-3709-040", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3709-040", caption = "Taimali Township, Taitung County, Taiwan") }}
 
 I arrived in Kaohsiung just in time for a quick sunset photo.
 
-{{ es_image(id = "es-3711-025", caption = "Grand Hi-Lai Hotel, Kaohsiung, Taiwan") }}
+{{ es_cdn_image(id = "es-3711-025", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3711-025", caption = "Grand Hi-Lai Hotel, Kaohsiung, Taiwan") }}
 
-{{ es_image(id = "es-3712-002", caption = "Grand Hi-Lai Hotel, Kaohsiung, Taiwan") }}
+{{ es_cdn_image(id = "es-3712-002", cdn_version = "v1", cdn_key = "img/v1/2018/03/es-3712-002", caption = "Grand Hi-Lai Hotel, Kaohsiung, Taiwan") }}
