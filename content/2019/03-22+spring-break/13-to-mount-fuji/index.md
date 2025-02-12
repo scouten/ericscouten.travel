@@ -10,9 +10,10 @@ country = ["Japan"]
 distance = "421 km / 262 mi"
 route = "Kyōto to Yamanakako, Japan"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2019/04/2019-04-04-to-mount-fuji.kml"
 bounds = {sw = [34.687, 135.758], ne = [35.436, 138.948]}
 cover = "es-3932-152"
+cover_cdn_key = "img/v1/2019/04/es-3932-152"
 +++
 
 Any trip to Japan _must_ include a ride on the famously-fast Shinkansen trains.
@@ -21,33 +22,33 @@ Any trip to Japan _must_ include a ride on the famously-fast Shinkansen trains.
 
 We started today with a photo walk through [Heian Shrine](https://en.wikipedia.org/wiki/Heian_Shrine), near where we were staying:
 
-{{ es_image(id = "es-3932-132", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-132", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-132", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-133", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-133", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-133", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-135", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-135", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-135", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-137", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-137", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-137", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-138", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-138", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-138", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-140", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-140", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-140", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-143", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-143", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-143", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-144", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-144", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-144", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-145", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-145", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-145", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-152", caption = "Heian Shrine, Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-152", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-152", caption = "Heian Shrine, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3932-158", caption = "Kyōto, Japan") }}
+{{ es_cdn_image(id = "es-3932-158", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3932-158", caption = "Kyōto, Japan") }}
 
 Next up ... a very fast train!
 
 {{ es_vimeo(id = "es-3930-011", vmid = "834283964", caption = "Kyōto Station, Kyōto, Japan") }}
 
-{{ es_image(id = "es-3930-012", title = "Diet Coke, Mount Fuji Edition", caption = "Nagoya, Aichi, Japan") }}
+{{ es_cdn_image(id = "es-3930-012", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3930-012", title = "Diet Coke, Mount Fuji Edition", caption = "Nagoya, Aichi, Japan") }}
 
 Our trip on the famous Shinkansen trains took us to near where we would stay tonight. The track log from the time says we were going roughly 280 km/h / 175 mph during both of the videos that follow. (Yes, for the record, I like going fast.)
 
