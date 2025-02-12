@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "4575 km / 2843 mi"
 route = "Seattle, Washington, to Philadelphia, Pennsylvania"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2018/09/2018-09-16-prelude.kml"
 bounds = {sw = [38.745, -122.510], ne = [47.623, -74.076]}
 cover = "es-3786-002"
+cover_cdn_key = "img/v1/2018/09/es-3786-002"
 +++
 
 I am beginning a new journey.
@@ -30,25 +31,25 @@ Being the contrarian that I am, I drove down the length of New Jersey and took t
 
 Most of my photos for this post are from the ferry trip. Even though I ride ferries often, I still revel in the experience of a new vessel. Each one has its own personality; its own little quirks to share with you.
 
-{{ es_image(id = "es-3785-004", caption = "My ship has come in … · Ferry Terminal, Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3785-004", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-004", caption = "My ship has come in … · Ferry Terminal, Cape May, New Jersey") }}
 
-{{ es_image(id = "es-3786-001", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3786-001", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-001", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
 
-{{ es_image(id = "es-3786-002", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3786-002", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-002", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
 
-{{ es_image(id = "es-3786-005", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3786-005", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-005", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
 
 Huh. Wasn’t expecting to see that sign until week after next. 🤔
 
-{{ es_image(id = "es-3785-015", caption = "Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-3785-015", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-015", caption = "Philadelphia, Pennsylvania") }}
 
 A few of the photos are from my dinner with Thor at [Oloroso](https://www.olorosophilly.com). I can not find adequate words to describe the food, cocktails, wine, and discussion that was had there; let's just say that my friend chose very well.
 
-{{ es_image(id = "es-3785-016", caption = "Oloroso, Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-3785-016", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-016", caption = "Oloroso, Philadelphia, Pennsylvania") }}
 
-{{ es_image(id = "es-3785-020", caption = "Oloroso, Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-3785-020", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-020", caption = "Oloroso, Philadelphia, Pennsylvania") }}
 
-{{ es_image(id = "es-3785-023", caption = "Penn Square, Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-3785-023", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-023", caption = "Penn Square, Philadelphia, Pennsylvania") }}
 
 As I write this, I am at the airport in Newark, New Jersey, awaiting word that it’s time to board my flight to Dublin.
 
