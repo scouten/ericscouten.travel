@@ -70,6 +70,8 @@ My hotel is right in the heart of the old town, which made it easy for me to go 
 
 {{ es_image(id = "es-3575-025") }}
 
+{{ es_image(id = "es-3575-029") }}
+
 {{ es_image(id = "es-3575-032") }}
 
 {{ es_image(id = "es-3575-036") }}
