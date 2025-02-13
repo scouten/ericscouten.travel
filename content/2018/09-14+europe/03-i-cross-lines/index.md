@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "287 km / 178 mi"
 route = "Dublin to Monaghan, Ireland, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2018/09/2018-09-19-i-cross-lines.kml"
 bounds = {sw = [53.340, -7.380], ne = [54.247, -6.260]}
 cover = "es-3795-011"
+cover_cdn_key = "img/v1/2018/09/es-3795-011"
 +++
 
 Borders fascinate me. Always have.
@@ -24,7 +25,7 @@ So, of course, I had to go.
 
 <!-- more -->
 
-{{ es_image(id = "es-3796-003", caption = "east of Poles, County Cavan, Ireland") }}
+{{ es_cdn_image(id = "es-3796-003", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3796-003", caption = "east of Poles, County Cavan, Ireland") }}
 
 Road geek here ...
 
@@ -32,13 +33,13 @@ This is the only sign at the border between Ireland and Northern Ireland. No "We
 
 Just ... speed limits are different here.
 
-{{ es_image(id = "es-3794-028", caption = "Fermanagh, Northern Ireland, United Kingdom") }}
+{{ es_cdn_image(id = "es-3794-028", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3794-028", caption = "Fermanagh, Northern Ireland, United Kingdom") }}
 
 And the return to Ireland is even more understated:
 
-{{ es_image(id = "es-3794-029", caption = "west of Clonooney, County Monaghan, Ireland") }}
+{{ es_cdn_image(id = "es-3794-029", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3794-029", caption = "west of Clonooney, County Monaghan, Ireland") }}
 
-{{ es_image(id = "es-3795-011", title = "Unperfected", caption = "south of Magheraveely, Northern Ireland, United Kingdom") }}
+{{ es_cdn_image(id = "es-3795-011", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3795-011", title = "Unperfected", caption = "south of Magheraveely, Northern Ireland, United Kingdom") }}
 
 Aside from the road geekery and a few great photos, I also was rewarded with some driving adventures.
 
@@ -46,4 +47,4 @@ The remnants of Hurricane Helene blew through and generated quite a windstorm he
 
 Behind the tree is a warning sign for a speed camera. Not particularly relevant today ...
 
-{{ es_image(id = "es-3794-030", caption = " east of Clones, County Monaghan, Ireland") }}
+{{ es_cdn_image(id = "es-3794-030", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3794-030", caption = " east of Clones, County Monaghan, Ireland") }}
