@@ -10,9 +10,10 @@ first_published_on = "ericscouten.com"
 distance = "141 km / 88 mi"
 route = "Oranjestad, Aruba, to Willemstad, Curaçao"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/12/2017-12-31-curacao.kml"
 bounds = {sw = [12.100, -70.042], ne = [12.519, -68.926]}
 cover = "es-3681-002"
+cover_cdn_key = "img/v1/2017/12/es-3681-002"
 +++
 
 We sailed overnight to Curaçao, making this my second new island nation in as many days.
@@ -25,39 +26,38 @@ Of the two islands, I much preferred Curaçao: it was much more developed and re
 
 Here are some photos from today's walkabout in the main city of Willemstad:
 
-{{ es_image(id = "es-3678-003", title = "Push the Button", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3678-003", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3678-003", title = "Push the Button", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3678-005", title = "Best Left Unsaid", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3678-005", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3678-005", title = "Best Left Unsaid", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3678-006", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3678-006", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3678-006", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3677-005", caption = "Koningin Emmabrug, Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3677-005", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-005", caption = "Koningin Emmabrug, Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3678-007", caption = "#pundawings · Punda, Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3678-007", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3678-007", caption = "#pundawings · Punda, Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3677-016", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3677-016", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-016", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3677-017", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3677-017", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-017", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3677-020", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3677-020", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-020", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3677-022", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3677-022", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-022", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3677-023", caption = "Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3677-023", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-023", caption = "Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3676-003", title = "In Need of Minor Repairs", caption = "Punda, Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3676-003", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3676-003", title = "In Need of Minor Repairs", caption = "Punda, Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3679-002", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3679-002", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3679-002", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3681-002", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3681-002", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3681-002", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3680-001", title = "Strange You Never Knew", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3680-001", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3680-001", title = "Strange You Never Knew", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3681-009", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3681-009", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3681-009", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3681-012", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3681-012", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3681-012", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3681-013", caption = "A pilot boat prepares to guide our ship out of port. · Caribbean Ocean, near Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3681-013", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3681-013", caption = "A pilot boat prepares to guide our ship out of port. · Caribbean Ocean, near Willemstad, Curaçao") }}
 
-{{ es_image(id = "es-3681-025", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
-
+{{ es_cdn_image(id = "es-3681-025", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3681-025", caption = "Caribbean Ocean, near Willemstad, Curaçao") }}
