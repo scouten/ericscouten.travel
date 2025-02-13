@@ -12,9 +12,10 @@ first_published_on = "ericscouten.com"
 distance = "5259 km / 3268 mi"
 route = "Newark, New Jersey, to Dublin, Ireland"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2018/09/2018-09-17-to-dublin.kml"
 bounds = {sw = [40.645, -74.256], ne = [54.001, -6.103]}
 cover = "es-3789-001"
+cover_cdn_key = "img/v1/2018/09/es-3789-001"
 +++
 
 It’s 9:45 on a Monday evening as I write this.
@@ -25,21 +26,21 @@ I’m in a pub on Patrick Street, just 15 minutes by foot from where I’m stayi
 
 I flew overnight from Newark to Dublin ...
 
-{{ es_image(id = "es-3788-019", caption = "above North Bergen, New Jersey") }}
+{{ es_cdn_image(id = "es-3788-019", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3788-019", caption = "above North Bergen, New Jersey") }}
 
-{{ es_image(id = "es-3788-026", caption = "above Port Chester, New York") }}
+{{ es_cdn_image(id = "es-3788-026", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3788-026", caption = "above Port Chester, New York") }}
 
 ... and landed in this fun little AirBNB right in the heart of things.
 
-{{ es_image(id = "es-3788-031", caption = "Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3788-031", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3788-031", caption = "Dublin, Ireland") }}
 
 I took a brief drive up the coast from Dublin.
 
-{{ es_image(id = "es-3789-001", caption = "Balbriggan, County Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3789-001", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3789-001", caption = "Balbriggan, County Dublin, Ireland") }}
 
 Earlier this afternoon, returning from an earlier walkabout, I happened upon two artists dancing on the side of a building.
 
-{{ es_image(id = "es-3788-095", caption = "Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3788-095", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3788-095", caption = "Dublin, Ireland") }}
 
 {{ es_vimeo(id = "es-3788-097", vmid = "839590972", caption = "Dancing in mid-air. · Dublin, Ireland") }}
 
@@ -55,7 +56,7 @@ The soft, tangy lilt of the Irish accent is tantalizing. I am smitten hourly by 
 
 The bartender switches off the football (sorry ... soccer!) game so those of us with an obstructed view of the musicians can see more clearly.
 
-{{ es_image(id = "es-3790-005", caption = "Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3790-005", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3790-005", caption = "Dublin, Ireland") }}
 
 {{ es_vimeo(id = "es-3790-006", vmid = "839591005", caption = "Music on a Monday night. 💕 · Dublin, Ireland") }}
 
