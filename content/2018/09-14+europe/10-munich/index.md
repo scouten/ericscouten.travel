@@ -10,9 +10,10 @@ country = ["England", "Germany", "United Kingdom"]
 distance = "1209 km / 751 mi"
 route = "London, United Kingdom, to Münich, Germany"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2018/09/2018-09-26-munich.kml"
 bounds = {sw = [48.137, 0.038], ne = [51.603, 11.647]}
 cover = "es-3818-002"
+cover_cdn_key = "img/v1/2018/09/es-3818-002"
 +++
 
 As promised, I moved on from the UK to Germany today.
@@ -21,14 +22,14 @@ As promised, I moved on from the UK to Germany today.
 
 First, a view from the runway at London City Airport ...
 
-{{ es_image(id = "es-3818-002", caption = "London City Airport, London, England, United Kingdom") }}
+{{ es_cdn_image(id = "es-3818-002", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3818-002", caption = "London City Airport, London, England, United Kingdom") }}
 
 ... and a couple of airborne views as we departed UK airspace:
 
-{{ es_image(id = "es-3818-004", caption = "above Basildon, England, United Kingdom") }}
+{{ es_cdn_image(id = "es-3818-004", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3818-004", caption = "above Basildon, England, United Kingdom") }}
 
-{{ es_image(id = "es-3818-007", caption = "above Seasalter, England, United Kingdom") }}
+{{ es_cdn_image(id = "es-3818-007", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3818-007", caption = "above Seasalter, England, United Kingdom") }}
 
 It was a long day by road (yes, I had fun with autobahn!) so I have almost no photos from the German side of today's travels.
 
-{{ es_image(id = "es-3819-001", caption = "Bad Homburg, Germany") }}
+{{ es_cdn_image(id = "es-3819-001", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-001", caption = "Bad Homburg, Germany") }}
