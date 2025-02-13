@@ -10,9 +10,10 @@ country = ["Germany"]
 distance = "991 km / 616 mi"
 route = "Münich, Germany to Cologne, Germany"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2018/09/2018-09-28-photokina.kml"
 bounds = {sw = [48.137, 6.476], ne = [51.431, 11.632]}
 cover = "es-3819-064"
+cover_cdn_key = "img/v1/2018/09/es-3819-064"
 +++
 
 And now we are at the last stop on this trip.
@@ -21,37 +22,37 @@ And now we are at the last stop on this trip.
 
 As a happy BMW owner, it was fun to (accidentally) drive past BMW world headquarters on my way out of Münich.
 
-{{ es_image(id = "es-3819-007", caption = "Münich, Germany") }}
+{{ es_cdn_image(id = "es-3819-007", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-007", caption = "Münich, Germany") }}
 
 No other pictures from yesterday, as it was a long day of driving and I needed to make time.
 
 This morning I walked the halls of the epic [Photokina](https://www.photokina.com) convention, where vendors were keen to show off all things photographic. It was delightfully overwhelming. Here are a few random photos from around the show floor:
 
-{{ es_image(id = "es-3819-014", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-014", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-014", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-015", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-015", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-015", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-016", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-016", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-016", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-017", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-017", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-017", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-020", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-020", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-020", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-022", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-022", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-022", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-026", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-026", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-026", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-035", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-035", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-035", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-059", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-059", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-059", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-062", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-062", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-062", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-064", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-064", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-064", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-072", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-072", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-072", caption = "Kölnmesse, Cologne, Germany") }}
 
-{{ es_image(id = "es-3819-083", caption = "Kölnmesse, Cologne, Germany") }}
+{{ es_cdn_image(id = "es-3819-083", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3819-083", caption = "Kölnmesse, Cologne, Germany") }}
 
 After the show, I took a little time to drive around Cologne before settling in for the evening.
 
