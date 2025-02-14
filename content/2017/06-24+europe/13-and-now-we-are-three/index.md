@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "33 km / 21 mi"
 route = "Around Dublin, Ireland"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-07-and-now-we-are-three.kml"
 bounds = {sw = [53.341, -6.268], ne = [53.429, -6.210]}
 cover = "es-3512-014"
+cover_cdn_key = "img/v1/2017/07/es-3512-014"
 +++
 
 This morning, we welcomed my wife Tara into the trip.
@@ -24,14 +25,14 @@ Travel is hard for her; she has become an increasingly nervous flyer in recent y
 
 Today’s agenda was getting to the airport in the morning to pick her up and then giving her some space to rest and recover in the afternoon. After that, she spent some time with our daughter while I went on a walking tour of central Dublin.
 
-{{ es_image(id = "es-3512-001", title = "The Ferryman", caption = "Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3512-001", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3512-001", title = "The Ferryman", caption = "Dublin, Ireland") }}
 
-{{ es_image(id = "es-3513-006", title = "The Oval", caption = "Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3513-006", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3513-006", title = "The Oval", caption = "Dublin, Ireland") }}
 
-{{ es_image(id = "es-3513-007", title = "Pizza and Booze", caption = "Got the essentials covered. What more do you need? · Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3513-007", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3513-007", title = "Pizza and Booze", caption = "Got the essentials covered. What more do you need? · Dublin, Ireland") }}
 
-{{ es_image(id = "es-3512-014", caption = "River Liffey, Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3512-014", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3512-014", caption = "River Liffey, Dublin, Ireland") }}
 
-{{ es_image(id = "es-3513-011", title = "Foggy Dew", caption = "Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3513-011", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3513-011", title = "Foggy Dew", caption = "Dublin, Ireland") }}
 
-{{ es_image(id = "es-3512-017", caption = "Trinity College, Dublin, Ireland") }}
+{{ es_cdn_image(id = "es-3512-017", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3512-017", caption = "Trinity College, Dublin, Ireland") }}
