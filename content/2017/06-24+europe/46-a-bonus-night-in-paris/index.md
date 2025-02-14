@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "1138 km / 707 mi"
 route = "Vienna, Austria, to Paris, France"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/08/2017-08-10-a-bonus-night-in-paris.kml"
 bounds = {sw = [48.026, 2.330], ne = [49.599, 16.599]}
 cover = "es-3621-001"
+cover_cdn_key = "img/v1/2017/08/es-3621-001"
 +++
 
 As I mentioned yesterday, my return home didn't quite go to plan, but fortunately no major derailment this time.
@@ -24,39 +25,38 @@ I wound up making it to Paris and managed to choose a hotel with a very nice vie
 
 Here are some photos from the flight and some walks around the Montmartre neighborhood.
 
-{{ es_image(id = "es-3620-005", caption = "Bye bye, Austria! · above Badeseen, Austria") }}
+{{ es_cdn_image(id = "es-3620-005", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-005", caption = "Bye bye, Austria! · above Badeseen, Austria") }}
 
-{{ es_image(id = "es-3620-006", caption = "above Gruberau, Austria") }}
+{{ es_cdn_image(id = "es-3620-006", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-006", caption = "above Gruberau, Austria") }}
 
-{{ es_image(id = "es-3620-007", caption = "Hello, France! · above Proviseux-et-Plesnoy, France") }}
+{{ es_cdn_image(id = "es-3620-007", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-007", caption = "Hello, France! · above Proviseux-et-Plesnoy, France") }}
 
-{{ es_image(id = "es-3620-013", caption = "above Nantouillet, France") }}
+{{ es_cdn_image(id = "es-3620-013", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-013", caption = "above Nantouillet, France") }}
 
-{{ es_image(id = "es-3620-017", caption = "above Compans, France") }}
+{{ es_cdn_image(id = "es-3620-017", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-017", caption = "above Compans, France") }}
 
-{{ es_image(id = "es-3620-019", caption = "On final approach to Paris CDG. · Charles de Gaulle Airport, Paris, France") }}
+{{ es_cdn_image(id = "es-3620-019", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-019", caption = "On final approach to Paris CDG. · Charles de Gaulle Airport, Paris, France") }}
 
-{{ es_image(id = "es-3620-024", caption = "I’m all about that basss, ’bout that basss … · Paris, France") }}
+{{ es_cdn_image(id = "es-3620-024", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-024", caption = "I’m all about that basss, ’bout that basss … · Paris, France") }}
 
-{{ es_image(id = "es-3620-028", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3620-028", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-028", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3620-033", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3620-033", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-033", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3620-034", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3620-034", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-034", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3620-041", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3620-041", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-041", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3620-046", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3620-046", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-046", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3621-001", caption = "View from the hotel bar where I was staying. · Paris, France") }}
+{{ es_cdn_image(id = "es-3621-001", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3621-001", caption = "View from the hotel bar where I was staying. · Paris, France") }}
 
-{{ es_image(id = "es-3621-004", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3621-004", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3621-004", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3620-051", caption = "Suffering through my unplanned evening in Paris. Lemons to lemonade, amirite? · Paris, France") }}
+{{ es_cdn_image(id = "es-3620-051", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-051", caption = "Suffering through my unplanned evening in Paris. Lemons to lemonade, amirite? · Paris, France") }}
 
-{{ es_image(id = "es-3620-055p", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3620-055p", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-055p", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3622-002", caption = "Paris, France") }}
+{{ es_cdn_image(id = "es-3622-002", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3622-002", caption = "Paris, France") }}
 
-{{ es_image(id = "es-3622-007", caption = "Paris, France") }}
-
+{{ es_cdn_image(id = "es-3622-007", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3622-007", caption = "Paris, France") }}
