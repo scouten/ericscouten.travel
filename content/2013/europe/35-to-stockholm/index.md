@@ -10,9 +10,10 @@ country = ["Denmark", "Germany", "Sweden"]
 distance = "1129 km / 702 mi"
 route = "Hamburg, Germany, to Stockholm, Sweden"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2013/07/2013-07-05-to-stockholm.kml"
 bounds = {sw = [53.550, 9.936], ne = [59.428, 18.163]}
 cover = "es-2423-021"
+cover_cdn_key = "img/v1/2013/07/es-2423-021"
 +++
 
 We're celebrating the July 4 long weekend in classic all-American style ... with a big road trip. Except we went road tripping to Sweden.
@@ -23,18 +24,18 @@ A friend and former colleague recently moved to Stockholm so we decided to go vi
 
 On our way out of Hamburg yesterday, we saw this vehicle. I mean, I like cars that have wipers to keep the rear window cle ... wait, _what?_
 
-{{ es_image(id = "es-2419-002", caption = "Altona, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2419-002", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2419-002", caption = "Altona, Hamburg, Germany") }}
 
 We paid an extra €17 for a "VIP" ferry ticket. That meant we got to park at the very front of the boat. I call that winning. Here we are approaching the dock on the Denmark side:
 
-{{ es_image(id = "es-2419-008", caption = "Scandlines Ferry, near Rødby, Denmark") }}
+{{ es_cdn_image(id = "es-2419-008", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2419-008", caption = "Scandlines Ferry, near Rødby, Denmark") }}
 
 Long couple of days on the road, but we got to see a few new places along the way.
 
-{{ es_image(id = "es-2423-002", caption = "Vårgårda, Sweden") }}
+{{ es_cdn_image(id = "es-2423-002", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2423-002", caption = "Vårgårda, Sweden") }}
 
-{{ es_image(id = "es-2423-008", caption = "Vårgårda, Sweden") }}
+{{ es_cdn_image(id = "es-2423-008", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2423-008", caption = "Vårgårda, Sweden") }}
 
-{{ es_image(id = "es-2423-016", caption = "Essunga, Sweden") }}
+{{ es_cdn_image(id = "es-2423-016", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2423-016", caption = "Essunga, Sweden") }}
 
-{{ es_image(id = "es-2423-021", caption = "Essunga, Sweden") }}
+{{ es_cdn_image(id = "es-2423-021", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2423-021", caption = "Essunga, Sweden") }}

@@ -10,9 +10,10 @@ country = ["Germany"]
 distance = "304 km / 189 mi"
 route = "Hamburg to Münster, Germany"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2013/07/2013-07-27-to-munster.kml"
 bounds = {sw = [51.957, 7.557], ne = [53.570, 9.956]}
 cover = "es-2452-008"
+cover_cdn_key = "img/v1/2013/07/es-2452-008"
 +++
 
 There is something very charming about walkable European cities.
@@ -25,10 +26,10 @@ A friend recommended we check out the town of Münster and so we are making a sh
 
 We mostly walked around and enjoyed the town, but there are a few photos from our walkabout.
 
-{{ es_image(id = "es-2449-010", caption = "Münster, Nordrhein-Westfalen, Germany") }}
+{{ es_cdn_image(id = "es-2449-010", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2449-010", caption = "Münster, Nordrhein-Westfalen, Germany") }}
 
-{{ es_image(id = "es-2452-002", caption = "Münster, Nordrhein-Westfalen, Germany") }}
+{{ es_cdn_image(id = "es-2452-002", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2452-002", caption = "Münster, Nordrhein-Westfalen, Germany") }}
 
-{{ es_image(id = "es-2452-008", caption = "Münster, Nordrhein-Westfalen, Germany") }}
+{{ es_cdn_image(id = "es-2452-008", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2452-008", caption = "Münster, Nordrhein-Westfalen, Germany") }}
 
-{{ es_image(id = "es-2452-011", caption = "Münster, Nordrhein-Westfalen, Germany") }}
+{{ es_cdn_image(id = "es-2452-011", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2452-011", caption = "Münster, Nordrhein-Westfalen, Germany") }}

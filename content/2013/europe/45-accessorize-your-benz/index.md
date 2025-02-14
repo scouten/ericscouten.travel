@@ -10,6 +10,7 @@ country = ["Germany"]
 markers = "markers.js"
 bounds = {sw = [53.572, 9.934], ne = [53.592, 9.954]}
 cover = "es-2437-003"
+cover_cdn_key = "img/v1/2013/07/es-2437-003"
 +++
 
 Seen while walking around our neighborhood today ...
@@ -18,4 +19,4 @@ Seen while walking around our neighborhood today ...
 
 Eimsbüttel, Hamburg, Germany
 
-{{ es_image(id = "es-2437-003") }}
+{{ es_cdn_image(id = "es-2437-003", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2437-003") }}

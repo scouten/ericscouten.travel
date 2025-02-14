@@ -10,12 +10,13 @@ country = ["Germany"]
 markers = "markers.js"
 bounds = {sw = [53.540, 9.926], ne = [53.560, 9.949]}
 cover = "es-2381-009"
+cover_cdn_key = "img/v1/2013/06/es-2381-009"
 +++
 
 Just a couple of fun photos from around our neighborhood in Hamburg today.
 
 <!-- more -->
 
-{{ es_image(id = "es-2381-009", caption = "Altona, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2381-009", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2381-009", caption = "Altona, Hamburg, Germany") }}
 
-{{ es_image(id = "es-2379-007", title = "Hauptkirche Sankt Trinitatis", caption = "Altona, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2379-007", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2379-007", title = "Hauptkirche Sankt Trinitatis", caption = "Altona, Hamburg, Germany") }}

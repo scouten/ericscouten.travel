@@ -10,6 +10,7 @@ country = ["Germany"]
 markers = "markers.js"
 bounds = {sw = [53.535, 9.942], ne = [53.555, 9.962]}
 cover = "es-2397-008"
+cover_cdn_key = "img/v1/2013/06/es-2397-008"
 +++
 
 There is a centuries-old traditional market near my office that has run [every Sunday for centuries](https://www.hamburg-travel.com/see-explore/maritime-hamburg/fish-market/).
@@ -18,20 +19,20 @@ There is a centuries-old traditional market near my office that has run [every S
 
 On summer Sundays, _Fischmarkt_ (fish market) spills out into the adjoining street for a large public market for produce, fish, knick-knacks, and who knows what else. Here's a bit of the hustle and bustle from yesterday's market:
 
-{{ es_image(id = "es-2397-003", caption = "Fischmarkt, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2397-003", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2397-003", caption = "Fischmarkt, Hamburg, Germany") }}
 
-{{ es_image(id = "es-2397-005", caption = "Fischmarkt, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2397-005", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2397-005", caption = "Fischmarkt, Hamburg, Germany") }}
 
-{{ es_image(id = "es-2397-008", caption = "Fischmarkt, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2397-008", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2397-008", caption = "Fischmarkt, Hamburg, Germany") }}
 
 I came back this (Monday) afternoon to capture the entrance to the market hall.
 
-{{ es_image(id = "es-2398-006a", caption = "Fischmarkt, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2398-006a", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2398-006a", caption = "Fischmarkt, Hamburg, Germany") }}
 
 Love the fish sculptures in the doorway.
 
-{{ es_image(id = "es-2398-009", caption = "Fischmarkt, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2398-009", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2398-009", caption = "Fischmarkt, Hamburg, Germany") }}
 
 Oh, and right next door is Adobe's office in Hamburg:
 
-{{ es_image(id = "es-2398-010", caption = "Adobe, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2398-010", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2398-010", caption = "Adobe, Hamburg, Germany") }}

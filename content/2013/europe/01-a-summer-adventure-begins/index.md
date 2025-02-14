@@ -10,9 +10,10 @@ country = ["Germany"]
 distance = "8567 km / 5324 mi"
 route = "Poulsbo, Washington, to Hamburg, Germany"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2013/06/2013-06-06-a-summer-adventure-begins.kml"
 bounds = {sw = [47.230, -122.713], ne = [67.507, 10.011]}
 cover = "es-2367-014"
+cover_cdn_key = "img/v1/2013/06/es-2367-014"
 +++
 
 I've arranged to work extra-remotely this summer. Adobe has kindly arranged for me to work with a team from its office in Hamburg, Germany, and for my family to tag along.
@@ -23,13 +24,13 @@ Last weekend, we made the long flight over from Seattle to Hamburg, and got ours
 
 This is the view from where I'm sitting in the Hamburg office. (OK, I have to look over one of my colleague's desks to see this, but still ...)
 
-{{ es_image(id = "es-2367-014", caption = "Adobe, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2367-014", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2367-014", caption = "Adobe, Hamburg, Germany") }}
 
 And this is just part of my (walking) commute home. Not bad, eh?
 
-{{ es_image(id = "es-2368-004", caption = "Altona, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2368-004", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2368-004", caption = "Altona, Hamburg, Germany") }}
 
-{{ es_image(id = "es-2368-021", caption = "Altona, Hamburg, Germany") }}
+{{ es_cdn_image(id = "es-2368-021", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2368-021", caption = "Altona, Hamburg, Germany") }}
 
 This idyllic walk was interrupted a few minutes later by some crows (?) or magpies (?) that were _very_ upset that I was invading their turf. They started dive bombing me until I crossed the street and walked on the "normal" sidewalk.
 

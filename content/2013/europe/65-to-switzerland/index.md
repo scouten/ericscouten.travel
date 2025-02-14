@@ -10,9 +10,10 @@ country = ["Italy", "Switzerland"]
 distance = "439 km / 273 mi"
 route = "Venice, Italy, to Lugano, Switzerland"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2013/08/2013-08-04-to-switzerland.kml"
 bounds = {sw = [45.045, 8.926], ne = [45.993, 12.361]}
 cover = "es-2476-014"
+cover_cdn_key = "img/v1/2013/08/es-2476-014"
 +++
 
 This morning we left Venice and drove west across the countryside and into the mountains that separate Italy from Switzerland. We'll be here for the next few days and we are excited to explore the mountains and lakes around us.
@@ -21,17 +22,17 @@ This morning we left Venice and drove west across the countryside and into the m
 
 Of course, we had to take one last ferry ride to get back from our hotel to our car.
 
-{{ es_image(id = "es-2476-001", caption = "Venice, Italy") }}
+{{ es_cdn_image(id = "es-2476-001", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2476-001", caption = "Venice, Italy") }}
 
-{{ es_image(id = "es-2476-002", caption = "Venice, Italy") }}
+{{ es_cdn_image(id = "es-2476-002", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2476-002", caption = "Venice, Italy") }}
 
-{{ es_image(id = "es-2476-008", caption = "Venice, Italy") }}
+{{ es_cdn_image(id = "es-2476-008", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2476-008", caption = "Venice, Italy") }}
 
-{{ es_image(id = "es-2476-010", caption = "Venice, Italy") }}
+{{ es_cdn_image(id = "es-2476-010", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2476-010", caption = "Venice, Italy") }}
 
 I don't often buy diesel, but when I do, I like to buy it from six-legged, fire-breathing lions.
 
-{{ es_image(id = "es-2477-002", caption = "Affi, Italy") }}
+{{ es_cdn_image(id = "es-2477-002", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2477-002", caption = "Affi, Italy") }}
 
 Unsurprising: Getting passed by a spiffy red Ferrari on an autostrada near Milano.
 
@@ -41,9 +42,9 @@ This is the view from our hotel in Lugano. I think we can make do here.
 
 It is very hot here (38°C / 100°F), but otherwise very nice.
 
-{{ es_image(id = "es-2477-004", caption = "Lugano, Switzerland") }}
+{{ es_cdn_image(id = "es-2477-004", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2477-004", caption = "Lugano, Switzerland") }}
 
-{{ es_image(id = "es-2476-014", caption = "Lugano, Switzerland") }}
+{{ es_cdn_image(id = "es-2476-014", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2476-014", caption = "Lugano, Switzerland") }}
 
 _A note about the map route:_ The detour to the north around Verona was an attempt at a scenic bypass that was thwarted when we got into an hour-long traffic jam. The detour to the south around Milano was recommended by our car's navigation system in an effort to **avoid** an hour-long traffic jam that as best I can tell never existed.
 

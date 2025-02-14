@@ -11,6 +11,7 @@ first_published_on = "Facebook"
 markers = "markers.js"
 bounds = {sw = [53.572, 9.937], ne = [53.592, 9.957]}
 cover = "es-2439-007"
+cover_cdn_key = "img/v1/2013/07/es-2439-007"
 +++
 
 Dear Seattle / Fremont, Hamburg / Eimsbüttel sees your once-a-year naked cycle parade and raises you one permanently-installed naked cycle sculpture. Across from a school, even.
@@ -19,4 +20,4 @@ Dear Seattle / Fremont, Hamburg / Eimsbüttel sees your once-a-year naked cycle 
 
 Eimsbüttel, Hamburg, Germany
 
-{{ es_image(id = "es-2439-007", title = "Naked Cyclists") }}
+{{ es_cdn_image(id = "es-2439-007", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2439-007", title = "Naked Cyclists") }}
