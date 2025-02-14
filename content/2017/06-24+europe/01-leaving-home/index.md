@@ -9,16 +9,17 @@ state = ["Washington"]
 first_published_on = "ericscouten.com"
 distance = "4810 km / 2989 mi"
 route = "Bainbridge Island, Washington, to Plattsburgh, New York"
-track = "track.kml"
+track_log_key = "kml/v1/2017/06/2017-06-25-leaving-home.kml"
 bounds = {sw = [42.130, -122.713], ne = [47.761, -70.750]}
 cover = "es-3481-007"
+cover_cdn_key = "img/v1/2017/06/es-3481-007"
 +++
 
 Yesterday, I said goodbye to my home and the wonderful island on which I live. I'm blessed to live in a beautiful place with such a great circle of friends.
 
 <!-- more -->
 
-{{ es_image(id = "es-3481-007", caption = "View of Mount Rainier from my patio. (iPhone capture, just before leaving) · Bainbridge Island, Washington") }}
+{{ es_cdn_image(id = "es-3481-007", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3481-007", caption = "View of Mount Rainier from my patio. (iPhone capture, just before leaving) · Bainbridge Island, Washington") }}
 
 So why leave this?
 
