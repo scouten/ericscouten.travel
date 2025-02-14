@@ -10,9 +10,10 @@ country = ["Brazil"]
 distance = "7672 km / 4767 mi"
 route = "Atlanta, Georgia, to Rio de Janiero, Brazil"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/11/2012-11-27-i-wont-starve.kml"
 bounds = {sw = [-22.922, -84.427], ne = [33.640, -43.168]}
 cover = "es-2227-008"
+cover_cdn_key = "img/v1/2012/11/es-2227-008"
 +++
 
 First impressions, while I enjoy lunch ...
@@ -29,5 +30,5 @@ Still no idea where I'm going from Thursday until Tara arrives next Tuesday. Nee
 
 It's a bit of a grey day but I think I will survive. 🙂
 
-{{ es_image(id="es-2226-003", caption = "Hotel Santa Teresa, Rio de Janeiro, Brazil") }}
-{{ es_image(id="es-2227-008", caption = "Hotel Santa Teresa, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2226-003", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2226-003", caption = "Hotel Santa Teresa, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2227-008", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2227-008", caption = "Hotel Santa Teresa, Rio de Janeiro, Brazil") }}
