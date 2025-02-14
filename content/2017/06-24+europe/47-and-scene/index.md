@@ -7,7 +7,7 @@ updated = 2023-09-29T18:52:11-07:00
 first_published_on = "ericscouten.com"
 distance = "36,523 km / 22,694 mi"
 route = "Here, there, and everywhere for seven weeks"
-track = "track.kml"
+track_log_key = "kml/v1/2017/08/2017-08-11-and-scene.kml"
 bounds = {sw = [41.471, -10.288], ne = [59.822, 26.469]}
 +++
 
