@@ -10,21 +10,22 @@ country = ["Brazil"]
 distance = "34 km / 21 mi"
 route = "around Rio de Janiero, Brazil"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-05-rios-peaks.kml"
 bounds = {sw = [-22.986, -43.217], ne = [-22.934, -43.156]}
 cover = "es-2251-043"
+cover_cdn_key = "img/v1/2012/12/es-2251-043"
 +++
 
 No visit to Rio is complete without a visit to the iconic statue; wouldn’t you agree?
 
 <!-- more -->
 
-{{ es_image(id="es-2250-029a", title = "Cristo Redentor", caption = "Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2250-029a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2250-029a", title = "Cristo Redentor", caption = "Rio de Janeiro, Brazil") }}
 
 Since the famous statue is atop one of Rio's many peaks, it offers some spectacular views of the city and ocean:
 
-{{ es_image(id="es-2251-012", caption = "Corcovado, Rio de Janeiro, Brazil") }}
-{{ es_image(id="es-2251-022", caption = "Cristo Redentor, Raio de Janerio, Brazio") }}
+{{ es_cdn_image(id = "es-2251-012", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2251-012", caption = "Corcovado, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2251-022", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2251-022", caption = "Cristo Redentor, Raio de Janerio, Brazio") }}
 
 On the tram back down, we were treated to some local samba music:
 
@@ -32,9 +33,9 @@ On the tram back down, we were treated to some local samba music:
 
 We later visited Sugarloaf Peak (known locally as _Morro de Urca_), which allowed us to enjoy more views of the city and its beaches.
 
-{{ es_image(id="es-2251-043", caption = "Morro de Urca, Rio de Janeiro, Brazil") }}
-{{ es_image(id="es-2251-044", caption = "Morro de Urca, Rio de Janeiro, Brazil") }}
-{{ es_image(id="es-2251-050", caption = "Morro de Urca, Rio de Janeiro, Brazil") }}
-{{ es_image(id="es-2251-053", caption = "Morro de Pão de Açucar, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2251-043", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2251-043", caption = "Morro de Urca, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2251-044", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2251-044", caption = "Morro de Urca, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2251-050", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2251-050", caption = "Morro de Urca, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2251-053", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2251-053", caption = "Morro de Pão de Açucar, Rio de Janeiro, Brazil") }}
 
 Tomorrow we leave Rio to see Iguaçu Falls.
