@@ -10,9 +10,10 @@ country = ["Brazil"]
 distance = "228 km / 142 mi"
 route = "Salvador to Praia do Forte, Brazil, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-02-praia-do-forte.kml"
 bounds = {sw = [-13.014, -38.532], ne = [-12.562, -38.001]}
 cover = "es-2245-018a"
+cover_cdn_key = "img/v1/2012/12/es-2245-018a"
 +++
 
 Today, I took a bus tour up to [Praia do Forte](https://wikitravel.org/en/Praia_do_Forte), a tourist beach village about 80 km / 50 miles east of Salvador.
@@ -21,12 +22,12 @@ Today, I took a bus tour up to [Praia do Forte](https://wikitravel.org/en/Praia_
 
 It’s definitely a touristy resort, but still offered some interesting sights and a welcome contrast to the urban center of Salvador. It being a very hot and sunny day when we arrived, I experimented a lot with the infrared camera.
 
-{{ es_image(id="es-2245-002", caption = "Praia do Forte, Bahía, Brazil") }}
-{{ es_image(id="es-2245-015", caption = "Praia do Forte, Bahía, Brazil") }}
-{{ es_image(id="es-2245-018a", caption = "Praia do Forte, Bahía, Brazil") }}
-{{ es_image(id="es-2245-020a", title = "Someday My Ship Will Come In", caption = "Praia do Forte, Bahía, Brazil") }}
-{{ es_image(id="es-2245-023", caption = "Praia do Forte, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2245-002", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-002", caption = "Praia do Forte, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2245-015", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-015", caption = "Praia do Forte, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2245-018a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-018a", caption = "Praia do Forte, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2245-020a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-020a", title = "Someday My Ship Will Come In", caption = "Praia do Forte, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2245-023", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-023", caption = "Praia do Forte, Bahía, Brazil") }}
 
 On the way back, I got one quick photo of the lighthouse at the entrance to Salvador's harbor right at sunset.
 
-{{ es_image(id="es-2245-040a", title = "Darkness Reigns at the Foot", caption = "Farol de Barra, Salvador, Brazil") }}
+{{ es_cdn_image(id = "es-2245-040a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2245-040a", title = "Darkness Reigns at the Foot", caption = "Farol de Barra, Salvador, Brazil") }}
