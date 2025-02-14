@@ -10,9 +10,10 @@ state = ["Minnesota", "South Dakota"]
 distance = "423 km / 263 mi"
 route = "Eden Prairie, Minnesota, to Redfield, South Dakota"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2009/05/2009-05-06-day-1-to-redfield.kml"
 bounds = {sw = [44.720, -98.523], ne = [44.937, -93.485]}
 cover = "es-1423-036"
+cover_cdn_key = "img/v1/2009/05/es-1423-036"
 +++
 
 So the plan was to follow US Highway 212 as far west as I could. On this first day, this led me through the sweeping plains of western Minnesota and eventually to the sleepy town of Redfield, South Dakota.
@@ -21,10 +22,10 @@ So the plan was to follow US Highway 212 as far west as I could. On this first d
 
 On the way this elevator immediately captured my eye. Something seems ominous about it, helped, of course, by the brewing storm behind it.
 
-{{ es_image(id="es-1423-036", title = "Ominous", caption = "Renville, Minnesota") }}
-{{ es_image(id="es-1423-051", title = "Terra Unfirma", caption = "Renville, Minnesota") }}
-{{ es_image(id="es-1423-067", caption = "Sacred Heart, Minnesota") }}
+{{ es_cdn_image(id = "es-1423-036", cdn_version = "v1", cdn_key = "img/v1/2009/05/es-1423-036", title = "Ominous", caption = "Renville, Minnesota") }}
+{{ es_cdn_image(id = "es-1423-051", cdn_version = "v1", cdn_key = "img/v1/2009/05/es-1423-051", title = "Terra Unfirma", caption = "Renville, Minnesota") }}
+{{ es_cdn_image(id = "es-1423-067", cdn_version = "v1", cdn_key = "img/v1/2009/05/es-1423-067", caption = "Sacred Heart, Minnesota") }}
 
 Alas, as I entered Redfield, this sign alerted me that my plan to follow 212 would not quite work out as planned:
 
-{{ es_image(id="es-1423-120", title = "A Change of Plans", caption = "Redfield, South Dakota") }}
+{{ es_cdn_image(id = "es-1423-120", cdn_version = "v1", cdn_key = "img/v1/2009/05/es-1423-120", title = "A Change of Plans", caption = "Redfield, South Dakota") }}
