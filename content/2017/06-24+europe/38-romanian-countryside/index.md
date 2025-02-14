@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "579 km / 360 mi"
 route = "Bucharest to Sibiu, Romania, and back"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/08/2017-08-01-romanian-countryside.kml"
 bounds = {sw = [44.428, 24.168], ne = [45.844, 26.113]}
 cover = "es-3593-018"
+cover_cdn_key = "img/v1/2017/08/es-3593-018"
 +++
 
 Today I took a long drive through the Romanian countryside.
@@ -26,46 +27,46 @@ For some reason this cracks me up: This morning I was driving on a 130 km/h (81 
 
 If I had it to do over again, I would have spent more time in the valley between Brașov and Câmpina. By the time I got there, it was getting later than I wanted it to be, but I will remember it well. Next time, right?
 
-{{ es_image(id = "es-3593-002", caption = "Dumbrăvești, Romania") }}
+{{ es_cdn_image(id = "es-3593-002", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-002", caption = "Dumbrăvești, Romania") }}
 
-{{ es_image(id = "es-3593-003", caption = "Dumbrăvești, Romania") }}
+{{ es_cdn_image(id = "es-3593-003", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-003", caption = "Dumbrăvești, Romania") }}
 
-{{ es_image(id = "es-3593-004", caption = "Dumbrăvești, Romania") }}
+{{ es_cdn_image(id = "es-3593-004", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-004", caption = "Dumbrăvești, Romania") }}
 
-{{ es_image(id = "es-3593-005", caption = "Ursoaia, Romania") }}
+{{ es_cdn_image(id = "es-3593-005", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-005", caption = "Ursoaia, Romania") }}
 
-{{ es_image(id = "es-3593-006", caption = "Ursoaia, Romania") }}
+{{ es_cdn_image(id = "es-3593-006", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-006", caption = "Ursoaia, Romania") }}
 
-{{ es_image(id = "es-3593-010", caption = "Linteşti, Romania") }}
+{{ es_cdn_image(id = "es-3593-010", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-010", caption = "Linteşti, Romania") }}
 
-{{ es_image(id = "es-3593-013", caption = "Morărești, Romania") }}
+{{ es_cdn_image(id = "es-3593-013", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-013", caption = "Morărești, Romania") }}
 
-{{ es_image(id = "es-3593-014", caption = "Morărești, Romania") }}
+{{ es_cdn_image(id = "es-3593-014", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-014", caption = "Morărești, Romania") }}
 
-{{ es_image(id = "es-3593-015", caption = "Morărești, Romania") }}
+{{ es_cdn_image(id = "es-3593-015", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-015", caption = "Morărești, Romania") }}
 
-{{ es_image(id = "es-3593-016", caption = "Dedulești, Romania") }}
+{{ es_cdn_image(id = "es-3593-016", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-016", caption = "Dedulești, Romania") }}
 
-{{ es_image(id = "es-3593-018", caption = "Râmnicu Vâlcea, Romania") }}
+{{ es_cdn_image(id = "es-3593-018", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-018", caption = "Râmnicu Vâlcea, Romania") }}
 
-{{ es_image(id = "es-3593-021", caption = "Păuşa, Romania") }}
+{{ es_cdn_image(id = "es-3593-021", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-021", caption = "Păuşa, Romania") }}
 
-{{ es_image(id = "es-3593-022", caption = "Păuşa, Romania") }}
+{{ es_cdn_image(id = "es-3593-022", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-022", caption = "Păuşa, Romania") }}
 
-{{ es_image(id = "es-3593-024", caption = "Păuşa, Romania") }}
+{{ es_cdn_image(id = "es-3593-024", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-024", caption = "Păuşa, Romania") }}
 
-{{ es_image(id = "es-3593-029") }}
+{{ es_cdn_image(id = "es-3593-029", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-029") }}
 
-{{ es_image(id = "es-3593-032", caption = "Boița, Romania") }}
+{{ es_cdn_image(id = "es-3593-032", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-032", caption = "Boița, Romania") }}
 
-{{ es_image(id = "es-3593-041", caption = "Boița, Romania") }}
+{{ es_cdn_image(id = "es-3593-041", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-041", caption = "Boița, Romania") }}
 
-{{ es_image(id = "es-3593-044", caption = "Boița, Romania") }}
+{{ es_cdn_image(id = "es-3593-044", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-044", caption = "Boița, Romania") }}
 
 Ohai, Fiskars! It was just a few days ago that I was in [Fiskars, Finland](/2017/06-24+europe/28-hanko-and-fiskars/), for which the brand of scissors and garden tools are named.
 
-{{ es_image(id = "es-3594-010", caption = "Ohai, Fiskars! · Codlea, Romania") }}
+{{ es_cdn_image(id = "es-3594-010", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3594-010", caption = "Ohai, Fiskars! · Codlea, Romania") }}
 
-{{ es_image(id = "es-3593-049", caption = "Râșnov, Romania") }}
+{{ es_cdn_image(id = "es-3593-049", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3593-049", caption = "Râșnov, Romania") }}
 
 Starting this evening, I will be traveling with my dear friend [Keron Psillas](http://www.keronpsillas.com/), who is a fantastic photographer and photographic instructor. If you're not familiar with her work, I encourage you to take a look.
