@@ -7,7 +7,7 @@ updated = 2023-09-02T13:49:19-07:00
 first_published_on = "ericscouten.com"
 distance = "1044 km / 648 mi"
 route = "Cologne, Germany, to Bologna, Italy"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-29-two-days-in-one.kml"
 bounds = {sw = [44.483, 6.960], ne = [50.942, 11.343]}
 +++
 
