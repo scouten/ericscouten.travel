@@ -10,9 +10,10 @@ country = ["Brazil"]
 distance = "1273 km / 791 mi"
 route = "Salvador to Rio de Janiero, Brazil"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-03-farewell-salvador.kml"
 bounds = {sw = [-22.969, -43.182], ne = [-12.969, -38.507]}
 cover = "es-2246-005"
+cover_cdn_key = "img/v1/2012/12/es-2246-005"
 +++
 
 This morning I bid farewell to the convent/hotel where I was staying. Such a lovely hotel. Amazingly well renovated.
@@ -21,16 +22,16 @@ This morning I bid farewell to the convent/hotel where I was staying. Such a lov
 
 Here are a few last photos from the hotel and surrounding neighrobhood.
 
-{{ es_image(id="es-2246-003", title = "You Are Not Alone", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
-{{ es_image(id="es-2246-005", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
-{{ es_image(id="es-2246-011", title = "Calling All Angels", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
-{{ es_image(id="es-2246-016", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
-{{ es_image(id="es-2248-001", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
-{{ es_image(id="es-2248-005a", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2246-003", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2246-003", title = "You Are Not Alone", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2246-005", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2246-005", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2246-011", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2246-011", title = "Calling All Angels", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2246-016", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2246-016", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2248-001", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2248-001", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
+{{ es_cdn_image(id = "es-2248-005a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2248-005a", caption = "Pestana Convento do Carmo Hotel Histórico, Salvador, Bahía, Brazil") }}
 
 This evening, I'm back in Rio. 
 
-{{ es_image(id="es-2249-003", caption = "Copacabana, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2249-003", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2249-003", caption = "Copacabana, Rio de Janeiro, Brazil") }}
 
 A few quick observations before I head off for sleep:
 
