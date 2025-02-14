@@ -10,9 +10,10 @@ country = ["Uruguay"]
 distance = "512 km / 318 mi"
 route = "around rural Uruguay"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-11-driving-around-uruguay.kml"
 bounds = {sw = [-34.967, -56.310], ne = [-34.134, -54.574]}
 cover = "es-2269-004"
+cover_cdn_key = "img/v1/2012/12/es-2269-004"
 +++
 
 We've spent the last few days driving around and exploring various parts of rural Uruguay before winding up in the coastal resort community of Punta del Este.
@@ -25,16 +26,16 @@ Punta del Este, where we're staying now, is an upscale resort community about a 
 
 There's an interesting halo effect, though, in that the coastal communities for 50 km / 30 miles or so either side of Punta del Este have a very nice relaxed but still upscale feel to it. Or at least it did when we were there. We intentionally missed the "high season" of January.
 
-{{ es_image(id="es-2270-002", caption = "Piriápolis, Uruguay") }}
-{{ es_image(id="es-2269-001", caption = "Punta Colorada, Uruguay") }}
-{{ es_image(id="es-2269-004", caption = "Punta Colorada, Uruguay") }}
+{{ es_cdn_image(id = "es-2270-002", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2270-002", caption = "Piriápolis, Uruguay") }}
+{{ es_cdn_image(id = "es-2269-001", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2269-001", caption = "Punta Colorada, Uruguay") }}
+{{ es_cdn_image(id = "es-2269-004", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2269-004", caption = "Punta Colorada, Uruguay") }}
 {{ es_vimeo(id="es-2270-004" vmid="787205277", caption = "Punta Colorada, Uruguay") }}
-{{ es_image(id="es-2269-011", caption = "Punta Ballena, Uruguay") }}
+{{ es_cdn_image(id = "es-2269-011", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2269-011", caption = "Punta Ballena, Uruguay") }}
 {{ es_vimeo(id="ts-2273-004" vmid="787205511", caption = "Manantiales, Uruguay", creator = "Tara Scouten") }}
 
 The lighthouse picture above was taken in the quiet fishing village of José Ignacio, about 30 km / 20 miles northeast of Punta del Este. I joked to Tara, "Welcome to Mendocino," as we drove into town (a reference to Mendocino, California, one of our favorite hangouts when we can find a bit of extra time in the Golden State). I've since learned that José Ignacio leads a double life as a [celebrity/socialite getaway](https://www.nytimes.com/2008/11/09/travel/09next.html) in January, but there was almost no sign of that in early December.
 
-{{ es_image(id="es-2272-001a", title = "Forever Is Composed of Nows", caption = "Faro Punto José Ignacio, José Ignacio, Uruguay") }}
+{{ es_cdn_image(id = "es-2272-001a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2272-001a", title = "Forever Is Composed of Nows", caption = "Faro Punto José Ignacio, José Ignacio, Uruguay") }}
 
-{{ es_image(id="es-2273-008", caption = "Garlic shrimp for lunch · Lo de Charlie, Manantiales, Uruguay") }}
-{{ es_image(id="es-2273-013", caption = "Manantiales, Uruguay") }}
+{{ es_cdn_image(id = "es-2273-008", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2273-008", caption = "Garlic shrimp for lunch · Lo de Charlie, Manantiales, Uruguay") }}
+{{ es_cdn_image(id = "es-2273-013", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2273-013", caption = "Manantiales, Uruguay") }}
