@@ -10,9 +10,10 @@ country = ["Brazil"]
 distance = "35 km / 22 mi"
 route = "around Rio de Janeiro, Brazil"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/11/2012-11-28-last-minuteness-dois-irmaos.kml"
 bounds = {sw = [-22.990, -43.228], ne = [-22.913, -43.170]}
 cover = "es-2229-012"
+cover_cdn_key = "img/v1/2012/11/es-2229-012"
 +++
 
 So it turns out that just showing up in Brazil without a rock solid-plan for what you are going to do and where you're going to stay is ... not great. 
@@ -31,8 +32,8 @@ I'll stay tomorrow night in a new part of Rio, then I'm headed north to Salvador
 
 <!-- more -->
 
-{{ es_image(id="es-2229-005", caption = "Ipanema, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2229-005", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2229-005", caption = "Ipanema, Rio de Janeiro, Brazil") }}
 
-{{ es_image(id="es-2229-012", caption = "The “Two Brothers” mountains on the west end of Ipanema beach. · Leblon, Ipanema, Rio de Janeiro, Brazil") }}
+{{ es_cdn_image(id = "es-2229-012", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2229-012", caption = "The “Two Brothers” mountains on the west end of Ipanema beach. · Leblon, Ipanema, Rio de Janeiro, Brazil") }}
 
-{{ es_image(id="es-2229-014", caption = "Leblon, Rio de Janiero, Brazil") }}
+{{ es_cdn_image(id = "es-2229-014", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2229-014", caption = "Leblon, Rio de Janiero, Brazil") }}
