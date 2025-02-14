@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "18 km / 11 mi"
 route = "around Mandal, Norway"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-17-a-lazy-day.kml"
 bounds = {sw = [58.010, 7.442], ne = [58.036, 7.547]}
 cover = "es-3556-008"
+cover_cdn_key = "img/v1/2017/07/es-3556-008"
 +++
 
 We had good intentions of going exploring today.
@@ -28,38 +29,38 @@ Just what we needed.
 
 Most of today’s photos come from the nearby town of Mandal and the area around our resort.
 
-{{ es_image(id = "es-3553-005", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-005", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-005", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-006", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-006", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-006", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-007", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-007", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-007", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-010", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-010", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-010", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-011", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-011", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-011", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-015", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-015", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-015", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-017", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-017", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-017", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-019", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-019", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-019", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-020", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-020", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-020", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-023", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-023", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-023", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "ts-3555-008", caption = "Mandal, Vest-Agder, Norway", creator = "Tara Scouten") }}
+{{ es_cdn_image(id = "ts-3555-008", cdn_version = "v1", cdn_key = "img/v1/2017/07/ts-3555-008", caption = "Mandal, Vest-Agder, Norway", creator = "Tara Scouten") }}
 
-{{ es_image(id = "es-3553-027", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-027", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-027", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-029", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-029", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-029", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-032", caption = "Mandal, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-032", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-032", caption = "Mandal, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3553-033", caption = "Tregde, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3553-033", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3553-033", caption = "Tregde, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3556-008", caption = "Tregde Ferie, Tregde, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3556-008", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3556-008", caption = "Tregde Ferie, Tregde, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3556-011", caption = "Tregde, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3556-011", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3556-011", caption = "Tregde, Vest-Agder, Norway") }}
 
-{{ es_image(id = "es-3556-018", caption = "Tregde, Vest-Agder, Norway") }}
+{{ es_cdn_image(id = "es-3556-018", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3556-018", caption = "Tregde, Vest-Agder, Norway") }}
