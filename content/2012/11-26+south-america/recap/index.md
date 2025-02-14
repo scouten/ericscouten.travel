@@ -10,9 +10,10 @@ country = ["Argentina", "Brazil", "Chile", "Ecuador", "Uruguay"]
 first_published_on = "ericscouten.com"
 distance = "34,173 km / 21,234 mi"
 route = "Seattle, Washington, to South America, and back"
-track = "track.kml"
+track_log_key = "kml/v1/2013/01/2013-01-10-recap.kml"
 bounds = {sw = [-50.489, -122.309], ne = [47.449, -38.001]}
 cover = "es-2295-020"
+cover_cdn_key = "img/v1/2012/12/es-2295-020"
 +++
 
 I’m back from my amazing trip to South America. Having had a few days to rest and catch up, I thought I’d share some reflections on how it went.
