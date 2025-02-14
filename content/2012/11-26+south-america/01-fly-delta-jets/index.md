@@ -10,16 +10,17 @@ state = ["Georgia"]
 distance = "3501 km / 2176 mi"
 route = "Seattle, Washington, to Atlanta, Georgia"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/11/2012-11-26-fly-delta-jets.kml"
 bounds = {sw = [33.629, -122.309], ne = [47.448, -84.415]}
 cover = "es-2225-013"
+cover_cdn_key = "img/v1/2012/11/es-2225-013"
 +++
 
 I have two hours in Atlanta and then south, south, south!
 
 <!-- more -->
 
-{{ es_image(id="es-2225-013", caption = "Passengers walk through the reflection of the iconic Delta sign at Atlanta’s airport.") }}
+{{ es_cdn_image(id = "es-2225-013", cdn_version = "v1", cdn_key = "img/v1/2012/11/es-2225-013", caption = "Passengers walk through the reflection of the iconic Delta sign at Atlanta’s airport.") }}
 
 Update, just before departure:
 
