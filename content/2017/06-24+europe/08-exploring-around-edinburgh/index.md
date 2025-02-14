@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "189 km / 117 mi"
 route = "around Edinburgh, Scotland"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-02-exploring-around-edinburgh.kml"
 bounds = {sw = [55.833, -4.092], ne = [56.227, -3.187]}
 cover = "es-3501-005"
+cover_cdn_key = "img/v1/2017/07/es-3501-005"
 +++
 
 Today we rented a car and explored the countryside around Edinburgh.
@@ -24,6 +25,6 @@ Not a lot for photos because we were a bit exhausted from the hour(!) long wait 
 
 Here are a couple infrareds that I especially enjoyed from today.
 
-{{ es_image(id = "es-3501-005", title = "The Gatekeeper’s Cottage", caption = "Kinross, Scotland") }}
+{{ es_cdn_image(id = "es-3501-005", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3501-005", title = "The Gatekeeper’s Cottage", caption = "Kinross, Scotland") }}
 
-{{ es_image(id = "es-3501-006", title = "Walk One More Mile", caption = "Kinross, Scotland") }}
+{{ es_cdn_image(id = "es-3501-006", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3501-006", title = "Walk One More Mile", caption = "Kinross, Scotland") }}
