@@ -10,9 +10,10 @@ country = ["Argentina"]
 distance = "1247 km / 775 mi"
 route = "Rio de Janiero, Brazil, to Iguazú National Park, Argentina"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-06-iguazu-falls.kml"
 bounds = {sw = [-25.701, -54.565], ne = [-22.810, -43.184]}
 cover = "es-2253-026"
+cover_cdn_key = "img/v1/2012/12/es-2253-026"
 +++
 
 Today, we left Rio and took a short flight to the national parks that surround Iguazú Falls on the border between Argentina and Brazil.
@@ -21,13 +22,13 @@ Today, we left Rio and took a short flight to the national parks that surround I
 
 Tonight we are staying on the Argentine side. We arrived mid-afternoon and had time for a brief walk down from our hotel to the falls.
 
-{{ es_image(id="es-2253-012", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
-{{ es_image(id="es-2253-014", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
-{{ es_image(id="es-2253-024", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
-{{ es_image(id="es-2253-026", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_image(id = "es-2253-012", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-012", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_image(id = "es-2253-014", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-014", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_image(id = "es-2253-024", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-024", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_image(id = "es-2253-026", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-026", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
 {{ es_vimeo(id="es-2252-003" vmid="785848647", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
-{{ es_image(id="es-2253-031", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
-{{ es_image(id="es-2252-007", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_image(id = "es-2253-031", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-031", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_image(id = "es-2252-007", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2252-007", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
 
 I apologize for the roughness of this video, but the jungle sounds (recorded from the balcony of our hotel) were too much fun to keep to myself.
 
