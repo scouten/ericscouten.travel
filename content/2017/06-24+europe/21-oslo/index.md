@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "16 km / 10 mi"
 route = "around the harbor in Oslo, Norway"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-15-oslo.kml"
 bounds = {sw = [59.884, 10.688], ne = [59.914, 10.751]}
 cover = "es-3547-061"
+cover_cdn_key = "img/v1/2017/07/es-3547-061"
 +++
 
 Today we accepted an invitation to meet some friends on their boat for a tour of Oslo harbor.
@@ -22,36 +23,36 @@ Today we accepted an invitation to meet some friends on their boat for a tour of
 
 The weather could not have been better for the occasion (22°C / 72°F and sunny). Thank you, Audun and Veera, for making the time for us today!
 
-{{ es_image(id = "es-3547-001", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-001", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-001", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-004", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-004", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-004", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-022", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-022", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-022", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-028", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-028", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-028", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-032", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-032", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-032", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-035", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-035", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-035", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-041", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-041", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-041", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-048", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-048", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-048", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-049", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-049", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-049", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-051", caption = "Gressholmen, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-051", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-051", caption = "Gressholmen, Oslo, Norway") }}
 
 We stopped on the island of Gressholmen for some snacks and drinks.
 
-{{ es_image(id = "es-3547-061", caption = "View from Gressholmen back toward Oslo. · Gressholmen, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-061", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-061", caption = "View from Gressholmen back toward Oslo. · Gressholmen, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-067", caption = "Gressholmen, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-067", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-067", caption = "Gressholmen, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-075", caption = "Gressholmen, near Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-075", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-075", caption = "Gressholmen, near Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-079", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-079", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-079", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-080", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-080", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-080", caption = "Oslo Harbor, Oslo, Norway") }}
 
-{{ es_image(id = "es-3547-098", caption = "Oslo Harbor, Oslo, Norway") }}
+{{ es_cdn_image(id = "es-3547-098", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3547-098", caption = "Oslo Harbor, Oslo, Norway") }}
