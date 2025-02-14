@@ -10,9 +10,10 @@ country = ["Argentina", "Chile"]
 distance = "4910 km / 3051 mi"
 route = "Puerto Varas, Los Lagos, Chile, to Quito, Ecuador"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-18-quick-tour-of-santiago.kml"
 bounds = {sw = [-41.464, -79.884], ne = [-0.133, -70.614]}
 cover = "es-2296-017a"
+cover_cdn_key = "img/v1/2012/12/es-2296-017a"
 +++
 
 I spent most of today flying from the south of Chile to the Ecuadorian capital, Quito. I had a long layover in Chile's capital, Santiago, so I hired a cooperative taxi driver to show me around the city before I had to embark on the multi-hour journey north to Ecuador.
@@ -23,7 +24,7 @@ A friend alerted me last night to the [volcanic eruptions in Ecuador](https://ww
 
 The Santiago airport has a lost-luggage sculpture that is reminiscent of the suitcase skewers in Seattle's airport.
 
-{{ es_image(id="es-2296-003", title = "Suitcase Sculpture", caption = "Aeropuerto Internacional Arturo Merino Benitez, Santiago, Región Metropolitana, Chile") }}
+{{ es_cdn_image(id = "es-2296-003", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2296-003", title = "Suitcase Sculpture", caption = "Aeropuerto Internacional Arturo Merino Benitez, Santiago, Región Metropolitana, Chile") }}
 
 Here are a few photos and videos from my quick tour of Santiago:
 
@@ -34,9 +35,9 @@ Here are a few photos and videos from my quick tour of Santiago:
 The highlight -- and high _point_ of the trip -- was the view from Parque Metropolitano in the center of the city. Perched on a hilltop in the center of the city, it offers a panoramic view of the city.
 
 {{ es_vimeo(id="es-2296-017" vmid="800383632", caption = "Parque Metropolitano de Santiago, Recoleta, Región Metropolitana, Chile") }}
-{{ es_image(id="es-2296-017a", caption = "Parque Metropolitano de Santiago, Recoleta, Región Metropolitana, Chile") }}
+{{ es_cdn_image(id = "es-2296-017a", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2296-017a", caption = "Parque Metropolitano de Santiago, Recoleta, Región Metropolitana, Chile") }}
 
-{{ es_image(id="es-2296-019", caption = "Parque Metropolitano de Santiago, Recoleta, Región Metropolitana, Chile") }}
+{{ es_cdn_image(id = "es-2296-019", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2296-019", caption = "Parque Metropolitano de Santiago, Recoleta, Región Metropolitana, Chile") }}
 {{ es_vimeo(id="es-2296-027" vmid="800383648", title = "Sopapillas", caption = "Independencia, Región Metropolitana, Chile") }}
 
 I realized as I landed in Ecuador this evening that I most definitely have the travel bug. At some point my life, I have set foot in every state in the US, every province of Canada, and (as of today) 20 other countries.
