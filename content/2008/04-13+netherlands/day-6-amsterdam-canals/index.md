@@ -11,6 +11,7 @@ first_published_on = "photoblog.ericscouten.com"
 markers = "markers.js"
 bounds = {sw = [52.37, 4.88], ne = [52.39, 4.9]}
 cover = "es-1296-005"
+cover_cdn_key = "img/v1/2008/04/es-1296-005"
 +++
 
 On this last day of the workshop, we returned to Amsterdam.
@@ -19,7 +20,7 @@ On this last day of the workshop, we returned to Amsterdam.
 
 The underside of the canal bridges are lit at night. I had some fun with zooming and rotating randomly during a long exposure.
 
-{{ es_image(id="es-1296-002") }}
-{{ es_image(id="es-1296-005") }}
-{{ es_image(id="es-1296-025", title = "Amsterdam Scribble") }}
-{{ es_image(id="es-1296-030", title = "Amsterdam Lights") }}
+{{ es_cdn_image(id = "es-1296-002", cdn_version = "v1", cdn_key = "img/v1/2008/04/es-1296-002") }}
+{{ es_cdn_image(id = "es-1296-005", cdn_version = "v1", cdn_key = "img/v1/2008/04/es-1296-005") }}
+{{ es_cdn_image(id = "es-1296-025", cdn_version = "v1", cdn_key = "img/v1/2008/04/es-1296-025", title = "Amsterdam Scribble") }}
+{{ es_cdn_image(id = "es-1296-030", cdn_version = "v1", cdn_key = "img/v1/2008/04/es-1296-030", title = "Amsterdam Lights") }}
