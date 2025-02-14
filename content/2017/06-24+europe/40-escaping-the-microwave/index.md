@@ -11,34 +11,35 @@ first_published_on = "ericscouten.com"
 distance = "650 km / 404 mi"
 route = "Pula, Croatia, to Salzburg, Austria"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/08/2017-08-03-escaping-the-microwave.kml"
 bounds = {sw = [44.837, 13.045], ne = [47.801, 15.100]}
 cover = "es-3601-001"
+cover_cdn_key = "img/v1/2017/08/es-3601-001"
 +++
 
 The _plan_ was to go slightly north from Pula to maybe Trieste on the Italian coast and lay low for a day or two before proceeding to the next airport. But instead a heat wave sunk in.
 
 <!-- more -->
 
-{{ es_image(id = "es-3601-001", caption = "Buje, Croatia") }}
+{{ es_cdn_image(id = "es-3601-001", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3601-001", caption = "Buje, Croatia") }}
 
-{{ es_image(id = "es-3601-002p", caption = "Buje, Croatia") }}
+{{ es_cdn_image(id = "es-3601-002p", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3601-002p", caption = "Buje, Croatia") }}
 
 When we arrived in Trieste around noon, it was 35°C / 95°F, and it just wasn’t inspiring to get out and make photos in the bright light and intense heat.
 
 So we kept heading north. We stopped briefly in Ljubljana for lunch and saw this amusing sign:
 
-{{ es_image(id = "es-3602-004", caption = "“Anything that is unrelated to elephants is irrelephant.” · Ljubljana, Slovenia") }}
+{{ es_cdn_image(id = "es-3602-004", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3602-004", caption = "“Anything that is unrelated to elephants is irrelephant.” · Ljubljana, Slovenia") }}
 
 After lunch, we stopped in a small village to take a few pictures and stretch our legs.
 
-{{ es_image(id = "es-3600-004", title = "Looking Right Through You", caption = "Prevoje pri Šentvidu, Slovenia") }}
+{{ es_cdn_image(id = "es-3600-004", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3600-004", title = "Looking Right Through You", caption = "Prevoje pri Šentvidu, Slovenia") }}
 
-{{ es_image(id = "es-3601-009", caption = "Prevoje pri Šentvidu, Slovenia") }}
+{{ es_cdn_image(id = "es-3601-009", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3601-009", caption = "Prevoje pri Šentvidu, Slovenia") }}
 
 I was shooting this picture ...
 
-{{ es_image(id = "es-3601-011", caption = "Prevoje pri Šentvidu, Slovenia") }}
+{{ es_cdn_image(id = "es-3601-011", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3601-011", caption = "Prevoje pri Šentvidu, Slovenia") }}
 
 ... when I heard somebody behind me yelling, "Hrvatska? Hrvatska?"
 
@@ -50,9 +51,9 @@ He immediately warmed to us. We were given an impromptu tour of his village in t
 
 (How often does being an American abroad _save_ you from potential trouble?)
 
-{{ es_image(id = "es-3601-016", caption = "Prevoje pri Šentvidu, Slovenia") }}
+{{ es_cdn_image(id = "es-3601-016", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3601-016", caption = "Prevoje pri Šentvidu, Slovenia") }}
 
-{{ es_image(id = "es-3601-019", caption = "Prevoje pri Šentvidu, Slovenia") }}
+{{ es_cdn_image(id = "es-3601-019", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3601-019", caption = "Prevoje pri Šentvidu, Slovenia") }}
 
 After searching for places with a reasonable combination of temperature, scenery, and available lodging, we decided to head to Salzburg, Austria. That didn't leave time for more photos as we needed to pound down the ~~miles~~ kilometers and avoid the heat.
 
