@@ -10,7 +10,7 @@ country = ["Scotland", "United Kingdom"]
 first_published_on = "ericscouten.com"
 distance = "154 km / 96 mi"
 route = "Edinburgh, Scotland, and rainy points east"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-04-go-east-in-scotland.kml"
 bounds = {sw = [55.882, -3.224], ne = [56.058, -2.303]}
 +++
 
