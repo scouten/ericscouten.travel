@@ -11,9 +11,10 @@ first_published_on = "ericscouten.com"
 distance = "394 km / 245 mi"
 route = "Tallinn, Estonia, to Riga, Latvia"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2017/07/2017-07-24-estonian-countryside-and-into-latvia.kml"
 bounds = {sw = [56.923, 23.586], ne = [59.437, 24.763]}
 cover = "es-3577-006"
+cover_cdn_key = "img/v1/2017/07/es-3577-006"
 +++
 
 I left Tallinn this morning (I’ll be back 😘) and enjoyed a nice drive through the Estonian countryside this afternoon.
@@ -30,20 +31,20 @@ I'm also not feeling the love for Riga that I felt for Tallinn, so skipping the 
 
 Today’s photos are all from rural Estonia.
 
-{{ es_image(id = "es-3577-002", caption = "Rehemäe, Estonia") }}
+{{ es_cdn_image(id = "es-3577-002", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-002", caption = "Rehemäe, Estonia") }}
 
-{{ es_image(id = "es-3577-006", caption = "Rehemäe, Estonia") }}
+{{ es_cdn_image(id = "es-3577-006", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-006", caption = "Rehemäe, Estonia") }}
 
-{{ es_image(id = "es-3577-007", caption = "Hälvati, Estonia") }}
+{{ es_cdn_image(id = "es-3577-007", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-007", caption = "Hälvati, Estonia") }}
 
-{{ es_image(id = "es-3577-011", caption = "Hälvati, Estonia") }}
+{{ es_cdn_image(id = "es-3577-011", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-011", caption = "Hälvati, Estonia") }}
 
-{{ es_image(id = "es-3577-014", caption = "Hälvati, Estonia") }}
+{{ es_cdn_image(id = "es-3577-014", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-014", caption = "Hälvati, Estonia") }}
 
-{{ es_image(id = "es-3577-015", caption = "Hälvati, Estonia") }}
+{{ es_cdn_image(id = "es-3577-015", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-015", caption = "Hälvati, Estonia") }}
 
-{{ es_image(id = "es-3577-017", caption = "Hälvati, Estonia") }}
+{{ es_cdn_image(id = "es-3577-017", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-017", caption = "Hälvati, Estonia") }}
 
-{{ es_image(id = "es-3577-018", caption = "Pärnu, Estonia") }}
+{{ es_cdn_image(id = "es-3577-018", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3577-018", caption = "Pärnu, Estonia") }}
 
 I get held up at the border, not because of any issue with my passport, but because it's a construction zone. They are tearing down the customs booth between Estonia and Latvia.
