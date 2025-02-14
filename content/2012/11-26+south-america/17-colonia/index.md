@@ -10,9 +10,10 @@ country = ["Uruguay"]
 distance = "366 km / 227 mi"
 route = "Punta del Este to Colonia del Sacramento, Uruguay"
 markers = "markers.js"
-track = "track.kml"
+track_log_key = "kml/v1/2012/12/2012-12-12-colonia.kml"
 bounds = {sw = [-34.961, -57.852], ne = [-34.326, -54.883]}
 cover = "es-2276-051"
+cover_cdn_key = "img/v1/2012/12/es-2276-051"
 +++
 
 And now for something completely different!
@@ -25,18 +26,18 @@ We are staying at the [Costa Colonia Riverside Hotel](https://www.costacolonia.c
 
 We enjoyed a long photowalk through the historic district. Many of today's photos are in infrared to accentuate the contrast between greenery (very bright) and stone and metal (very dark).
 
-{{ es_image(id="es-2276-011", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-015", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-021", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-023", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-037", title = "Lost in the Weeds", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-040", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-043", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2275-007", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2275-008", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2275-009", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-011", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-011", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-015", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-015", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-021", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-021", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-023", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-023", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-037", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-037", title = "Lost in the Weeds", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-040", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-040", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-043", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-043", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2275-007", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2275-007", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2275-008", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2275-008", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2275-009", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2275-009", caption = "Colonia del Sacramento, Uruguay") }}
 
-{{ es_image(id="es-2276-051", title = "Let’s Drive Like We’re Young Again", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-051", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-051", title = "Let’s Drive Like We’re Young Again", caption = "Colonia del Sacramento, Uruguay") }}
 
-{{ es_image(id="es-2276-064", caption = "Colonia del Sacramento, Uruguay") }}
-{{ es_image(id="es-2276-077", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-064", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-064", caption = "Colonia del Sacramento, Uruguay") }}
+{{ es_cdn_image(id = "es-2276-077", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2276-077", caption = "Colonia del Sacramento, Uruguay") }}
