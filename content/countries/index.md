@@ -26,6 +26,7 @@ I've driven a car in each of the 55 countries and territories listed below marke
     drive = true
     state_term = true
     image = "es-4289-040"
+    cdn_key = "img/v1/2021/12/es-4289-040"
     caption = "Numero Uno Beach House, San Juan, Puerto Rico, 2021") }}
 
 {{ es_country(
@@ -35,6 +36,7 @@ I've driven a car in each of the 55 countries and territories listed below marke
     years = "2019"
     drive = true
     image = "es-3932-202"
+    cdn_key = "img/v1/2019/04/es-3932-202"
     title = "Sunrise, Mount Fuji"
     caption = "Yamanakako, Yamanashi, Japan"
     country_term = true) }}
@@ -45,6 +47,7 @@ I've driven a car in each of the 55 countries and territories listed below marke
     flag = "🇹🇳"
     years = "2019"
     image = "es-3916-015"
+    cdn_key = "img/v1/2019/03/es-3916-015"
     caption = "La Marsa, Tunisia"
     drive = false
     country_term = true) %}
@@ -59,6 +62,7 @@ My first visit to Africa.
     flag = "🇲🇹"
     years = "2019"
     image = "es-3909-009"
+    cdn_key = "img/v1/2019/03/es-3909-009"
     caption = "Senglea, Malta"
     drive = true
     country_term = true) }}
@@ -69,6 +73,7 @@ My first visit to Africa.
     flag = "🇬🇧"
     years = "2019"
     image = "es-3900-013"
+    cdn_key = "img/v1/2019/03/es-3900-013"
     caption = "Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom"
     drive = true) }}
 
@@ -78,6 +83,7 @@ My first visit to Africa.
     flag = "🇨🇾"
     years = "2019"
     image = "es-3902-023"
+    cdn_key = "img/v1/2019/03/es-3902-023"
     caption = "Pyla, Cyprus"
     country_term = true
     drive = true) }}
@@ -88,6 +94,7 @@ My first visit to Africa.
     flag = "🇬🇧"
     years = "2018"
     image = "es-3814-037"
+    cdn_key = "img/v1/2018/09/es-3814-037"
     caption = "Mont Orgueil Castle, Saint Martin, Jersey, United Kingdom"
     drive = true
     country_term = "Jersey") }}
@@ -98,6 +105,7 @@ My first visit to Africa.
     flag = "🇬🇧"
     years = "2018"
     image = "es-3805-004"
+    cdn_key = "img/v1/2018/09/es-3805-004"
     caption = "north of Welshpool, Wales, United Kingdom"
     drive = true
     country_term = "Wales") }}
@@ -108,6 +116,7 @@ My first visit to Africa.
     flag = "🇮🇲"
     years = "2018"
     image = "es-3802-063"
+    cdn_key = "img/v1/2018/09/es-3802-063"
     caption = "south of Ramsey, Isle of Man, United Kingdom"
     drive = true
     country_term = "Isle of Man") }}
@@ -118,6 +127,7 @@ My first visit to Africa.
     flag = "🇹🇼"
     years = "2018"
     image = "es-3709-009"
+    cdn_key = "img/v1/2018/03/es-3709-009"
     caption = "Xiangde Temple, Taroko National Park, Taiwan"
     drive = true
     country_term = true) }}
@@ -128,6 +138,7 @@ My first visit to Africa.
     flag = "🇵🇦"
     years = "2018"
     image = "es-3687-020"
+    cdn_key = "img/v1/2018/01/es-3687-020"
     caption = "Panama Canal, Colón, Panama"
     drive = false
     country_term = true) }}
@@ -138,6 +149,7 @@ My first visit to Africa.
     flag = "🇨🇴"
     years = "2018"
     image = "es-3685-035"
+    cdn_key = "img/v1/2018/01/es-3685-035"
     caption = "Cartagena, Columbia"
     drive = false
     country_term = true) }}
@@ -148,6 +160,7 @@ My first visit to Africa.
     flag = "🇨🇼"
     years = "2017"
     image = "es-3681-002"
+    cdn_key = "img/v1/2017/12/es-3681-002"
     caption = "Willemstad, Curaçao"
     drive = false
     country_term = true) }}
@@ -158,6 +171,7 @@ My first visit to Africa.
     flag = "🇦🇼"
     years = "2017"
     image = "es-3674-016"
+    cdn_key = "img/v1/2017/12/es-3674-016"
     caption = "Tamarijn, Aruba"
     drive = false
     country_term = true) }}
@@ -168,6 +182,7 @@ My first visit to Africa.
     flag = "🇭🇷"
     years = "2017"
     image = "es-3601-001"
+    cdn_key = "img/v1/2017/08/es-3601-001"
     caption = "Buje, Croatia"
     drive = true
     country_term = true) }}
@@ -178,6 +193,7 @@ My first visit to Africa.
     flag = "🇷🇴"
     years = "2017"
     image = "es-3593-018"
+    cdn_key = "img/v1/2017/08/es-3593-018"
     caption = "Râmnicu Vâlcea, Romania"
     drive = true
     country_term = true) }}
@@ -188,6 +204,7 @@ My first visit to Africa.
     flag = "🇻🇦"
     years = "2017"
     image = "es-3589-021"
+    cdn_key = "img/v1/2017/07/es-3589-021"
     drive = false
     country_term = true) }}
 
@@ -197,6 +214,7 @@ My first visit to Africa.
     flag = "🇸🇲"
     years = "2017"
     image = "es-3588-013"
+    cdn_key = "img/v1/2017/07/es-3588-013"
     caption = "Borgo Maggiore, San Marino"
     drive = true
     country_term = true) }}
@@ -207,6 +225,7 @@ My first visit to Africa.
     flag = "🇱🇹"
     years = "2017"
     image = "es-3579-022"
+    cdn_key = "img/v1/2017/07/es-3579-022"
     caption = "Vilnius, Lithuania"
     drive = true
     country_term = true) }}
@@ -217,6 +236,7 @@ My first visit to Africa.
     flag = "🇱🇻"
     years = "2017"
     image = "es-3579-007"
+    cdn_key = "img/v1/2017/07/es-3579-007"
     caption = "Vecumnieki, Latvia"
     drive = true
     country_term = true) }}
@@ -227,6 +247,7 @@ My first visit to Africa.
     flag = "🇪🇪"
     years = "2017"
     image = "es-3575-038"
+    cdn_key = "img/v1/2017/07/es-3575-038"
     caption = "Tallinn, Estonia"
     drive = true
     country_term = true) }}
@@ -237,6 +258,7 @@ My first visit to Africa.
     flag = "🇫🇮"
     years = "2017"
     image = "es-3563-016"
+    cdn_key = "img/v1/2017/07/es-3563-016"
     caption = "Helsinki, Finland"
     drive = true
     country_term = true) }}
@@ -247,6 +269,7 @@ My first visit to Africa.
     flag = "🇳🇴"
     years = "2017"
     image = "es-3559-023"
+    cdn_key = "img/v1/2017/07/es-3559-023"
     caption = "Tregde, Norway"
     drive = true
     country_term = true) }}
@@ -257,6 +280,7 @@ My first visit to Africa.
     flag = "🇬🇧"
     years = "2017, 2018"
     image = "es-3795-011"
+    cdn_key = "img/v1/2018/09/es-3795-011"
     title = "Unperfected"
     caption = "south of Magheraveely, Northern Ireland, 2018"
     drive = true
@@ -268,6 +292,7 @@ My first visit to Africa.
     flag = "🇮🇪"
     years = "2017, 2018"
     image = "es-3528-007"
+    cdn_key = "img/v1/2017/07/es-3528-007"
     title = "Last Ray of Hope"
     caption = "Inch Beach, County Kerry, Ireland, 2017"
     drive = true
@@ -279,6 +304,7 @@ My first visit to Africa.
     flag = "🇬🇧"
     years = "2017"
     image = "es-3501-005"
+    cdn_key = "img/v1/2017/07/es-3501-005"
     title = "The Gatekeeper’s Cottage"
     caption = "Kinross, Scotland"
     drive = true
@@ -290,6 +316,7 @@ My first visit to Africa.
     flag = "🇯🇲"
     years = "2017"
     image = "es-3438-016"
+    cdn_key = "img/v1/2017/04/es-3438-016"
     caption = "Runaway Bay, Jamaica"
     drive = true) }}
 
@@ -299,6 +326,7 @@ My first visit to Africa.
     flag = "🇲🇶"
     years = "2016"
     image = "es-3372-037"
+    cdn_key = "img/v1/2016/12/es-3372-037"
     title = "Into the Storm"
     caption = "Caribbean Ocean, south of Martinique, France"
     drive = false) }}
@@ -309,6 +337,7 @@ My first visit to Africa.
     flag = "🇱🇨"
     years = "2016"
     image = "es-3359-003"
+    cdn_key = "img/v1/2016/11/es-3359-003"
     caption = "Micoud Highway, La Ressource, Saint Lucia"
     drive = true) }}
 
@@ -318,6 +347,7 @@ My first visit to Africa.
     flag = "🇧🇸"
     years = "2016, 2017"
     image = "es-3666-001"
+    cdn_key = "img/v1/2017/12/es-3666-001"
     caption = "Half Moon Cay, Little San Salvador Island, Bahamas, 2017"
     drive = true
     country_term = true) }}
@@ -328,6 +358,7 @@ My first visit to Africa.
     flag = "🇮🇳"
     years = "2016"
     image = "es-3141-052"
+    cdn_key = "img/v1/2016/02/es-3141-052"
     caption = "Vypin, Kerala, India"
     drive = false) }}
 
@@ -337,6 +368,7 @@ My first visit to Africa.
     flag = "🇱🇰"
     years = "2016"
     image = "es-3128-071"
+    cdn_key = "img/v1/2016/02/es-3128-071"
     caption = "Yala National Park, Sri Lanka"
     drive = false) }}
 
@@ -346,6 +378,7 @@ My first visit to Africa.
     flag = "🇦🇪"
     years = "2016, 2019"
     image = "es-3104-003"
+    cdn_key = "img/v1/2016/02/es-3104-003"
     title = "Starbucks Coffee"
     caption = "Dubai Airport, Dubai, United Arab Emirates, 2016"
     country_term = true
@@ -357,6 +390,7 @@ My first visit to Africa.
     flag = "🇵🇹"
     years = "2015"
     image = "es-2960-019"
+    cdn_key = "img/v1/2015/11/es-2960-019"
     title = "Dance of the Masks"
     caption = "Ourém, Portugal"
     drive = true) }}
@@ -374,6 +408,7 @@ My first visit to Africa.
     flag = "🇦🇩"
     years = "2015"
     image = "es-2948-007"
+    cdn_key = "img/v1/2015/11/es-2948-007"
     caption = "El Pas de la Casa, Andorra"
     drive = true) }}
 
@@ -383,6 +418,7 @@ My first visit to Africa.
     flag = "🇲🇨"
     years = "2015"
     image = "es-2945-009"
+    cdn_key = "img/v1/2015/11/es-2945-009"
     caption = "Monaco-Ville, Monaco"
     drive = true) }}
 
@@ -392,6 +428,7 @@ My first visit to Africa.
     flag = "🇱🇮"
     years = "2014"
     image = "es-2693-005"
+    cdn_key = "img/v1/2014/09/es-2693-005"
     caption = "Vaduz, Liechtenstein"
     drive = true) }}
 
@@ -401,6 +438,7 @@ My first visit to Africa.
     flag = "🇱🇺"
     years = "2014"
     image = "es-2689-003"
+    cdn_key = "img/v1/2014/09/es-2689-003"
     caption = "Beidweiler, Luxembourg"
     drive = true) }}
 
@@ -410,6 +448,7 @@ My first visit to Africa.
     flag = "🇬🇧"
     years = "2013, 2015, 2017, 2018"
     image = "es-2485-003a"
+    cdn_key = "img/v1/2013/08/es-2485-003a"
     title = "Palace of Westminster"
     caption = "London, England, 2013"
     drive = true
@@ -421,6 +460,7 @@ My first visit to Africa.
     flag = "🇨🇭"
     years = "2013, 2014, 2017"
     image = "es-2477-004"
+    cdn_key = "img/v1/2013/08/es-2477-004"
     caption = "Lugano, Switzerland, 2013"
     drive = true
     country_term = true) }}
@@ -431,6 +471,7 @@ My first visit to Africa.
     flag = "🇮🇹"
     years = "2013, 2015, 2017"
     image = "es-2472-028"
+    cdn_key = "img/v1/2013/08/es-2472-028"
     caption = "Venice, Italy, 2013"
     drive = true
     country_term = true) }}
@@ -441,6 +482,7 @@ My first visit to Africa.
     flag = "🇸🇮"
     years = "2013, 2017"
     image = "es-2465-010"
+    cdn_key = "img/v1/2013/08/es-2465-010"
     caption = "Dovje, Slovenia, 2013"
     drive = true
     country_term = true) }}
@@ -451,6 +493,7 @@ My first visit to Africa.
     flag = "🇦🇹"
     years = "2013, 2014, 2017, 2024"
     image = "es-3610-030"
+    cdn_key = "img/v1/2017/08/es-3610-030"
     caption = "Radau, Austria, 2017"
     drive = true
     country_term = true) }}
@@ -468,6 +511,7 @@ My first visit to Africa.
     flag = "🇸🇰"
     years = "2013, 2024"
     image = "es-4660-086"
+    cdn_key = "img/v1/2024/06/es-4660-086"
     caption = "Bratislava, Slovakia, 2024"
     drive = true
     country_term = true) }}
@@ -478,6 +522,7 @@ My first visit to Africa.
     flag = "🇨🇿"
     years = "2013, 2024"
     image = "es-2458-160"
+    cdn_key = "img/v1/2013/07/es-2458-160"
     caption = "Prague, Czechia, 2013"
     drive = true
     country_term = true) }}
@@ -488,6 +533,7 @@ My first visit to Africa.
     flag = "🇵🇱"
     years = "2013, 2024"
     image = "es-2383-002"
+    cdn_key = "img/v1/2013/06/es-2383-002"
     title = "What Lies Beneath"
     caption = "Pamięcin, Poland, 2013"
     drive = true
@@ -499,6 +545,7 @@ My first visit to Africa.
     flag = "🇸🇪"
     years = "2013"
     image = "es-2427-087"
+    cdn_key = "img/v1/2013/07/es-2427-087"
     caption = "Stockholm, Sweden"
     drive = true
     country_term = true) }}
@@ -509,6 +556,7 @@ My first visit to Africa.
     flag = "🇪🇨"
     years = "2012"
     image = "es-2302-012"
+    cdn_key = "img/v1/2012/12/es-2302-012"
     title = "Christmas Parade"
     caption = "Cuenca, Ecuador"
     country_term = true
@@ -520,6 +568,7 @@ My first visit to Africa.
     flag = "🇨🇱"
     years = "2012"
     image = "es-2294-067"
+    cdn_key = "img/v1/2012/12/es-2294-067"
     title = "Swirling About"
     caption = "Lago Todos los Santos, near Puerto Varas, Chile"
     country_term = true
@@ -531,6 +580,7 @@ My first visit to Africa.
     flag = "🇦🇷"
     years = "2012"
     image = "es-2281-008"
+    cdn_key = "img/v1/2012/12/es-2281-008"
     title = "Broken Promises"
     caption = "La Boca, Buenos Aires, Argentina"
     country_term = true
@@ -542,6 +592,7 @@ My first visit to Africa.
     flag = "🇺🇾"
     years = "2012"
     image = "es-2276-051"
+    cdn_key = "img/v1/2012/12/es-2276-051"
     title = "Let’s Drive Like We’re Young Again"
     caption = "Colonia del Sacramento, Uruguay"
     country_term = true
@@ -553,6 +604,7 @@ My first visit to Africa.
     flag = "🇧🇷"
     years = "2012"
     image = "es-2259-101"
+    cdn_key = "img/v1/2012/12/es-2259-101"
     title = "Iguaçu Falls"
     caption = "Foz do Iguaçu National Park, Paraná, Brazil"
     country_term = true
@@ -564,6 +616,7 @@ My first visit to Africa.
     flag = "🇩🇴"
     years = "2012"
     image = "es-2115-005"
+    cdn_key = "img/v1/2012/05/es-2115-005"
     caption = "Puerto Plata, Dominican Republic"
     drive = false) }}
 
@@ -573,6 +626,7 @@ My first visit to Africa.
     flag = "🇫🇯"
     years = "2007"
     image = "es-1258-019"
+    cdn_key = "img/v1/2007/12/es-1258-019"
     title = "Warm Thoughts"
     caption = "Malolo Lailai Island, Fiji"
     drive = false) }}
@@ -583,6 +637,7 @@ My first visit to Africa.
     flag = "🇳🇿"
     years = "2007"
     image = "es-1234-010"
+    cdn_key = "img/v1/2007/12/es-1234-010"
     title = "Lake Rotorua Sunset"
     caption = "Rotorua, New Zealand"
     drive = true) }}
@@ -593,6 +648,7 @@ My first visit to Africa.
     flag = "🇨🇷"
     years = "2007, 2018"
     image = "es-1115-034"
+    cdn_key = "img/v1/2007/03/es-1115-034"
     title = "Baby Caiman"
     caption = "La Fortuna, Costa Rica, 2007"
     drive = false
@@ -604,6 +660,7 @@ My first visit to Africa.
     flag = "🇬🇷"
     years = "2005"
     image = "es-0955-003"
+    cdn_key = "img/v1/2005/09/es-0955-003"
     title = "Mykonos Village"
     caption = "Mykonos, Greece"
     drive = true) }}
@@ -614,6 +671,7 @@ My first visit to Africa.
     flag = "🇬🇷"
     years = "2005"
     image = "es-0945-001p"
+    cdn_key = "img/v1/2005/09/es-0945-001p"
     caption = "Patmos, Greece"
     drive = false) }}
 
@@ -623,6 +681,7 @@ My first visit to Africa.
     flag = "🇹🇷"
     years = "2005"
     image = "es-0936-025p"
+    cdn_key = "img/v1/2005/09/es-0936-025p"
     caption = "Bodrum, Turkey"
     drive = false) }}
 
@@ -632,6 +691,7 @@ My first visit to Africa.
     flag = "🇹🇷"
     years = "2005"
     image = "es-0920-017"
+    cdn_key = "img/v1/2005/09/es-0920-017"
     title = "Istanbul Skyline at Night"
     caption = "Bosporus, Istanbul, Turkey"
     drive = false) }}
@@ -642,6 +702,7 @@ My first visit to Africa.
     flag = "🇮🇸"
     years = "2003"
     image = "es-0692-019c"
+    cdn_key = "img/v1/2003/09/es-0692-019c"
     title = "Church on Gloomy Afternoon"
     caption = "Akranes, Iceland"
     drive = true) }}
@@ -659,6 +720,7 @@ My first visit to Africa.
     flag = "🇫🇷"
     years = "2001, 2013, 2015, 2017"
     image = "es-3621-001"
+    cdn_key = "img/v1/2017/08/es-3621-001"
     caption = "Paris, France, 2017"
     drive = true
     country_term = true) }}
@@ -669,6 +731,7 @@ My first visit to Africa.
     flag = "🇨🇦"
     years = "2000"
     image = "es-0429-035"
+    cdn_key = "img/v1/2000/06/es-0429-035"
     caption = "Covehead Harbour Lighthouse, Covehead Harbour, Prince Edward Island, Canada"
     drive = true
     country_term = true) }}
@@ -680,6 +743,7 @@ My first visit to Africa.
     flag = "🇳🇱"
     years = "1999, 2000, 2008, 2013, 2014, 2017"
     image = "es-1288-071"
+    cdn_key = "img/v1/2008/04/es-1288-071"
     title = "Flower Path"
     caption = "Keukenhof Gardens, Lisse, The Netherlands, 2008"
     drive = true
@@ -691,6 +755,7 @@ My first visit to Africa.
     flag = "🇩🇰"
     years = "1999, 2013"
     image = "es-2372-017"
+    cdn_key = "img/v1/2013/06/es-2372-017"
     caption = "Copenhagen, Denmark, 2013"
     drive = true
     country_term = true) }}
@@ -701,6 +766,7 @@ My first visit to Africa.
     flag = "🇩🇪"
     years = "1999, 2000, 2013, 2014, 2017, 2018, 2024"
     image = "es-2676-012"
+    cdn_key = "img/v1/2014/09/es-2676-012"
     title = "Periscope Up"
     caption = "Hamburg, Germany, 2014"
     drive = true
@@ -716,6 +782,7 @@ I lived in Hamburg during the summer of 2013.
     flag = "🇺🇸"
     years = "1998, 2006"
     image = "es-1045-004"
+    cdn_key = "img/v1/2006/08/es-1045-004"
     title = "Steller Sea Lions"
     caption = "Chiswell Islands, near Seward, Alaska, 2006"
     drive = true) }}
@@ -726,6 +793,7 @@ I lived in Hamburg during the summer of 2013.
     flag = "🇳🇮"
     years = "1998"
     image = "es-0316-001"
+    cdn_key = "img/v1/1998/02/es-0316-001"
     title = "Doña Angela Cooking"
     caption = "Talolinga, Nicaragua"
     drive = false
@@ -737,6 +805,7 @@ I lived in Hamburg during the summer of 2013.
     flag = "🇦🇺"
     years = "1996"
     image = "es-0186-003"
+    cdn_key = "img/v1/1996/08/es-0186-003"
     title = "Pinnacles"
     caption = "Nambung National Park, Western Australia"
     drive = true) }}
@@ -747,6 +816,7 @@ I lived in Hamburg during the summer of 2013.
     flag = "🇺🇸"
     years = "1996, 2003, 2009, 2014"
     image = "es-0649-038"
+    cdn_key = "img/v1/2003/05/es-0649-038"
     title = "Akaka Falls"
     caption = "Akaka Falls State Park, Hilo, Hawaii, 2003"
     drive = true
@@ -758,6 +828,7 @@ I lived in Hamburg during the summer of 2013.
     flag = "🇲🇽"
     years = "1986, 1997, 1998, 1999, 2015, 2024"
     image = "es-2797-192"
+    cdn_key = "img/v1/2015/02/es-2797-192"
     title = "Tall Tales"
     caption = "Pacific Ocean, near Cabo San Lucas, Mexico, 2015"
     drive = true
@@ -769,6 +840,7 @@ I lived in Hamburg during the summer of 2013.
     flag = "🇨🇦"
     years = "numerous visits 1970s – present"
     image = "es-0351-001"
+    cdn_key = "img/v1/1998/08/es-0351-001"
     caption = "Tagish Lake, Carcross, Yukon, Canada, 1998"
     drive = true
     country_term = true) %}
@@ -783,6 +855,7 @@ I visited all 10 provinces as of 2000.
     flag = "🇺🇸"
     years = "by birth and residence"
     image = "es-1936-072a"
+    cdn_key = "img/v1/2011/10/es-1936-072a"
     title = "Snow Cap Root Beer Stand"
     caption = "Seligman, Arizona, 2011"
     drive = true
