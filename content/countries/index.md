@@ -15,7 +15,7 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
 
 I am a provisional member of the [Traveler’s Century Club](http://travelerscenturyclub.org/). I aspire to full membership, but that requires more countries and territories visited than I can currently claim. Using their [list of countries and territories](http://travelerscenturyclub.org/countries-and-territories) which is admittedly quite generous, here’s where I’ve been so far, in order of appearance:
 
-I've driven a car in each of the 55 countries and territories listed below marked with the 🚗 emoji.
+I’ve driven a car in each of the 55 countries and territories listed below marked with the 🚗 emoji.
 
 <ul class="countries">
 
