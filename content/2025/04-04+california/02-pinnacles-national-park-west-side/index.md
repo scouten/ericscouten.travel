@@ -20,7 +20,7 @@ I'm staying this weekend near Monterey. I've long been curious about [Pinnacles 
 
 <!-- more -->
 
-California State Route 146 was once envisioned to cross through the park. Fortunately, a generation ago, it was understood that the wilderness was more valuable that any road that might pass through it, so the road is (hopefully) permanetly incomplete.
+California State Route 146 was once envisioned to cross through the park. Fortunately, a generation ago, it was understood that the wilderness was more valuable that any road that might pass through it, so the road is (hopefully) permanently incomplete.
 
 Given the low traffic volume, there are some stretches of it that are marked as "one lane road." I'd say it's more like 1½ lanes, but still ... it's a fun and very mellow drive.
 
