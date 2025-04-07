@@ -1,7 +1,6 @@
 +++
 title = "California Day 2: Pinnacles National Park, West Side"
 date = 2025-04-05T15:15:42.632-07:00
-updated = 2025-04-05T21:29:54-07:00
 
 [taxonomies]
 state = ["California"]
