@@ -27,3 +27,5 @@ We are now in London (very near Parliament!) for our last two days and then back
 {{ es_cdn_image(id = "es-2483-035", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2483-035", caption = "London, England") }}
 
 {{ es_cdn_image(id = "es-2485-003a", cdn_version = "v1", cdn_key = "img/v1/2013/08/es-2485-003a", title = "Palace of Westminster", caption = "Palace of Westminster, London, England") }}
+
+File under: "Well, I've never had that happen before:" The cab driver who brought us to our downtown hotel told me my tip (nothing extraordinary by American standards) was too large and negotiated a smaller tip!
