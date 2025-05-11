@@ -808,7 +808,8 @@ I lived in Hamburg during the summer of 2013.
     cdn_key = "img/v1/1996/08/es-0186-003"
     title = "Pinnacles"
     caption = "Nambung National Park, Western Australia"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 4
