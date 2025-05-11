@@ -17,7 +17,9 @@ I made a friend from the Mac software development community recently and he had 
 
 <!-- more -->
 
-Never mind that Peter lives 17,000 km / 10,500 miles away from me. Literally on the other side of the world. Of course I went!
+Never mind that Peter lives 17,000 km / 10,500 miles away from me. Literally on the other side of the world.
+
+Of _course_ I went!
 
 So I've been hanging out in Western Australia for most of the past month, working half-time remotely from my friend's house in Perth and exploring when I could. Here's some of what I saw from my road trips across Western Australia:
 
