@@ -11,7 +11,7 @@ first_published_on = "ericscouten.com"
 distance = "1927 km / 1197 mi"
 route = "Pyla, Cyprus, to Senglea, Malta"
 markers = "markers.js"
-track_log_key = "kml/v1/2019/03/2019-03-26-a-plan comes to fruition.kml"
+track_log_key = "kml/v1/2019/03/2019-03-26-a-plan-comes-to-fruition.kml"
 bounds = {sw = [34.680, 14.328], ne = [35.987, 33.701]}
 cover = "es-3909-009"
 cover_cdn_key = "img/v1/2019/03/es-3909-009"
