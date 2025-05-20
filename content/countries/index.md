@@ -618,6 +618,7 @@ My first visit to Africa.
     image = "es-2115-005"
     cdn_key = "img/v1/2012/05/es-2115-005"
     caption = "Puerto Plata, Dominican Republic"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
