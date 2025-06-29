@@ -16,11 +16,27 @@ cover = "es-256-5337"
 cover_cdn_key = "img/v1/2025/06/es-256-5337"
 +++
 
-The plan was to get an early start and make our way along the coast to a fun AirBNB located on a farm in rural Victoria. All well and good, but then ...
+The plan was to get an early start and make our way along the coast to a fun AirBNB located on a farm in rural Victoria. 
 
 <!-- more -->
 
-Ooh, shiny, lighthouse ruins! We took a little detour in the morning. The photo ops were amazing ...
+I awoke early for a walk around the neighborhood where we were staying.
+
+{{ es_cdn_image(id = "es-256-5283", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5283", caption = "Erowal Bay, New South Wales, Australia") }}
+
+Which was all well and good, but then ...
+
+_Ooh, shiny, there's an abandoned lighthouse nearby!_ We took a little detour in the morning. The photo ops were amazing ...
+
+{{ es_cdn_image(id = "es-256-5293", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5293", caption = "Booderee National Park, Jervis Bay Territory, Australia") }}
+
+{{ es_cdn_image(id = "es-256-5311", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5311", caption = "Cape Saint George Lighthouse, Booderee National Park, Jervis Bay Territory, Australia") }}
+
+{{ es_cdn_image(id = "es-256-5315", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5315", caption = "Cape Saint George Lighthouse, Booderee National Park, Jervis Bay Territory, Australia") }}
+
+{{ es_cdn_image(id = "es-256-5316", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5316", caption = "Cape Saint George Lighthouse, Booderee National Park, Jervis Bay Territory, Australia") }}
+
+{{ es_cdn_image(id = "es-256-5318", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5318", caption = "Cape Saint George Lighthouse, Booderee National Park, Jervis Bay Territory, Australia") }}
 
 {{ es_cdn_image(id = "es-256-5329", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5329", caption = "Cape Saint George Lighthouse, Booderee National Park, Jervis Bay Territory, Australia") }}
 
