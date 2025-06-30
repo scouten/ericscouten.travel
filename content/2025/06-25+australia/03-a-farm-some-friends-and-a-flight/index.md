@@ -16,15 +16,9 @@ cover = "es-256-5445"
 cover_cdn_key = "img/v1/2025/06/es-256-5445"
 +++
 
-I mentioned [yesterday,](../02-the-long-coastal-road) that we arrived late in the evening at an AirBNB site that's on a farm in rural Victoria. These are a couple photos from when we first arrived last night.
+I mentioned [yesterday](../02-the-long-coastal-road) that we arrived late in the evening at an AirBNB site that's on a farm in rural Victoria. We arrived too late to see much of the farm, so they sent a welcoming committee first thing in the morning. (We made very fast friends, as you can see!)
 
 <!-- more -->
-
-{{ es_cdn_image(id = "es-256-5415", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5415", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
-
-{{ es_cdn_image(id = "es-256-5417", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5417", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
-
-We arrived too late to see much of the farm, so they sent a welcoming committee first thing in the morning. (We made very fast friends, as you can see!)
 
 {{ es_cdn_image(id = "es-256-5421", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5421", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
 
@@ -51,6 +45,10 @@ If you're ever in rural Victoria east of Melbourne, I highly recommend a stay at
 {{ es_cdn_image(id = "es-256-5503", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5503", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
 
 {{ es_cdn_image(id = "es-256-5504", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5504", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
+
+{{ es_cdn_image(id = "es-256-5415", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5415", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
+
+{{ es_cdn_image(id = "es-256-5417", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5417", caption = "The Blue Barn, near Mossiface, Victoria, Australia") }}
 
 After leaving the farm, we drove west toward Melbourne.
 
