@@ -64,4 +64,4 @@ Once in the city, we met some friends of mine, John and Jo, the principals of [S
 
 {{ es_cdn_image(id = "js-256-0728", cdn_version = "v1", cdn_key = "img/v1/2025/06/js-256-0728", caption = "Melbourne, Victoria, Australia", creator = "Jo Spencer") }}
 
-After lunch, it was time to head to the airport for our next adventure: Tasmania! Looking forward to exploring and sharing more tomorrow!
+After lunch, it was time to head to the airport for our next adventure: Tasmania! Looking forward to exploring and sharing more tomorrow.
