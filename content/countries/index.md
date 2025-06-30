@@ -15,9 +15,20 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
 
 I am a provisional member of the [Traveler’s Century Club](http://travelerscenturyclub.org/). I aspire to full membership, but that requires more countries and territories visited than I can currently claim. Using their [list of countries and territories](http://travelerscenturyclub.org/countries-and-territories) which is admittedly quite generous, here’s where I’ve been so far, in order of appearance:
 
-I’ve driven a car in each of the 55 countries and territories listed below marked with the 🚗 emoji.
+I’ve driven a car in each of the 56 countries and territories listed below marked with the 🚗 emoji.
 
 <ul class="countries">
+
+{{ es_country(
+    seq = 77
+    name = "Tasmania, Australia"
+    flag = "🇦🇺"
+    years = "2025"
+    image = "es-256-5576"
+    cdn_key = "img/v1/2025/06/es-256-5576"
+    caption = "Bradys Lookout State Reserve, Rosevears, Tasmania, Australia"
+    drive = true
+    country_term = true) }}
 
 {{ es_country(seq = 76
     name = "Puerto Rico"
@@ -804,7 +815,7 @@ I lived in Hamburg during the summer of 2013.
     seq = 5
     name = "Australia"
     flag = "🇦🇺"
-    years = "1996"
+    years = "1996, 2025"
     image = "es-0186-003"
     cdn_key = "img/v1/1996/08/es-0186-003"
     title = "Pinnacles"

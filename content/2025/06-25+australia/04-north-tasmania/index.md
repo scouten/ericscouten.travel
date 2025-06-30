@@ -4,7 +4,7 @@ date = 2025-06-28T16:31:44.531+10:00
 updated = 2025-06-30T20:06:24+10:00
 
 [taxonomies]
-country = ["Australia"]
+country = ["Australia", "Tasmania"]
 
 [extra]
 distance = "203 km / 126 mi"
