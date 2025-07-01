@@ -16,9 +16,11 @@ cover = "es-4730-028"
 cover_cdn_key = "img/v1/2025/06/es-4730-028"
 +++
 
-Now that we've rearranged our trip, we're enjoying one of our bonus days in Tasmania. I started with an early-morning walk around the central business district.
+Now that we've rearranged our trip, we're enjoying one of our bonus days in Tasmania.
 
 <!-- more -->
+
+I started with an early-morning walk around the central business district.
 
 {{ es_cdn_image(id = "es-256-5683", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5683", caption = "Hobart, Tasmania, Australia") }}
 
