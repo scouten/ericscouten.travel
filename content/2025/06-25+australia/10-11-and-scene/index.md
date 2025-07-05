@@ -46,4 +46,6 @@ We took a leisurely drive along the coast and arrived at our hotel at the Brisba
 
 This will probably be the last post for this trip. Tomorrow (Sunday) we take the long flight home. With the rebooking, we have comfortable seats, but not window seats.
 
+Thank you to Australia for being a lovely host for this adventure and thank you to my daughter for being a lovely travel companion.
+
 Looking forward to sharing the next adventure soon!
