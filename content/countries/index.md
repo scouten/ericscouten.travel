@@ -20,6 +20,16 @@ I’ve driven a car in each of the 56 countries and territories listed below mar
 <ul class="countries">
 
 {{ es_country(
+    seq = 78
+    name = "South Korea"
+    flag = "🇰🇷"
+    years = "2025"
+    image = "es-25c-8098"
+    cdn_key = "img/v1/2025/12/es-25c-8098"
+    caption = "Gangchon Rail Park, Chuncheon, South Korea"
+    country_term = true) }}
+
+{{ es_country(
     seq = 77
     name = "Tasmania, Australia"
     flag = "🇦🇺"
