@@ -1,6 +1,6 @@
 +++
-title = "Europe Day 8: Tschüß, Hamburg!"
-date = 2014-09-14T21:49:00+02:00
+title = "Europe Day 12: Tschüß, Hamburg!"
+date = 2014-09-18T21:49:00+02:00
 updated = 2025-12-28T03:53:24+09:00
 
 [extra]
