@@ -19,6 +19,16 @@ I’ve driven a car in each of the 56 countries and territories listed below mar
 
 <ul class="countries">
 
+{{ es_country(seq = 79
+    name = "Guam"
+    flag = "🇺🇸"
+    years = "2025"
+    drive = true
+    state_term = true
+    image = "es-25c-8362"
+    cdn_key = "img/v1/2025/12/es-25c-8362"
+    caption = "Agat Unit, Ga’an Point, War in the Pacific National Historical Park, Hågat, Guam") }}
+
 {{ es_country(
     seq = 78
     name = "South Korea"
