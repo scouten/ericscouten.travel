@@ -23,7 +23,6 @@ I’ve driven a car in each of the 56 countries and territories listed below mar
     name = "Guam"
     flag = "🇺🇸"
     years = "2025"
-    drive = true
     state_term = true
     image = "es-25c-8362"
     cdn_key = "img/v1/2025/12/es-25c-8362"
