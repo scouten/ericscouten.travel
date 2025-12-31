@@ -461,7 +461,8 @@ My first visit to Africa.
     image = "es-2689-003"
     cdn_key = "img/v1/2014/09/es-2689-003"
     caption = "Beidweiler, Luxembourg"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 37
