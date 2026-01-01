@@ -1,10 +1,9 @@
 +++
-title = "South Korea"
+title = "South Korea and Guam"
 sort_by = "date"
 transparent = true
 
-# [extra]
-# cover = "es-4640-046"
-# cover_cdn_key = "img/v1/2024/04/es-4640-046"
+[extra]
+cover = "es-25c-8098"
+cover_cdn_key = "img/v1/2025/12/es-25c-8098"
 +++
-
