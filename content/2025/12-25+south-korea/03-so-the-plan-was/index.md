@@ -1,7 +1,6 @@
 +++
 title = "South Korea Day 3: So the Plan Was ..."
 date = 2025-12-28T23:36:01+10:00
-updated = 2025-12-28T23:37:29+10:00
 
 [taxonomies]
 country = ["South Korea"]

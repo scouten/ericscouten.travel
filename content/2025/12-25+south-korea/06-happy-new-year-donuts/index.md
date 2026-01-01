@@ -1,7 +1,6 @@
 +++
 title = "South Korea and Guam Day 6: Happy New Year Donuts!"
 date = 2025-12-31T21:20:15+09:00
-updated = 2025-12-31T21:13:40+09:00
 
 [taxonomies]
 country = ["South Korea"]

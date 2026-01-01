@@ -1,7 +1,6 @@
 +++
 title = "South Korea and Guam Day 5: Don Don Donki"
 date = 2025-12-30T10:08:12.76+10:00
-updated = 2025-12-30T23:04:25+09:00
 
 [taxonomies]
 state = ["Guam"]

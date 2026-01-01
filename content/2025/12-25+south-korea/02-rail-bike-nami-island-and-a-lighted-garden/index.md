@@ -1,7 +1,6 @@
 +++
 title = "South Korea Day 2: Rail Bike, Nami Island, and a Lighted Garden"
 date = 2025-12-27T18:27:54.802+09:00
-updated = 2025-12-27T23:52:58+09:00
 
 [taxonomies]
 country = ["South Korea"]
