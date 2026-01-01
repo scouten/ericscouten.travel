@@ -457,10 +457,11 @@ My first visit to Africa.
     name = "Liechtenstein"
     flag = "🇱🇮"
     years = "2014"
-    image = "es-2693-005"
-    cdn_key = "img/v1/2014/09/es-2693-005"
-    caption = "Vaduz, Liechtenstein"
-    drive = true) }}
+    image = "es-2691-002"
+    cdn_key = "img/v1/2014/09/es-2691-002"
+    caption = "Mauren, Liechtenstein"
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 38
