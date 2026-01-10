@@ -32,7 +32,7 @@ I’ve driven a car in each of the 56 countries and territories listed below mar
     seq = 78
     name = "South Korea"
     flag = "🇰🇷"
-    years = "2025"
+    years = "2025 – 2026"
     image = "es-25c-8098"
     cdn_key = "img/v1/2025/12/es-25c-8098"
     caption = "Gangchon Rail Park, Chuncheon, South Korea"
