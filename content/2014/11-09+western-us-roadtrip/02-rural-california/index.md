@@ -1,5 +1,5 @@
 +++
-title = "Western US Road Trip Day 2: Rural California"
+title = "Western US Roadtrip Day 2: Rural California"
 date = 2014-11-10T15:57:47-08:00
 updated = 2026-01-12T11:53:05-08:00
 
