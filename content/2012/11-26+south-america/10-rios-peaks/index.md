@@ -29,7 +29,7 @@ Since the famous statue is atop one of Rio's many peaks, it offers some spectacu
 
 On the tram back down, we were treated to some local samba music:
 
-{{ es_vimeo(id="es-2251-027" vmid="785823053", caption = "Trem do Corcovado, Rio de Janerio, Brazil") }}
+{{ es_cdn_video(id = "es-2251-027", cdn_version = "v1", cdn_key = "vid/v1/2012/12/es-2251-027", caption = "Trem do Corcovado, Rio de Janerio, Brazil") }}
 
 We later visited Sugarloaf Peak (known locally as _Morro de Urca_), which allowed us to enjoy more views of the city and its beaches.
 
