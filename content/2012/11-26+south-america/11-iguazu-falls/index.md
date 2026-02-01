@@ -23,13 +23,19 @@ Today, we left Rio and took a short flight to the national parks that surround I
 Tonight we are staying on the Argentine side. We arrived mid-afternoon and had time for a brief walk down from our hotel to the falls.
 
 {{ es_cdn_image(id = "es-2253-012", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-012", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+
 {{ es_cdn_image(id = "es-2253-014", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-014", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+
 {{ es_cdn_image(id = "es-2253-024", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-024", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+
 {{ es_cdn_image(id = "es-2253-026", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-026", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
-{{ es_vimeo(id="es-2252-003" vmid="785848647", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+
+{{ es_cdn_video(id = "es-2252-003", cdn_version = "v1", cdn_key = "vid/v1/2012/12/es-2252-003", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+
 {{ es_cdn_image(id = "es-2253-031", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2253-031", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
+
 {{ es_cdn_image(id = "es-2252-007", cdn_version = "v1", cdn_key = "img/v1/2012/12/es-2252-007", caption = "Garganta del Diablo, Iguazú National Park, Misiones, Argentina") }}
 
 I apologize for the roughness of this video, but the jungle sounds (recorded from the balcony of our hotel) were too much fun to keep to myself.
 
-{{ es_vimeo(id="es-2257-001" vmid="785848863", caption = "Iguazú National Park, Misiones, Argentina") }}
+{{ es_cdn_video(id = "es-2257-001", cdn_version = "v1", cdn_key = "vid/v1/2012/12/es-2257-001", caption = "Iguazú National Park, Misiones, Argentina") }}
