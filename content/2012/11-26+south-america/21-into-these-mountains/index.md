@@ -22,7 +22,7 @@ Not much for photos today; it was mostly a day of relaxing and enjoying a much-n
 
 Before I left El Calafate, I captured one last view of Lago Argentino from my hotel:
 
-{{ es_vimeo(id="es-2292-003" vmid="800197721", caption = "Hotel Alto Calafate, El Calafate, Santa Cruz, Argentina") }}
+{{ es_cdn_video(id = "es-2292-003", cdn_version = "v1", cdn_key = "vid/v1/2012/12/es-2292-003", caption = "Hotel Alto Calafate, El Calafate, Santa Cruz, Argentina") }}
 
 After a bit of a wild-West rodeo flight, I arrived here in San Carlos de Bariloche. Tomorrow, I'll head into and over these mountains and enter Chile for the first time.
 
