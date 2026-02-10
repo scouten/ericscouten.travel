@@ -28,7 +28,7 @@ Today was a mellow day in one of my favorite places. I walked around town and th
 
 This. This is why I came here. I needed some of this.
 
-{{ es_vimeo(id = "es-2735-012", vmid = "1159077381", caption = "Mendocino, California") }}
+{{ es_cdn_video(id = "es-2735-012", cdn_version = "v1", cdn_key = "vid/v1/2014/11/es-2735-012", caption = "Mendocino, California") }}
 
 {{ es_cdn_image(id = "es-2735-013", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2735-013", caption = "Mendocino, California") }}
 
