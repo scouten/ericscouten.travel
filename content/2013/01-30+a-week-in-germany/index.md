@@ -33,4 +33,4 @@ Most of my week has been in meetings, but -- of course -- there are a few candid
 
 {{ es_cdn_image(id = "es-2323-018", cdn_version = "v1", cdn_key = "img/v1/2013/01/es-2323-018", caption = "Hamburg, Germany") }}
 
-{{ es_vimeo(id = "es-2320-001", vmid = "1101313090", caption = "Hamburg, Germany") }}
+{{ es_cdn_video(id = "es-2320-001", cdn_version = "v1", cdn_key = "vid/v1/2013/01/es-2320-001", caption = "Hamburg, Germany") }}
