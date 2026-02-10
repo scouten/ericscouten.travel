@@ -29,7 +29,7 @@ Because I’m a Seattle boy, I just had to try taking the ferry to the office to
 
 Now on the way home, here is the ferry coming in for a (very fast) landing.
 
-{{ es_vimeo(id = "es-2679-001", vmid = "1149255144", caption = "Fischmarkt, Hamburg, Germany") }}
+{{ es_cdn_video(id = "es-2679-001", cdn_version = "v1", cdn_key = "vid/v1/2014/09/es-2679-001", caption = "Fischmarkt, Hamburg, Germany") }}
 
 Later on the evening, I went for a walk around the neighborhood where I'm staying. Love this view across Binnenalster:
 
