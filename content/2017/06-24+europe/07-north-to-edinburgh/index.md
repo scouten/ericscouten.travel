@@ -53,7 +53,7 @@ Ayla's choice of the train meant the trip took only 4½ hours, compared to at le
 
 Once settled into our hotel, we went for a walk about town. Only a few minutes and we were treated to an impromptu bagpipe concert:
 
-{{ es_vimeo(id = "es-3493-010", vmid = "846303604", caption = "The Mound, Edinburgh, Scotland, United Kingdom") }}
+{{ es_cdn_video(id = "es-3493-010", cdn_version = "v1", cdn_key = "vid/v1/2017/07/es-3493-010", caption = "The Mound, Edinburgh, Scotland, United Kingdom")) }}
 
 {{ es_cdn_image(id = "es-3494-036", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3494-036", caption = "The Mound, Edinburgh, Scotland, United Kingdom") }}
 
