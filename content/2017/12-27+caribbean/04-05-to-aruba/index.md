@@ -24,7 +24,7 @@ After leaving the Bahamas, we sailed for most of two days to get to Aruba, an is
 
 This was the view from my deck for most of these two days:
 
-{{ es_vimeo(id = "es-3670-001", vmid = "819364644", caption = "Caribbean Ocean, south of Haiti") }}
+{{ es_cdn_video(id = "es-3670-001", cdn_version = "v1", cdn_key = "vid/v1/2017/12/es-3670-001", caption = "Caribbean Ocean, south of Haiti") }}
 
 {{ es_cdn_image(id = "es-3672-003", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3672-003", caption = "Caribbean Ocean, south of Haiti") }}
 
@@ -56,4 +56,4 @@ People in Aruba love to set off elaborate fireworks displays, especially as the 
 
 No matter how loud you have your speakers or headphones set, it is not even close to how loud it was in person:
 
-{{ es_vimeo(id = "es-3675-006", vmid = "819364664", caption = "Oranjestad, Aruba") }}
+{{ es_cdn_video(id = "es-3675-006", cdn_version = "v1", cdn_key = "vid/v1/2017/12/es-3675-006", caption = "Oranjestad, Aruba") }}
