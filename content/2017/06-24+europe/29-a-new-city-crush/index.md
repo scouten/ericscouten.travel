@@ -67,7 +67,7 @@ My hotel is right in the heart of the old town, which made it easy for me to go 
 
 {{ es_cdn_image(id = "es-3575-017", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-017") }}
 
-{{ es_vimeo(id = "es-3574-001", vmid = "858114471", caption = "8pm on a Sunday in Tallinn …") }}
+{{ es_cdn_video(id = "es-3574-001", cdn_version = "v1", cdn_key = "vid/v1/2017/07/es-3574-001", caption = "8pm on a Sunday in Tallinn …") }}
 
 {{ es_cdn_image(id = "es-3575-025", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-025") }}
 
