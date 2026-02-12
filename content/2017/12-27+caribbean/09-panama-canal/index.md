@@ -34,9 +34,9 @@ Moving boats through the canal is quite the procession:
 
 {{ es_cdn_image(id = "es-3687-028", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3687-028", caption = "Panama Canal, Colón, Panama") }}
 
-{{ es_vimeo(id = "es-3686-015", vmid = "824460430", caption = "Towing a northbound boat through the Panama Canal. · Panama Canal, Colón, Panama") }}
+{{ es_cdn_video(id = "es-3686-015", cdn_version = "v1", cdn_key = "vid/v1/2018/01/es-3686-015", caption = "Towing a northbound boat through the Panama Canal. · Panama Canal, Colón, Panama") }}
 
-{{ es_vimeo(id = "es-3686-019", vmid = "824460468", caption = "Hooking up one of the “mules” that help guide ships through the canal. · Panama Canal, Colón, Panama") }}
+{{ es_cdn_video(id = "es-3686-019", cdn_version = "v1", cdn_key = "vid/v1/2018/01/es-3686-019", caption = "Hooking up one of the “mules” that help guide ships through the canal. · Panama Canal, Colón, Panama") }}
 
 {{ es_cdn_image(id = "es-3689-001", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3689-001", caption = "One of the “mules” towing our ship along the canal. · Panama Canal, Colón, Panama") }}
 
@@ -46,7 +46,7 @@ Moving boats through the canal is quite the procession:
 
 {{ es_cdn_image(id = "es-3689-009", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3689-009", caption = "Panama Canal, Colón, Panama") }}
 
-{{ es_vimeo(id = "es-3688-005", vmid = "824460733", caption = "Towing our ship into Gatún Lake. · Panama Canal, Colón, Panama") }}
+{{ es_cdn_video(id = "es-3688-005", cdn_version = "v1", cdn_key = "vid/v1/2018/01/es-3688-005", caption = "Towing our ship into Gatún Lake. · Panama Canal, Colón, Panama") }}
 
 {{ es_cdn_image(id = "es-3689-013", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3689-013", caption = "Panama Canal, Colón, Panama") }}
 
@@ -68,7 +68,7 @@ Our "shore" excursion then ventured around Gatún Lake:
 
 {{ es_cdn_image(id = "es-3689-039", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3689-039", caption = "Gatún Lake, Colón, Panama") }}
 
-{{ es_vimeo(id = "es-3688-014", vmid = "824461253", caption = "Isla Banana, Colón, Panama, 2018") }}
+{{ es_cdn_video(id = "es-3688-014", cdn_version = "v1", cdn_key = "vid/v1/2018/01/es-3688-014", caption = "Isla Banana, Colón, Panama, 2018") }}
 
 {{ es_cdn_image(id = "es-3689-086", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3689-086", caption = "Isla Banana, Colón, Panama, 2018") }}
 

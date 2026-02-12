@@ -60,7 +60,7 @@ This morning, I took a guided walk through a cute historic district, which start
 
 {{ es_cdn_image(id = "es-3685-086", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3685-086") }}
 
-{{ es_vimeo(id = "es-3683-007", vmid = "822167576") }}
+{{ es_cdn_video(id = "es-3683-007", cdn_version = "v1", cdn_key = "vid/v1/2018/01/es-3683-007") }}
 
 {{ es_cdn_image(id = "es-3685-101", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3685-101") }}
 
