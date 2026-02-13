@@ -41,7 +41,7 @@ I took the ferry from Poole, England (on the south coast) to Saint Peter on the 
 
 That's quite the wake! At the time I clocked us going 60 km/h / 32 knots across the water.
 
-{{ es_vimeo(id = "es-3809-009", vmid = "843406574", caption = "English Channel, near Swanage, England, United Kingdom") }}
+{{ es_cdn_video(id = "es-3809-009", cdn_version = "v1", cdn_key = "vid/v1/2018/09/es-3809-009", caption = "English Channel, near Swanage, England, United Kingdom") }}
 
 {{ es_cdn_image(id = "es-3811-004", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3811-004", caption = "English Channel, near Sark, United Kingdom") }}
 

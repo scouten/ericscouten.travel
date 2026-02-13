@@ -101,7 +101,7 @@ I went up to the hotel's rooftop restaurant for dinner and found live music -- m
 
 {{ es_cdn_image(id = "es-3916-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3916-003", caption = "Hotel Dar El Marsa, La Marsa, Tunisia") }}
 
-{{ es_vimeo(id = "es-3916-006", vmid = "828492252", caption = "Hotel Dar El Marsa, La Marsa, Tunisia") }}
+{{ es_cdn_video(id = "es-3916-006", cdn_version = "v1", cdn_key = "vid/v1/2019/03/es-3916-006", caption = "Hotel Dar El Marsa, La Marsa, Tunisia") }}
 
 I was just informed that I was quite "courageous" for trying this dish, which the Tunisian Jews call something like kyla and the Tunisian Muslims call madfouna.
 

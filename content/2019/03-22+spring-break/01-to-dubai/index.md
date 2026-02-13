@@ -34,4 +34,4 @@ Few pictures today, as this was a day full of plane travel without the benefit (
 
 I may always find pilots’ ability to find a runway amazing, especially in the middle of the night:
 
-{{ es_vimeo(id="es-3898-004" vmid="805806012", caption = "above Dubai, United Arab Emirates") }}
+{{ es_cdn_video(id = "es-3898-004", cdn_version = "v1", cdn_key = "vid/v1/2019/03/es-3898-004", caption = "above Dubai, United Arab Emirates") }}
