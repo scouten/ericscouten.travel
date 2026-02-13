@@ -87,6 +87,6 @@ Herewith, a photo walk through Zriba El Alia:
 
 One last video of what driving through the countryside on our way back to the airport:
 
-{{ es_vimeo(id = "es-3921-021", vmid = "831712030", caption = "Zaghouan, Tunisia") }}
+{{ es_cdn_video(id = "es-3921-021", cdn_version = "v1", cdn_key = "vid/v1/2019/03/es-3921-021", caption = "Zaghouan, Tunisia") }}
 
 Sam, thank you. It was great get to know you and your country. This was an experience to remember.
