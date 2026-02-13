@@ -92,6 +92,6 @@ I'm happy to report that at the 11th store that I finally found the adapter I ne
 
 While working on my photos just after dark, I heard this sing-song-y tune driving by. In the US, we might think the ice-cream truck is driving by. But ... no. This is the garbage truck.
 
-{{ es_vimeo(id = "es-3708-040", vmid = "826399629", caption = "Xincheng Township, Hualien County, Taiwan") }}
+{{ es_cdn_video(id = "es-3708-040", cdn_version = "v1", cdn_key = "vid/v1/2018/03/es-3708-040", caption = "Xincheng Township, Hualien County, Taiwan") }}
 
 With that sweet lullaby, I shall bid adieu for tonight and share more adventures tomorrow!

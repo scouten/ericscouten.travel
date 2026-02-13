@@ -22,7 +22,7 @@ After Costa Rica, it was time to head home. We sailed for two nights back to For
 
 Our first night out of Limón got a bit choppy. Which made the swimming pool a bit ... interesting. Thankfully nobody tried to actually swim in this.
 
-{{ es_vimeo(id = "es-3696-046", vmid = "824918656", caption = "Caribbean Ocean, off coast of Costa Rica") }}
+{{ es_cdn_video(id = "es-3696-046", cdn_version = "v1", cdn_key = "vid/v1/2018/01/es-3696-046", caption = "Caribbean Ocean, off coast of Costa Rica") }}
 
 I had asked friends for book recommendations before I departed. I saved this one for this long at-sea stretch. 30 pages in and I am booked ... I mean hooked. (Autocorrect attempting to make puns for me?)
 
