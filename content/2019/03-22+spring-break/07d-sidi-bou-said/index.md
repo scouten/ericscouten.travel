@@ -119,4 +119,4 @@ Hope you enjoy following along on my walk through Sidi Bou Said:
 
 Thanks for following along this far. You might also enjoy this video of what it was like to drive through the Tunisian countryside, taken on our way from Uthina to Sidi Bou Said.
 
-{{ es_vimeo(id = "es-3917-004", vmid = "831339763", caption = "Douar el Houch, Tunisia") }}
+{{ es_cdn_video(id = "es-3917-004", cdn_version = "v1", cdn_key = "vid/v1/2019/03/es-3917-004", caption = "Douar el Houch, Tunisia") }}

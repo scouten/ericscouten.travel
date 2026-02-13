@@ -103,7 +103,7 @@ Sam was able to get us access to a rooftop from which I captured these views of 
 
 There is something very haunting about the call to prayer.
 
-{{ es_vimeo(id = "es-3917-003", vmid = "829883228") }}
+{{ es_cdn_video(id = "es-3917-003", cdn_version = "v1", cdn_key = "vid/v1/2019/03/es-3917-003") }}
 
 {{ es_cdn_image(id = "es-3918-091", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3918-091") }}
 

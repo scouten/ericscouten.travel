@@ -34,6 +34,6 @@ And ... what did I do? Went for yet another photo walk at sunset. This place is 
 
 Friday night and there’s a dance happening across the street from me:
 
-{{ es_vimeo(id = "es-3921-004", vmid = "831350430") }}
+{{ es_cdn_video(id = "es-3917-004", cdn_version = "v1", cdn_key = "vid/v1/2019/03/es-3917-004", caption = "Douar el Houch, Tunisia") }}
 
 {{ es_cdn_image(id = "es-3921-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-006") }}
