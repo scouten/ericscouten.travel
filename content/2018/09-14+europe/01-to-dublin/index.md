@@ -42,7 +42,7 @@ Earlier this afternoon, returning from an earlier walkabout, I happened upon two
 
 {{ es_cdn_image(id = "es-3788-095", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3788-095", caption = "Dublin, Ireland") }}
 
-{{ es_vimeo(id = "es-3788-097", vmid = "839590972", caption = "Dancing in mid-air. · Dublin, Ireland") }}
+{{ es_cdn_video(id = "es-3788-097", cdn_version = "v1", cdn_key = "vid/v1/2018/09/es-3788-097", caption = "Dancing in mid-air. · Dublin, Ireland") }}
 
 This is what I came here for.
 
@@ -58,6 +58,6 @@ The bartender switches off the football (sorry ... soccer!) game so those of us 
 
 {{ es_cdn_image(id = "es-3790-005", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3790-005", caption = "Dublin, Ireland") }}
 
-{{ es_vimeo(id = "es-3790-006", vmid = "839591005", caption = "Music on a Monday night. 💕 · Dublin, Ireland") }}
+{{ es_cdn_video(id = "es-3790-006", cdn_version = "v1", cdn_key = "vid/v1/2018/09/es-3790-006", caption = "Music on a Monday night. 💕 · Dublin, Ireland") }}
 
 I’ll be in Dublin this week, working and taking little side trips as I can.
