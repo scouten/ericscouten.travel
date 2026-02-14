@@ -22,7 +22,7 @@ I know we don't (and shouldn't) get out much these days, but I needed to visit a
 
 {{ es_cdn_image(id = "es-4145-011", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4145-011", caption = "Petaluma, California") }}
 
-{{ es_vimeo(id = "es-4145-015", vmid = "934370822", caption = "North Salmon Creek Beach, north of Bodega Bay, California") }}
+{{ es_cdn_video(id = "es-4145-015", cdn_version = "v1", cdn_key = "vid/v1/2020/11/es-4145-015", caption = "North Salmon Creek Beach, north of Bodega Bay, California") }}
 
 {{ es_cdn_image(id = "es-4145-021", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4145-021", caption = "North Salmon Creek Beach, north of Bodega Bay, California") }}
 
@@ -42,7 +42,7 @@ That also meant I got to drive the northernmost stretch of California's Highway 
 
 I spent the second night in Newport, Oregon, and set out at first light. That lead to this fun interplay of dawn's light and the coastal surf a little ways north in Depoe Bay:
 
-{{ es_vimeo(id = "es-4146-002", vmid = "934372078", caption = "Depoe Bay, Oregon") }}
+{{ es_cdn_video(id = "es-4146-002", cdn_version = "v1", cdn_key = "vid/v1/2020/11/es-4146-002", caption = "Depoe Bay, Oregon") }}
 
 {{ es_cdn_image(id = "es-4146-006", cdn_version = "v1", cdn_key = "img/v1/2020/11/es-4146-006", caption = "Depoe Bay, Oregon") }}
 
