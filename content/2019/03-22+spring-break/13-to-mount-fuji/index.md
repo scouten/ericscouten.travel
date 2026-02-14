@@ -46,15 +46,15 @@ We started today with a photo walk through [Heian Shrine](https://en.wikipedia.o
 
 Next up ... a very fast train!
 
-{{ es_vimeo(id = "es-3930-011", vmid = "834283964", caption = "Kyōto Station, Kyōto, Japan") }}
+{{ es_cdn_video(id = "es-3930-011", cdn_version = "v1", cdn_key = "vid/v1/2019/04/es-3930-011", caption = "Kyōto Station, Kyōto, Japan") }}
 
 {{ es_cdn_image(id = "es-3930-012", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3930-012", title = "Diet Coke, Mount Fuji Edition", caption = "Nagoya, Aichi, Japan") }}
 
 Our trip on the famous Shinkansen trains took us to near where we would stay tonight. The track log from the time says we were going roughly 280 km/h / 175 mph during both of the videos that follow. (Yes, for the record, I like going fast.)
 
-{{ es_vimeo(id = "es-3930-014", vmid = "834284049", caption = "Fujieda, Shizuoka, Japan") }}
+{{ es_cdn_video(id = "es-3930-014", cdn_version = "v1", cdn_key = "vid/v1/2019/04/es-3930-014", caption = "Fujieda, Shizuoka, Japan") }}
 
-{{ es_vimeo(id = "es-3930-015", vmid = "834284142", caption = "Our first view of Mount Fuji. · Fuji, Shizuoka, Japan") }}
+{{ es_cdn_video(id = "es-3930-026", cdn_version = "v1", cdn_key = "vid/v1/2019/04/es-3930-026", caption = "Shinagawa City, Tōkyō, Japan") }}
 
 The train took us as close as we could get to Mount Fuji. And then, being the adventurous driver that I am, I rented a car and drove us the hour or so from the train station to our hotel near Mount Fuji.
 

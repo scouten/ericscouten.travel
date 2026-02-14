@@ -30,7 +30,7 @@ The subway map is _just_ a little complicated ...
 
 {{ es_cdn_image(id = "es-3940-027", cdn_version = "v1", cdn_key = "img/v1/2019/04/es-3940-027", caption = "Ota City, Tōkyō, Japan") }}
 
-{{ es_vimeo(id = "es-3940-028", vmid = "835263566", caption = "Ota City, Tōkyō, Japan") }}
+{{ es_cdn_video(id = "es-3940-028", cdn_version = "v1", cdn_key = "vid/v1/2019/04/es-3940-028", caption = "Ota City, Tōkyō, Japan") }}
 
 We've enjoyed our time in Japan and look forward to returning some day!
 

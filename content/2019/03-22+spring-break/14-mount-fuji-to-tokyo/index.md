@@ -28,7 +28,7 @@ My daughter woke up a few hours later and we then drove back to return the car a
 
 An early glimpse of what Tōkyō is like from the train on the way in:
 
-{{ es_vimeo(id = "es-3930-026", vmid = "834630282", caption = "Shinagawa City, Tōkyō, Japan") }}
+{{ es_cdn_video(id = "es-3930-026", cdn_version = "v1", cdn_key = "vid/v1/2019/04/es-3930-026", caption = "Shinagawa City, Tōkyō, Japan") }}
 
 We transferred trains in Tōkyō's primary station.
 

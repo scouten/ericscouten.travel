@@ -58,10 +58,10 @@ Problem solved. #travelgeeksrule
 
 Ayla and I made a few videos of the passing countryside on the train from Ōsaka to Kyoto.
 
-{{ es_vimeo(id = "as-3935-027", vmid = "832457481", caption = "Kumatori, Ōsaka, Japan", creator = "Ayla Scouten") }}
+{{ es_cdn_video(id = "as-3935-027", cdn_version = "v1", cdn_key = "vid/v1/2019/04/as-3935-027", caption = "Kumatori, Ōsaka, Japan", creator = "Ayla Scouten") }}
 
-{{ es_vimeo(id = "as-3935-034", vmid = "832457630", caption = "Kishiwada, Ōsaka, Japan", creator = "Ayla Scouten") }}
+{{ es_cdn_video(id = "as-3935-034", cdn_version = "v1", cdn_key = "vid/v1/2019/04/as-3935-034", caption = "Kishiwada, Ōsaka, Japan", creator = "Ayla Scouten") }}
 
-{{ es_vimeo(id = "es-3926-006", vmid = "832457781", caption = "Settsu, Ōsaka, Japan") }}
+{{ es_cdn_video(id = "es-3926-004", cdn_version = "v1", cdn_key = "vid/v1/2019/04/es-3926-004", caption = "Kishiwada, Ōsaka, Japan") }}
 
 Looking forward to exploring Kyoto tomorrow!
