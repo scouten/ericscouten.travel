@@ -25,7 +25,9 @@ Some upsides to this longer route: Lisa and I got some extra time together, and 
 On the final leg from SFO to Seattle, I had a window seat, which gave me some beautiful sunset views on takeoff and a fun video of Seattle's city lights as we came in for our landing.
 
 {{ es_cdn_image(id = "es-4302-045", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-045", caption = "above Foster City, California") }}
+
 {{ es_cdn_image(id = "es-4302-047", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-047", caption = "above Hayward, California") }}
-{{ es_vimeo(id="es-4302-057" vmid="666155223", title = "Seattle at Night", caption = "above Seattle, Washington") }}
+
+{{ es_cdn_video(id = "es-4302-057", cdn_version = "v1", cdn_key = "vid/v1/2022/01/es-4302-057", title = "Seattle at Night", caption = "above Seattle, Washington") }}
 
 You'll notice some extra curves on the track log over Oregon. The pilot came on the intercom around that time and said that he had been asked to delay our arrival into Seattle a bit due to worsening weather conditions. So we zig-zagged over the mountains near Bend to add some time. A cute little endcap to the longer-than-planned long way home.
