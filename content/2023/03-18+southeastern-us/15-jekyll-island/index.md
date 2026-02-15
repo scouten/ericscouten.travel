@@ -23,7 +23,7 @@ From yesterday's farm stay on the coast near Townsend, I drove down to Jekyll Is
 
 But first ... good morning from the coast!
 
-{{ es_vimeo(id = "es-4499-001", vmid = "814094303", caption = "east of Townsend, Georgia") }}
+{{ es_cdn_video(id = "es-4499-001", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4499-001", caption = "east of Townsend, Georgia") }}
 
 {{ es_cdn_image(id = "es-4499-003", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4499-003", caption = "east of Townsend, Georgia") }}
 
@@ -57,6 +57,6 @@ Later, I toured the Jekyll Island Historic District, once known as the [Jekyll I
 
 In the afternoon, I returned to the farm stay and was treated to a late afternoon thunderstorm. I moved many years ago from the Midwest to Washington state. One of the sacrifices from that move was that I rarely experience a good thunderstorm any more. I was happy to have one here.
 
-{{ es_vimeo(id = "es-4499-059", vmid = "814094350", caption = "east of Townsend, Georgia") }}
+{{ es_cdn_video(id = "es-4499-059", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4499-059", caption = "east of Townsend, Georgia") }}
 
-{{ es_vimeo(id = "es-4499-061", vmid = "814094452", caption = "east of Townsend, Georgia") }}
+{{ es_cdn_video(id = "es-4499-061", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4499-061", caption = "east of Townsend, Georgia") }}
