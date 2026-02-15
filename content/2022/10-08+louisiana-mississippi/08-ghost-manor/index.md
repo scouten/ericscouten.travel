@@ -21,19 +21,20 @@ Turns out this was [Ghost Manor](https://ghostmanor.org), which is an intense la
 
 And a show unlike any other I've seen.
 
-{{ es_vimeo(id="es-4428-041" vmid="780221457", title = "Puttin’ on the Ritz", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_video(id = "es-4428-041", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-041", title = "Puttin’ on the Ritz", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
 {{ es_cdn_image(id = "es-4428-045", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-045", caption = "Ghost Manor, New Orleans, Louisiana") }}
+
 {{ es_cdn_image(id = "es-4428-047", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-047", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
-{{ es_vimeo(id="es-4428-049" vmid="780221579", title = "Skeleton Dance", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_video(id = "es-4428-049", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-049", title = "Skeleton Dance", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
 If you're going to cover Pink Floyd with skeletons, you get points for choosing their song titled _In the Flesh._
 
-{{ es_vimeo(id="es-4428-050" vmid="780221723", title = "In the Flesh? / The Thin Ice", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_video(id = "es-4428-050", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-050", title = "In the Flesh? / The Thin Ice", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
-{{ es_vimeo(id="es-4428-051" vmid="780221876", title = "Skeleton Waltz", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_video(id = "es-4428-051", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-051", title = "Skeleton Waltz", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
-{{ es_vimeo(id="es-4428-052" vmid="780222064", title = "Thriller", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_video(id = "es-4428-052", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-052", title = "Thriller", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
-{{ es_vimeo(id="es-4428-055" vmid="780222277", title = "The Devil Went Down to Georgia", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_video(id = "es-4428-055", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-055", title = "The Devil Went Down to Georgia", caption = "Ghost Manor, New Orleans, Louisiana") }}
