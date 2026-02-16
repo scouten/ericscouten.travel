@@ -38,7 +38,7 @@ On board, we were given commerative cookies ...
 
 {{ es_cdn_image(id = "es-4660-035", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4660-035", caption = "Seattle-Tacoma International Airport, Sea-Tac, Washington") }}
 
-{{ es_vimeo(id = "es-4660-037", vmid = "956004118", caption = "Seattle-Tacoma International Airport, Sea-Tac, Washington") }}
+{{ es_cdn_video(id = "es-4660-037", cdn_version = "v1", cdn_key = "vid/v1/2024/05/es-4660-037", caption = "Seattle-Tacoma International Airport, Sea-Tac, Washington") }}
 
 I had a window seat, which gave me some nice views of the Canadian Rockies along the way.
 
