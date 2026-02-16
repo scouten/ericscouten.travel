@@ -66,7 +66,7 @@ Since Wednesday afternoon, we've been in a [delightful AirBNB on the shore of Bo
 
 {{ es_cdn_image(id = "es-4516-008", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4516-008", caption = "Johns Island, South Carolina") }}
 
-{{ es_vimeo(id = "es-4516-010", vmid = "817917977", title = "Sunrise Sounds", caption = "Johns Island, South Carolina") }}
+{{ es_cdn_video(id = "es-4516-010", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4516-010", title = "Sunrise Sounds", caption = "Johns Island, South Carolina") }}
 
 {{ es_cdn_image(id = "es-4516-011", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4516-011", caption = "Johns Island, South Carolina") }}
 

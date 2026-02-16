@@ -44,7 +44,7 @@ From there, I took a back road to the coastal town of Port Renfrew. This road is
 
 Farther along the route, I happened upon Jordan River, where some intrepid surfers were enjoying the waves:
 
-{{ es_vimeo(id = "es-4623-047", vmid = "898484042", caption = "Jordan River, British Columbia, Canada") }}
+{{ es_cdn_video(id = "es-4623-047", cdn_version = "v1", cdn_key = "vid/v1/2023/12/es-4623-047", caption = "Jordan River, British Columbia, Canada") }}
 
 {{ es_cdn_image(id = "es-4623-050", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4623-050", caption = "Jordan River, British Columbia, Canada") }}
 

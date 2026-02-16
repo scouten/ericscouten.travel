@@ -41,6 +41,6 @@ After several more attempts to find trails and beaches, we found a relatively qu
 
 Before watching this video, I suggest turning down the volume. (Someday I shall learn how to avoid wind noise!)
 
-{{ es_vimeo(id = "es-4632-128", vmid = "914649316", caption = "Playa Pública Migriño, near Migriño, Baja California Sur, Mexico") }}
+{{ es_cdn_video(id = "es-4632-128", cdn_version = "v1", cdn_key = "vid/v1/2024/02/es-4632-128", caption = "Playa Pública Migriño, near Migriño, Baja California Sur, Mexico") }}
 
 Better luck _mañana?_

@@ -27,7 +27,7 @@ Our time in California is over. This morning, I went for an early morning walk t
 
 {{ es_cdn_image(id = "es-4642-058", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-058", caption = "A rocky coastline with waves crashing on rocks. · Mendocino Headlands State Park, Mendocino, California") }}
 
-{{ es_vimeo(id = "es-4642-061", vmid = "943496962", title = "Forces Larger Than Us", caption = "Mendocino Headlands State Park, Mendocino, California") }}
+{{ es_cdn_video(id = "es-4642-061", cdn_version = "v1", cdn_key = "vid/v1/2024/04/es-4642-061", title = "Forces Larger Than Us", caption = "Mendocino Headlands State Park, Mendocino, California") }}
 
 {{ es_cdn_image(id = "es-4642-073", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-073", caption = "A rocky ocean cliff with an arch. · Mendocino Headlands State Park, Mendocino, California") }}
 
@@ -43,7 +43,7 @@ Our time in California is over. This morning, I went for an early morning walk t
 
 {{ es_cdn_image(id = "es-4642-089", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-089", caption = "A trail through a grassy field near the ocean coast. · Mendocino Headlands State Park, Mendocino, California") }}
 
-{{ es_vimeo(id = "es-4642-097", vmid = "943498347", title = "Churn", caption = "Ocean waves crash onto a rocky coastline. · Mendocino Headlands State Park, Mendocino, California") }}
+{{ es_cdn_video(id = "es-4642-097", cdn_version = "v1", cdn_key = "vid/v1/2024/04/es-4642-097", title = "Churn", caption = "Ocean waves crash onto a rocky coastline. · Mendocino Headlands State Park, Mendocino, California") }}
 
 It was a few hours back to the city and the airport. I had the window seat and got a nice view of the Three Sisters mountains in Oregon on our way home.
 

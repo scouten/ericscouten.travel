@@ -30,7 +30,7 @@ Along the way to Port Alice, I stopped at the Marble River crossing. The waterfa
 
 (What you're seeing in this video is rain, not snow.)
 
-{{ es_vimeo(id = "es-4625-010", vmid = "898839314", caption = "Marble River, north of Port Alice, British Columbia, Canada") }}
+{{ es_cdn_video(id = "es-4625-010", cdn_version = "v1", cdn_key = "vid/v1/2023/12/es-4625-010", caption = "Marble River, north of Port Alice, British Columbia, Canada") }}
 
 {{ es_cdn_image(id = "es-4625-011", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4625-011", caption = "Marble River, north of Port Alice, British Columbia, Canada") }}
 

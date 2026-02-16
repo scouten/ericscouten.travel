@@ -39,4 +39,4 @@ The office is about two miles from the end of the main runway at SJC, which make
 
 This is a working 110-year-old steam engine. When you boil plain old water, you get a lot of mineral build-up, so periodically they use the high pressure of the water to blow the minerals out from the engine. Like this:
 
-{{ es_vimeo(id = "es-4528-134", vmid = "822083133", caption = "Roaring Camp Railroads, Felton, California") }}
+{{ es_cdn_video(id = "es-4528-134", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4528-134", caption = "Roaring Camp Railroads, Felton, California") }}

@@ -27,7 +27,7 @@ On Sunday morning, I enjoyed one last sunrise on the farm ...
 
 {{ es_cdn_image(id = "es-4502-003", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4502-003", caption = "east of Townsend, Georgia") }}
 
-{{ es_vimeo(id = "es-4502-004", vmid = "815662838", caption = "east of Townsend, Georgia") }}
+{{ es_cdn_video(id = "es-4502-004", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4502-004", caption = "east of Townsend, Georgia") }}
 
 {{ es_cdn_image(id = "es-4502-007", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4502-007", caption = "east of Townsend, Georgia") }}
 

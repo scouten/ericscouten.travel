@@ -39,15 +39,15 @@ To all my friends in the Northwest, thank you for arranging this nice bit of wea
 
 It was [Arts Walk](https://www.artswalkoly.com) weekend in Olympia, and by happy accident, we showed up just in time for the Luminary Procession at nightfall. Lisa tells me this is tiny compared to the Procession of the Species which used to run as part of Arts Walk in pre-COVID days. (I hope that resumes some day.)
 
-{{ es_vimeo(id = "es-4530-039", vmid = "822761128", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
+{{ es_cdn_video(id = "es-4530-039", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4530-039", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
 
-{{ es_vimeo(id = "es-4530-040", vmid = "822761794", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
+{{ es_cdn_video(id = "es-4530-040", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4530-040", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
 
 {{ es_cdn_image(id = "es-4530-041", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-041", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
 
 {{ es_cdn_image(id = "es-4530-043", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-043", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
 
-{{ es_vimeo(id = "es-4530-051", vmid = "822762579", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
+{{ es_cdn_video(id = "es-4530-051", cdn_version = "v1", cdn_key = "vid/v1/2023/04/es-4530-051", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
 
 {{ es_cdn_image(id = "es-4530-053", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-053", caption = "Luminary Procession at Olympia Arts Walk · Olympia, Washington") }}
 

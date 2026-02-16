@@ -39,7 +39,7 @@ After this, I drove down to Ucluelet and enjoyed a walk along the Wild Pacific T
 
 {{ es_cdn_image(id = "es-4628-025", cdn_version = "v1", cdn_key = "img/v1/2024/01/es-4628-025", caption = "Wild Pacific Trail, south of Ucluelet, British Columbia, Canada") }}
 
-{{ es_vimeo(id = "es-4628-031", vmid = "899713312", caption = "Waves crash onto shore at Ucluelet. · Wild Pacific Trail, south of Ucluelet, British Columbia, Canada") }}
+{{ es_cdn_video(id = "es-4628-031", cdn_version = "v1", cdn_key = "vid/v1/2024/01/es-4628-031", caption = "Waves crash onto shore at Ucluelet. · Wild Pacific Trail, south of Ucluelet, British Columbia, Canada") }}
 
 {{ es_cdn_image(id = "es-4628-032", cdn_version = "v1", cdn_key = "img/v1/2024/01/es-4628-032", caption = "This gnarled tree has storeis to tell, I’m sure. · Wild Pacific Trail, south of Ucluelet, British Columbia, Canada") }}
 

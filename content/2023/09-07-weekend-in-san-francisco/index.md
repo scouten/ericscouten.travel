@@ -24,7 +24,7 @@ The Powell Street Cable Car originated very near our hotel, so of _course_ we ha
 
 {{ es_cdn_image(id = "es-4572-016", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-016", caption = "Powell Street Cable Car, San Francisco, California") }}
 
-{{ es_vimeo(id = "es-4572-017", vmid = "862972598", title = "Turning Around the Cable Car", caption = "Powell Street Cable Car, San Francisco, California") }}
+{{ es_cdn_video(id = "es-4572-017", cdn_version = "v1", cdn_key = "vid/v1/2023/09/es-4572-017", title = "Turning Around the Cable Car", caption = "Powell Street Cable Car, San Francisco, California") }}
 
 {{ es_cdn_image(id = "es-4572-019", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-019", caption = "Powell Street Cable Car, San Francisco, California") }}
 
@@ -50,7 +50,7 @@ My teammate and I selected an appropriate conference room for our meetings on Fr
 
 {{ es_cdn_image(id = "es-4573-008", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-008", caption = "San Francisco, California") }}
 
-{{ es_vimeo(id = "es-4573-009", vmid = "862975594", caption = "San Francisco, California") }}
+{{ es_cdn_video(id = "es-4573-009", cdn_version = "v1", cdn_key = "vid/v1/2023/09/es-4573-009", caption = "San Francisco, California") }}
 
 {{ es_cdn_image(id = "lr-239-4589", cdn_version = "v1", cdn_key = "img/v1/2023/09/lr-239-4589", caption = "San Francisco, California", creator = "Lisa Rozmyn") }}
 

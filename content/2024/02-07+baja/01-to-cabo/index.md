@@ -82,7 +82,7 @@ We gave it a whirl and enjoyed it! It's definitely a unique experience.
 
 {{ es_cdn_image(id = "es-4632-181", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-181", caption = "Dallas’s Island Bar, Cabo San Lucas, Baja California Sur, Mexico") }}
 
-{{ es_vimeo(id = "es-4632-183r", vmid = "914488306", caption = "Dallas’s Island Bar, Cabo San Lucas, Baja California Sur, Mexico") }}
+{{ es_cdn_video(id = "es-4632-183r", cdn_version = "v1", cdn_key = "vid/v1/2024/02/es-4632-183r", caption = "Dallas’s Island Bar, Cabo San Lucas, Baja California Sur, Mexico") }}
 
 ## Your Inner Voice
 

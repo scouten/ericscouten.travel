@@ -69,7 +69,7 @@ We came to love this informal coffee shop, hot spot, and town hall:
 
 After a walk on the beach, we stopped for lunch at the ever-so-simply named "Tacos and Beer." While we had our lunch, we watched the pelicans dive and catch fish for their lunch, which seems like a very energy-intensive way to eat.
 
-{{ es_vimeo(id = "es-4632-432", vmid = "921620662", caption = "Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_video(id = "es-4632-432", cdn_version = "v1", cdn_key = "vid/v1/2024/02/es-4632-432", caption = "Cabo Pulmo, Baja California Sur, Mexico") }}
 
 {{ es_cdn_image(id = "lr-242-4879", cdn_version = "v1", cdn_key = "img/v1/2024/02/lr-242-4879", caption = "Tacos and Beer, Cabo Pulmo, Baja California Sur, Mexico", creator = "Lisa Rozmyn") }}
 
