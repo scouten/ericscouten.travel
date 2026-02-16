@@ -42,7 +42,7 @@ The tour includes an hour-long boat trip across Banderas Bay, conveniently timed
 
 Once on shore, we were treated to a nice dinner with lots of music and other performers ...
 
-{{ es_vimeo(id = "es-4706-347", vmid = "1042158829", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
+{{ es_cdn_video(id = "es-4706-347", cdn_version = "v1", cdn_key = "vid/v1/2024/11/es-4706-347", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
 
 {{ es_cdn_image(id = "es-4706-348", cdn_version = "v1", cdn_key = "img/v1/2024/11/es-4706-348", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
 
@@ -58,9 +58,9 @@ Once on shore, we were treated to a nice dinner with lots of music and other per
 
 {{ es_cdn_image(id = "es-4706-366", cdn_version = "v1", cdn_key = "img/v1/2024/11/es-4706-366", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
 
-{{ es_vimeo(id = "es-4706-370", vmid = "1042159132", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
+{{ es_cdn_video(id = "es-4706-370", cdn_version = "v1", cdn_key = "vid/v1/2024/11/es-4706-370", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
 
-{{ es_vimeo(id = "es-4706-373", vmid = "1042160808", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
+{{ es_cdn_video(id = "es-4706-373", cdn_version = "v1", cdn_key = "vid/v1/2024/11/es-4706-373", caption = "Las Caletas, Cabo Corrientes, west of Puerto Vallarta, Jalisco, Mexico") }}
 
 Eventually, it was time to head back for the hour-long crossing back to Nuevo Vallarta.
 
@@ -68,6 +68,6 @@ Eventually, it was time to head back for the hour-long crossing back to Nuevo Va
 
 But ... wait ... the show's not over yet, folks! The crew put on quite an impressive performance air-guitar and drag performance. All in good fun!
 
-{{ es_vimeo(id = "es-4706-400", vmid = "1042161275", caption = "Bahía de Banderas, west of Puerto Vallarta, Jalisco, Mexico") }}
+{{ es_cdn_video(id = "es-4706-400", cdn_version = "v1", cdn_key = "vid/v1/2024/11/es-4706-400", caption = "Bahía de Banderas, west of Puerto Vallarta, Jalisco, Mexico") }}
 
-{{ es_vimeo(id = "es-4706-402", vmid = "1042161474", caption = "Bahía de Banderas, south of Nuevo Vallarta, Nayarit, Mexico") }}
+{{ es_cdn_video(id = "es-4706-402", cdn_version = "v1", cdn_key = "vid/v1/2024/11/es-4706-402", caption = "Bahía de Banderas, south of Nuevo Vallarta, Nayarit, Mexico") }}

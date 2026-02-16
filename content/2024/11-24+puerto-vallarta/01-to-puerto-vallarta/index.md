@@ -36,6 +36,6 @@ The nightlife at the resort was much fun. We especially enjoyed the sand animati
 
 {{ es_cdn_image(id = "es-4706-230", cdn_version = "v1", cdn_key = "img/v1/2024/11/es-4706-230", caption = "The Grand Mayan at Vidanta Nuevo Vallarta, Nuevo Vallarta, Nayarit, Mexico") }}
 
-{{ es_vimeo(id = "es-4706-233", vmid = "1038055808", caption = "The Grand Mayan at Vidanta Nuevo Vallarta, Nuevo Vallarta, Nayarit, Mexico") }}
+{{ es_cdn_video(id = "es-4706-233", cdn_version = "v1", cdn_key = "vid/v1/2024/11/es-4706-233", caption = "The Grand Mayan at Vidanta Nuevo Vallarta, Nuevo Vallarta, Nayarit, Mexico") }}
 
 {{ es_cdn_image(id = "es-4706-240", cdn_version = "v1", cdn_key = "img/v1/2024/11/es-4706-240", caption = "The Grand Mayan at Vidanta Nuevo Vallarta, Nuevo Vallarta, Nayarit, Mexico") }}

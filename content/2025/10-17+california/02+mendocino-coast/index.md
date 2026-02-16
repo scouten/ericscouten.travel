@@ -34,7 +34,7 @@ This was probably my 20th visit in 30 years or so. And I expect to be back on a 
 
 {{ es_cdn_image(id = "es-25a-7499", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7499", caption = "Mendocino Headlands State Park, Mendocino, California") }}
 
-{{ es_vimeo(id = "es-25a-7501", vmid = "1133712653", caption = "Mendocino Headlands State Park, Mendocino, California") }}
+{{ es_cdn_video(id = "es-25a-7501", cdn_version = "v1", cdn_key = "vid/v1/2025/10/es-25a-7501", caption = "Mendocino Headlands State Park, Mendocino, California") }}
 
 {{ es_cdn_image(id = "es-25a-7511", cdn_version = "v1", cdn_key = "img/v1/2025/10/es-25a-7511", caption = "Mendocino Headlands State Park, Mendocino, California") }}
 

@@ -26,7 +26,7 @@ Lotte wasted no effort in making a dramatic presentation of the view from the to
 
 {{ es_cdn_image(id = "es-261-8527", cdn_version = "v1", cdn_key = "img/v1/2026/01/es-261-8527", caption = "Lotte World Tower, Seoul, South Korea") }}
 
-{{ es_vimeo(id = "es-261-8528", vmid = "1150784947", caption = "Lotte World Tower, Seoul, South Korea") }}
+{{ es_cdn_video(id = "es-261-8528", cdn_version = "v1", cdn_key = "vid/v1/2026/01/es-261-8528", caption = "Lotte World Tower, Seoul, South Korea") }}
 
 Once the reveal happened, we had the chance to walk around and take our own photos. In case anyone doubts that Seoul is one of the most densely populated cities in the world, here is evidence.
 
@@ -42,4 +42,4 @@ And these views!
 
 On the way back down, the elevator provided quite the show of its own:
 
-{{ es_vimeo(id = "es-261-8557", vmid = "1150785103", caption = "Lotte World Tower, Seoul, South Korea") }}
+{{ es_cdn_video(id = "es-261-8557", cdn_version = "v1", cdn_key = "vid/v1/2026/01/es-261-8557", caption = "Lotte World Tower, Seoul, South Korea") }}
