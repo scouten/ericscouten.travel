@@ -15,9 +15,19 @@ As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some p
 
 I am a provisional member of the [Traveler’s Century Club](http://travelerscenturyclub.org/). I aspire to full membership, but that requires more countries and territories visited than I can currently claim. Using their [list of countries and territories](http://travelerscenturyclub.org/countries-and-territories) which is admittedly quite generous, here’s where I’ve been so far, in order of appearance:
 
-I’ve driven a car in each of the 56 countries and territories listed below marked with the 🚗 emoji.
+I’ve driven a car in each of the 57 countries and territories listed below marked with the 🚗 emoji.
 
 <ul class="countries">
+
+{{ es_country(seq = 80
+    name = "South Africa"
+    flag = "🇿🇦"
+    years = "2026"
+    state_term = true
+    image = "es-262-8745"
+    cdn_key = "img/v1/2026/02/es-262-8745"
+    drive = true
+    caption = "Atlantic Ocean, west of Cape Town, South Africa") }}
 
 {{ es_country(seq = 79
     name = "Guam"
