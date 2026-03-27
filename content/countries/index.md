@@ -19,15 +19,22 @@ I’ve driven a car in each of the 57 countries and territories listed below mar
 
 <ul class="countries">
 
+{{ es_country(seq = 81
+    name = "Lesotho"
+    flag = "🇱🇸"
+    years = "2026"
+    drive = true
+    country_term = true)}}
+
 {{ es_country(seq = 80
     name = "South Africa"
     flag = "🇿🇦"
     years = "2026"
-    state_term = true
     image = "es-262-8745"
     cdn_key = "img/v1/2026/02/es-262-8745"
     drive = true
-    caption = "Atlantic Ocean, west of Cape Town, South Africa") }}
+    caption = "Atlantic Ocean, west of Cape Town, South Africa"
+    country_term = true) }}
 
 {{ es_country(seq = 79
     name = "Guam"
