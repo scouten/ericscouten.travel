@@ -1,0 +1,27 @@
+function addGpxMarkers(map) {
+    return [
+        addCdnGpxMarker(map, "es-262-9059", -29.608500, 27.761333, "img/v1/2026/02/es-262-9059"),
+        addCdnGpxMarker(map, "es-262-9066", -29.608167, 27.762667, "img/v1/2026/02/es-262-9066"),
+        addCdnGpxMarker(map, "es-262-9073", -29.608333, 27.759667, "img/v1/2026/02/es-262-9073"),
+        addCdnGpxMarker(map, "es-262-9077", -29.608667, 27.757500, "img/v1/2026/02/es-262-9077"),
+        addCdnGpxMarker(map, "es-262-9079", -29.608833, 27.756833, "img/v1/2026/02/es-262-9079"),
+        addCdnGpxMarker(map, "lr-262-7143", -29.609420, 27.756308, "img/v1/2026/02/lr-262-7143"),
+        addCdnGpxMarker(map, "es-262-9109", -29.616500, 27.745833, "img/v1/2026/02/es-262-9109"),
+        addCdnGpxMarker(map, "es-262-9113", -29.617333, 27.744500, "img/v1/2026/02/es-262-9113"),
+        addCdnGpxMarker(map, "es-262-9122", -29.617333, 27.744333, "img/v1/2026/02/es-262-9122"),
+        addCdnGpxMarker(map, "es-262-9127", -29.617333, 27.744333, "img/v1/2026/02/es-262-9127"),
+        addCdnGpxMarker(map, "lr-262-7168", -29.617325, 27.744330, "img/v1/2026/02/lr-262-7168"),
+        addCdnGpxMarker(map, "es-262-9130", -29.613000, 27.755500, "img/v1/2026/02/es-262-9130"),
+        addCdnGpxMarker(map, "es-262-9140", -29.613667, 27.758333, "img/v1/2026/02/es-262-9140"),
+        addCdnGpxMarker(map, "lr-262-7177", -29.609987, 27.755755, "img/v1/2026/02/lr-262-7177"),
+        addCdnGpxMarker(map, "es-262-9146", -29.656500, 27.809167, "img/v1/2026/02/es-262-9146"),
+        addCdnGpxMarker(map, "lr-262-7183", -29.656928, 27.885303, "img/v1/2026/02/lr-262-7183"),
+        addCdnGpxMarker(map, "es-262-9157", -29.656833, 27.885333, "img/v1/2026/02/es-262-9157"),
+        addCdnGpxMarker(map, "es-262-9158", -29.656833, 27.885333, "img/v1/2026/02/es-262-9158"),
+        addCdnGpxMarker(map, "es-262-9167", -29.674333, 27.926667, "img/v1/2026/02/es-262-9167"),
+        addCdnGpxMarker(map, "es-262-9168", -29.682667, 27.947500, "img/v1/2026/02/es-262-9168"),
+        addCdnGpxMarker(map, "es-262-9172", -29.703833, 27.948000, "img/v1/2026/02/es-262-9172"),
+        addCdnGpxMarker(map, "lr-262-7189", -29.703920, 27.948033, "img/v1/2026/02/lr-262-7189"),
+        addCdnGpxMarker(map, "es-262-9179", -29.655000, 27.844167, "img/v1/2026/02/es-262-9179"),
+    ]
+}
