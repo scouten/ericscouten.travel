@@ -8,7 +8,7 @@ cover_abs = "/2022/04-15+utah/02-desert-road-trip/cover-es-4330-081.jpg"
 reverse = true
 +++
 
-I've been to [over 70 countries and territories around the world](/countries/) and am looking forward to seeing many more.
+I've been to [over 80 countries and territories around the world](/countries/) and am looking forward to seeing many more.
 
 I share new stories of my travels here and am gradually retelling old travel stories.
 
