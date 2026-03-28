@@ -11,11 +11,11 @@ cover_abs = "/countries/es-3359-003.jpg"
 
 I'll admit it. I'm a travel addict.
 
-As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving move some previous travel stories from other sites and re-telling others, but that effort leaves some countries and territories without travel stories _here_ yet. Bear with me.
+As of this writing ({{ es_now(format="%B %Y") }}), I'm slowly moving some previous travel stories from other sites and re-telling others, but that effort leaves some countries and territories without travel stories _here_ yet. Bear with me.
 
 I am a provisional member of the [Traveler’s Century Club](http://travelerscenturyclub.org/). I aspire to full membership, but that requires more countries and territories visited than I can currently claim. Using their [list of countries and territories](http://travelerscenturyclub.org/countries-and-territories) which is admittedly quite generous, here’s where I’ve been so far, in order of appearance:
 
-I’ve driven a car in each of the 57 countries and territories listed below marked with the 🚗 emoji.
+I’ve driven a car in each of the 58 countries and territories listed below marked with the 🚗 emoji.
 
 <ul class="countries">
 
@@ -23,17 +23,20 @@ I’ve driven a car in each of the 57 countries and territories listed below mar
     name = "Lesotho"
     flag = "🇱🇸"
     years = "2026"
+    image = "es-262-9146"
+    cdn_key = "img/v1/2026/02/es-262-9146"
     drive = true
+    caption = "east of Nkesi, Lesotho"
     country_term = true)}}
 
 {{ es_country(seq = 80
     name = "South Africa"
     flag = "🇿🇦"
     years = "2026"
-    image = "es-262-8745"
-    cdn_key = "img/v1/2026/02/es-262-8745"
+    image = "es-262-8869"
+    cdn_key = "img/v1/2026/02/es-262-8869"
     drive = true
-    caption = "Atlantic Ocean, west of Cape Town, South Africa"
+    caption = "Middelvlei Wine Estate, Stellenbosch, Western Cape, South Africa"
     country_term = true) }}
 
 {{ es_country(seq = 79
