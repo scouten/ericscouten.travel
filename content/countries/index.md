@@ -23,10 +23,10 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     name = "Lesotho"
     flag = "🇱🇸"
     years = "2026"
-    image = "es-262-9146"
-    cdn_key = "img/v1/2026/02/es-262-9146"
+    image = "es-263-9223"
+    cdn_key = "img/v1/2026/03/es-263-9223"
     drive = true
-    caption = "east of Nkesi, Lesotho"
+    caption = "Maletsunyane Falls, south of Semonkong, Lesotho"
     country_term = true)}}
 
 {{ es_country(seq = 80
