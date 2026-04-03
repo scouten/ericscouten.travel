@@ -33,10 +33,10 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     name = "South Africa"
     flag = "🇿🇦"
     years = "2026"
-    image = "es-262-8869"
-    cdn_key = "img/v1/2026/02/es-262-8869"
+    image = "es-4741-214"
+    cdn_key = "img/v1/2026/03/es-4741-214"
     drive = true
-    caption = "Middelvlei Wine Estate, Stellenbosch, Western Cape, South Africa"
+    caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa"
     country_term = true) }}
 
 {{ es_country(seq = 79
