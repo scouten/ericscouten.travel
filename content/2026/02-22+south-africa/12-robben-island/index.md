@@ -80,7 +80,7 @@ One last photo for today: Back in Cape Town, I loved this steampunk giraffe scul
 
 {{ es_cdn_image(id = "es-263-0212", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0212", caption = "Cape Town, Western Cape, South Africa") }}
 
-After today's adventure, we drove back to the airport. We are staying in an airport hotel tonight and will begin our journey home tomorrow.
+After today's adventure, we drove back to the airport. We are staying in an airport hotel tonight and will begin our journey home early tomorrow morning.
 
 We are thankful for this introduction to South Africa and sad that we have to leave tomorrow.
 
