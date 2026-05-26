@@ -470,7 +470,8 @@ My first visit to Africa.
     image = "es-2945-009"
     cdn_key = "img/v1/2015/11/es-2945-009"
     caption = "Monaco-Ville, Monaco"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 39
