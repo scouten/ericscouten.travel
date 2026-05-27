@@ -16,7 +16,7 @@ cover = "es-2948-007"
 cover_cdn_key = "img/v1/2015/11/es-2948-007"
 +++
 
-Having seen _one_ microstate in Southern Europe, obviously we must see the next!
+Having seen _one_ microstate in southern Europe, obviously we must see the next!
 
 <!-- more -->
 
