@@ -8,7 +8,7 @@ country = ["France", "Italy", "Monaco"]
 
 [extra]
 distance = "663 km / 412 mi"
-route = "Firenze, Toscana, Italy to Marseilles, France"
+route = "Firenze, Toscana, Italy to Marseille, France"
 markers = "markers.js"
 track_log_key = "kml/v1/2015/11/2015-11-09.kml"
 bounds = {sw = [43.283, 5.361], ne = [44.447, 11.244]}
@@ -46,7 +46,7 @@ Today we are in Monaco, less than one square mile. It's astoundingly rich and de
 
 {{ es_cdn_image(id = "es-2945-021", cdn_version = "v1", cdn_key = "img/v1/2015/11/es-2945-021", caption = "Monaco-Ville, Monaco") }}
 
-After Monaco, we had to high-tail it the rest of the way to our hotel in Marseilles. We did stop briefly for coffee along the autoroute. McDonald's is a _little_ bit different in France:
+After Monaco, we had to high-tail it the rest of the way to our hotel in Marseille. We did stop briefly for coffee along the autoroute. McDonald's is a _little_ bit different in France:
 
 {{ es_cdn_image(id = "es-2945-022", cdn_version = "v1", cdn_key = "img/v1/2015/11/es-2945-022", caption = "Puget-sur-Argens, Var, France") }}
 

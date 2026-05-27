@@ -450,7 +450,8 @@ My first visit to Africa.
     name = "Spain"
     flag = "🇪🇸"
     years = "2015"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 41
@@ -460,7 +461,8 @@ My first visit to Africa.
     image = "es-2948-007"
     cdn_key = "img/v1/2015/11/es-2948-007"
     caption = "El Pas de la Casa, Andorra"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 40
