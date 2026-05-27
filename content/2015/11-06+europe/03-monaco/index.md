@@ -16,7 +16,7 @@ cover = "es-2945-007"
 cover_cdn_key = "img/v1/2015/11/es-2945-007"
 +++
 
-We drove from Firenza/Florence today. It's a long haul, but there were some very fun side quests along the way.
+We drove from Firenza/Florence to Marseille today. It's a long haul, but there were some very fun side quests along the way.
 
 <!-- more -->
 
