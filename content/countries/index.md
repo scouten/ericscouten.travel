@@ -443,7 +443,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2015/11/es-2960-019"
     title = "Dance of the Masks"
     caption = "Ourém, Portugal"
-    drive = true) }}
+    drive = true
+    country_term = true) }}
 
 {{ es_country(
     seq = 42
