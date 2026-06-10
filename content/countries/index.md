@@ -420,6 +420,7 @@ My first visit to Africa.
     image = "es-3128-071"
     cdn_key = "img/v1/2016/02/es-3128-071"
     caption = "Yala National Park, Sri Lanka"
+    country_term = true
     drive = false) }}
 
 {{ es_country(
