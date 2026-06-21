@@ -75,9 +75,9 @@ I'm excited to explore Guam for a couple of days. We'll head back to Seoul for N
 
 Today's flight was not at all full, which meant that -- despite booking at the last minute (yesterday!) -- it was easy to get a window seat. Here are some of the views along the way:
 
-{{ es_cdn_image(id = "es-25c-8243", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8243", caption = "Incheon International Airport, Incheon, South Korea") }}
+{{ es_cdn_image(id = "es-25c-8243", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8243", caption = "Incheon International Airport, Incheon, South Korea", alt = "View from an airplane window shortly after takeoff, with the aircraft’s wing and upturned winglet stretching across a hazy sky, looking down on the curved, crescent-shaped terminal building of Incheon International Airport with parked planes and large parking lots below.") }}
 
-{{ es_cdn_image(id = "es-25c-8259", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8259", caption = "above Incheon, South Korea") }}
+{{ es_cdn_image(id = "es-25c-8259", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8259", caption = "above Incheon, South Korea", alt = "View from an airplane window of the wing and winglet, marked with a blue tip and a registration code, against a sky filled with broken white and grey clouds with the sea faintly visible below. A distant aircraft is visible in the upper left of the frame.") }}
 
 {{ es_cdn_image(id = "es-25c-8287", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8287", caption = "above the Pacific Ocean, south of Japan") }}
 

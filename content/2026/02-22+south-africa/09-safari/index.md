@@ -76,7 +76,7 @@ Next up, rhinos! You'll notice the horns are missing. This is done to protect th
 
 {{ es_cdn_image(id = "es-4741-338", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-338", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
 
-{{ es_cdn_image(id = "es-4741-366", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-366", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-4741-366", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-366", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa", alt = "A giraffe bends its long neck down to browse on dry scrubland vegetation, lit by warm late-afternoon sunlight, with low trees and a pale blue sky behind it.") }}
 
 Having seen most of the animals that we would for this evening, we took a moment to step out of the vehicle (safely away from any of the dangerous animals) for a light snack and glass of wine before heading back to the local watering hole for the night.
 
@@ -84,13 +84,13 @@ Having seen most of the animals that we would for this evening, we took a moment
 
 {{ es_cdn_image(id = "es-263-9388", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9388", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
 
-{{ es_cdn_image(id = "es-263-9410", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9410", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-263-9410", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9410", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa", alt = "A wide, dry semi-desert landscape at dusk, with rocky, reddish-brown ground and scattered low scrub bushes in the foreground. Low mountains form a dark silhouette on the horizon beneath a clear sky that fades from soft orange near the horizon to deep blue above.") }}
 
-{{ es_cdn_image(id = "es-4741-404", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-404", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-4741-404", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-404", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa", alt = "A blue wildebeest with curved horns grazing on a pile of dry grass and hay beside a small waterhole, with green shrubs on a slope in the background at dusk.") }}
 
 Oh, silly ... when I said watering hole, I meant literally _watering hole,_ where we would find our last animal for the evening. Hippos spend most of the daylight hours underwater. They surface every 5-7 minutes to breathe and manage to do so without losing sleep. As night falls, they emerge to graze overnight. We timed our visit for the twilight hours when they are just coming out of the water.
 
-{{ es_cdn_image(id = "es-4741-438", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-438", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-4741-438", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-4741-438", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa", alt = "A large hippopotamus grazing on low grass and shrubs at dusk, its mouth lowered to the ground among pale green vegetation, surrounded by dense bushes and overhanging branches in the dim twilight.") }}
 
 It's rare these days that I need to use my big camera gear, but today I was thankful for a long lens. We were kept at quite a distance from the hippo, who we were told would kill anyone who dared to venture near or into the nearby pond. They don't eat people, but they _do not like_ intruders.
 

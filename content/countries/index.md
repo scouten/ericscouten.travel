@@ -56,7 +56,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     image = "es-25c-8098"
     cdn_key = "img/v1/2025/12/es-25c-8098"
     caption = "Gangchon Rail Park, Chuncheon, South Korea"
-    country_term = true) }}
+    country_term = true
+    alt = "View along a curved railway tunnel illuminated with vivid purple, pink, and blue lights, with scattered green laser dots across the stone walls, and a small open rail cart traveling ahead on the tracks at Gangchon Rail Park.") }}
 
 {{ es_country(
     seq = 77

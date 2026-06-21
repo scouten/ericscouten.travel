@@ -20,13 +20,13 @@ We arrived at our AirBNB after dark last night, so we didn't really get to appre
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-262-9059", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9059", caption = "Casa Tumi, north of Makhalaneng, Lesotho") }}
+{{ es_cdn_image(id = "es-262-9059", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9059", caption = "Casa Tumi, north of Makhalaneng, Lesotho", alt = "A wide green valley near Makhalaneng, Lesotho, with a winding river cutting through grassy fields and shrubs in the foreground, leading toward rolling green mountains under a deep blue, nearly cloudless sky.") }}
 
-{{ es_cdn_image(id = "es-262-9066", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9066", caption = "Casa Tumi, north of Makhalaneng, Lesotho") }}
+{{ es_cdn_image(id = "es-262-9066", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9066", caption = "Casa Tumi, north of Makhalaneng, Lesotho", alt = "A round stone cottage with a conical thatched roof and a metal chimney pipe, set against a grassy hillside under a bright blue sky in Lesotho. The dwelling has a wooden door behind a metal security gate, curtained windows, and a small garden with herbs; two grey plastic chairs and a small table sit on a paved patio to the right.") }}
 
 Today's agenda was a horseback tour of the nearby mountains. We started on a trail through a nearby village:
 
-{{ es_cdn_image(id = "es-262-9073", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9073", caption = "near Makhalaneng, Lesotho") }}
+{{ es_cdn_image(id = "es-262-9073", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9073", caption = "near Makhalaneng, Lesotho", alt = "A view from horseback looking along a narrow red dirt trail winding through green bushes toward a small rural village set against grassy hills and mountains under a bright blue sky. The pale ears and mane of the horse are visible in the foreground.") }}
 
 {{ es_cdn_image(id = "es-262-9077", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9077", caption = "near Makhalaneng, Lesotho") }}
 

@@ -32,7 +32,7 @@ In this lime quarry, Mandela and other "special" political prisoners were forced
 
 {{ es_cdn_image(id = "es-263-9990", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9990", caption = "Lime Quarry, Robben Island, Western Cape, South Africa") }}
 
-{{ es_cdn_image(id = "es-263-0007", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0007", caption = "Robben Island, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-263-0007", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0007", caption = "Robben Island, Western Cape, South Africa", alt = "A coastal view from Robben Island across the bay, with low scrubby vegetation and dry grasses in the foreground, a rocky shoreline, and calm blue sea, with distant mountains and a city skyline visible on the horizon under a bright blue sky dotted with cumulus and wispy clouds. A cargo ship sits on the water near the right of the horizon.") }}
 
 I could not agree more!
 
@@ -74,11 +74,11 @@ These meager mats were what "sufficed" for a bed for many of those held in this 
 
 And now for something lighter ... here is Table Mountain as seen from the ferry returning from Robben Island. Looks like we lucked out with the weather yesterday -- having clear skies and sunny weather was _amazing._
 
-{{ es_cdn_image(id = "es-263-0159", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0159", caption = "Ferry from Robben Island to Cape Town, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-263-0159", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0159", caption = "Ferry from Robben Island to Cape Town, Western Cape, South Africa", alt = "View from a ferry across choppy dark grey water toward Cape Town, where a thick blanket of cloud spills over Table Mountain like a tablecloth, with the faint city skyline and harbour cranes visible below under a heavily overcast sky.") }}
 
 One last photo for today: Back in Cape Town, I loved this steampunk giraffe sculpture with a crow on its nose.
 
-{{ es_cdn_image(id = "es-263-0212", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0212", caption = "Cape Town, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-263-0212", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0212", caption = "Cape Town, Western Cape, South Africa", alt = "A pigeon perches on the muzzle of a horse-head sculpture made from welded scrap metal parts, including gears, pipes, and spikes forming the mane, set against a pale grey overcast sky.") }}
 
 After today's adventure, we drove back to the airport. We are staying in an airport hotel tonight and will begin our journey home early tomorrow morning.
 

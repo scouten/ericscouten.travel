@@ -56,7 +56,7 @@ It's a bit more than an hour from Bloemfontein to the border crossing into Lesot
 
 (In good news, we were able to drive fast along the way. For my North American friends, 120 in a red circle means speed limit 120 km/h or 75 mph.)
 
-{{ es_cdn_image(id = "es-262-9039", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9039", caption = "north of Botshabelo, Free State, South Africa") }}
+{{ es_cdn_image(id = "es-262-9039", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9039", caption = "north of Botshabelo, Free State, South Africa", alt = "A two-lane highway curving through open golden grassland with several cars and a minibus traveling on it, and a round 120 km/h speed limit sign on a pole in the foreground. Two pedestrians walk along the roadside under a clear blue sky, with a long flat-topped mountain ridge and electricity pylons on the horizon.") }}
 
 We arrived at our AirBNB well after dark, but we feel very much at home. Looking forward to exploring our surrounds tomorrow!
 

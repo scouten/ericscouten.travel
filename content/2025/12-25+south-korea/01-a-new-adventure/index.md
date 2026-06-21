@@ -29,7 +29,7 @@ We did a bit of late-night shopping after checking in. These photos give you a b
 
 {{ es_cdn_image(id = "es-25c-8043", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8043", caption = "Seoul, South Korea") }}
 
-{{ es_cdn_image(id = "es-25c-8045", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8045", caption = "Seoul, South Korea") }}
+{{ es_cdn_image(id = "es-25c-8045", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8045", caption = "Seoul, South Korea", alt = "A crowded shopping street in Seoul at night, lit by colorful neon signs in Korean and English including K-Beauty cosmetics shops, CHICOR, and SOLARIA. In the foreground, several people in puffy winter coats carry shopping bags, while a vendor’s stand piled with plush toys sits beside a storefront draped with a Christmas garland.") }}
 
 {{ es_cdn_image(id = "es-25c-8046", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8046", caption = "Seoul, South Korea") }}
 
