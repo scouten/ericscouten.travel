@@ -30,3 +30,11 @@ Lisa and I went for a hike in the [Guillemot Cove Nature Reserve](https://www.ki
 {{ es_cdn_image(id = "es-266-0869", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-0869", caption = "Guillemot Cove Nature Reserve, west of Seabeck, Washington", alt = "A meadow of tall grasses and wildflowers, including white yarrow and rusty-red flower spikes, scattered with weathered gray fallen logs and driftwood, backed by a dense green wall of conifer and deciduous forest.") }}
 
 {{ es_cdn_image(id = "es-266-0872", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-0872", caption = "Guillemot Cove Nature Reserve, west of Seabeck, Washington", alt = "A grassy meadow with wildflowers stretches toward a calm body of water, framed by dense evergreen forests on both sides. Beyond the water, forested mountain ridges rise under a bright blue sky scattered with white clouds.") }}
+
+{{ es_cdn_image(id = "es-266-0879", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-0879", caption = "Guillemot Cove Nature Reserve, west of Seabeck, Washington", alt = "A wide gravel trail curving through a dense, green Pacific Northwest forest, lined with moss-covered tree trunks, towering conifers, and large sword ferns on both sides.") }}
+
+{{ es_cdn_image(id = "es-266-0885", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-0885", caption = "Guillemot Cove Nature Reserve, west of Seabeck, Washington", alt = "A gravel trail winds through a lush green forest, lined with mossy maple trees, conifers, and ferns, with dappled midday sunlight filtering through the dense leafy canopy.") }}
+
+{{ es_cdn_image(id = "es-266-0886", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-0886", caption = "Guillemot Cove Nature Reserve, west of Seabeck, Washington", alt = "A wooden “Parking Area” sign with a left-pointing arrow nailed to the moss-covered trunk of a large tree in a lush green forest, with dense undergrowth and a forest floor of pine needles and dirt around the base.") }}
+
+{{ es_cdn_image(id = "es-266-0890", cdn_version = "v1", cdn_key = "img/v1/2026/06/es-266-0890", caption = "Guillemot Cove Nature Reserve, west of Seabeck, Washington", alt = "A narrow dirt trail winds through a sunlit evergreen forest, flanked by lush green sword ferns and tall conifer trunks rising toward a blue sky.") }}
