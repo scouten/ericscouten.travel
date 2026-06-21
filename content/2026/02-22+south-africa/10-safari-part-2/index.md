@@ -23,7 +23,7 @@ As if one game-watching tour was not enough, we were invited back to the jeeps a
 
 (Lisa opted for a bit more sleep this morning ...)
 
-{{ es_cdn_image(id = "es-263-9422", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9422", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-263-9422", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9422", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa", alt = "A winding brick footpath lined with stones leads through a desert garden filled with cacti, succulents, and shrubs, lit by small glowing path lights at dawn. White buildings and a tall tree are silhouetted against a clear sky glowing orange and yellow on the horizon below deep blue.") }}
 
 {{ es_cdn_image(id = "es-263-9429", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9429", caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa", alt = "A dirt track lined with white stones curves across a flat semi-arid plain at dusk, with low scrubland on either side and silhouetted hills and a distinctive flat-topped koppie on the horizon beneath a glowing orange-to-blue sunset sky.") }}
 

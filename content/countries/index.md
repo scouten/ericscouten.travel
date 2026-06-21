@@ -37,7 +37,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     cdn_key = "img/v1/2026/03/es-4741-214"
     drive = true
     caption = "Inverdoorn Private Game Reserve, northeast of Ceres, Western Cape, South Africa"
-    country_term = true) }}
+    country_term = true
+    alt = "A lone giraffe walks across a scrubby semi-desert plain at dusk, its silhouette dark against a vast clear blue sky, with flat-topped hills on the horizon behind it.") }}
 
 {{ es_country(seq = 79
     name = "Guam"
