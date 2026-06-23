@@ -27,7 +27,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     cdn_key = "img/v1/2026/03/es-263-9223"
     drive = true
     caption = "Maletsunyane Falls, south of Semonkong, Lesotho"
-    country_term = true)}}
+    country_term = true
+    alt = "A tall waterfall plunges off the edge of a dark basalt cliff into a deep gorge, surrounded by rolling green highland plateaus under a dramatic sky of blue with sweeping white clouds. Reddish, grassy terrain lines the rocky escarpment in the foreground.")}}
 
 {{ es_country(seq = 80
     name = "South Africa"

@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2026/02/2026-02-27.kml"
 bounds = {sw = [-34.072, 18.589], ne = [-26.124, 28.255]}
 cover = "es-262-9036"
 cover_cdn_key = "img/v1/2026/02/es-262-9036"
+cover_alt = "A wide grassland plain of golden, dry grass stretches toward a low range of flat-topped hills and buttes on the horizon, with a faint dirt track curving through the foreground under a bright blue sky scattered with puffy white clouds."
 +++
 
 "There is a border nearby … I must cross it!" I might have to ask that this be engraved on my tombstone. It is _so_ me.
@@ -32,15 +33,15 @@ I had a window seat on the flight from Cape Town to Johannesburg; that gave me t
 
 {{ es_cdn_image(id = "es-262-8947", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8947", caption = "above Stellenbosch, Western Cape, South Africa") }}
 
-{{ es_cdn_image(id = "es-262-8954", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8954", caption = "above Paarl, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-262-8954", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8954", caption = "above Paarl, Western Cape, South Africa", alt = "A high-altitude aerial view over Paarl in the Western Cape, South Africa, showing a sprawling town surrounded by patchwork farmland and vineyards, with rugged mountain ranges rising on the right and a hazy plain stretching to the horizon under a clear blue sky.") }}
 
-{{ es_cdn_image(id = "es-262-8967", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8967", caption = "above Britstown, Northern Cape, South Africa") }}
+{{ es_cdn_image(id = "es-262-8967", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8967", caption = "above Britstown, Northern Cape, South Africa", alt = "An aerial view of arid, reddish-brown semi-desert terrain near Britstown in South Africa’s Northern Cape, with dark winding dry riverbeds threading across the land and patches of pale, eroded rock and scattered vegetation.") }}
 
 {{ es_cdn_image(id = "es-262-8983", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8983", caption = "above Vredefort, Free State, South Africa") }}
 
-{{ es_cdn_image(id = "es-262-9002", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9002", caption = "above Vereeniging, Gauteng, South Africa") }}
+{{ es_cdn_image(id = "es-262-9002", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9002", caption = "above Vereeniging, Gauteng, South Africa", alt = "An aerial view from over Vereeniging, Gauteng, South Africa, showing a patchwork of green and brown farmland divided into rectangular plots by roads and tree lines, with scattered buildings and a dense urban township visible on the left horizon. Towering white cumulus clouds rise into a deep blue sky, casting shadows across the landscape below.") }}
 
-{{ es_cdn_image(id = "es-262-9016", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9016", caption = "above Germiston, Gauteng, South Africa") }}
+{{ es_cdn_image(id = "es-262-9016", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9016", caption = "above Germiston, Gauteng, South Africa", alt = "A high aerial view over Germiston, Gauteng, showing a sprawling industrial landscape of warehouses and factories with white and grey rooftops, edged by green open fields, a small residential neighbourhood, and a long straight road cutting through the scene. The hazy horizon stretches far into the distance under a partly cloudy sky.") }}
 
 Something they don't tell you when booking domestic flights within South Africa: When you connect from one flight to another, you have to exit security, collect your baggage, re-check it on the next flight, and then re-enter the secure area of the airport. That was … a little hair-raising. Thankfully, our flight _into_ Johannesburg landed a bit early, so we were able to make it through on time.
 
@@ -52,7 +53,7 @@ Lisa had the window seat on our way to Bloemfontein. She captured a bit of the s
 
 It's a bit more than an hour from Bloemfontein to the border crossing into Lesotho. Given that we were calling it close to nightfall by the time we started the journey, we chose to stop only once for photos along the way. A shame, because it was a truly beautiful landscape.
 
-{{ es_cdn_image(id = "es-262-9036", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9036", caption = "north of Botshabelo, Free State, South Africa") }}
+{{ es_cdn_image(id = "es-262-9036", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-9036", caption = "north of Botshabelo, Free State, South Africa", alt = "A wide grassland plain of golden, dry grass stretches toward a low range of flat-topped hills and buttes on the horizon, with a faint dirt track curving through the foreground under a bright blue sky scattered with puffy white clouds.") }}
 
 (In good news, we were able to drive fast along the way. For my North American friends, 120 in a red circle means speed limit 120 km/h or 75 mph.)
 
