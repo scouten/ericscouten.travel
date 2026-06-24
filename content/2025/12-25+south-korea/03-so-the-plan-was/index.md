@@ -13,6 +13,7 @@ track_log_key = "kml/v1/2025/12/2025-12-28.kml"
 bounds = {sw = [13.402, 126.417], ne = [37.586, 144.807]}
 cover = "es-25c-8287"
 cover_cdn_key = "img/v1/2025/12/es-25c-8287"
+cover_alt = "An aerial view from above a scattered layer of low cumulus clouds over the Pacific Ocean, with golden late-afternoon sunlight reflecting off the water in a bright shimmering band stretching toward the horizon."
 +++
 
 If you've read this blog before, you know a post that starts with "So the plan was ..." is going to lead somewhere quite different from the plan.
@@ -79,6 +80,6 @@ Today's flight was not at all full, which meant that -- despite booking at the l
 
 {{ es_cdn_image(id = "es-25c-8259", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8259", caption = "above Incheon, South Korea", alt = "View from an airplane window of the wing and winglet, marked with a blue tip and a registration code, against a sky filled with broken white and grey clouds with the sea faintly visible below. A distant aircraft is visible in the upper left of the frame.") }}
 
-{{ es_cdn_image(id = "es-25c-8287", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8287", caption = "above the Pacific Ocean, south of Japan") }}
+{{ es_cdn_image(id = "es-25c-8287", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8287", caption = "above the Pacific Ocean, south of Japan", alt = "An aerial view from above a scattered layer of low cumulus clouds over the Pacific Ocean, with golden late-afternoon sunlight reflecting off the water in a bright shimmering band stretching toward the horizon.") }}
 
-{{ es_cdn_image(id = "es-25c-8289", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8289", caption = "above the Pacific Ocean, northwest of the Northern Mariana Islands") }}
+{{ es_cdn_image(id = "es-25c-8289", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8289", caption = "above the Pacific Ocean, northwest of the Northern Mariana Islands", alt = "View from an airplane window of the silhouetted wing against a gradient sky, transitioning from deep blue at top to glowing orange and yellow near the horizon at sunset, with a thick blanket of clouds stretching below over the Pacific Ocean.") }}

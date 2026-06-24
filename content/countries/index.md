@@ -48,7 +48,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     state_term = true
     image = "es-25c-8362"
     cdn_key = "img/v1/2025/12/es-25c-8362"
-    caption = "Agat Unit, Ga’an Point, War in the Pacific National Historical Park, Hågat, Guam") }}
+    caption = "Agat Unit, Ga’an Point, War in the Pacific National Historical Park, Hågat, Guam"
+    alt = "A leaning tree with leafy green branches grows along a sandy shoreline strewn with dark coral rocks and exposed driftwood roots, its limbs stretching out over shallow turquoise water under a blue sky with scattered white clouds. Distant low-lying land is faintly visible on the horizon.") }}
 
 {{ es_country(
     seq = 78

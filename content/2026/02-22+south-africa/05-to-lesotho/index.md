@@ -29,7 +29,7 @@ We left Stellenbosch early this morning to make a 9am flight out of Cape Town. H
 
 I had a window seat on the flight from Cape Town to Johannesburg; that gave me the opportunity to capture the many climates and landscapes along the way.
 
-{{ es_cdn_image(id = "es-262-8939", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8939", caption = "above Cape Town, Western Cape, South Africa") }}
+{{ es_cdn_image(id = "es-262-8939", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8939", caption = "above Cape Town, Western Cape, South Africa", alt = "An aerial view of a sprawling coastal city spreading across a hazy plain toward distant mountain ranges, with sandy beaches and ocean surf along the right edge under a clear blue morning sky dotted with a thin streak of cloud.") }}
 
 {{ es_cdn_image(id = "es-262-8947", cdn_version = "v1", cdn_key = "img/v1/2026/02/es-262-8947", caption = "above Stellenbosch, Western Cape, South Africa") }}
 

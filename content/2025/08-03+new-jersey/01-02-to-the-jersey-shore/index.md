@@ -46,22 +46,22 @@ We were on a red-eye from Seattle and it arrived many hours before we could chec
 
 {{ es_cdn_image(id = "lr-258-6673", cdn_version = "v1", cdn_key = "img/v1/2025/08/lr-258-6673", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-258-6363", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6363", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6363", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6363", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey", alt = "A large, round, cracked stone millstone made of porous gray volcanic-looking rock lies on the ground, partly overgrown with grasses, weeds, and leafy plants, with fallen leaves scattered across its surface. A rocky, shallow stream runs along the upper right of the frame beyond the dense green vegetation.") }}
 
 We're spending the week in Ocean Grove, the Methodist-Church owned town adjacent to Asbury Park. "God's Square Mile on the Jersey Shore," the signs say. Mostly that meant we had to cross over the bridge into Asbury Park to buy wine if we wanted it.
 
 Here are a few scenes from the mostly-historic residential neighborhood around our hotel.
 
-{{ es_cdn_image(id = "es-258-6391", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6391", caption = "Ocean Grove, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6391", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6391", caption = "Ocean Grove, New Jersey", alt = "A concrete sidewalk running through a leafy residential neighborhood in Ocean Grove, New Jersey, with mature trees overhead casting dappled late-afternoon light. To the left are houses with covered porches, white railings, and flowering hydrangea bushes, while dark cars are parked along the curb on the right.") }}
 
 {{ es_cdn_image(id = "lr-258-6678", cdn_version = "v1", cdn_key = "img/v1/2025/08/lr-258-6678", caption = "Asbury Park, New Jersey", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-258-6397", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6397", caption = "Asbury Park, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6397", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6397", caption = "Asbury Park, New Jersey", alt = "A calm lake reflecting a row of large Victorian-style homes and lush green trees lining the far shore, under a wide pale blue sky with wispy clouds in early evening light. A bulkheaded waterfront edge, parked cars, and a small dock are visible along the bank.") }}
 
-{{ es_cdn_image(id = "es-258-6424", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6424", caption = "Asbury Park, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6424", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6424", caption = "Asbury Park, New Jersey", alt = "A long mural along the base of a weathered building at night, depicting a glamorous woman with white hair, long black gloves, and pearl jewelry whose body transforms into the orange tentacles of an octopus swimming through blue water. The aged structure above has rows of peeling, distressed window frames, and a bare concrete walkway runs in the foreground.") }}
 
 We are staying at the recently-remodeled [Hotel Albatross](https://hotelalbatross1881.com). Originally built in 1881, it was lovingly stripped to its bones and re-imagined as a modern hotel that still keeps its historic character. We later learned that it had just reopened a few weeks before our stay.
 
-{{ es_cdn_image(id = "es-258-6411", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6411", caption = "Hotel Albatross, Ocean Grove, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6411", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6411", caption = "Hotel Albatross, Ocean Grove, New Jersey", alt = "A four-story white clapboard hotel named Albatross photographed at dusk against a deep blue sky, its front porch trimmed with glowing warm lights and an illuminated entrance reached by a central staircase from a brick walkway. Black-shuttered windows line the upper floors and balconies wrap the front, with the numbers “34” marked at the steps.") }}
 
 {{ es_cdn_image(id = "es-258-6427", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6427", caption = "Hotel Albatross, Ocean Grove, New Jersey") }}

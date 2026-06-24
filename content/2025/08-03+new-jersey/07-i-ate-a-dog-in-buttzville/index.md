@@ -32,6 +32,6 @@ It was a long drive. And totally worth it.
 
 Back in Ocean Grove, I went for a late night walk and found this home beautifully lit up. A fitting close to our time on the Jersey Shore.
 
-{{ es_cdn_image(id = "es-258-6638", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6638", caption = "Ocean Grove, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6638", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6638", caption = "Ocean Grove, New Jersey", alt = "A Victorian house with white railings and striped awnings glowing in the dark of night, decorated with strings of illuminated paper lanterns in white, blue, orange, and pink hanging from the porch and second-floor balcony. The covered front porch, marked with the number 45, has wicker furniture, an American flag, and flowering plants along a shell-lined garden path.") }}
 
 Tomorrow we head home.

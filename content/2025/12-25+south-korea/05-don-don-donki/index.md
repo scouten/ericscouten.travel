@@ -21,7 +21,7 @@ Our diversion to Guam came to a close today.
 
 This morning we woke up to this gorgeous view over the ocean.
 
-{{ es_cdn_image(id = "es-25c-8462", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8462", caption = "Crowne Plaza Resort Guam, Tamuning, Guam") }}
+{{ es_cdn_image(id = "es-25c-8462", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8462", caption = "Crowne Plaza Resort Guam, Tamuning, Guam", alt = "An elevated view over a tropical resort lawn dotted with tall coconut palms, looking out across a turquoise lagoon to the open ocean under a wide blue sky with scattered clouds in the late afternoon. People wade and swim near the shoreline along a curving paved walkway, and a distant cliff headland rises on the right edge of the bay.") }}
 
 And before we left, we just _had_ to take in the cultural phenomenon that is Don Don Donki.
 
