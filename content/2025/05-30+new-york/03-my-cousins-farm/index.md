@@ -38,13 +38,13 @@ This morning, we visited my cousin's farm for breakfast and got to know their pe
 
 After breakfast, we meandered southward back to Albany to return the car and enjoy the scenery.
 
-{{ es_cdn_image(id = "es-256-4809", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4809", caption = "northeast of Lake Placid, New York") }}
+{{ es_cdn_image(id = "es-256-4809", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4809", caption = "northeast of Lake Placid, New York", alt = "A fast-flowing rocky river churning with whitewater rapids, framed by overhanging tree branches in the foreground and dense green forest along both banks under an overcast sky.") }}
 
-{{ es_cdn_image(id = "es-256-4811", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4811", caption = "northeast of Lake Placid, New York") }}
+{{ es_cdn_image(id = "es-256-4811", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4811", caption = "northeast of Lake Placid, New York", alt = "A large, rugged gray rock cliff face streaked with rust-orange mineral stains, topped and surrounded by dense green coniferous and deciduous forest under an overcast white sky.") }}
 
-{{ es_cdn_image(id = "es-256-4815", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4815", caption = "south of Tupper Lake, New York") }}
+{{ es_cdn_image(id = "es-256-4815", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4815", caption = "south of Tupper Lake, New York", alt = "A calm lake under heavy gray overcast skies, with patches of marshy grass rising from the water in the foreground. Across the lake, a forested shoreline of green trees holds several houses and lakeside cottages, backed by low rolling hills.") }}
 
-{{ es_cdn_image(id = "es-256-4817", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4817", caption = "south of Tupper Lake, New York") }}
+{{ es_cdn_image(id = "es-256-4817", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-4817", caption = "south of Tupper Lake, New York", alt = "A broad wetland marsh under a heavy gray overcast sky, with calm water in the foreground reflecting a tall slender tree growing on a grassy island. Low forested hills line the distant horizon beyond the marsh grasses and scattered shrubs.") }}
 
 While walking around Albany on our way to dinner we caught a couple of fun murals on a nearby parking structure.
 

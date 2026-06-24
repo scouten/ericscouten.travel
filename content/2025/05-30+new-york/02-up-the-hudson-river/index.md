@@ -34,14 +34,14 @@ We decided to take the [Empire Service train](https://www.amtrak.com/empire-serv
 
 {{ es_cdn_image(id = "es-255-4647", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4647", caption = "Beacon, New York") }}
 
-{{ es_cdn_image(id = "es-255-4673", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4673", caption = "Hyde Park, New York") }}
+{{ es_cdn_image(id = "es-255-4673", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4673", caption = "Hyde Park, New York", alt = "A small white lighthouse sits on a rocky outcrop in the middle of a wide, muddy-brown river, with a red navigational buoy nearby and tree-covered hills receding into hazy gray sky beyond.") }}
 
-{{ es_cdn_image(id = "es-255-4680", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4680", caption = "Rhinecliff, New York") }}
+{{ es_cdn_image(id = "es-255-4680", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4680", caption = "Rhinecliff, New York", alt = "Several white sailboats scattered across a wide expanse of gray water under an overcast sky, with a tree-covered shoreline dotted with houses and a low hill rising to the left in the distance.") }}
 
-{{ es_cdn_image(id = "es-255-4725", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4725", caption = "Stottville, New York") }}
+{{ es_cdn_image(id = "es-255-4725", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4725", caption = "Stottville, New York", alt = "A calm, muddy-brown wetland or lake dotted with floating patches of green aquatic vegetation under a heavy, overcast gray sky, with a low tree line along the distant shore.") }}
 
-{{ es_cdn_image(id = "es-255-4734", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4734", caption = "Stockport, New York") }}
+{{ es_cdn_image(id = "es-255-4734", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4734", caption = "Stockport, New York", alt = "A wide, calm stretch of murky river water under an overcast gray sky, with patches of aquatic plants breaking the surface in the foreground and a tree-covered shoreline in the distance. A small island with green and bare trees and reedy vegetation sits in the middle of the water.") }}
 
-{{ es_cdn_image(id = "es-255-4749", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4749", caption = "north of Stuyvesant, New York") }}
+{{ es_cdn_image(id = "es-255-4749", cdn_version = "v1", cdn_key = "img/v1/2025/05/es-255-4749", caption = "north of Stuyvesant, New York", alt = "A wide, calm muddy-brown river under a heavy overcast sky, with a low wooded shoreline of green trees and tan reeds stretching across the far bank.") }}
 
 In Albany, we picked up a rental car for the remainder of the trip. It was very rainy this afternoon, so we didn't stop for photos at all.
