@@ -71,7 +71,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     cdn_key = "img/v1/2025/06/es-256-5576"
     caption = "Bradys Lookout State Reserve, Rosevears, Tasmania, Australia"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "An elevated view from Bradys Lookout over a wide, calm river winding between forested hills, with crepuscular sun rays breaking through a heavy grey overcast sky and faint smoke and small townships visible along the far shore.") }}
 
 {{ es_country(seq = 76
     name = "Puerto Rico"
@@ -413,10 +414,10 @@ My first visit to Africa.
     years = "2016"
     image = "es-3141-052"
     cdn_key = "img/v1/2016/02/es-3141-052"
-    alt = "Cantilevered Chinese fishing nets silhouetted against a hazy pink sky at sunset, with the orange sun setting behind them over the water at Fort Kochi. Small boats and distant figures dot the calm sea on the right, and the sun’s reflection shimmers across the water."
     caption = "Vypin, Kerala, India"
     drive = false
-    country_term = true) }}
+    country_term = true
+    alt = "Cantilevered Chinese fishing nets silhouetted against a hazy pink sky at sunset, with the orange sun setting behind them over the water at Fort Kochi. Small boats and distant figures dot the calm sea on the right, and the sun’s reflection shimmers across the water.") }}
 
 {{ es_country(
     seq = 45
