@@ -47,11 +47,11 @@ I drove over to the county park that marks what was once a lighthouse here. Now 
 
 But there was a nice walk on the blustery beach ...
 
-{{ es_cdn_image(id = "es-4716-014", cdn_version = "v1", cdn_key = "img/v1/2025/01/es-4716-014", caption = "Lighthouse Marine Park, Point Roberts, Washington") }}
+{{ es_cdn_image(id = "es-4716-014", cdn_version = "v1", cdn_key = "img/v1/2025/01/es-4716-014", caption = "Lighthouse Marine Park, Point Roberts, Washington", alt = "A pebbly shoreline along the water at Lighthouse Marine Park, with a piece of driftwood resting on the beach and a person in a green jacket walking near the gentle waves. Across the bay, a row of old pilings, distant industrial port cranes, and tree-covered hills sit under a bright blue sky scattered with white clouds.") }}
 
 {{ es_cdn_image(id = "es-4716-016", cdn_version = "v1", cdn_key = "img/v1/2025/01/es-4716-016", caption = "Lighthouse Marine Park, Point Roberts, Washington") }}
 
-{{ es_cdn_image(id = "es-4716-021", cdn_version = "v1", cdn_key = "img/v1/2025/01/es-4716-021", caption = "Lighthouse Marine Park, Point Roberts, Washington") }}
+{{ es_cdn_image(id = "es-4716-021", cdn_version = "v1", cdn_key = "img/v1/2025/01/es-4716-021", caption = "Lighthouse Marine Park, Point Roberts, Washington", alt = "A pebbly beach curving along calm water under a bright blue sky scattered with white clouds, with large piles of weathered driftwood logs heaped on the shore. Behind the beach stand several large waterfront houses, including a white two-story home, with a low tree-covered shoreline stretching into the distance.") }}
 
 {{ es_cdn_image(id = "es-4716-024", cdn_version = "v1", cdn_key = "img/v1/2025/01/es-4716-024", caption = "Lighthouse Marine Park, Point Roberts, Washington") }}
 

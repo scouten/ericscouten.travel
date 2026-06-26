@@ -31,6 +31,6 @@ I briefly toured the Cataract Gorge Reserve just outside of Launceston and then 
 
 {{ es_cdn_image(id = "es-256-5577", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5577", caption = "Bradys Lookout State Reserve, Rosevears, Tasmania, Australia", alt = "A tall, weathered dead tree trunk stripped of bark and leaves rises against a cloudy blue sky, its bare twisted branches reaching upward, with green-leaved eucalyptus foliage on the right side of the frame.") }}
 
-{{ es_cdn_image(id = "es-256-5614", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5614", caption = "north of Westbury, Tasmania, Australia") }}
+{{ es_cdn_image(id = "es-256-5614", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5614", caption = "north of Westbury, Tasmania, Australia", alt = "A narrow rural road stretches straight ahead through flat farmland flanked by wire fences and pasture, with clusters of windswept trees, power lines, and a few distant farm buildings under a wide sky of broken clouds in late afternoon light.") }}
 
-{{ es_cdn_image(id = "es-256-5630", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5630", caption = "north of Westbury, Tasmania, Australia") }}
+{{ es_cdn_image(id = "es-256-5630", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5630", caption = "north of Westbury, Tasmania, Australia", alt = "A wide rural landscape near Westbury, Tasmania at dusk, with a dim grassy field in the foreground giving way to greener paddocks and a low tree-covered ridge. Clouds spill over the distant hills, lit warm gold and orange by the low sun beneath a mostly cloudy sky, with a faint irrigation pivot and power lines visible.") }}

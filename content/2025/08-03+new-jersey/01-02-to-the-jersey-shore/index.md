@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2025/08/2025-08-02+sanitized.kml"
 bounds = {sw = [40.092, -74.978], ne = [41.301, -73.777]}
 cover = "es-258-6343"
 cover_cdn_key = "img/v1/2025/08/es-258-6343"
+cover_alt = "A narrow two-lane country road with a double yellow center line curves gently into the distance, flanked by lush green deciduous trees that form a canopy overhead, with dappled morning sunlight falling across the pavement and dense undergrowth lining both sides."
 +++
 
 Lisa and I arrived in New Jersey yesterday morning for a weeklong family visit.
@@ -22,27 +23,27 @@ Lisa and I arrived in New Jersey yesterday morning for a weeklong family visit.
 
 We were on a red-eye from Seattle and it arrived many hours before we could check into our hotel, so we took a meandering "scenic" route by way of the Old Mine Road along the Delaware River to the Jersey Shore.
 
-{{ es_cdn_image(id = "es-258-6312", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6312", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6312", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6312", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", alt = "A weathered red wooden barn or shed with peeling paint, an open front, and a missing door, partly overgrown with vines and surrounded by dense green summer foliage. A patch of grass sits in front of it under morning light.") }}
 
-{{ es_cdn_image(id = "es-258-6317", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6317", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6317", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6317", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", alt = "An abandoned white clapboard building with a peaked gable roof, its windows boarded up with weathered wood and faded red panels, and a small attic window with broken glass forming a jagged silhouette. Climbing green vines and overgrown vegetation cover much of the front facade, set against tall leafy trees and blue sky.") }}
 
-{{ es_cdn_image(id = "es-258-6321", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6321", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6321", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6321", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", alt = "The weathered stone wall of an abandoned building with an empty window opening that frames green woodland beyond, all heavily overgrown with climbing vines and leafy plants. The decaying roofline above is collapsing into tangled debris and moss.") }}
 
 {{ es_cdn_image(id = "lr-258-6665", cdn_version = "v1", cdn_key = "img/v1/2025/08/lr-258-6665", caption = "Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-258-6333", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6333", caption = "Westbrook Bell House, Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6333", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6333", caption = "Westbrook Bell House, Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", alt = "A historic stone house with a steep gabled roof, red wood siding in the upper gable, and a tall concrete chimney rising along the front. Set among lush green trees with a clear blue sky, a grassy lawn and faint dirt tracks lead up to the building.") }}
 
-{{ es_cdn_image(id = "es-258-6338", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6338", caption = "Westbrook Bell House, Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6338", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6338", caption = "Westbrook Bell House, Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", alt = "Weathered red barn doors with peeling paint, dark metal hinges, and a padlocked latch, partly covered by patches of green moss, with lush ferns and leafy ground vegetation crowding up against the lower right portion of the structure.") }}
 
 {{ es_cdn_image(id = "lr-258-6670", cdn_version = "v1", cdn_key = "img/v1/2025/08/lr-258-6670", caption = "Westbrook Bell House, Delaware Water Gap National Recreation Area, southwest of Montague, New Jersey", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-258-6343", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6343", caption = "Old Mine Road, Delaware Water Gap National Recreation Area, west of Sandyston, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6343", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6343", caption = "Old Mine Road, Delaware Water Gap National Recreation Area, west of Sandyston, New Jersey", alt = "A narrow two-lane country road with a double yellow center line curves gently into the distance, flanked by lush green deciduous trees that form a canopy overhead, with dappled morning sunlight falling across the pavement and dense undergrowth lining both sides.") }}
 
-{{ es_cdn_image(id = "es-258-6345", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6345", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6345", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6345", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey", alt = "A weathered, gray wood-clapboard building wall with a small multi-paned window framed in peeling green paint, behind which a sheer curtain and reflected trees are visible. A large cluster of bright green ferns grows along the base of the wall in a patch of bare earth.") }}
 
-{{ es_cdn_image(id = "es-258-6351", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6351", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6351", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6351", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey", alt = "A weathered wooden barn with a shingled roof, stone chimney, and an open hay door sits on a sunlit grassy clearing surrounded by lush green trees. A small white outbuilding stands in the background, and old metal wheels lean against the barn’s side.") }}
 
-{{ es_cdn_image(id = "es-258-6358", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6358", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey") }}
+{{ es_cdn_image(id = "es-258-6358", cdn_version = "v1", cdn_key = "img/v1/2025/08/es-258-6358", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey", alt = "The open doorway of a weathered, peeling white clapboard building topped by an old wooden sign reading “STORE” in stenciled letters. Inside, dim shelves are crowded with antique crockery, bowls, plates, tins, and tools, with a wooden counter, chairs, and stoneware jugs visible on the floor.") }}
 
 {{ es_cdn_image(id = "lr-258-6673", cdn_version = "v1", cdn_key = "img/v1/2025/08/lr-258-6673", caption = "Millbrook Village Historic Site, Delaware Water Gap National Recreation Area, north of Blairstown, New Jersey", creator = "Lisa Rozmyn") }}
 

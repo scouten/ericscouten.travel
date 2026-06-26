@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2025/06/2025-06-29.kml"
 bounds = {sw = [-42.881, 147.137], ne = [-41.436, 147.507]}
 cover = "es-256-5673"
 cover_cdn_key = "img/v1/2025/06/es-256-5673"
+cover_alt = "An elevated view over Hobart’s waterfront with fishing boats and yachts moored at piers, the harbourside fish market with a red roof, parked cars, and a multi-storey Commonwealth Bank building on the right. A rainbow arcs down from heavy grey and white clouds toward the hills and houses on the far side of the water."
 +++
 
 Bomb cyclone. Massive winter storm. Hurricane-like winds. Whatever you call it, there's a big storm headed for Australia's east coast in the next couple of days.
@@ -34,10 +35,10 @@ One last photo from a brief walk about Launceston this morning ...
 
 {{ es_cdn_image(id = "es-256-5654", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5654", caption = "Campbell Town, Tasmania, Australia") }}
 
-{{ es_cdn_image(id = "es-256-5658", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5658", caption = "south of Campbell Town, Tasmania, Australia") }}
+{{ es_cdn_image(id = "es-256-5658", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5658", caption = "south of Campbell Town, Tasmania, Australia", alt = "A broad expanse of dry golden grassland under a dramatic sky of layered white and grey clouds with patches of blue. A tall eucalypt with pale bark and a darker dense shrub stand near a fence line, with rolling pale-green hills receding into the distance.") }}
 
-{{ es_cdn_image(id = "es-256-5672", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5672", caption = "south of Jericho, Tasmania, Australia") }}
+{{ es_cdn_image(id = "es-256-5672", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5672", caption = "south of Jericho, Tasmania, Australia", alt = "A bare, weathered dead tree stands prominently in the foreground of rolling rural grasslands dotted with eucalyptus trees and shrubs, with hazy blue hills stretching to the horizon under a wide sky of scattered white clouds.") }}
 
-{{ es_cdn_image(id = "es-256-5673", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5673", caption = "Hobart, Tasmania, Australia") }}
+{{ es_cdn_image(id = "es-256-5673", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5673", caption = "Hobart, Tasmania, Australia", alt = "An elevated view over Hobart’s waterfront with fishing boats and yachts moored at piers, the harbourside fish market with a red roof, parked cars, and a multi-storey Commonwealth Bank building on the right. A rainbow arcs down from heavy grey and white clouds toward the hills and houses on the far side of the water.") }}
 
 It's cold here in Hobart, but sunny and that works for us.

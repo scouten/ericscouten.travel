@@ -58,7 +58,7 @@ After departing the park, I drove along Box Canyon Road toward the north shore o
 
 {{ es_cdn_image(id = "es-4711-106", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-106", caption = "Box Canyon Road, north of North Shore, California") }}
 
-{{ es_cdn_image(id = "es-4711-110", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-110", caption = "Box Canyon Road, north of North Shore, California") }}
+{{ es_cdn_image(id = "es-4711-110", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-110", caption = "Box Canyon Road, north of North Shore, California", alt = "A desert landscape with a green creosote bush growing in sandy gravel in the foreground, backed by pale, eroded badland ridges and rocky hills. Above stretches a bright blue sky filled with scattered white clouds.") }}
 
 I spent almost five hours below sea level today, bottoming out at -66 m / -216 ft. And yet still breathing air.
 
@@ -66,8 +66,8 @@ So very odd ...
 
 A few scenes from the north shore of Salton Sea: (The south / west shore wasn't exactly photogenic 🥲.)
 
-{{ es_cdn_image(id = "es-4711-115", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-115", caption = "Salton Sea, southeast of North Shore, California") }}
+{{ es_cdn_image(id = "es-4711-115", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-115", caption = "Salton Sea, southeast of North Shore, California", alt = "A flat, dry desert shoreline of sparse scrubby vegetation and pale cracked earth stretches toward the hazy water of the Salton Sea, with a low range of bluish mountains across the horizon under a vast sky filled with broken white and gray clouds.") }}
 
-{{ es_cdn_image(id = "es-4711-120", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-120", caption = "Salton Sea, southeast of North Shore, California") }}
+{{ es_cdn_image(id = "es-4711-120", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4711-120", caption = "Salton Sea, southeast of North Shore, California", alt = "A single rusted railroad track running across a gray gravel rail bed through flat desert scrubland near the Salton Sea, with sparse dry brush, low brown mountains on the horizon, and a wide partly cloudy sky overhead.") }}
 
 I'll be in Palm Springs for a day or two (mostly working, so don't expect much for photos) and then heading home.
