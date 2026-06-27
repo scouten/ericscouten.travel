@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2024/09/2024-09-23.kml"
 bounds = {sw = [36.024, -115.181], ne = [36.502, -114.409]}
 cover = "es-4696-097"
 cover_cdn_key = "img/v1/2024/09/es-4696-097"
+cover_alt = "A wide desert landscape at Rainbow Vista in Valley of Fire State Park, with red and tan sandstone formations on the left, scattered low desert shrubs across reddish ground, and distant colorful rock ridges and mountains under a deep blue cloudless sky."
 +++
 
 Lisa and I are in Las Vegas for a few days while she attends a conference. We had a bit of extra time this morning, so we visited [Valley of Fire State Park](https://parks.nv.gov/parks/valley-of-fire), about an hour north of the city.
@@ -34,33 +35,33 @@ Even so, we got to see quite a variety of landscapes.
 
 {{ es_cdn_image(id = "lr-249-5658", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5658", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-020", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-020", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-020", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-020", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A towering red sandstone rock formation with horizontal banding and weathered, pockmarked surfaces rising against a deep blue cloudless sky, with smaller eroded rock outcrops and sparse desert vegetation at its base.") }}
 
 {{ es_cdn_image(id = "lr-249-5661", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5661", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-021", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-021", title = "The Scream", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-021", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-021", title = "The Scream", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A close-up of vivid orange-red sandstone at Fire Cave (Windstone Arch), showing eroded hollows and cavities carved into the layered rock face, with smooth wind-sculpted alcoves and a textured, weathered surface.") }}
 
 {{ es_cdn_image(id = "lr-249-5662", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5662", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-026", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-026", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-026", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-026", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "Eroded red sandstone cliffs and boulders rise against a clear deep-blue sky, with weathered alcoves and layered rock formations. A green desert shrub and tufts of dry grass grow from the rust-colored sandy ground scattered with broken rocks.") }}
 
 {{ es_cdn_image(id = "lr-249-5664", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5664", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-027", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-027", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-027", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-027", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A large weathered red sandstone formation pocked with holes and erosion patterns rises against a deep blue cloudless sky in the desert, with smaller rock outcrops to the right and sparse dry brush dotting the sandy red ground in the foreground.") }}
 
-{{ es_cdn_image(id = "es-4696-031", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-031", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-031", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-031", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A large dome-shaped red sandstone formation with heavily eroded, layered surfaces and cave-like hollows at its base, set against a deep blue sky with sparse desert scrub around it at Valley of Fire State Park, Nevada.") }}
 
-{{ es_cdn_image(id = "es-4696-032", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-032", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-032", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-032", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A large rounded red sandstone formation with a hollowed-out cave-like opening at its base, set in a desert landscape under a clear deep blue sky. Patches of pale lichen mottle the rock, and a green desert shrub grows in the reddish sandy soil in the foreground.") }}
 
 {{ es_cdn_image(id = "lr-249-5671", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5671", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-033", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-033", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-033", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-033", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A weathered red sandstone arch frames a small opening of bright blue sky at Valley of Fire State Park, with rugged eroded rock formations in the foreground and a distant rocky peak visible through the gap.") }}
 
-{{ es_cdn_image(id = "es-4696-034", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-034", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-034", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-034", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "Jagged red and orange sandstone formations with eroded, pitted surfaces and spire-like crests rise against a clear deep blue sky, photographed from below at Valley of Fire State Park.") }}
 
 {{ es_cdn_image(id = "lr-249-5677", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5677", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-049", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-049", caption = "Arch Rock, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-049", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-049", caption = "Arch Rock, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A scrubby desert plant with small yellow flowers and tangled dry stems grows from a gravelly patch of red dirt, set within a curved bowl of smoothly weathered orange-red sandstone. A small lizard rests on the rock at the lower edge of the frame.") }}
 
 {{ es_cdn_image(id = "lr-249-5686", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5686", caption = "Arch Rock, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
@@ -70,12 +71,12 @@ Even so, we got to see quite a variety of landscapes.
 
 {{ es_cdn_image(id = "lr-249-5693", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5693", caption = "Fire Canyon / Silica Dome, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-097", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-097", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-097", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-097", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A wide desert landscape at Rainbow Vista in Valley of Fire State Park, with red and tan sandstone formations on the left, scattered low desert shrubs across reddish ground, and distant colorful rock ridges and mountains under a deep blue cloudless sky.") }}
 
-{{ es_cdn_image(id = "es-4696-103", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-103", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-103", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-103", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A weathered red and dark-gray sandstone cliff face with a cracked, honeycomb-like texture and shallow eroded hollows, rising above a patch of red desert sand dotted with clumps of dry green and tan scrub brush under bright midday sun.") }}
 
 {{ es_cdn_image(id = "lr-249-5695", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5695", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4696-108", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-108", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-108", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-108", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "Eroded red and tan sandstone formations with hollows and pitted cavities rise above orange desert sand dotted with dry brush, under a deep blue cloudless sky at midday.") }}
 
-{{ es_cdn_image(id = "es-4696-114", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-114", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-114", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-114", caption = "Rainbow Vista, Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "Rugged red and tan sandstone formations rise against a clear deep blue sky, with weathered, eroded rock layers under bright midday sun. Sandy reddish ground in the foreground holds scattered pale dried desert shrubs.") }}
