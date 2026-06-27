@@ -1,0 +1,25 @@
+function addGpxMarkers(map) {
+    return [
+        addCdnGpxMarker(map, "ts-3145-028", 9.967953, 76.241455, "img/v1/2016/02/ts-3145-028"),
+        addCdnGpxMarker(map, "es-3143-007", 9.967992, 76.241773, "img/v1/2016/02/es-3143-007"),
+        addCdnGpxMarker(map, "es-3143-010", 9.968015, 76.241827, "img/v1/2016/02/es-3143-010"),
+        addCdnGpxMarker(map, "ts-3145-038", 9.957292, 76.259370, "img/v1/2016/02/ts-3145-038"),
+        addCdnGpxMarker(map, "ts-3145-042", 9.956783, 76.259400, "img/v1/2016/02/ts-3145-042"),
+        addCdnGpxMarker(map, "ts-3145-044", 9.955945, 76.260117, "img/v1/2016/02/ts-3145-044"),
+        addCdnGpxMarker(map, "es-3143-035", 9.956062, 76.260035, "img/v1/2016/02/es-3143-035"),
+        addCdnGpxMarker(map, "ts-3145-046", 9.955830, 76.260162, "img/v1/2016/02/ts-3145-046"),
+        addCdnGpxMarker(map, "ts-3145-047", 9.955775, 76.260192, "img/v1/2016/02/ts-3145-047"),
+        addCdnGpxMarker(map, "es-3149-051", 9.794622, 76.337517, "img/v1/2016/02/es-3149-051"),
+        addCdnGpxMarker(map, "es-3149-054", 9.794622, 76.337517, "img/v1/2016/02/es-3149-054"),
+        addCdnGpxMarker(map, "es-3149-055", 9.793840, 76.334625, "img/v1/2016/02/es-3149-055"),
+        addCdnGpxMarker(map, "es-3149-057", 9.793810, 76.334502, "img/v1/2016/02/es-3149-057"),
+        addGpxMarker(map, "es-3147-015", 9.794100, 76.333000),
+        addCdnGpxMarker(map, "es-3149-063", 9.794318, 76.332692, "img/v1/2016/02/es-3149-063"),
+        addCdnGpxMarker(map, "es-3149-076", 9.799227, 76.328055, "img/v1/2016/02/es-3149-076"),
+        addCdnGpxMarker(map, "es-3149-077", 9.799193, 76.327812, "img/v1/2016/02/es-3149-077"),
+        addCdnGpxMarker(map, "es-3149-079", 9.799145, 76.327465, "img/v1/2016/02/es-3149-079"),
+        addCdnGpxMarker(map, "es-3149-084", 9.798918, 76.326662, "img/v1/2016/02/es-3149-084"),
+        addCdnGpxMarker(map, "es-3149-087", 9.798167, 76.325987, "img/v1/2016/02/es-3149-087"),
+        addCdnGpxMarker(map, "es-3149-090", 9.798025, 76.325898, "img/v1/2016/02/es-3149-090"),
+    ]
+}
