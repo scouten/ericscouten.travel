@@ -20,7 +20,7 @@ I spent most of this week meeting with [my team](https://contentauthenticity.org
 
 I don't generally share pictures of the team, but here are a few around-the-city photos as we were walking about from place to place:
 
-{{ es_cdn_image(id = "es-4647-227", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-227", caption = "Yellow lights and flags hanging from iron beams supporting the High Line parkway. · The Standard Biergarten, New York, New York") }}
+{{ es_cdn_image(id = "es-4647-227", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-227", caption = "Yellow lights and flags hanging from iron beams supporting the High Line parkway. · The Standard Biergarten, New York, New York", alt = "An outdoor beer garden beneath massive riveted black steel girders of an elevated structure, with a black industrial pendant lamp glowing amber, hanging ferns and ivy, and yellow-and-white diamond-patterned Bavarian flags strung overhead. Green trees and a brick building are visible in the background.") }}
 
 {{ es_cdn_image(id = "es-4647-233", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-233", caption = "New York, New York") }}
 

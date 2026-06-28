@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2024/06/2024-06-29.kml"
 bounds = {sw = [47.304, -122.646], ne = [48.947, -118.592]}
 cover = "es-4675-036"
 cover_cdn_key = "img/v1/2024/06/es-4675-036"
+cover_alt = "Jagged granite spires rising sharply against an overcast gray sky, with patches of snow clinging to the rocky slopes and a dense evergreen forest blanketing the lower mountainside."
 +++
 
 Lisa and I took a long weekend to explore central Washington a bit. Not a lot to share other than the new parks over at [146 Parks](https://146parks.blog), but we did enjoy the views at Washington Pass on Highway 20.
@@ -22,9 +23,9 @@ Lisa and I took a long weekend to explore central Washington a bit. Not a lot to
 
 {{ es_cdn_image(id = "es-4675-021p", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-021p", caption = "Washington Pass Vista Point, west of Mazama, Washington") }}
 
-{{ es_cdn_image(id = "es-4675-036", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-036", caption = "Washington Pass Vista Point, west of Mazama, Washington") }}
+{{ es_cdn_image(id = "es-4675-036", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-036", caption = "Washington Pass Vista Point, west of Mazama, Washington", alt = "Jagged granite spires rising sharply against an overcast gray sky, with patches of snow clinging to the rocky slopes and a dense evergreen forest blanketing the lower mountainside.") }}
 
-{{ es_cdn_image(id = "es-4675-042", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-042", caption = "Washington Pass Vista Point, west of Mazama, Washington") }}
+{{ es_cdn_image(id = "es-4675-042", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-042", caption = "Washington Pass Vista Point, west of Mazama, Washington", alt = "A sweeping mountain vista of rugged, partly snow-capped peaks rising above evergreen-forested slopes, with patches of bare rock and scree, under a dramatic sky filled with broken gray and white clouds. A winding mountain highway is faintly visible curving through the valley on the right side.") }}
 
 {{ es_cdn_image(id = "es-4675-048", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-048", caption = "Washington Pass Vista Point, west of Mazama, Washington") }}
 
@@ -32,4 +33,4 @@ Lisa and I took a long weekend to explore central Washington a bit. Not a lot to
 
 {{ es_cdn_image(id = "lr-246-5312", cdn_version = "v1", cdn_key = "img/v1/2024/06/lr-246-5312", caption = "Washington Pass Vista Point, west of Mazama, Washington", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4675-051", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-051", caption = "Washington Pass Vista Point, west of Mazama, Washington") }}
+{{ es_cdn_image(id = "es-4675-051", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-051", caption = "Washington Pass Vista Point, west of Mazama, Washington", alt = "Two weathered, silvery-gray dead tree trunks stand in the foreground with a green conifer beside them, framing a view of jagged rocky mountain spires and forested slopes under an overcast gray sky.") }}

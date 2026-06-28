@@ -12,6 +12,7 @@ markers = "markers.js"
 bounds = {sw = [40.749, -73.963], ne = [40.769, -73.943]}
 cover = "es-4655-029"
 cover_cdn_key = "img/v1/2024/05/es-4655-029"
+cover_alt = "The Midtown Manhattan skyline seen across the East River from Roosevelt Island under a cloudy morning sky, with the United Nations Secretariat building, the Chrysler Building, and other skyscrapers rising above a waterfront promenade lined with trees. A rocky shoreline appears in the foreground."
 +++
 
 Lisa suggested I explore [Roosevelt Island](https://www.nyctourism.com/new-york/manhattan/roosevelt-island/) while I was in NYC. Today is my last day in the city and I made some time before heading out to do so. I found an island that was clean and quiet and mostly residential, with some great views across the East River to the larger parts of the city:
@@ -26,7 +27,7 @@ Lisa suggested I explore [Roosevelt Island](https://www.nyctourism.com/new-york/
 
 {{ es_cdn_image(id = "es-4655-020", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-020", caption = "Roosevelt Island, New York, New York") }}
 
-{{ es_cdn_image(id = "es-4655-029", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-029", caption = "Franklin D Roosevelt Four Freedoms State Park, Roosevelt Island, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-029", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-029", caption = "Franklin D Roosevelt Four Freedoms State Park, Roosevelt Island, New York, New York", alt = "The Midtown Manhattan skyline seen across the East River from Roosevelt Island under a cloudy morning sky, with the United Nations Secretariat building, the Chrysler Building, and other skyscrapers rising above a waterfront promenade lined with trees. A rocky shoreline appears in the foreground.") }}
 
 {{ es_cdn_image(id = "es-4655-036", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-036", caption = "Franklin D Roosevelt Four Freedoms State Park, Roosevelt Island, New York, New York") }}
 
@@ -34,7 +35,7 @@ Lisa suggested I explore [Roosevelt Island](https://www.nyctourism.com/new-york/
 
 On the edge of Roosevelt State Park sits an abandoned hospital once used to isolate smallpox patients. Today it has been taken over by lilacs:
 
-{{ es_cdn_image(id = "es-4655-045", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-045", caption = "Franklin D Roosevelt Four Freedoms State Park, Roosevelt Island, New York, New York") }}
+{{ es_cdn_image(id = "es-4655-045", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-045", caption = "Franklin D Roosevelt Four Freedoms State Park, Roosevelt Island, New York, New York", alt = "An ivy-covered stone ruin partly clad in scaffolding and a steel beam, framed by lush green trees and a blooming purple-flowered tree under an overcast sky, with a grassy lawn, a pile of gray boulders, and Canada geese in the foreground.") }}
 
 Ostensibly I was there to check out a recently-planted [pocket forest](https://rioc.ny.gov/CivicAlerts.aspx?AID=399). Pocket forests are densely-planted forests of native tree species, which provide habitat for plants, birds, and other animals. This one had just been planted:
 

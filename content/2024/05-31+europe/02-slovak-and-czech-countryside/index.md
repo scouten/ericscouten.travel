@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2024/06/2024-06-02.kml"
 bounds = {sw = [48.127, 17.071], ne = [52.234, 21.003]}
 cover = "es-4660-145"
 cover_cdn_key = "img/v1/2024/06/es-4660-145"
+cover_alt = "A small mountain village with several houses spread across green hillsides, surrounded by lush trees, gardens, and a yellow-flowering meadow. Behind the settlement, dense pine forest covers the slopes, partly veiled by low mist under an overcast sky."
 +++
 
 Today I drove from Bratislava to Warsaw. I took a detour through some of the mountainous regions on the Slovak/Czech border and was rewarded with some excellent scenery. To wit:
@@ -38,9 +39,9 @@ A bit of road-sign humor. In the European road signage system, a red circle with
 
 {{ es_cdn_image(id = "es-4660-105", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-105", caption = "Kočovce, Slovakia") }}
 
-{{ es_cdn_image(id = "es-4660-113", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-113", caption = "Beckov, Slovakia") }}
+{{ es_cdn_image(id = "es-4660-113", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-113", caption = "Beckov, Slovakia", alt = "A view from a vehicle along a curving rural road lined with lush green trees and a metal guardrail, with a lone cyclist in blue riding ahead in the distance. Beyond the fields to the left, hazy mountains rise under a heavily overcast gray sky.") }}
 
-{{ es_cdn_image(id = "es-4660-121", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-121", caption = "Trenčianske Stankovce, Slovakia") }}
+{{ es_cdn_image(id = "es-4660-121", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-121", caption = "Trenčianske Stankovce, Slovakia", alt = "A two-lane country road curves through flat green farmland under a cloudy sky, with large leafy trees lining the right side and a yellow electric fence bordering a field on the left.") }}
 
 {{ es_cdn_image(id = "es-4660-124", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-124", caption = "north of Trenčín, Slovakia") }}
 
@@ -50,16 +51,16 @@ As I got farther north in Slovakia, things started to get more interesting. Here
 
 {{ es_cdn_image(id = "es-4660-130", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-130", caption = "Kolárovice, Slovakia") }}
 
-{{ es_cdn_image(id = "es-4660-135", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-135", caption = "Kolárovice, Slovakia") }}
+{{ es_cdn_image(id = "es-4660-135", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-135", caption = "Kolárovice, Slovakia", alt = "A pale yellow church with a white steeple and clock face nestled among dense green trees in a valley, with a forested hillside rising behind it under a heavy overcast grey sky.") }}
 
-{{ es_cdn_image(id = "es-4660-138", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-138", caption = "Kolárovice, Slovakia") }}
+{{ es_cdn_image(id = "es-4660-138", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-138", caption = "Kolárovice, Slovakia", alt = "A view over the village of Kolárovice, Slovakia, showing houses with red and grey rooftops clustered in a valley surrounded by densely forested green hills under an overcast grey sky. In the foreground a narrow paved lane runs alongside wooden fences and a shed with a red roof.") }}
 
-{{ es_cdn_image(id = "es-4660-145", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-145", caption = "Kolárovice-Čiakov, Slovakia") }}
+{{ es_cdn_image(id = "es-4660-145", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-145", caption = "Kolárovice-Čiakov, Slovakia", alt = "A small mountain village with several houses spread across green hillsides, surrounded by lush trees, gardens, and a yellow-flowering meadow. Behind the settlement, dense pine forest covers the slopes, partly veiled by low mist under an overcast sky.") }}
 
-{{ es_cdn_image(id = "es-4660-157", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-157", caption = "east of Velké Karlovice, Czechia") }}
+{{ es_cdn_image(id = "es-4660-157", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-157", caption = "east of Velké Karlovice, Czechia", alt = "A quiet asphalt road curves through a green valley flanked by grassy meadows, with tall spruce trees on the left and forested hills rolling into the distance under a dramatic sky of heavy white and grey clouds. A small white-roofed building sits among the trees on the far hillside.") }}
 
 {{ es_cdn_image(id = "es-4660-164", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-164", caption = "Šance Reservoir, south of Ostravice, Czechia") }}
 
 Once I arrived in Warsaw, the hotel offered a "palace view." Just a little "palace:"
 
-{{ es_cdn_image(id = "es-4660-185", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-185", caption = "Warsaw, Poland") }}
+{{ es_cdn_image(id = "es-4660-185", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-185", caption = "Warsaw, Poland", alt = "The illuminated Palace of Culture and Science towers over a darkened Warsaw skyline at night, its lit clock face and golden spire glowing against a dark sky, with surrounding city buildings and streetlights spread out below.") }}

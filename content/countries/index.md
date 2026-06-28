@@ -579,7 +579,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2024/06/es-4660-086"
     caption = "Bratislava, Slovakia, 2024"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "The illuminated Neo-Renaissance facade of the historic Slovak National Theatre in Bratislava glows golden against a black night sky, with a tiered stone fountain to the right and a dark grassy lawn in the foreground.") }}
 
 {{ es_country(
     seq = 30

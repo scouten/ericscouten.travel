@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2024/06/2024-06-08.kml"
 bounds = {sw = [47.439, -122.308], ne = [73.244, 13.426]}
 cover = "es-4664-065"
 cover_cdn_key = "img/v1/2024/06/es-4664-065"
+cover_alt = "A city skyline along the Spree River in Berlin at dusk, with a deep blue sky scattered with clouds above darkened buildings, including a tower with a green roof on the left and high-rise apartment blocks on the right. Warm lights along the riverbank shimmer in long reflections across the calm water."
 +++
 
 My main reason for being in Berlin was to present on the work of the [Content Authenticity Initiative](https://contentauthenticity.org) to my fellow digital identity professionals. My slot was on Wednesday after the lunch break.
@@ -54,23 +55,23 @@ And then dusk came, the rains ended, and there were beautiful city/river views t
 
 {{ es_cdn_image(id = "es-4664-038", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-038", caption = "Spree River, Berlin, Germany") }}
 
-{{ es_cdn_image(id = "es-4664-048", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-048", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-048", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-048", caption = "Spree River, Berlin, Germany", alt = "An ornate red sandstone building with an elaborate gabled roof and warmly lit arched entrances stands along the Spree River at dusk, flanked by paler apartment blocks. The illuminated windows and street lamps cast golden reflections across the dark water in the foreground.") }}
 
-{{ es_cdn_image(id = "es-4664-057", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-057", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-057", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-057", caption = "Spree River, Berlin, Germany", alt = "A canal lock on the Spree River in Berlin at dusk, with red and amber lights and city lights reflecting on the dark water. Office buildings, trees, and small lockside structures line the banks under a heavily clouded twilight sky, with a domed building visible in the distance.") }}
 
-{{ es_cdn_image(id = "es-4664-062", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-062", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-062", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-062", caption = "Spree River, Berlin, Germany", alt = "A wide urban river at dusk under a deep blue cloudy sky, with city lights and tree silhouettes reflecting in the calm water; high-rise buildings and a glowing waterfront line the banks of the Spree in Berlin.") }}
 
-{{ es_cdn_image(id = "es-4664-065", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-065", caption = "Spree River, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4664-065", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4664-065", caption = "Spree River, Berlin, Germany", alt = "A city skyline along the Spree River in Berlin at dusk, with a deep blue sky scattered with clouds above darkened buildings, including a tower with a green roof on the left and high-rise apartment blocks on the right. Warm lights along the riverbank shimmer in long reflections across the calm water.") }}
 
 ## Trust Over IP Dinner
 
 Several members of the [Trust Over IP Foundation](https://trustoverip.org) were attending the conference from all corners of the world, so we arranged to meet for dinner on Thursday night. The venue was the delightful [Zur Letzten Instanz](https://zurletzteninstanz.com/), which has been a restaurant in one form or another since 1621!
 
-{{ es_cdn_image(id = "es-4666-016", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-016", caption = "Zur Letzten Instanz, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4666-016", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-016", caption = "Zur Letzten Instanz, Berlin, Germany", alt = "The historic facade of the Zur Letzten Instanz restaurant in Berlin, a white three-story building with a red tiled roof, wooden shutters, and a sign reading “Zur Letzten Instanz, seit 1621” above the wooden entrance doors. The building sits between a cream-colored building and a pale green one, with benches and a chalkboard menu out front on a cobblestone area, and an empty paved street in the foreground under a cloudy sky.") }}
 
 {{ es_cdn_image(id = "es-4666-018", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-018", caption = "Zur Letzten Instanz, Berlin, Germany") }}
 
-{{ es_cdn_image(id = "es-4666-022", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-022", caption = "I loved the spiral staircase that led to our dining quarters. · Zur Letzten Instanz, Berlin, Germany") }}
+{{ es_cdn_image(id = "es-4666-022", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4666-022", caption = "I loved the spiral staircase that led to our dining quarters. · Zur Letzten Instanz, Berlin, Germany", alt = "A view looking down a wooden spiral staircase with ornate wrought-iron scrollwork railings winding around a central post, set in a dimly lit interior with reddish tiled flooring at Zur Letzten Instanz in Berlin.") }}
 
 I wish I had been a true foodie and captured some of the delightful food they served us.
 
