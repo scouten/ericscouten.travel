@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2024/02/2024-02-13.kml"
 bounds = {sw = [23.425, -110.255], ne = [23.884, -109.427]}
 cover = "es-4632-373"
 cover_cdn_key = "img/v1/2024/02/es-4632-373"
+cover_alt = "A sandy beachside lot at dusk in Cabo Pulmo, with a silhouetted palm tree on the right, boats and thatched-roof buildings on the left, and a crescent moon in the deep blue sky above a golden glow along the distant mountain horizon. A light-colored car is parked near a blue snorkeling tours stand, and a couple of people walk across the sand."
 +++
 
 After lunch in Todos Santos, we got back in the car and drove to the very, very quiet coastal village. Lisa had visited Cabo Pulmo some years ago and was eager to return. It was -- as promised -- very remote and almost entirely off the grid.
@@ -23,17 +24,17 @@ After lunch in Todos Santos, we got back in the car and drove to the very, very 
 
 Before we dive into the village, a couple of views from the drive _to_ Cabo Pulmo:
 
-{{ es_cdn_image(id = "es-4632-343", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-343", caption = "A scenic view of a desert landscape. · Mirador San Antonio, east of San Antonio, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-343", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-343", caption = "A scenic view of a desert landscape. · Mirador San Antonio, east of San Antonio, Baja California Sur, Mexico", alt = "A hilltop viewpoint overlooking a green valley where a small town spreads across the basin surrounded by rolling, scrub-covered mountains under a bright blue sky with the sun high overhead. Winding roads and power lines thread through the vegetation, with flowering shrubs in the foreground.") }}
 
-{{ es_cdn_image(id = "es-4632-348", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-348", caption = "A dirt road leading through desert landscape to an ocean beach. · north of Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-348", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-348", caption = "A dirt road leading through desert landscape to an ocean beach. · north of Cabo Pulmo, Baja California Sur, Mexico", alt = "A dirt road winds through scrubby coastal desert brush toward low mountains under a vast clear blue sky with scattered small clouds. To the left, a sandy beach meets the deep blue ocean, with a few scattered buildings near the shore.") }}
 
 The pavement ends about 10km / 6mi before you reach the town, which has the affect of discouraging "the masses" from driving there.
 
 We arrived just in time for sunset, which did not disappoint:
 
-{{ es_cdn_image(id = "es-4632-351", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-351", caption = "A desert landscape with palm trees and a mountain in the background. · Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-351", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-351", caption = "A desert landscape with palm trees and a mountain in the background. · Cabo Pulmo, Baja California Sur, Mexico", alt = "A desert property entrance in Cabo Pulmo with a black wrought-iron gate decorated with cutouts of sea turtles and palm trees, flanked by terracotta-colored posts and fan palms. Beyond the sandy driveway, low green desert scrub surrounds a rocky peak under a mostly clear blue sky in late afternoon light.") }}
 
-{{ es_cdn_image(id = "es-4632-360", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-360", caption = "A sunset over a mountain landscape. · Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-360", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-360", caption = "A sunset over a mountain landscape. · Cabo Pulmo, Baja California Sur, Mexico", alt = "The sun setting behind a low mountain range in Cabo Pulmo, casting a golden glow along the horizon, with silhouetted trees and desert brush in the foreground and a wispy orange-lit cloud in the upper right of a clear blue sky.") }}
 
 {{ es_cdn_image(id = "es-4632-362", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-362", caption = "Cabo Pulmo, Baja California Sur, Mexico") }}
 
@@ -47,7 +48,7 @@ And dogs playing just "outside" the restaurant. (I put "outside" in quotes becau
 
 {{ es_cdn_image(id = "es-4632-371", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-371", caption = "Restaurante La Palapa, Cabo Pulmo, Baja California Sur, Mexico") }}
 
-{{ es_cdn_image(id = "es-4632-373", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-373", caption = "Sunset over a rural desert town. · Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-373", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-373", caption = "Sunset over a rural desert town. · Cabo Pulmo, Baja California Sur, Mexico", alt = "A sandy beachside lot at dusk in Cabo Pulmo, with a silhouetted palm tree on the right, boats and thatched-roof buildings on the left, and a crescent moon in the deep blue sky above a golden glow along the distant mountain horizon. A light-colored car is parked near a blue snorkeling tours stand, and a couple of people walk across the sand.") }}
 
 {{ es_cdn_image(id = "es-4632-380", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-380", caption = "Cabo Pulmo, Baja California Sur, Mexico") }}
 
@@ -57,15 +58,15 @@ We came to love this informal coffee shop, hot spot, and town hall:
 
 {{ es_cdn_image(id = "es-4632-384", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-384", caption = "Pepe’s Pizza and Lobster House, Cabo Pulmo, Baja California Sur, Mexico") }}
 
-{{ es_cdn_image(id = "es-4632-390", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-390", caption = "A signpost with directions to many cities with the ocean in the background. · Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-390", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-390", caption = "A signpost with directions to many cities with the ocean in the background. · Cabo Pulmo, Baja California Sur, Mexico", alt = "A weathered wooden post on a rocky shore holds colorful hand-painted directional signs pointing toward Querétaro, San Francisco, Guadalajara, Paris, Madrid, and CDMX with distances in kilometers, set against turquoise sea and a clear blue sky.") }}
 
-{{ es_cdn_image(id = "es-4632-394", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-394", caption = "A yellow wall with a red door and a bush above it. · Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-394", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-394", caption = "A yellow wall with a red door and a bush above it. · Cabo Pulmo, Baja California Sur, Mexico", alt = "A bright red wooden door set into a yellow stucco wall, topped by a sprawling bougainvillea with red flowers and green leaves against a deep blue sky, with aloe plants and sandy ground in the foreground.") }}
 
 {{ es_cdn_image(id = "es-4632-399", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-399", caption = "Cabo Pulmo Beach, Cabo Pulmo, Baja California Sur, Mexico") }}
 
-{{ es_cdn_image(id = "es-4632-413", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-413", title = "Mar!", caption = "A rock formation with the word “mar” (Spanish for ocean) written in rocks. · Cabo Pulmo Beach, Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-413", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-413", title = "Mar!", caption = "A rock formation with the word “mar” (Spanish for ocean) written in rocks. · Cabo Pulmo Beach, Cabo Pulmo, Baja California Sur, Mexico", alt = "On a large weathered rock at Cabo Pulmo Beach, small white and dark pebbles are arranged to spell the word “MARI” inside a rectangular border of stones, surrounded by scattered gravel and coral fragments in bright midday sunlight.") }}
 
-{{ es_cdn_image(id = "es-4632-423", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-423", caption = "A beach with a tourist boat being towed out of the ocean. · Cabo Pulmo Beach, Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-423", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-423", caption = "A beach with a tourist boat being towed out of the ocean. · Cabo Pulmo Beach, Cabo Pulmo, Baja California Sur, Mexico", alt = "A pebbly beach under a bright blue sky with scattered white clouds, where two white panga fishing boats sit on wheeled trailers near the water’s edge and a dark SUV is parked beside a low sand dune. Waves roll onto the shore on the right and turquoise ocean stretches to the horizon.") }}
 
 After a walk on the beach, we stopped for lunch at the ever-so-simply named "Tacos and Beer." While we had our lunch, we watched the pelicans dive and catch fish for their lunch, which seems like a very energy-intensive way to eat.
 
@@ -91,6 +92,6 @@ On our last morning in Cabo Pulmo, I went for a long walk on a back road. Never 
 
 And on the way out, still on the dirt road, we found this very informal road sign. "Tope" in Spanish means "bump." And they weren't kidding.
 
-{{ es_cdn_image(id = "es-4632-459", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-459", caption = "A road sign reading “tope” (Spanish for “bump”) next to a desert field. · north of Cabo Pulmo, Baja California Sur, Mexico") }}
+{{ es_cdn_image(id = "es-4632-459", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-459", caption = "A road sign reading “tope” (Spanish for “bump”) next to a desert field. · north of Cabo Pulmo, Baja California Sur, Mexico", alt = "A hand-painted white diamond-shaped sign reading “TOPE” in red mounted on a wooden post beside a barbed-wire fence, set in dry grassy scrubland with cactus-dotted hills rising under a bright blue sky with scattered clouds.") }}
 
 All in all, we really enjoyed our time here in this off-the-grid village. We'll definitely come back if we're in Baja again.
