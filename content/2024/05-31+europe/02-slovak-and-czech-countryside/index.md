@@ -59,7 +59,7 @@ As I got farther north in Slovakia, things started to get more interesting. Here
 
 {{ es_cdn_image(id = "es-4660-157", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-157", caption = "east of Velké Karlovice, Czechia", alt = "A quiet asphalt road curves through a green valley flanked by grassy meadows, with tall spruce trees on the left and forested hills rolling into the distance under a dramatic sky of heavy white and grey clouds. A small white-roofed building sits among the trees on the far hillside.") }}
 
-{{ es_cdn_image(id = "es-4660-164", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-164", caption = "Šance Reservoir, south of Ostravice, Czechia") }}
+{{ es_cdn_image(id = "es-4660-164", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-164", caption = "Šance Reservoir, south of Ostravice, Czechia", alt = "A dark, dramatic overcast sky looms over forested hills that slope down to the winding blue water of Šance Reservoir, with dense evergreen woods lining the shores under stormy grey clouds.") }}
 
 Once I arrived in Warsaw, the hotel offered a "palace view." Just a little "palace:"
 

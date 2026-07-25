@@ -29,7 +29,7 @@ They weren't kidding about the heat. When we entered the park, it was 37°C / 98
 
 Even so, we got to see quite a variety of landscapes.
 
-{{ es_cdn_image(id = "es-4696-003", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-003", caption = "Valley of Fire State Park, south of Moapa Valley, Nevada") }}
+{{ es_cdn_image(id = "es-4696-003", cdn_version = "v1", cdn_key = "img/v1/2024/09/es-4696-003", caption = "Valley of Fire State Park, south of Moapa Valley, Nevada", alt = "A two-lane paved road curves through desert scrubland toward eroded red sandstone rock formations, with distant blue mountains and a nearly cloudless deep blue sky at Valley of Fire State Park.") }}
 
 {{ es_cdn_image(id = "lr-249-5657", cdn_version = "v1", cdn_key = "img/v1/2024/09/lr-249-5657", caption = "Fire Cave / Windstone Arch, Valley of Fire State Park, south of Moapa Valley, Nevada", creator = "Lisa Rozmyn") }}
 

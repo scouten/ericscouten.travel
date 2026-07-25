@@ -38,7 +38,7 @@ I had a little time for a walking tour of the Capitol area this morning before h
 
 {{ es_cdn_image(id = "es-4647-045", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-045", caption = "A single red scooter sits on the sidewalk in front of the US Capitol building. · Washington, District of Columbia", alt = "The white dome of the United States Capitol rises above a row of green trees under a clear blue sky, with a lone orange shared electric scooter parked on a sidewalk along an empty road in the foreground.") }}
 
-{{ es_cdn_image(id = "es-4647-049", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-049", caption = "An airplane flies behind the Washington Monument on a clear day. · Washington Monument, Washington, District of Columbia") }}
+{{ es_cdn_image(id = "es-4647-049", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-049", caption = "An airplane flies behind the Washington Monument on a clear day. · Washington Monument, Washington, District of Columbia", alt = "The Washington Monument, a tall white stone obelisk, rises against a clear blue sky above the green striped lawn of the National Mall, with trees flanking either side and a small airplane flying to the left of the monument.") }}
 
 {{ es_cdn_image(id = "es-4647-073", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4647-073", caption = "Washington, District of Columbia") }}
 

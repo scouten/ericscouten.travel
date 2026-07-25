@@ -54,7 +54,7 @@ There was a good bit of hiking behind the namesake rock, though.
 
 {{ es_cdn_image(id = "es-4710-062", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4710-062", caption = "Split Rock Loop Trail, Joshua Tree National Park, California", alt = "A desert landscape of large, smooth granite boulders bathed in early morning light under a deep blue sky streaked with wispy cirrus clouds. In the foreground, sandy ground and dry desert shrubs surround a leafless tree and a low rounded boulder, with a wooden trail rail visible in the distance.") }}
 
-{{ es_cdn_image(id = "es-4710-068", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4710-068", caption = "Split Rock Loop Trail, Joshua Tree National Park, California") }}
+{{ es_cdn_image(id = "es-4710-068", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4710-068", caption = "Split Rock Loop Trail, Joshua Tree National Park, California", alt = "A cluster of large weathered granite boulders and a jagged peaked rock formation rises against a deep blue morning sky in the desert. A sandy trail winds through dry brush and pale grasses at the base of the rocks along the Split Rock Loop Trail in Joshua Tree National Park.") }}
 
 {{ es_cdn_image(id = "es-4710-072", cdn_version = "v1", cdn_key = "img/v1/2024/12/es-4710-072", caption = "Split Rock Loop Trail, Joshua Tree National Park, California", alt = "A spiky yucca plant grows at the base of a large rounded granite boulder in a desert landscape, with smooth tan rock slabs in the foreground and clusters of weathered boulders and a barren hillside under a clear blue sky in the background.") }}
 

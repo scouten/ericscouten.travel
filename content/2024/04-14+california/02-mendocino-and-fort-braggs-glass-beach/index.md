@@ -27,7 +27,7 @@ We arrived on a cloudy evening and went for a walk along the coastal trails.
 
 For all my times here, I had never been down on the beach below Mendocino. How did I let that happen?
 
-{{ es_cdn_image(id = "es-4641-017", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-017", caption = "An ocean coast with rocky cliffs and trees in fog. · Mendocino Headlands State Park, Mendocino, California") }}
+{{ es_cdn_image(id = "es-4641-017", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-017", caption = "An ocean coast with rocky cliffs and trees in fog. · Mendocino Headlands State Park, Mendocino, California", alt = "A gray, overcast coastal scene with gentle waves washing onto a dark sandy beach in the foreground, and rugged rocky cliffs topped with green grass and evergreen trees receding into fog across the bay.") }}
 
 {{ es_cdn_image(id = "es-4641-021", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-021", caption = "A sandy beach with a fort made of driftwood on a cloudy day. · Mendocino Headlands State Park, Mendocino, California", alt = "A driftwood shelter built from stacked logs and branches sits on a sandy beach at the base of steep coastal bluffs covered in green vegetation and yellow-flowering shrubs, under an overcast gray sky. Scattered driftwood logs lie across the pale sand in the foreground.") }}
 

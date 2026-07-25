@@ -21,7 +21,7 @@ Lisa and I took a long weekend to explore central Washington a bit. Not a lot to
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4675-021p", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-021p", caption = "Washington Pass Vista Point, west of Mazama, Washington") }}
+{{ es_cdn_image(id = "es-4675-021p", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-021p", caption = "Washington Pass Vista Point, west of Mazama, Washington", alt = "A sweeping panorama of rugged, partly snow-capped mountain peaks under a heavy overcast sky, with a two-lane highway winding through the forested valley below and the jagged spires of Liberty Bell Mountain rising on the right.") }}
 
 {{ es_cdn_image(id = "es-4675-036", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4675-036", caption = "Washington Pass Vista Point, west of Mazama, Washington", alt = "Jagged granite spires rising sharply against an overcast gray sky, with patches of snow clinging to the rocky slopes and a dense evergreen forest blanketing the lower mountainside.") }}
 

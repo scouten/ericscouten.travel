@@ -60,7 +60,7 @@ And then, having crossed the state line, it winds back uphill into Washington:
 
 {{ es_cdn_image(id = "es-4644-139", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-139", caption = "State Route 129, south of Anatone, Washington", alt = "Rolling green canyon hills under a heavy overcast gray sky, with a winding road and guardrail cut into the hillside on the left and lush brush and trees filling the valley below.") }}
 
-{{ es_cdn_image(id = "es-4644-145", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-145", caption = "State Route 129, south of Anatone, Washington") }}
+{{ es_cdn_image(id = "es-4644-145", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-145", caption = "State Route 129, south of Anatone, Washington", alt = "A two-lane highway curves sharply through green rolling hills and rocky canyon terrain under a heavy, overcast gray sky, with a metal guardrail lining the right side and a hairpin-turn warning sign ahead on the left.") }}
 
 {{ es_cdn_image(id = "es-4644-147", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4644-147", caption = "State Route 129, south of Anatone, Washington", alt = "A two-lane highway winds along the bottom of a deep, grassy canyon flanked by steep green and brown hillsides, with rolling ridges and rocky outcrops receding into the distance under a heavy, overcast gray sky.") }}
 

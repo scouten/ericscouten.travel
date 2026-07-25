@@ -51,7 +51,7 @@ Once on the ground in Munich, I got a rental car and drove a few hours east to t
 
 {{ es_cdn_image(id = "es-4660-055", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-055", caption = "A white farmhouse in a lightly forested area. · west of Mankham, Austria", alt = "A large old white-walled farm building with a steep gray tiled roll and weathered, peeling plaster stands in a green meadow under an overcast gray sky. Lush deciduous trees rise around and behind it, with a tall leafy tree to the right and other rural buildings visible in the distance.") }}
 
-{{ es_cdn_image(id = "es-4660-059", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-059", caption = "A small green building in a field with trees on a cloudy day. · Elling, Austria") }}
+{{ es_cdn_image(id = "es-4660-059", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-059", caption = "A small green building in a field with trees on a cloudy day. · Elling, Austria", alt = "A small green rural chapel with a pointed spire and a dark slate roof stands beside a paved footpath at the edge of a lush green meadow under a heavy overcast grey sky. A large leafy tree grows alone in the field to the right, with rolling farmland and distant trees on the horizon.") }}
 
 {{ es_cdn_image(id = "es-4660-060", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4660-060", title = "Bad Füssing", caption = "north of Röfl, Austria") }}
 
