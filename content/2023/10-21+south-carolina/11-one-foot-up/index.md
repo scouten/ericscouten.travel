@@ -24,7 +24,7 @@ The shorebirds were skittering about in search of some microscopic meal I couldn
 
 Herewith, a bunch of shorebirds with one foot up:
 
-{{ es_cdn_image(id = "es-4609-012n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-012n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4609-012n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-012n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "A small sandpiper with mottled brown-and-white plumage walks across wet sand on a beach, standing in a patch of warm afternoon light surrounded by cool blue shadows cast across the tidal flat.") }}
 
 {{ es_cdn_image(id = "es-4609-039n", cdn_version = "v1", cdn_key = "img/v1/2023/11/es-4609-039n", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina") }}
 
