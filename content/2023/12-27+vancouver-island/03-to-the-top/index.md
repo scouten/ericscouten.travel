@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2023/12/2023-12-29.kml"
 bounds = {sw = [49.322, -127.501], ne = [50.721, -124.317]}
 cover = "es-4624-009"
 cover_cdn_key = "img/v1/2023/12/es-4624-009"
+cover_alt = "Sailboats and small vessels moored on calm gray water beneath an overcast sky, with a low bank of fog draped over a distant forested shoreline. Weathered wooden pilings poke up from the still water in the foreground."
 +++
 
 Today I drove as far as you can to the north of Vancouver Island. I'm staying tonight and tomorrow night in Port Hardy, a small tourist and fishing village at the end of British Columbia's Highway 19.
@@ -22,21 +23,21 @@ Today I drove as far as you can to the north of Vancouver Island. I'm staying to
 
 This was a day full of fog and mist. Exactly what the Pacific Northwest winter is known for.
 
-{{ es_cdn_image(id = "es-4624-006", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-006", caption = "Mud Bay, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4624-006", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-006", caption = "Mud Bay, British Columbia, Canada", alt = "A wet two-lane highway with a double yellow centerline curves through a misty evergreen landscape, with fog draping the forested hills in the background under a flat grey overcast sky.") }}
 
 From Parksville to Campbell River, there is a choice of a modern expressway or the old two-lane highway. I took the old road for a while, which led to the most fun photos of the day. I stopped here in Fanny Bay to take in a fun foggy seascape.
 
-{{ es_cdn_image(id = "es-4624-009", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-009", caption = "Sailboats at anchor in Fanny Bay. · Fanny Bay, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4624-009", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-009", caption = "Sailboats at anchor in Fanny Bay. · Fanny Bay, British Columbia, Canada", alt = "Sailboats and small vessels moored on calm gray water beneath an overcast sky, with a low bank of fog draped over a distant forested shoreline. Weathered wooden pilings poke up from the still water in the foreground.") }}
 
-{{ es_cdn_image(id = "es-4624-016", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-016", title = "Land of Paradice", caption = "A seagull contemplates life on a foggy day in the Land of Paradice (sic). · Fanny Bay, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4624-016", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-016", title = "Land of Paradice", caption = "A seagull contemplates life on a foggy day in the Land of Paradice (sic). · Fanny Bay, British Columbia, Canada", alt = "A misty grey morning over a calm bay with sailboats and small fishing vessels moored in the distance, weathered wooden pilings and log booms scattered across the water, and forested hills partly hidden by low cloud. In the foreground a mossy, algae-stained truck box or panel is scrawled with the white graffiti “LAND OF PARADICE” (yes, it’s misspelled) and a fish skeleton drawing, with a seagull perched on its edge.") }}
 
 ... and then a funny thing happened. I was focusing on one of the larger boats in the scene when it occurred to me that the look and feel of the boat was ... shall we say ... familiar. When I finally arrived in Port Hardy and started processing my photos, I zoomed in on the name of the boat.
 
 Turns out this is the now-retired _MV Rhododendron,_ formerly of the Washington State Ferry system, now serving as a staging site for a local oyster harvesting operation.
 
-{{ es_cdn_image(id = "es-4624-018", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-018", title = "MV Rhododendron", caption = "Fanny Bay, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4624-018", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-018", title = "MV Rhododendron", caption = "Fanny Bay, British Columbia, Canada", alt = "A large retired green-and-white ferry named Rhododendron sits at anchor in calm gray water, surrounded by an assortment of smaller fishing and work boats, with a fog-shrouded, tree-covered hillside behind under an overcast sky.") }}
 
-{{ es_cdn_image(id = "es-4624-022", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-022", caption = "Four fishing boats at anchor on a foggy day. · north of Fanny Bay, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4624-022", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4624-022", caption = "Four fishing boats at anchor on a foggy day. · north of Fanny Bay, British Columbia, Canada", alt = "Small fishing and oyster boats moored on calm gray water under a heavy overcast, misty sky, with a faint low shoreline visible on the horizon and glassy reflections below. A cluster of three vessels sits at left, a lone larger boat at right, and a tiny skiff floats between them.") }}
 
 North of Campbell River the weather turned a bit more unpleasant, so I only stopped a couple of times for photos.
 

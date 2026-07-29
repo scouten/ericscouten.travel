@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2023/12/2023-12-08-california.kml"
 bounds = {sw = [37.298, -122.738], ne = [47.631, -121.731]}
 cover = "es-4617-030"
 cover_cdn_key = "img/v1/2023/12/es-4617-030"
+cover_alt = "View through a rain-streaked airplane window at Seattle-Tacoma International Airport on an overcast, wet morning, with a blurred jet and taxiway lights beyond and an airfield runway sign marked “34R” in the foreground."
 +++
 
 I went to California this week for a major event for my team at work. 
@@ -27,18 +28,18 @@ My photos here are more about the getting there and back.
 
 On the way down (Monday afternoon), it was a very rainy day at Sea-Tac airport:
 
-{{ es_cdn_image(id = "es-4617-030", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4617-030", caption = "Cueing up for my flight to San Jose on a rainy day. · Seattle-Tacoma International Airport, Sea-Tac, Washington") }}
+{{ es_cdn_image(id = "es-4617-030", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4617-030", caption = "Cueing up for my flight to San Jose on a rainy day. · Seattle-Tacoma International Airport, Sea-Tac, Washington", alt = "View through a rain-streaked airplane window at Seattle-Tacoma International Airport on an overcast, wet morning, with a blurred jet and taxiway lights beyond and an airfield runway sign marked “34R” in the foreground.") }}
 
 {{ es_cdn_image(id = "es-4618-014", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4618-014", caption = "Adobe’s East Tower. · Adobe, San Jose, California") }}
 
 I had a few moments on Tuesday evening to walk around downtown San Jose. The cathedral there had arranged for some holiday images to be projected onto its building.
 
-{{ es_cdn_image(id = "es-4620-026", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-026", caption = "Cathedral Basilica of Saint Joseph, San Jose, California") }}
+{{ es_cdn_image(id = "es-4620-026", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-026", caption = "Cathedral Basilica of Saint Joseph, San Jose, California", alt = "The Cathedral Basilica of Saint Joseph in downtown San Jose at night, its stone facade, twin towers, and domes lit with a colorful holiday projection dominated by vivid blue and stained-glass-like patterns. Palm trees stand in front, a white van is parked at the curb, and city buildings and red traffic lights are visible along the surrounding street.") }}
 
 I had a very early flight home on Friday morning. I have grown to kind of love smaller planes (this was a Delta E175), which afforded some great views of the scenery along the way:
 
-{{ es_cdn_image(id = "es-4620-043", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-043", caption = "Sunrise from above as I departed the Bay Area. · above Walnut Creek, California") }}
+{{ es_cdn_image(id = "es-4620-043", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-043", caption = "Sunrise from above as I departed the Bay Area. · above Walnut Creek, California", alt = "A high-altitude aerial view over the San Francisco Bay Area at dawn, showing city lights sprawling across land beside a large bay, with dark hills, wisps of low fog or cloud, and a hazy pale band of light along the horizon under a graduated blue sky.") }}
 
-{{ es_cdn_image(id = "es-4620-046", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-046", title = "Mount Shasta", caption = "Sunrise from above Mount Shasta. · above McCloud, California") }}
+{{ es_cdn_image(id = "es-4620-046", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-046", title = "Mount Shasta", caption = "Sunrise from above Mount Shasta. · above McCloud, California", alt = "An aerial view from an airplane window of the snow-capped summit of Mount Shasta catching golden early-morning light, rising above a landscape of scattered clouds and dark forested terrain, with a hazy horizon and clear blue sky above.") }}
 
-{{ es_cdn_image(id = "es-4620-051", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-051", caption = "Window seat on approach to Sea-Tac airport. · above Seattle, Washington") }}
+{{ es_cdn_image(id = "es-4620-051", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4620-051", caption = "Window seat on approach to Sea-Tac airport. · above Seattle, Washington", alt = "An aerial view from an airplane window looking down over Seattle, with low puffy clouds drifting between the plane and the sprawling city grid, waterways, and industrial areas below, while Puget Sound stretches into the hazy distance under a broken, overcast sky in soft morning light.") }}
