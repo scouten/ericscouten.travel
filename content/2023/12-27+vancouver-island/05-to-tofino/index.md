@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2023/12/2023-12-31.kml"
 bounds = {sw = [48.992, -127.501], ne = [50.724, -124.442]}
 cover = "es-4626-052"
 cover_cdn_key = "img/v1/2023/12/es-4626-052"
+cover_alt = "A calm, glassy lake at dusk under a blue-grey overcast sky, with dark rocks emerging from the shallow shoreline in the foreground and bare leafless shrubs to the right. Mist-shrouded, cloud-capped mountains line the far shore and reflect in the still water."
 +++
 
 Long, long day on the road today, but the rewards were so worth it!
@@ -43,12 +44,12 @@ Knowing that daylight was short and time was tight, I stayed focused on the road
 
 {{ es_cdn_image(id = "es-4627-019", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4627-019", caption = "Looking across Sproat Lake at fog and a waterfall. · Sproat Lake, west of Alberni, British Columbia, Canada", alt = "Low clouds and mist drift across a heavily forested mountainside above Sproat Lake, with a thin waterfall or stream visible through the fog and dense evergreens reflected in the dark water below.") }}
 
-{{ es_cdn_image(id = "es-4626-040", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4626-040", caption = "Larry Lake, north of Ucluelet, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4626-040", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4626-040", caption = "Larry Lake, north of Ucluelet, British Columbia, Canada", alt = "A misty, calm lake reflects a rocky point crowned with silhouetted evergreen trees, with fog softening distant tree-lined hills under a muted lavender-gray sky.") }}
 
-{{ es_cdn_image(id = "es-4627-023", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4627-023", caption = "Larry Lake, north of Ucluelet, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4627-023", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4627-023", caption = "Larry Lake, north of Ucluelet, British Columbia, Canada", alt = "A rocky point topped with slender evergreen trees juts into a still, fog-shrouded lake, its silhouette mirrored in the calm water while distant forested hills fade into thick mist.") }}
 
-{{ es_cdn_image(id = "es-4626-048", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4626-048", caption = "Kennedy Lake, north of Ucluelet, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4626-048", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4626-048", caption = "Kennedy Lake, north of Ucluelet, British Columbia, Canada", alt = "A calm lake at dusk with a line of large rocks leading from a gravel shoreline into the still, mirror-like water that reflects the overcast blue-grey sky. Forested hills and low mountains ring the far shore, and bare branches poke up from the water on the right.") }}
 
-{{ es_cdn_image(id = "es-4626-052", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4626-052", caption = "Kennedy Lake, north of Ucluelet, British Columbia, Canada") }}
+{{ es_cdn_image(id = "es-4626-052", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4626-052", caption = "Kennedy Lake, north of Ucluelet, British Columbia, Canada", alt = "A calm, glassy lake at dusk under a blue-grey overcast sky, with dark rocks emerging from the shallow shoreline in the foreground and bare leafless shrubs to the right. Mist-shrouded, cloud-capped mountains line the far shore and reflect in the still water.") }}
 
 Happy New Year's to you all!
