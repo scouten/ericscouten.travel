@@ -22,21 +22,21 @@ One of my teammates made the suggestion that I should take a few moments out fro
 
 It was such good advice. Here are some highlights from my journey through the museum:
 
-{{ es_cdn_image(id = "es-4588-008", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-008") }}
+{{ es_cdn_image(id = "es-4588-008", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-008", alt = "A backlit glass exhibit panel etched with columns of hexadecimal code and its ASCII interpretation (including text like “WANT SIN-COS-ATN” and “8080 BASIC VER 1.0”), with the title “R|EVOLUTION: The First 2000 Years of Computing” and a line reading “Made possible through the generosity of Bill Gates.” A person’s silhouette and reflections of trees and windows appear through the translucent panel at the entrance to the Computer History Museum.") }}
 
 My grandfather had several "adding machines" similar to this that he used in his accounting business. I remember being endlessly fascinated with them.
 
-{{ es_cdn_image(id = "es-4588-011", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-011") }}
+{{ es_cdn_image(id = "es-4588-011", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-011", alt = "A vintage black Monroe mechanical adding machine with a green keypad of gold, silver, and white numbered keys arranged in columns, plus a hand crank on the side and a digit register across the top, displayed on a polished stone surface against a dark wood background.") }}
 
 {{ es_cdn_image(id = "es-4588-012", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-012") }}
 
-{{ es_cdn_image(id = "es-4588-013", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-013") }}
+{{ es_cdn_image(id = "es-4588-013", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-013", alt = "An old open book displayed on clear acrylic stands inside a glass museum case, its two facing pages densely filled with columns of printed mathematical sine tables. A printed placard below identifies it as Peurbach and Regiomontanus’s Tractatus, printed by Johann Petreius in Germany, 1468 (1541 edition), possibly the oldest surviving printed mathematical tables.") }}
 
-{{ es_cdn_image(id = "es-4588-023", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-023") }}
+{{ es_cdn_image(id = "es-4588-023", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-023", alt = "Close-up of the aged control panel of a vintage mainframe computer, showing illuminated indicator bars labeled STOP and COMPUTE above rows of yellowed translucent square pushbuttons marked with functions like NORMAL, MANUAL INPUT, STAND BY, OPERATE, START, CLEAR COUNTER, EXECUTE INSTR., POWER ON, POWER OFF, BREAK POINT, and TRANSFER CONTROL. The metal-and-tan console shows wear, scratches, and grime, with a mesh grille surrounding the buttons.") }}
 
-{{ es_cdn_image(id = "es-4588-025", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-025") }}
+{{ es_cdn_image(id = "es-4588-025", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-025", alt = "The control console of a vintage NEC (Nippon Electric Company) mainframe computer, labeled “004,” with an angled panel full of knobs, toggle switches, illuminated pushbuttons, two analog meters (amps and volts), and rows of indicator lights, above a keyboard/keypad input unit. Behind it stand tall equipment cabinets, and the whole display sits on a light-colored desk surface at a museum.") }}
 
-{{ es_cdn_image(id = "es-4588-033", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-033") }}
+{{ es_cdn_image(id = "es-4588-033", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-033", alt = "A vintage Hewlett-Packard 2116B minicomputer front panel on display in a museum, its gray metal chassis covered with rows of small register indicator lights labeled T, P, M, A, and B registers, a bank of switches, and buttons like PRESET, RUN, HALT, and POWER. A large yellow price tag reading “$26,000” hangs in front, and taped paper reference charts and a Digital Maintenance Corporation label are affixed to the upper panel.") }}
 
 {{ es_cdn_image(id = "es-4588-039", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4588-039", caption = "Ummm … sexism much? Not surprised this didn’t sell.") }}
 

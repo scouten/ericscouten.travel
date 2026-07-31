@@ -11,6 +11,7 @@ markers = "markers.js"
 bounds = {sw = [32.494, -80.339], ne = [32.591, -80.267]}
 cover = "es-4601-035"
 cover_cdn_key = "img/v1/2023/10/es-4601-035"
+cover_alt = "A sandy dirt road running through a canopy of live oak trees draped with Spanish moss, with morning sunlight filtering through the dense green foliage on either side."
 +++
 
 Keeping it simple today; took the day off from work (as did the most of Adobe) and also from doing much with the camera.
@@ -19,6 +20,6 @@ Keeping it simple today; took the day off from work (as did the most of Adobe) a
 
 Next couple of days I'll be focusing on work, so may not be much until later in the week. Meanwhile, enjoy today's sunrise (as filtered through Spanish moss) and sunset.
 
-{{ es_cdn_image(id = "es-4601-035", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4601-035", title = "Sunrise and Spanish Moss", caption = "Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4601-035", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4601-035", title = "Sunrise and Spanish Moss", caption = "Edisto Island, South Carolina", alt = "A sandy dirt road running through a canopy of live oak trees draped with Spanish moss, with morning sunlight filtering through the dense green foliage on either side.") }}
 
-{{ es_cdn_image(id = "es-4603-003", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4603-003", caption = "Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4603-003", cdn_version = "v1", cdn_key = "img/v1/2023/10/es-4603-003", caption = "Edisto Island, South Carolina", alt = "A twilight view over a marina at Edisto Island, South Carolina, where sport-fishing boats sit in their slips along lit wooden docks. The deep blue sky fades to an orange glow on the horizon, with a few stars visible above the calm water and distant marsh.") }}

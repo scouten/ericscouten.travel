@@ -32,13 +32,13 @@ The Powell Street Cable Car originated very near our hotel, so of _course_ we ha
 
 {{ es_cdn_image(id = "es-4572-023", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-023", caption = "Powell Street Cable Car, San Francisco, California") }}
 
-{{ es_cdn_image(id = "es-4572-027", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-027", caption = "Powell Street Cable Car, San Francisco, California") }}
+{{ es_cdn_image(id = "es-4572-027", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-027", caption = "Powell Street Cable Car, San Francisco, California", alt = "View from inside a wooden cable car with a red-and-black “DANGER DO NOT LEAN OUT” sign under the roof, as a passenger in a black jacket holds a metal pole and takes a photo with a phone; through the open side is a white ornate building facade and a red “No Stopping Any Time” street sign.") }}
 
-{{ es_cdn_image(id = "es-4572-033", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-033", title = "Cable Car Controls", caption = "Powell Street Cable Car, San Francisco, California") }}
+{{ es_cdn_image(id = "es-4572-033", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-033", title = "Cable Car Controls", caption = "Powell Street Cable Car, San Francisco, California", alt = "Interior view of a San Francisco cable car showing the gripman’s operating mechanism, with a large grip lever and pedals rising through a slot in the floor over the exposed cable channel. A conductor’s jacket, backpacks, a cooler and safety gear are stowed against the varnished wooden bodywork, while passengers with long hair sit on the bench seats in the background.") }}
 
-{{ es_cdn_image(id = "es-4572-003", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-003", caption = "Wells Fargo, San Francisco, California") }}
+{{ es_cdn_image(id = "es-4572-003", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-003", caption = "Wells Fargo, San Francisco, California", alt = "A weathered bronze plaque with gilded raised lettering reading “ARMOR PLATE SAFE DEPOSIT VAULTS” mounted on a rough granite building facade, with a beveled doorway visible at right.") }}
 
-{{ es_cdn_image(id = "es-4572-013", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-013", caption = "Wells Fargo, San Francisco, California") }}
+{{ es_cdn_image(id = "es-4572-013", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4572-013", caption = "Wells Fargo, San Francisco, California", alt = "A dark bronze plaque reading “Wells Fargo Bank, Established 1852” in gold lettering, mounted on a gray granite building facade with an ornate carved column of foliage to the left.") }}
 
 We don't know the origin of this building's decorations, but Lisa enjoyed seeing it as the "Mom" building.
 
@@ -48,7 +48,7 @@ My teammate and I selected an appropriate conference room for our meetings on Fr
 
 {{ es_cdn_image(id = "es-4573-002", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-002", title = "Hellraiser", caption = "Adobe, San Francisco, California") }}
 
-{{ es_cdn_image(id = "es-4573-008", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-008", caption = "San Francisco, California") }}
+{{ es_cdn_image(id = "es-4573-008", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-008", caption = "San Francisco, California", alt = "A close-up of a cascading urban water feature filling the lower half of the frame with bubbling, translucent green water, set against a modern glass-and-stone office building with a Chipotle Mexican Grill storefront, a leafy tree, and a metal staircase in the plaza behind.") }}
 
 {{ es_cdn_video(id = "es-4573-009", cdn_version = "v1", cdn_key = "vid/v1/2023/09/es-4573-009", caption = "San Francisco, California") }}
 
@@ -56,7 +56,7 @@ My teammate and I selected an appropriate conference room for our meetings on Fr
 
 {{ es_cdn_image(id = "es-4573-010", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-010", title = "THAT List!", caption = "San Francisco, California") }}
 
-{{ es_cdn_image(id = "es-4573-014", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-014", caption = "Pier 39, San Francisco, California") }}
+{{ es_cdn_image(id = "es-4573-014", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4573-014", caption = "Pier 39, San Francisco, California", alt = "Alcatraz Island with its historic prison buildings and lighthouse sits across the choppy blue waters of San Francisco Bay, with the rolling green-brown hills of Marin headlands and a low band of cloud beneath a clear blue sky in the background.") }}
 
 {{ es_cdn_image(id = "lr-239-4591", cdn_version = "v1", cdn_key = "img/v1/2023/09/lr-239-4591", caption = "Pier 39, San Francisco, California", creator = "Lisa Rozmyn") }}
 
@@ -66,7 +66,7 @@ My teammate and I selected an appropriate conference room for our meetings on Fr
 
 As I write this, we are on our flight back to Seattle. I had the left window seat, so I got a couple fun shots of the Bay and Golden Gate Bridges on the way out:
 
-{{ es_cdn_image(id = "es-4574-007", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4574-007", caption = "above San Francisco Bay, east of South San Francisco, California") }}
+{{ es_cdn_image(id = "es-4574-007", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4574-007", caption = "above San Francisco Bay, east of South San Francisco, California", alt = "An aerial view over San Francisco Bay under a clear blue sky, with the city of San Francisco spreading across hills toward its downtown skyline on the right, low fog banks drifting over the hills, and a marina and shoreline in the foreground.") }}
 
 {{ es_cdn_image(id = "es-4574-010", cdn_version = "v1", cdn_key = "img/v1/2023/09/es-4574-010", caption = "above San Francisco Bay, east of South San Francisco, California") }}
 
