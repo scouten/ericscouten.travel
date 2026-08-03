@@ -8,7 +8,7 @@ country = ["India"]
 
 [extra]
 distance = "34 km / 21 mi"
-route = "Kochi to Village, Poochakkal, Kerala, India"
+route = "Kochi to Poochakkal, Kerala, India"
 markers = "markers.js"
 track_log_key = "kml/v1/2016/02/2016-02-23.kml"
 bounds = {sw = [9.793, 76.241], ne = [9.968, 76.354]}
