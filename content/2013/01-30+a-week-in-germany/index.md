@@ -17,7 +17,7 @@ I've been visiting our office in Hamburg, Germany, for this past week.
 
 <!-- more -->
 
-Most of my week has been in meetings, but -- of course -- there are a few candid photos taken as I've walked about the city.
+Most of my week has been in meetings, but — of course — there are a few candid photos taken as I've walked about the city.
 
 {{ es_cdn_image(id = "es-2320-007", cdn_version = "v1", cdn_key = "img/v1/2013/01/es-2320-007", caption = "Hamburg, Germany") }}
 

@@ -28,7 +28,7 @@ The swamp itself is an etheral landscape, unlike anything we're used to in the P
 {{ es_cdn_image(id = "es-4423-088", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4423-088", caption = "Honey Island Swamp, east of Slidell, Louisiana") }}
 {{ es_cdn_image(id = "es-4423-096", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4423-096", caption = "Honey Island Swamp, east of Slidell, Louisiana") }}
 
-We later would learn that these were just the kids – a mere four or five feet long. The big guys would come later ...
+We later would learn that these were just the kids — a mere four or five feet long. The big guys would come later ...
 
 {{ es_cdn_image(id = "es-4423-102", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4423-102", caption = "Honey Island Swamp, east of Slidell, Louisiana") }}
 {{ es_cdn_image(id = "es-4423-111", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4423-111", caption = "Honey Island Swamp, east of Slidell, Louisiana") }}

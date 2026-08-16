@@ -21,7 +21,7 @@ Now that our work weeks are over, I came back to Washington to reconnect with Li
 
 <!-- more -->
 
-Today's travels were a reverse of Monday's – I walked back on the High Line and took the Acela train from New York to Washington again. Here are a few highlights from that journey:
+Today's travels were a reverse of Monday's — I walked back on the High Line and took the Acela train from New York to Washington again. Here are a few highlights from that journey:
 
 {{ es_cdn_image(id = "es-4655-098", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4655-098", caption = "The High Line, New York, New York") }}
 

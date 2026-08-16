@@ -58,7 +58,7 @@ It's fascinating and a bit macabre to drive through a tourist area in off-season
 
 ## Step 3: Nicosia
 
-I made it to Nicosia, where I spotted this Turkish flag on the hills north of Nicosia -- presumably a bit of a jab to Greek Cypriot commuters on their way into their capitol.
+I made it to Nicosia, where I spotted this Turkish flag on the hills north of Nicosia — presumably a bit of a jab to Greek Cypriot commuters on their way into their capitol.
 
 {{ es_cdn_image(id = "es-3904-001", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3904-001", caption = "Latsia, Cyprus") }}
 

@@ -17,7 +17,7 @@ cover = "es-4504-035"
 cover_cdn_key = "img/v1/2023/04/es-4504-035"
 +++
 
-We've been spending this week in the already-sultry heat of Savannah, Georgia. It's been around 30°C / 85°F most of the week, which -- for those of us acclimated to Pacific Northwest climate -- is quite enough, thank you.
+We've been spending this week in the already-sultry heat of Savannah, Georgia. It's been around 30°C / 85°F most of the week, which — for those of us acclimated to Pacific Northwest climate — is quite enough, thank you.
 
 <!-- more -->
 

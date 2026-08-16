@@ -16,7 +16,7 @@ cover = "es-2474-043"
 cover_cdn_key = "img/v1/2013/08/es-2474-043"
 +++
 
-We had a lovely day today exploring Venice and capping it off with -- of course! -- a gondola ride.
+We had a lovely day today exploring Venice and capping it off with — of course! — a gondola ride.
 
 <!-- more -->
 

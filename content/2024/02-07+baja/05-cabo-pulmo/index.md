@@ -18,7 +18,7 @@ cover_cdn_key = "img/v1/2024/02/es-4632-373"
 cover_alt = "A sandy beachside lot at dusk in Cabo Pulmo, with a silhouetted palm tree on the right, boats and thatched-roof buildings on the left, and a crescent moon in the deep blue sky above a golden glow along the distant mountain horizon. A light-colored car is parked near a blue snorkeling tours stand, and a couple of people walk across the sand."
 +++
 
-After lunch in Todos Santos, we got back in the car and drove to the very, very quiet coastal village. Lisa had visited Cabo Pulmo some years ago and was eager to return. It was -- as promised -- very remote and almost entirely off the grid.
+After lunch in Todos Santos, we got back in the car and drove to the very, very quiet coastal village. Lisa had visited Cabo Pulmo some years ago and was eager to return. It was — as promised — very remote and almost entirely off the grid.
 
 <!-- more -->
 

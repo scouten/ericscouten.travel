@@ -1,5 +1,5 @@
 +++
-title = "Sri Lanka and India Days 8 – 10: A Kerala Retreat"
+title = "Sri Lanka and India Days 8–10: A Kerala Retreat"
 date = 2016-02-26T11:52:47.872+05:30
 updated = 2026-08-04T15:35:50-07:00
 

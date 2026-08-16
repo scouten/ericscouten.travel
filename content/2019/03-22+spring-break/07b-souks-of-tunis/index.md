@@ -23,7 +23,7 @@ I hired a local guide to show me the sights of Tunis and surrounding areas.
 
 _Best. Decision. Ever!_
 
-Sam was a fantastic guide. His English was impeccable (he had lived in the US for some time), and he was deeply familiar with Tunis and surrounding areas. We got into places that I -- as a foreigner incapable of speaking either Arabic or French, or knowing the right people -- would have never had access to. (If you're going to Tunisia and would like a guide, I have his contact info and I'll be happy to pass it along.)
+Sam was a fantastic guide. His English was impeccable (he had lived in the US for some time), and he was deeply familiar with Tunis and surrounding areas. We got into places that I — as a foreigner incapable of speaking either Arabic or French, or knowing the right people — would have never had access to. (If you're going to Tunisia and would like a guide, I have his contact info and I'll be happy to pass it along.)
 
 We started with a walking tour of the historic souk markets of Tunis. These photos in this post are all taken within about an hour of each other.
 

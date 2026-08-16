@@ -21,7 +21,7 @@ My main reason for being in Berlin was to present on the work of the [Content Au
 
 <!-- more -->
 
-Being a one-time theatre and stage geek, I decided to see if I could go "backstage" during the lunch intermission. Ostensibly it was to make sure my slide deck was in order (good thing I did - there were some last-minute repairs to be made!), but also I wanted to ogle the impressive set of technology they'd assembled to produce the event.
+Being a one-time theatre and stage geek, I decided to see if I could go "backstage" during the lunch intermission. Ostensibly it was to make sure my slide deck was in order (good thing I did — there were some last-minute repairs to be made!), but also I wanted to ogle the impressive set of technology they'd assembled to produce the event.
 
 {{ es_cdn_image(id = "es-4663-016", cdn_version = "v1", cdn_key = "img/v1/2024/06/es-4663-016", caption = "Berlin Congress Center, Berlin, Germany") }}
 

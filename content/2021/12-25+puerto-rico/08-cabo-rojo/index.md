@@ -34,7 +34,7 @@ The road into and out of Rojo Cabo is ... a bit difficult. It took us 10 minutes
 
 {{ es_cdn_image(id = "es-4299-063", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4299-063", caption = "Potholes much?") }}
 
-It was very hot this afternoon (31°C / 88°F – _¡hacia mucho calor!_), so we retreated back to the treehouse, where it was shady and we could nap a bit.
+It was very hot this afternoon (31°C / 88°F — _¡hacia mucho calor!_), so we retreated back to the treehouse, where it was shady and we could nap a bit.
 
 Later we met the property owners, Matt and Janine, who gave us a very nice tour of the grounds and talked through their history of buying the property and building the treehouses (three as of our visit!).
 

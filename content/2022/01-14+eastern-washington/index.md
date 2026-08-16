@@ -38,5 +38,5 @@ I did set foot in a couple of other parks, but I've filed those away under "bett
 {{ es_cdn_image(id = "es-4305-062", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-062", caption = "east of Wilbur, Washington") }}
 {{ es_cdn_image(id = "es-4305-066", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-066", caption = "east of Wilbur, Washington") }}
 {{ es_cdn_image(id = "es-4305-072", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-072", caption = "west of Wilbur, Washington") }}
-{{ es_cdn_image(id = "es-4305-104", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-104", caption = "Sun Lakes – Dry Falls State Park, southwest of Coulee City, Washington") }}
+{{ es_cdn_image(id = "es-4305-104", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-104", caption = "Sun Lakes–Dry Falls State Park, southwest of Coulee City, Washington") }}
 {{ es_cdn_image(id = "es-4305-106", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4305-106", caption = "north of Soap Lake, Washington") }}

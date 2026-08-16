@@ -28,7 +28,7 @@ I give South Africa credit: It does not shy away from this difficult chapter in 
 
 {{ es_cdn_image(id = "es-263-9971", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9971", caption = "Robert Sobukwe House, Robben Island, Western Cape, South Africa") }}
 
-In this lime quarry, Mandela and other "special" political prisoners were forced to break rocks -- segregated even from other prisoners on the island.
+In this lime quarry, Mandela and other "special" political prisoners were forced to break rocks — segregated even from other prisoners on the island.
 
 {{ es_cdn_image(id = "es-263-9990", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-9990", caption = "Lime Quarry, Robben Island, Western Cape, South Africa") }}
 
@@ -42,7 +42,7 @@ I could not agree more!
 
 {{ es_cdn_image(id = "es-263-0064", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0064", caption = "Robben Island Prison Facility, Robben Island, Western Cape, South Africa") }}
 
-The man who led us through Block D had himself been held as a prisoner for several years -- in this very cell block -- for his role in protesting the apartheid government.
+The man who led us through Block D had himself been held as a prisoner for several years — in this very cell block — for his role in protesting the apartheid government.
 
 {{ es_cdn_image(id = "es-263-0077", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0077", caption = "Robben Island Prison Facility, Block D, Robben Island, Western Cape, South Africa") }}
 
@@ -72,7 +72,7 @@ These meager mats were what "sufficed" for a bed for many of those held in this 
 
 {{ es_cdn_image(id = "es-263-0138", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0138", caption = "Robben Island, Western Cape, South Africa") }}
 
-And now for something lighter ... here is Table Mountain as seen from the ferry returning from Robben Island. Looks like we lucked out with the weather yesterday -- having clear skies and sunny weather was _amazing._
+And now for something lighter ... here is Table Mountain as seen from the ferry returning from Robben Island. Looks like we lucked out with the weather yesterday — having clear skies and sunny weather was _amazing._
 
 {{ es_cdn_image(id = "es-263-0159", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0159", caption = "Ferry from Robben Island to Cape Town, Western Cape, South Africa", alt = "View from a ferry across choppy dark grey water toward Cape Town, where a thick blanket of cloud spills over Table Mountain like a tablecloth, with the faint city skyline and harbour cranes visible below under a heavily overcast sky.") }}
 

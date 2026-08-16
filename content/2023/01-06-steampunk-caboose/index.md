@@ -26,7 +26,7 @@ From the outside, it looks just as advertised, a decommissioned Burlington North
 {{ es_cdn_image(id = "es-4467-006", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4467-006") }}
 {{ es_cdn_image(id = "es-4466-005", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4466-005") }}
 
-Inside, it's a very cozy and well-outfitted cabin -- with a fun steampunk twist!
+Inside, it's a very cozy and well-outfitted cabin — with a fun steampunk twist!
 
 {{ es_cdn_image(id = "es-4466-006", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4466-006") }}
 {{ es_cdn_image(id = "es-4466-021", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4466-021") }}

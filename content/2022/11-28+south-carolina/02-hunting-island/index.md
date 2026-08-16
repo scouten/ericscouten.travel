@@ -39,7 +39,7 @@ A fisherman we met there encouraged us to go a few miles down the road to the Na
 {{ es_cdn_image(id = "es-4440-106", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4440-106", caption = "Nature Center Scenic Trail, Hunting Island State Park, Hunting Island, South Carolina") }}
 {{ es_cdn_image(id = "es-4440-112", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4440-112", caption = "Nature Center Scenic Trail, Hunting Island State Park, Hunting Island, South Carolina") }}
 
-It was near dusk when we got there and -- as with the night before -- we were treated to beautiful sunset scenes.
+It was near dusk when we got there and — as with the night before — we were treated to beautiful sunset scenes.
 
 {{ es_cdn_image(id = "es-4440-114", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4440-114", caption = "Nature Center Scenic Trail, Hunting Island State Park, Hunting Island, South Carolina") }}
 {{ es_cdn_image(id = "lr-22b-3514", cdn_version = "v1", cdn_key = "img/v1/2022/11/lr-22b-3514", caption = "Nature Center Scenic Trail, Hunting Island State Park, Hunting Island, South Carolina", creator = "Lisa Rozmyn") }}

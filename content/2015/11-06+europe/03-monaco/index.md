@@ -52,4 +52,4 @@ After Monaco, we had to high-tail it the rest of the way to our hotel in Marseil
 
 {{ es_cdn_image(id = "ts-2944-020", cdn_version = "v1", cdn_key = "img/v1/2015/11/ts-2944-020", caption = "Puget-sur-Argens, Var, France", creator = "Tara Scouten") }}
 
-Today's drive is brought to you by the words "tunnel" and "fest." The Italians and French built a lot of them -- 194! -- on our route today.
+Today's drive is brought to you by the words "tunnel" and "fest." The Italians and French built a lot of them — 194! — on our route today.

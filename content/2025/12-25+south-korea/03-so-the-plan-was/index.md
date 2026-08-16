@@ -74,7 +74,7 @@ This post comes to you from our beachfront hotel in Guam. It's _so_ much warmer 
 
 I'm excited to explore Guam for a couple of days. We'll head back to Seoul for New Year's as previously planned, and then home.
 
-Today's flight was not at all full, which meant that -- despite booking at the last minute (yesterday!) -- it was easy to get a window seat. Here are some of the views along the way:
+Today's flight was not at all full, which meant that — despite booking at the last minute (yesterday!) — it was easy to get a window seat. Here are some of the views along the way:
 
 {{ es_cdn_image(id = "es-25c-8243", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8243", caption = "Incheon International Airport, Incheon, South Korea", alt = "View from an airplane window shortly after takeoff, with the aircraft’s wing and upturned winglet stretching across a hazy sky, looking down on the curved, crescent-shaped terminal building of Incheon International Airport with parked planes and large parking lots below.") }}
 

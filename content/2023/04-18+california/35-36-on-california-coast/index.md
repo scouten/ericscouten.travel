@@ -71,4 +71,4 @@ I've mostly hidden the parked cars behind trees or hills. You see what I mean ab
 
 {{ es_cdn_image(id = "es-4524-128", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-128", caption = "Mendocino, California") }}
 
-Anyway, more in a few days as I continue to revisit this -- dare I say it? favorite -- place.
+Anyway, more in a few days as I continue to revisit this — dare I say it? favorite — place.

@@ -57,7 +57,7 @@ We especially enjoyed the aptly-named scribble gum tree:
 
 {{ es_cdn_image(id = "es-256-5363", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5363", caption = "Booderee Botanic Gardens, Booderee National Park, Jervis Bay Territory, Australia", alt = "The smooth, pale cream-coloured trunk of a large eucalyptus tree marked with wavy scribbly-gum insect tracks, splitting into branches as it rises through a sunlit forest. Green ferns and dense bushland surround the base, with patches of blue sky visible through the canopy.") }}
 
-And then -- stop me if you've heard this one before -- the well-planned day turned into a very long slog. When we left the park, the Maps app projected a 5pm arrival, which was about sunset.
+And then — stop me if you've heard this one before — the well-planned day turned into a very long slog. When we left the park, the Maps app projected a 5pm arrival, which was about sunset.
 
 I began to fret about having to drive at night.
 

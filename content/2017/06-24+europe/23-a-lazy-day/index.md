@@ -21,7 +21,7 @@ We had good intentions of going exploring today.
 
 <!-- more -->
 
-Many friends told us that seeing Stavanger -- and the coast along the way -- would be a great idea.
+Many friends told us that seeing Stavanger — and the coast along the way — would be a great idea.
 
 But there comes a point when one needs a break from the road. So we laid low today, played a game of mini-golf, and took some time to walk lazily around our resort.
 

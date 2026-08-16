@@ -22,7 +22,7 @@ We ... ummm ... took a _little_ detour on our way back from Münster to Hamburg.
 
 Turns out you can fit a day-trip to Amsterdam on the way. So we did.
 
-We caught a tour of Amsterdam's famous canals -- shown below -- and then high-tailed it back to Hamburg.
+We caught a tour of Amsterdam's famous canals — shown below — and then high-tailed it back to Hamburg.
 
 {{ es_cdn_image(id = "es-2456-022", cdn_version = "v1", cdn_key = "img/v1/2013/07/es-2456-022", caption = "Amsterdam, The Netherlands") }}
 

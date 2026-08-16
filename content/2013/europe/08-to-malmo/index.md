@@ -24,7 +24,7 @@ We stopped for a moment in downtown Lübeck for lunch on the way.
 
 {{ es_cdn_image(id = "es-2370-003", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2370-003", caption = "Lübeck, Schleswig-Holstein, Germany") }}
 
-And then – just like home! – it was time to board a ferry for the crossing into Denmark.
+And then — just like home! — it was time to board a ferry for the crossing into Denmark.
 
 {{ es_cdn_image(id = "es-2370-005", cdn_version = "v1", cdn_key = "img/v1/2013/06/es-2370-005", caption = "Scandlines Ferry Terminal, Puttgarden, Schleswig-Holstein, Germany") }}
 

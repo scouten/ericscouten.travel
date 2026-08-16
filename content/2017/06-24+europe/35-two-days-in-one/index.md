@@ -27,8 +27,8 @@ Good news: I got to experience a nice, heavy thunderstorm. Having lived in the m
 
 Bad news: The storm hit at dusk on the Italian autostrada (toll expressway) when I still had 200km / 125mi to go. It was intense enough that it really slowed down the driving for a while.
 
-Should be some interesting things to see tomorrow (including two more new countries – yay!). See you soon.
+Should be some interesting things to see tomorrow (including two more new countries — yay!). See you soon.
 
 . . .
 
-**2023 Update Part 2:** Germany doesn't officially require an International Drivers Permit for foreign drivers, but -- as luck would have it -- Estonia _does_ and I had obtained one so I could drive in Estonia a few days earlier. So, the day after the theft (morning of this original article) I returned to the car rental agency with a printed scan of my drivers license and the IDP (which thankfully had not been stolen), and they allowed me to proceed with the rental. Yay!
+**2023 Update Part 2:** Germany doesn't officially require an International Drivers Permit for foreign drivers, but — as luck would have it — Estonia _does_ and I had obtained one so I could drive in Estonia a few days earlier. So, the day after the theft (morning of this original article) I returned to the car rental agency with a printed scan of my drivers license and the IDP (which thankfully had not been stolen), and they allowed me to proceed with the rental. Yay!

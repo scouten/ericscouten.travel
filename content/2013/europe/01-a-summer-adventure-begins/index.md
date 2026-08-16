@@ -1,5 +1,5 @@
 +++
-title = "Europe Days 1 – 6: A Summer Adventure Begins!"
+title = "Europe Days 1–6: A Summer Adventure Begins!"
 date = 2013-06-06T19:27:22+02:00
 updated = 2024-05-01T20:05:38-07:00
 

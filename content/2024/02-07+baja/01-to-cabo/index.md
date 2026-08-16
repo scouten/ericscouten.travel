@@ -87,6 +87,6 @@ We gave it a whirl and enjoyed it! It's definitely a unique experience.
 
 ## Your Inner Voice
 
-Saw this written on a wall near where we were staying. I think it translates as: “Your inner voice – be quiet and listen to it.” Advice I quite agree with ...
+Saw this written on a wall near where we were staying. I think it translates as: “Your inner voice — be quiet and listen to it.” Advice I quite agree with ...
 
 {{ es_cdn_image(id = "es-4632-287", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-287", title = "Tu Voz Interior", caption = "Cabo San Lucas, Baja California Sur, Mexico") }}

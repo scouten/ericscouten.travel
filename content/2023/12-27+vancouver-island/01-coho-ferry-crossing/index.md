@@ -18,7 +18,7 @@ cover_cdn_key = "img/v1/2023/12/es-4622-075"
 cover_alt = "A frothy white wake trails across choppy dark blue water behind a ferry, leading toward a distant low shoreline on the horizon under a dramatic sky of scattered clouds, with warm afternoon light breaking through gaps near the horizon."
 +++
 
-I've been to Victoria, British Columbia, many times, but I haven't seen much of Vancouver Island beyond the capitol city. Over the next several days, I'll be "fixing" that -- by exploring the _rest_ of the island.
+I've been to Victoria, British Columbia, many times, but I haven't seen much of Vancouver Island beyond the capitol city. Over the next several days, I'll be "fixing" that — by exploring the _rest_ of the island.
 
 <!-- more -->
 

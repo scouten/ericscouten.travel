@@ -14,7 +14,7 @@ cover = "es-4520-071"
 cover_cdn_key = "img/v1/2023/04/es-4520-071"
 +++
 
-Today is our last full day together on the Southeast. We were expecting clouds and rain but instead got a beautiful sunny day. We decided to visit one more plantation -- the [Magnolia Plantation and Gardens](https://www.magnoliaplantation.com/), located on the Ashley River just outside of Charleston.
+Today is our last full day together on the Southeast. We were expecting clouds and rain but instead got a beautiful sunny day. We decided to visit one more plantation — the [Magnolia Plantation and Gardens](https://www.magnoliaplantation.com/), located on the Ashley River just outside of Charleston.
 
 <!-- more -->
 

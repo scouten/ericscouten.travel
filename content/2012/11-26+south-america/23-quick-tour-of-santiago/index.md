@@ -34,7 +34,7 @@ Here are a few photos and videos from my quick tour of Santiago:
 
 {{ es_cdn_video(id = "es-2296-015", cdn_version = "v1", cdn_key = "vid/v1/2012/12/es-2296-015", caption = "Providencia, Región Metropolitana, Chile") }}
 
-The highlight -- and high _point_ of the trip -- was the view from Parque Metropolitano in the center of the city. Perched on a hilltop in the center of the city, it offers a panoramic view of the city.
+The highlight — and high _point_ of the trip — was the view from Parque Metropolitano in the center of the city. Perched on a hilltop in the center of the city, it offers a panoramic view of the city.
 
 {{ es_cdn_video(id = "es-2296-017", cdn_version = "v1", cdn_key = "vid/v1/2012/12/es-2296-017", caption = "Parque Metropolitano de Santiago, Recoleta, Región Metropolitana, Chile") }}
 

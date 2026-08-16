@@ -97,7 +97,7 @@ I followed along on my map. Here's a street name we don't see back home!
 
 {{ es_cdn_image(id = "es-3913-030", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3913-030", caption = "Tunis, Tunisia") }}
 
-I went up to the hotel's rooftop restaurant for dinner and found live music -- my favorite!
+I went up to the hotel's rooftop restaurant for dinner and found live music — my favorite!
 
 {{ es_cdn_image(id = "es-3916-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3916-003", caption = "Hotel Dar El Marsa, La Marsa, Tunisia") }}
 

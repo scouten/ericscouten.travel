@@ -13,7 +13,7 @@ cover = "es-0316-001"
 cover_cdn_key = "img/v1/1998/02/es-0316-001"
 +++
 
-Over the last two weeks, I've been introduced to a whole new world -- the country that we (the United States) invaded in the 1980s. To visit Nicaragua in the post-war world is a surreal experience. So much has changed in the years since ... and yet, our presence there can not be forgotten.
+Over the last two weeks, I've been introduced to a whole new world — the country that we (the United States) invaded in the 1980s. To visit Nicaragua in the post-war world is a surreal experience. So much has changed in the years since ... and yet, our presence there can not be forgotten.
 
 <!-- more -->
 

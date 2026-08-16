@@ -22,7 +22,7 @@ A long day on the road today, but I do love a long day driving through the deser
 
 {{ es_cdn_image(id = "es-2720-001h", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2720-001h", title = "Nothing Simpler", caption = "Sparks, Nevada") }}
 
-Mile 889: Alright friends, staying off the slab -- and, on the lonely roads -- today!
+Mile 889: Alright friends, staying off the slab — and, on the lonely roads — today!
 
 {{ es_cdn_image(id = "es-2719-001", cdn_version = "v1", cdn_key = "img/v1/2014/11/es-2719-001", caption = "Fallon, Nevada") }}
 

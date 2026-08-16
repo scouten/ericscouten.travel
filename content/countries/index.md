@@ -55,7 +55,7 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     seq = 78
     name = "South Korea"
     flag = "🇰🇷"
-    years = "2025 – 2026"
+    years = "2025–2026"
     image = "es-25c-8098"
     cdn_key = "img/v1/2025/12/es-25c-8098"
     caption = "Gangchon Rail Park, Chuncheon, South Korea"
@@ -77,7 +77,7 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
 {{ es_country(seq = 76
     name = "Puerto Rico"
     flag = "🇺🇸"
-    years = "2021 – 2022"
+    years = "2021–2022"
     drive = true
     state_term = true
     image = "es-4289-040"
@@ -906,7 +906,7 @@ I lived in Hamburg during the summer of 2013.
     seq = 2
     name = "Canada"
     flag = "🇨🇦"
-    years = "numerous visits 1970s – present"
+    years = "numerous visits 1970s–present"
     image = "es-0351-001"
     cdn_key = "img/v1/1998/08/es-0351-001"
     caption = "Tagish Lake, Carcross, Yukon, Canada, 1998"

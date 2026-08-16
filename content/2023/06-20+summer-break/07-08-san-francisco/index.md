@@ -21,7 +21,7 @@ Yesterday, we drove from Reno to Half Moon Bay, California, by way of the south 
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4544-004", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4544-004", caption = "Cave Rock – Lake Tahoe Nevada State Park, south of Glenbrook, Nevada", alt = "A wide view across the calm blue waters of Lake Tahoe under a clear blue sky, with snow-dappled mountains ringing the far shore beneath a band of white clouds. A few small boats float near the distant shoreline, and dark rocks line the near edge in the lower left corner.") }}
+{{ es_cdn_image(id = "es-4544-004", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4544-004", caption = "Cave Rock, Lake Tahoe Nevada State Park, south of Glenbrook, Nevada", alt = "A wide view across the calm blue waters of Lake Tahoe under a clear blue sky, with snow-dappled mountains ringing the far shore beneath a band of white clouds. A few small boats float near the distant shoreline, and dark rocks line the near edge in the lower left corner.") }}
 
 {{ es_cdn_image(id = "es-4544-005", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4544-005", caption = "US 50, southwest of Meyers, California", alt = "A sweeping view over a dense evergreen forest stretching to distant tree-covered hills and hazy mountains under a bright blue sky dotted with puffy white clouds. In the left foreground, a lone pine tree grows atop weathered granite boulders.") }}
 

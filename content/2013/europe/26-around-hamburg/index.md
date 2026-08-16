@@ -1,5 +1,5 @@
 +++
-title = "Europe Days 24 – 26: Around Hamburg"
+title = "Europe Days 24–26: Around Hamburg"
 date = 2013-06-26T13:14:17+02:00
 updated = 2024-07-19T15:04:39-07:00
 

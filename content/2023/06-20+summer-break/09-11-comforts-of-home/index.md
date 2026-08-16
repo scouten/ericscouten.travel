@@ -1,5 +1,5 @@
 +++
-title = "Summer Break Days 9 – 11: The Comforts of Home"
+title = "Summer Break Days 9–11: The Comforts of Home"
 date = 2023-06-30T18:42:45-07:00
 updated = 2023-07-01T12:27:26-07:00
 

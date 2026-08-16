@@ -46,6 +46,6 @@ Today we said goodbye to Casa Tumi. Our host, Mary, suggested we stop by the [Th
 
 After Thaba Bosiu, we made our way to the border. We were _hoping_ to cross quickly and take photos of the landscape on our way to Bloemfontein, but ... alas ... that was not to be.
 
-I'm kind of stunned at how inefficient the South African border crossing was. It took three hours -- _three hours!_ -- in line for what turned out to be a very basic formality: an entry stamp in our passports. (There was no obvious inspection or other inquiry about our travels.) Once through that line, we were at risk of missing our flight, so there was no time for photo stops.
+I'm kind of stunned at how inefficient the South African border crossing was. It took three hours — _three hours!_ — in line for what turned out to be a very basic formality: an entry stamp in our passports. (There was no obvious inspection or other inquiry about our travels.) Once through that line, we were at risk of missing our flight, so there was no time for photo stops.
 
 We're now safely back in Cape Town after an evening flight and looking forward to some more fun adventures in our remaining time in South Africa.

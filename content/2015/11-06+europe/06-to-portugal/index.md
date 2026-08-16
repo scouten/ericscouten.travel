@@ -20,7 +20,7 @@ We flew across Spain today and will spend most of our remaining time in Europe v
 
 <!-- more -->
 
-Sadly, there's no Day 5 post for this trip. Something I ate did not land well and I spent all of my time in the hotel. I'm so disappointed -- I was really looking forward to exploring Barcelona. Someday ...
+Sadly, there's no Day 5 post for this trip. Something I ate did not land well and I spent all of my time in the hotel. I'm so disappointed — I was really looking forward to exploring Barcelona. Someday ...
 
 Most of today was involved in travel (flying and driving), but we did manage to sneak in a little side trip to see the Mosteiro de Alcobaça along the way. Very much worth it.
 

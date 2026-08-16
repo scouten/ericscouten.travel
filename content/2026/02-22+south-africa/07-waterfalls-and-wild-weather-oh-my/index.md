@@ -21,7 +21,7 @@ Our host informed us that we really _must_ see Maletsunyane Falls, about 60 km /
 
 <!-- more -->
 
-Today's weather -- during the drive, at least -- was much nicer than yesterday's, so we stopped at a few places we had skipped before.
+Today's weather — during the drive, at least — was much nicer than yesterday's, so we stopped at a few places we had skipped before.
 
 {{ es_cdn_image(id = "lr-263-7192", cdn_version = "v1", cdn_key = "img/v1/2026/03/lr-263-7192", caption = "east of Matsaba, Lesotho", creator = "Lisa Rozmyn") }}
 
@@ -79,7 +79,7 @@ We returned back to Casa Tumi in mid-afternoon. A couple hours later we were pre
 
 Remember the [lawn chairs in front of our house](../06-lesothos-mountains/#es-262-9066) from yesterday? Blown away. We never found them.
 
-Maybe it was a tornado? Maybe it was a sudden wind squall? We'll probably never know. The important thing is we're all OK -- and our host Mary's friends in the community were all OK.
+Maybe it was a tornado? Maybe it was a sudden wind squall? We'll probably never know. The important thing is we're all OK — and our host Mary's friends in the community were all OK.
 
 Once the winds subsided, I stepped outside to see how things were. Wet and colorful is the answer:
 

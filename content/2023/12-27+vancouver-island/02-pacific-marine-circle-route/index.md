@@ -21,7 +21,7 @@ Today I did a variation on the [Pacific Marine Circle Route](https://vancouveris
 
 <!-- more -->
 
-I backtracked a bit from Nanaimo so that I could pick up the highway toward the coast from near Duncan. This led me to the east shore of Cowichan Lake, which -- like so much of the Pacific Northwest -- was wrapped in moody fog and low clouds. I got a clear shot of the lake from the town of Youbou.
+I backtracked a bit from Nanaimo so that I could pick up the highway toward the coast from near Duncan. This led me to the east shore of Cowichan Lake, which — like so much of the Pacific Northwest — was wrapped in moody fog and low clouds. I got a clear shot of the lake from the town of Youbou.
 
 {{ es_cdn_image(id = "es-4623-006p", cdn_version = "v1", cdn_key = "img/v1/2023/12/es-4623-006p", caption = "Youbou, British Columbia, Canada", alt = "A wide panoramic view across the calm, grey waters of Cowichan Lake, with forested hills on the far shore partly hidden by low fog and heavy overcast cloud, and two long floating logs in the foreground water.") }}
 

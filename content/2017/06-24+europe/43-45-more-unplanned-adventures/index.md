@@ -25,7 +25,7 @@ The important pieces: I'm OK, I was able to remain comfortably in Vienna for a f
 
 Today I am at the Vienna airport. The plan was to fly to London and then home to Seattle. But, when I arrived at the check-in counter for British Airways, the plane that was supposed to take me _to_ London had not yet _left_ London. There would not be enough time for me to make my connection, so I am rebooked.
 
-If I have to wait another day, why not ask for a change in venue? So, tonight, I will be in Paris, and from there I can take (hopefully – please no **more** changes to the plan!) a direct flight home.
+If I have to wait another day, why not ask for a change in venue? So, tonight, I will be in Paris, and from there I can take (hopefully — please no **more** changes to the plan!) a direct flight home.
 
 While waiting things out in Vienna, I took many long walks around the city. Here are some photos captured from those walks:
 

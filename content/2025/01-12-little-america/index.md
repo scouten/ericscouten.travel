@@ -17,7 +17,7 @@ cover = "es-4716-055"
 cover_cdn_key = "img/v1/2025/01/es-4716-055"
 +++
 
-I've written here before that borders fascinate me. Today I explored a tiny [exclave](https://en.wikipedia.org/wiki/Enclave_and_exclave#%22Practical%22_enclaves,_exclaves_and_inaccessible_districts) of the United States that -- for those of us without private planes or boats -- is reachable only by driving through the adjacent parts of Canada.
+I've written here before that borders fascinate me. Today I explored a tiny [exclave](https://en.wikipedia.org/wiki/Enclave_and_exclave#%22Practical%22_enclaves,_exclaves_and_inaccessible_districts) of the United States that — for those of us without private planes or boats — is reachable only by driving through the adjacent parts of Canada.
 
 <!-- more -->
 

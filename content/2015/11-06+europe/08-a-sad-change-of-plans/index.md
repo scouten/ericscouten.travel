@@ -17,7 +17,7 @@ As everyone does in such a situation, we followed the news, horrified and appreh
 
 By midnight, my friend had reached out to let me know that it was no longer a good idea for us to visit and suggesting that we find another route home.
 
-So we have -- with sadness -- rebooked our flights to avoid Paris.
+So we have — with sadness — rebooked our flights to avoid Paris.
 
 Upon arrival this evening at Heathrow, the British customs agent enquired as to the purpose of our one-night stay in the United Kingdom.
 

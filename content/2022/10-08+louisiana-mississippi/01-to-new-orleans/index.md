@@ -33,7 +33,7 @@ So, of _course_ once we got settled in, we checked out the French Quarter. First
 
 {{ es_cdn_image(id = "es-4419-024", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4419-024", caption = "Bourbon House, New Orleans, Louisiana") }}
 
-{{ es_cdn_image(id = "lr-22a-3075", cdn_version = "v1", cdn_key = "img/v1/2022/10/lr-22a-3075", caption = "I contemplate the oyster I just ate. My first – ever. Turns out I liked it. · Bourbon House, New Orleans, Louisiana", creator = "Lisa Rozmyn") }}
+{{ es_cdn_image(id = "lr-22a-3075", cdn_version = "v1", cdn_key = "img/v1/2022/10/lr-22a-3075", caption = "I contemplate the oyster I just ate. My first — ever. Turns out I liked it. · Bourbon House, New Orleans, Louisiana", creator = "Lisa Rozmyn") }}
 
 Dinner behind us, we took a walk along Bourbon Street. It being a Saturday night, it was every bit the party scene you might imagine!
 
