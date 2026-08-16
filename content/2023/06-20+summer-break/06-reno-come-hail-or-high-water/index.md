@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2023/06/2023-06-25-reno-come-hail-or-high-water.kml"
 bounds = {sw = [39.510, -119.798], ne = [41.115, -111.870]}
 cover = "es-4543-026"
 cover_cdn_key = "img/v1/2023/06/es-4543-026"
+cover_alt = "A broad high-desert basin near Winnemucca, Nevada, with green and golden grasses and silvery sagebrush in the foreground giving way to a large isolated mountain rising from the flat valley under a wide blue sky filled with puffy cumulus and wispy cirrus clouds."
 +++
 
 Our time in Salt Lake City has come to an end and we're making our home by way of the California coast.
@@ -23,17 +24,17 @@ Our time in Salt Lake City has come to an end and we're making our home by way o
 
 We stopped for the night in Reno, having driven the long, mostly desolate stretch of I-80 through Utah and Nevada.
 
-{{ es_cdn_image(id = "es-4543-012", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-012", caption = "I-80, east of Skull Valley, Utah") }}
+{{ es_cdn_image(id = "es-4543-012", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-012", caption = "I-80, east of Skull Valley, Utah", alt = "A wooden utility pole with drooping wires stands partly submerged in a still pond of water in an arid desert landscape, its reflection mirrored on the calm surface. Behind a rocky embankment run railroad tracks, with sagebrush, distant low mountains, and a pale blue sky beyond.") }}
 
-{{ es_cdn_image(id = "es-4543-015", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-015", caption = "west of Aragonite, Utah") }}
+{{ es_cdn_image(id = "es-4543-015", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-015", caption = "west of Aragonite, Utah", alt = "A vast, flat salt desert stretching to distant low mountains under an expansive blue sky filled with wispy, mottled cirrocumulus clouds. Sparse green sagebrush and pale scrubby vegetation dot the dry ground in the foreground.") }}
 
 One of the surprises for me was to see how lush and green the Nevada desert was. On [my previous trip through this part of Utah and Nevada](/2021/04-21+dallas-to-seattle/day-5-to-boise/), it was all brown, all the time.
 
-{{ es_cdn_image(id = "es-4543-018", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-018", caption = "east of Wells, Nevada") }}
+{{ es_cdn_image(id = "es-4543-018", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-018", caption = "east of Wells, Nevada", alt = "A high-desert landscape east of Wells, Nevada, with green juniper trees and sagebrush in the foreground giving way to a broad grassy hill or low mountain under a vast blue sky streaked with wispy cirrus clouds.") }}
 
-{{ es_cdn_image(id = "es-4543-020", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-020", caption = "east of Wells, Nevada") }}
+{{ es_cdn_image(id = "es-4543-020", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-020", caption = "east of Wells, Nevada", alt = "A gravel dirt road winds through high-desert scrubland dotted with juniper trees and silvery sagebrush, receding toward distant low mountains under a vast blue sky streaked with wispy cirrus clouds.") }}
 
-{{ es_cdn_image(id = "es-4543-026", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-026", caption = "I-80 Cosgrave Rest Area, southwest of Winnemuuca, Nevada") }}
+{{ es_cdn_image(id = "es-4543-026", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4543-026", caption = "I-80 Cosgrave Rest Area, southwest of Winnemuuca, Nevada", alt = "A broad high-desert basin near Winnemucca, Nevada, with green and golden grasses and silvery sagebrush in the foreground giving way to a large isolated mountain rising from the flat valley under a wide blue sky filled with puffy cumulus and wispy cirrus clouds.") }}
 
 I titled this post, "Reno, Come Hail or High Water." I almost contemplated having us take a 2+ hour detour because flooding was mentioned along our route:
 
