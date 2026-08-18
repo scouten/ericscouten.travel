@@ -1,0 +1,25 @@
+function addGpxMarkers(map) {
+    return [
+        addCdnGpxMarker(map, "es-268-1508", 48.424167, -123.371667, "img/v1/2026/08/es-268-1508"),
+        addCdnGpxMarker(map, "es-268-1515", 48.424333, -123.371833, "img/v1/2026/08/es-268-1515"),
+        addCdnGpxMarker(map, "es-268-1521", 48.424667, -123.376167, "img/v1/2026/08/es-268-1521"),
+        addGpxMarker(map, "es-268-1523", 48.425300, -123.383000),
+        addCdnGpxMarker(map, "es-268-1525", 48.420000, -123.393500, "img/v1/2026/08/es-268-1525"),
+        addCdnGpxMarker(map, "es-268-1552", 48.393500, -123.362833, "img/v1/2026/08/es-268-1552"),
+        addCdnGpxMarker(map, "es-268-1556", 48.390333, -123.327500, "img/v1/2026/08/es-268-1556"),
+        addCdnGpxMarker(map, "es-268-1563", 48.389667, -123.310667, "img/v1/2026/08/es-268-1563"),
+        addCdnGpxMarker(map, "es-268-1585", 48.443667, -123.265833, "img/v1/2026/08/es-268-1585"),
+        addCdnGpxMarker(map, "es-268-1603", 48.445500, -123.236167, "img/v1/2026/08/es-268-1603"),
+        addCdnGpxMarker(map, "es-268-1613", 48.443167, -123.255667, "img/v1/2026/08/es-268-1613"),
+        addCdnGpxMarker(map, "es-268-1634", 48.390000, -123.316500, "img/v1/2026/08/es-268-1634"),
+        addCdnGpxMarker(map, "es-268-1653", 48.426333, -123.424667, "img/v1/2026/08/es-268-1653"),
+        addCdnGpxMarker(map, "es-268-1659", 48.456235, -123.409347, "img/v1/2026/08/es-268-1659"),
+        addCdnGpxMarker(map, "es-268-1683", 48.443000, -123.412500, "img/v1/2026/08/es-268-1683"),
+        addCdnGpxMarker(map, "es-268-1700", 48.419500, -123.424667, "img/v1/2026/08/es-268-1700"),
+        addCdnGpxMarker(map, "es-268-1703", 48.410833, -123.439000, "img/v1/2026/08/es-268-1703"),
+        addCdnGpxMarker(map, "es-268-1704", 48.407667, -123.429167, "img/v1/2026/08/es-268-1704"),
+        addGpxMarker(map, "es-268-1708", 48.412900, -123.420500),
+        addCdnGpxMarker(map, "es-268-1710", 48.424167, -123.371667, "img/v1/2026/08/es-268-1710"),
+        addCdnGpxMarker(map, "es-268-1713", 48.424167, -123.371667, "img/v1/2026/08/es-268-1713"),
+    ]
+}
