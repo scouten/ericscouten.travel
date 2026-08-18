@@ -27,7 +27,7 @@ Farewell, Silicon Valley!
 
 I got a brief glimpse of what I believe are the Three Sisters mountains in central Oregon from my window seat ...
 
-{{ es_cdn_image(id = "es-4530-026", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-026", title = "Three Sisters", caption = "above Oakridge, Oregon") }}
+{{ es_cdn_image(id = "es-4530-026", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-026", title = "Three Sisters", caption = "above Oakridge, Oregon", alt = "An aerial view of a cluster of snow-capked volcanic peaks rising above a dark, forested high-country landscape, with hazy blue sky fading toward a distant horizon. Three prominent snowy summits dominate the middle of the frame, with smaller peaks scattered nearby.") }}
 
 ... and an over-the-wing view of Mount Rainier on approach to Sea-Tac.
 
@@ -35,7 +35,7 @@ I got a brief glimpse of what I believe are the Three Sisters mountains in centr
 
 To all my friends in the Northwest, thank you for arranging this nice bit of weather to welcome me home!
 
-{{ es_cdn_image(id = "es-4530-036", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-036", caption = "Olympia, Washington") }}
+{{ es_cdn_image(id = "es-4530-036", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-036", caption = "Olympia, Washington", alt = "A calm marina at dusk with sailboats and motorboats moored along wooden docks under a soft orange and blue sky, their reflections mirrored in the still water. A power pole, waterfront buildings, and a crane rise along the far shore.") }}
 
 It was [Arts Walk](https://www.artswalkoly.com) weekend in Olympia, and by happy accident, we showed up just in time for the Luminary Procession at nightfall. Lisa tells me this is tiny compared to the Procession of the Species which used to run as part of Arts Walk in pre-COVID days. (I hope that resumes some day.)
 

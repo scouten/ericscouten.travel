@@ -12,6 +12,7 @@ markers = "markers.js"
 bounds = {sw = [32.580, -80.117], ne = [32.780, -80.097]}
 cover = "es-4518-070"
 cover_cdn_key = "img/v1/2023/04/es-4518-070"
+cover_alt = "The sun setting low over a tree-lined shore across a rippling expanse of water, with a wooden dock silhouetted at left and streaks of high cirrus cloud across a blue and golden sky."
 +++
 
 The AirBNB where we're staying includes the use of kayaks, so I took one out just before sunset tonight.
@@ -36,4 +37,4 @@ Me, enjoying the time on the water ...
 
 {{ es_cdn_image(id = "es-4518-058", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4518-058", caption = "Bohicket Creek, Johns Island, South Carolina") }}
 
-{{ es_cdn_image(id = "es-4518-070", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4518-070", caption = "Bohicket Creek, Johns Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4518-070", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4518-070", caption = "Bohicket Creek, Johns Island, South Carolina", alt = "The sun setting low over a tree-lined shore across a rippling expanse of water, with a wooden dock silhouetted at left and streaks of high cirrus cloud across a blue and golden sky.") }}

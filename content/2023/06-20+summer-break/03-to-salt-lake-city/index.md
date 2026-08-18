@@ -22,7 +22,7 @@ I took a not-quite-direct route from Boise to Salt Lake City. Not a lot of time 
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4541-004", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4541-004", caption = "Sun Valley Highway, northeast of Mountain Home, Idaho") }}
+{{ es_cdn_image(id = "es-4541-004", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4541-004", caption = "Sun Valley Highway, northeast of Mountain Home, Idaho", alt = "A dry, grassy high-desert landscape under a clear deep-blue sky, with tawny hills and low basalt-capped ridges on the horizon. Tall green and golden grasses fill the foreground, where the long shadow of the photographer stretches across the ground.") }}
 
 {{ es_cdn_image(id = "es-4541-008", cdn_version = "v1", cdn_key = "img/v1/2023/06/es-4541-008", caption = "Sun Valley Highway, south of Dixie, Idaho", alt = "Cattle graze on green pasture beside a calm reservoir, with sagebrush and a wire fence in the foreground and rolling grassy hills and distant snow-dusted mountains under a clear blue morning sky.") }}
 

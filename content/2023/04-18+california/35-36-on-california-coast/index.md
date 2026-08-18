@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2023/04/2023-04-21-on-california-coast.kml"
 bounds = {sw = [37.416, -123.806], ne = [39.307, -122.078]}
 cover = "es-4524-088"
 cover_cdn_key = "img/v1/2023/04/es-4524-088"
+cover_alt = "A calm bay under an overcast gray sky, with rocky headlands and low bluffs where a coastal town of scattered houses and trees sits atop the cliffs. Green shrubs and foliage fill the foreground in this view south of Mendocino, California."
 +++
 
 Continuing on from my [month-long trip through the Southeastern US](/2023/03-18+southeastern-us/), I spent most of _this_ week representing my team and project at [Internet Identity Workshop](https://internetidentityworkshop.com). IIW is a fabulous torrent of information and connections. Having attended before and had that same experience then, I made plans to have this weekend away and to myself.
@@ -31,19 +32,19 @@ After the conference ended yesterday afternoon, I got my rental car and drove to
 
 Today's weather was 👩🏼‍🍳 perfect: cool but sunny. And I had a very fun rental car, so _of course_ I took the windy coastal highway north. I had driven most of this route before, but the aptly named Panoramic Highway was new to me:
 
-{{ es_cdn_image(id = "es-4524-065", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-065", caption = "Panoramic Highway, west of Mill Valley, California") }}
+{{ es_cdn_image(id = "es-4524-065", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-065", caption = "Panoramic Highway, west of Mill Valley, California", alt = "A hilltop view over green coastal scrub and chaparral toward San Francisco Bay, with rolling forested hills and distant ridgelines under a vast blue sky streaked with wispy cirrus clouds. Faint bridges and shoreline development are visible across the hazy bay water.") }}
 
 Had to laugh and maybe cry a little at this sign. How many people (wrongly) followed their GPS down this private driveway?
 
 {{ es_cdn_image(id = "es-4524-066", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-066", title = "Your GPS Is Wrong!", caption = "Panoramic Highway, west of Mill Valley, California") }}
 
-{{ es_cdn_image(id = "es-4524-074", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-074", title = "Please Do Not Block Garage", caption = "Tomales, California") }}
+{{ es_cdn_image(id = "es-4524-074", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-074", title = "Please Do Not Block Garage", caption = "Tomales, California", alt = "The weathered white clapboard side of an old building with a hand-lettered dark wooden sign that reads “Please do not block garage” in cursive, mounted beside a wooden door with a rusted metal hinge.") }}
 
 Did I mention the lonely, windy roads?
 
-{{ es_cdn_image(id = "es-4524-075", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-075", caption = "Shoreline Highway, north of Jenner, California") }}
+{{ es_cdn_image(id = "es-4524-075", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-075", caption = "Shoreline Highway, north of Jenner, California", alt = "A sweeping view of green coastal hills overlooking the blue Pacific Ocean, with a narrow winding road threading through the ridges toward the sea and rocky headlands along the distant shoreline under a bright blue sky with wispy clouds.") }}
 
-{{ es_cdn_image(id = "es-4524-076", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-076", caption = "Shoreline Highway, north of Jenner, California") }}
+{{ es_cdn_image(id = "es-4524-076", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-076", caption = "Shoreline Highway, north of Jenner, California", alt = "A sweeping view of green, rolling coastal hills dotted with dark evergreen trees and shrubs under a bright blue sky with wispy cirrus clouds, with a winding two-lane road and a dirt track threading through the valley below.") }}
 
 People who know me know that I typically demur when asked what is my favorite ___, including what is my favorite travel destination.
 
@@ -53,22 +54,22 @@ Were it not for the modern-day cars parked on its streets, you could think you'v
 
 Here's a view of the village from across the bay:
 
-{{ es_cdn_image(id = "es-4524-088", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-088", caption = "Brewery Gulch Road, south of Mendocino, California") }}
+{{ es_cdn_image(id = "es-4524-088", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-088", caption = "Brewery Gulch Road, south of Mendocino, California", alt = "A calm bay under an overcast gray sky, with rocky headlands and low bluffs where a coastal town of scattered houses and trees sits atop the cliffs. Green shrubs and foliage fill the foreground in this view south of Mendocino, California.") }}
 
 I'm here to do a whole lot of nothing, which sounds like just my speed about now.
 
 I've mostly hidden the parked cars behind trees or hills. You see what I mean about being well-preserved history?
 
-{{ es_cdn_image(id = "es-4524-106", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-106", caption = "Mendocino, California") }}
+{{ es_cdn_image(id = "es-4524-106", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-106", caption = "Mendocino, California", alt = "A dark red gabled house with white-trimmed windows sits behind a hedge in a grassy meadow, viewed across a weathered white picket fence with a broken gap. Other homes, trees, and a large maroon building are scattered under a partly cloudy sky.") }}
 
-{{ es_cdn_image(id = "es-4524-110", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-110", caption = "Mendocino, California") }}
+{{ es_cdn_image(id = "es-4524-110", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-110", caption = "Mendocino, California", alt = "A weathered dark-wood cabin sits on a coastal bluff surrounded by wind-sculpted cypress trees, with grassy meadow and yellow wildflowers in the foreground and the gray Pacific Ocean under an overcast sky behind.") }}
 
-{{ es_cdn_image(id = "es-4524-111", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-111", caption = "Mendocino, California") }}
+{{ es_cdn_image(id = "es-4524-111", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-111", caption = "Mendocino, California", alt = "A weathered gray wooden barrier made of stacked timbers stands beside a sandy footpath winding through grassy coastal bluffs, with houses and a tree line visible in the distance under a partly cloudy blue sky.") }}
 
-{{ es_cdn_image(id = "es-4524-116", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-116", caption = "Mendocino, California") }}
+{{ es_cdn_image(id = "es-4524-116", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-116", caption = "Mendocino, California", alt = "A row of historic wooden buildings in the town of Mendocino, California, including a yellow Victorian, a white two-story storefront, and a wooden water tower on a trestle, seen across a grassy bluff dotted with yellow wildflowers under a bright blue sky with soft clouds.") }}
 
 {{ es_cdn_image(id = "es-4524-123", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-123", caption = "Ford House Visitor Center and Museum, Mendocino, California") }}
 
-{{ es_cdn_image(id = "es-4524-128", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-128", caption = "Mendocino, California") }}
+{{ es_cdn_image(id = "es-4524-128", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4524-128", caption = "Mendocino, California", alt = "An eroded coastal bluff with an exposed sandy cliff face and scattered greenery in the foreground, above which sits the small town of Mendocino with its wood-frame houses, trees, and hedges under an overcast, hazy evening sky.") }}
 
 Anyway, more in a few days as I continue to revisit this — dare I say it? favorite — place.
