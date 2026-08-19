@@ -27,7 +27,7 @@ Farewell, Silicon Valley!
 
 I got a brief glimpse of what I believe are the Three Sisters mountains in central Oregon from my window seat ...
 
-{{ es_cdn_image(id = "es-4530-026", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-026", title = "Three Sisters", caption = "above Oakridge, Oregon", alt = "An aerial view of a cluster of snow-capked volcanic peaks rising above a dark, forested high-country landscape, with hazy blue sky fading toward a distant horizon. Three prominent snowy summits dominate the middle of the frame, with smaller peaks scattered nearby.") }}
+{{ es_cdn_image(id = "es-4530-026", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4530-026", title = "Three Sisters", caption = "above Oakridge, Oregon", alt = "An aerial view from high altitude of a cluster of snow-capped volcanic peaks rising above dark, forested terrain in Oregon’s Cascade Range, with a hazy horizon and pale blue sky above.") }}
 
 ... and an over-the-wing view of Mount Rainier on approach to Sea-Tac.
 
