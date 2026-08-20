@@ -33,13 +33,13 @@ My route took me through some long and pretty quiet two-lane roads in South Caro
 
 I had enjoyed this country road on the way to Edisto back in December, but didn't capture an image I liked of it then. Now that spring is here and trees are budding out, it was much nicer:
 
-{{ es_cdn_image(id = "es-4487-009", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4487-009", title = "Wescott Road", caption = "Edisto Island, South Carolina") }}
+{{ es_cdn_image(id = "es-4487-009", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4487-009", title = "Wescott Road", caption = "Edisto Island, South Carolina", alt = "A sandy dirt road runs straight into the distance beneath a canopy of live oak trees draped with Spanish moss, with grassy verges on either side and dappled sunlight falling on the road under a blue sky.") }}
 
 I had slept in a bit longer than anticipated in Atlanta, so I only got to spend a little bit of time in and around Edisto. Here's a scene from a short time we spent on the beach in Edisto:
 
 {{ es_cdn_image(id = "es-4487-010", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4487-010", caption = "Edisto Island, South Carolina") }}
 
-{{ es_cdn_image(id = "es-4487-016", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4487-016", caption = "Adams Run, South Carolina") }}
+{{ es_cdn_image(id = "es-4487-016", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4487-016", caption = "Adams Run, South Carolina", alt = "A small white cinder-block post office building reading “U.S. Post Office, Adams Run, S.C. 29426” in black lettering, with a blue awning over the entrance, an American flag, concrete steps and an accessibility ramp with metal railings, set beneath large overhanging oak trees under a blue sky.") }}
 
 I left and headed for the freeway, thinking that that would be the fastest way to my destination in North Carolina.
 

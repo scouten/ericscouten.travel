@@ -13,10 +13,11 @@ markers = "markers.js"
 bounds = {sw = [47.029, -122.915], ne = [47.049, -122.895]}
 cover = "es-4470-004"
 cover_cdn_key = "img/v1/2023/01/es-4470-004"
+cover_alt = "A row of mallard ducks, including several green-headed males and mottled brown females, perched along a partly submerged log on the calm blue water of Capitol Lake, with their reflections mirrored in the still surface."
 +++
 
 On a recent walk around Capitol Lake in Olympia, I spotted these ducks hanging out on a log.
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4470-004", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-004", caption = "Capitol Lake, Olympia, Washington") }}
+{{ es_cdn_image(id = "es-4470-004", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4470-004", caption = "Capitol Lake, Olympia, Washington", alt = "A row of mallard ducks, including several green-headed males and mottled brown females, perched along a partly submerged log on the calm blue water of Capitol Lake, with their reflections mirrored in the still surface.") }}

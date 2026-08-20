@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2023/03/2023-03-18-to-atlanta.kml"
 bounds = {sw = [33.733, -121.115], ne = [47.329, -84.222]}
 cover = "es-4486-058"
 cover_cdn_key = "img/v1/2023/03/es-4486-058"
+cover_alt = "An aerial view from high altitude of snow-covered mountain ranges stretching to a hazy horizon beneath a deep blue sky, with rugged peaks, dark forested valleys, and ridgelines dusted in white snow."
 +++
 
 Here goes a great new adventure! I flew today to Atlanta, Georgia, as part of a grand exploration of the southeastern United States.
@@ -28,7 +29,7 @@ The day started, as many of my days do, in search of coffee. I had spent the nig
 
 I had a window seat on today's flight, so most of my photos for today are my views looking northward (from the left side of the plane) as we flew across the country.
 
-{{ es_cdn_image(id = "es-4486-058", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4486-058", caption = "above Roslyn, Washington") }}
+{{ es_cdn_image(id = "es-4486-058", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4486-058", caption = "above Roslyn, Washington", alt = "An aerial view from high altitude of snow-covered mountain ranges stretching to a hazy horizon beneath a deep blue sky, with rugged peaks, dark forested valleys, and ridgelines dusted in white snow.") }}
 
 {{ es_cdn_image(id = "es-4486-062", cdn_version = "v1", cdn_key = "img/v1/2023/03/es-4486-062", caption = "above Twin Bridges, Montana") }}
 
