@@ -15,7 +15,7 @@ track_log_key = "kml/v1/2023/04/2023-04-17-now-for-something-completely-differen
 bounds = {sw = [32.075, -122.078], ne = [37.414, -80.069]}
 cover = "es-4521-025"
 cover_cdn_key = "img/v1/2023/04/es-4521-025"
-cover_alt = "Passenger jets taxiing in a queue on an airport tarmac at sunset, with the sun low on the horizon casting a warm orange glow across the sky and reflecting off the pavement, and distant airport buildings visible in the background."
+cover_alt = "Airliners taxiing on a wide airport tarmac at sunset, with the sun low on the horizon casting a warm orange glow across the sky and pavement, and airport buildings visible in the distance."
 +++
 
 Today marks the end our delightful time together in the Southeast. Today, I drove six hours back to Atlanta and flew another five hours to California. I'll be there for the next several days for some work-related events and a bit of personal travel over the weekend.
@@ -32,11 +32,11 @@ One last look at the Bohicket before we left ...
 
 My flight departed Atlanta around sunset, so I got a few fun photos from my window seat.
 
-{{ es_cdn_image(id = "es-4521-019", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-019", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia", alt = "A Delta Air Lines jet parked on the tarmac at Hartsfield-Jackson Atlanta International Airport with the sun low on the horizon casting a warm golden glow over the airfield. In the distance, a control tower, terminal buildings, and several other aircraft are silhouetted against the hazy evening sky.") }}
+{{ es_cdn_image(id = "es-4521-019", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-019", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia", alt = "A Delta Air Lines jet parked on the tarmac at Hartsfield-Jackson Atlanta International Airport with the sun low on the horizon, casting a warm golden glow across the apron. Other aircraft, a tow tractor, terminal buildings, and an air traffic control tower are silhouetted in the distance under a clear sky.") }}
 
-{{ es_cdn_image(id = "es-4521-025", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-025", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia", alt = "Passenger jets taxiing in a queue on an airport tarmac at sunset, with the sun low on the horizon casting a warm orange glow across the sky and reflecting off the pavement, and distant airport buildings visible in the background.") }}
+{{ es_cdn_image(id = "es-4521-025", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-025", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia", alt = "Airliners taxiing on a wide airport tarmac at sunset, with the sun low on the horizon casting a warm orange glow across the sky and pavement, and airport buildings visible in the distance.") }}
 
-{{ es_cdn_image(id = "es-4521-027", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-027", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia", alt = "A large Delta Air Lines maintenance hangar at Hartsfield-Jackson Atlanta International Airport with an illuminated red “FLY DELTA JETS” sign along its roofline, seen across an empty runway and apron at dusk under a clear gradient sky. Ground equipment, cargo, and airport buildings sit in front of the hangar, with aircraft tails visible in the distance.") }}
+{{ es_cdn_image(id = "es-4521-027", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-027", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia", alt = "A view across an airport tarmac at dusk toward a large Delta hangar bearing the red illuminated sign “FLY DELTA JETS,” with ground support equipment, cargo containers, and terminal buildings behind it under a clear gradient sky fading from blue to orange.") }}
 
 {{ es_cdn_image(id = "es-4521-029", cdn_version = "v1", cdn_key = "img/v1/2023/04/es-4521-029", caption = "Hartsfield-Jackson Atlanta International Airport, Atlanta, Georgia") }}
 
