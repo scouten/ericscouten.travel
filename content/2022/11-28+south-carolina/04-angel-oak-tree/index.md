@@ -12,6 +12,7 @@ markers = "markers.js"
 bounds = {sw = [32.707, -80.09], ne = [32.727, -80.07]}
 cover = "es-4446-247"
 cover_cdn_key = "img/v1/2022/12/es-4446-247"
+cover_alt = "Looking up into the sprawling canopy of the massive Angel Oak, with thick, twisting, moss-covered branches spreading out in every direction against patches of blue sky and green foliage."
 +++
 
 Today was an easy, lay-low day, but we did get out to see the [Angel Oak Tree](https://angeloaktree.com), just outside of Charleston. This is a rare live oak tree with branches that go on and on forever, often going beneath the soil and re-emerging.
@@ -24,5 +25,5 @@ I hardly know how to describe it with words; hopefully the photos will help.
 {{ es_cdn_image(id = "es-4446-228", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-228") }}
 {{ es_cdn_image(id = "es-4446-236", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-236") }}
 {{ es_cdn_image(id = "es-4446-239", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-239") }}
-{{ es_cdn_image(id = "es-4446-247", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-247") }}
-{{ es_cdn_image(id = "es-4446-252", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-252") }}
+{{ es_cdn_image(id = "es-4446-247", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-247", alt = "Looking up into the sprawling canopy of the massive Angel Oak, with thick, twisting, moss-covered branches spreading out in every direction against patches of blue sky and green foliage.") }}
+{{ es_cdn_image(id = "es-4446-252", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4446-252", alt = "Looking straight up into the sprawling canopy of the Angel Oak, with its dark twisting branches silhouetted against a bright blue sky and the sun bursting through a gap in the green leaves.") }}

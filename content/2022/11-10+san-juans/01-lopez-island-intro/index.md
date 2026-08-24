@@ -33,5 +33,5 @@ We started by hiking out to Watmough Bay ...
 {{ es_cdn_image(id = "es-4432-041", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-041", caption = "Shark Reef Sanctuary, Lopez Island, Washington") }}
 {{ es_cdn_image(id = "es-4432-044", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-044", caption = "Shark Reef Sanctuary, Lopez Island, Washington") }}
 {{ es_cdn_image(id = "es-4432-047", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-047", caption = "Shark Reef Sanctuary, Lopez Island, Washington") }}
-{{ es_cdn_image(id = "es-4432-056", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-056", caption = "Shark Reef Sanctuary, Lopez Island, Washington") }}
-{{ es_cdn_image(id = "es-4432-061", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-061", caption = "Shark Reef Sanctuary, Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4432-056", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-056", caption = "Shark Reef Sanctuary, Lopez Island, Washington", alt = "A narrow dirt trail with exposed tree roots winds along a rocky coastline through weathered pines and shrubs, overlooking calm gray water and distant forested shores under an overcast sky.") }}
+{{ es_cdn_image(id = "es-4432-061", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4432-061", caption = "Shark Reef Sanctuary, Lopez Island, Washington", alt = "Dark gray rocky outcrops surrounded by calm, rippling seawater, with long strands of bull kelp draped over the rocks and floating on the surface at Shark Reef Sanctuary on Lopez Island.") }}

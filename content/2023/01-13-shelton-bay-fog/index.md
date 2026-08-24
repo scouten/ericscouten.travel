@@ -13,10 +13,11 @@ markers = "markers.js"
 bounds = {sw = [47.242, -123.05], ne = [47.262, -123.03]}
 cover = "es-4468-034"
 cover_cdn_key = "img/v1/2023/01/es-4468-034"
+cover_alt = "A calm, glassy stretch of water reflecting a moody overcast sky, with low mist drifting across a distant shoreline lined by evergreen forest. A dense cluster of tall conifers rises on the right side, mirrored in the still water below."
 +++
 
 A random photo grab while I was driving near Shelton recently ...
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4468-034", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4468-034", caption = "Oakland Bay, northeast of Shelton, Washington") }}
+{{ es_cdn_image(id = "es-4468-034", cdn_version = "v1", cdn_key = "img/v1/2023/01/es-4468-034", caption = "Oakland Bay, northeast of Shelton, Washington", alt = "A calm, glassy stretch of water reflecting a moody overcast sky, with low mist drifting across a distant shoreline lined by evergreen forest. A dense cluster of tall conifers rises on the right side, mirrored in the still water below.") }}
