@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2022/08/2022-08-23-back-to-seattle.kml"
 bounds = {sw = [40.152, -122.319], ne = [47.460, -109.532]}
 cover = "es-4405-035"
 cover_cdn_key = "img/v1/2022/08/es-4405-035"
+cover_alt = "An aerial view over forested, hazy mountain ridges near Greenwater, Washington, with sunbeams filtering through partly cloudy skies and distant snow-dappled peaks along the horizon."
 comments = true
 +++
 
@@ -21,6 +22,8 @@ All great things must come to an end. Today we parted company and I flew home to
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4405-017", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4405-017", caption = "above Salt Lake City, Utah") }}
-{{ es_cdn_image(id = "es-4405-035", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4405-035", caption = "above Greenwater, Washington") }}
-{{ es_cdn_image(id = "es-4405-044", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4405-044", caption = "above Greenwater, Washington") }}
+{{ es_cdn_image(id = "es-4405-017", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4405-017", caption = "above Salt Lake City, Utah", alt = "An aerial view over marshy wetlands and salt flats near Salt Lake City, with a winding dirt road cutting through mottled ponds and green vegetation, giving way to farmland, industrial buildings, and a distant lake, all backed by a hazy mountain range under a blue sky with scattered clouds.") }}
+
+{{ es_cdn_image(id = "es-4405-035", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4405-035", caption = "above Greenwater, Washington", alt = "An aerial view over forested, hazy mountain ridges near Greenwater, Washington, with sunbeams filtering through partly cloudy skies and distant snow-dappled peaks along the horizon.") }}
+
+{{ es_cdn_image(id = "es-4405-044", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4405-044", caption = "above Greenwater, Washington", alt = "Hazy blue mountain ridges recede into layers of atmospheric mist and distance, with patches of snow on nearer peaks and a distant volcanic cone on the horizon under a sky filled with broken clouds.") }}

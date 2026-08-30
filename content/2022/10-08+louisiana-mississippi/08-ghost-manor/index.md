@@ -11,6 +11,7 @@ markers = "markers.js"
 bounds = {sw = [29.918, -90.09], ne = [29.938, -90.07]}
 cover = "es-4428-045"
 cover_cdn_key = "img/v1/2022/10/es-4428-045"
+cover_alt = "A three-story Victorian house elaborately decorated for Halloween at night, lit in dramatic blue, purple, and red lights, with skeletons, mummies, giant spiders, oversized cobwebs, jack-o’-lanterns, and a sign reading “Ghost Manor” across its balconies and porch, partly framed by dark tree branches."
 +++
 
 Friends told us that we should walk down a certain street in the Garden District at night and there would be a show to behold. Mind you, New Orleans in general does not disappoint when it comes to Halloween decor, but our friends were right. This house stood out.
@@ -23,9 +24,9 @@ And a show unlike any other I've seen.
 
 {{ es_cdn_video(id = "es-4428-041", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-041", title = "Puttin’ on the Ritz", caption = "Ghost Manor, New Orleans, Louisiana") }}
 
-{{ es_cdn_image(id = "es-4428-045", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-045", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_image(id = "es-4428-045", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-045", caption = "Ghost Manor, New Orleans, Louisiana", alt = "A three-story Victorian house elaborately decorated for Halloween at night, lit in dramatic blue, purple, and red lights, with skeletons, mummies, giant spiders, oversized cobwebs, jack-o’-lanterns, and a sign reading “Ghost Manor” across its balconies and porch, partly framed by dark tree branches.") }}
 
-{{ es_cdn_image(id = "es-4428-047", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-047", caption = "Ghost Manor, New Orleans, Louisiana") }}
+{{ es_cdn_image(id = "es-4428-047", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4428-047", caption = "Ghost Manor, New Orleans, Louisiana", alt = "A house elaborately decorated for Halloween at night, lit in purple, blue, and orange, with skeletons standing on the porch beneath a ‘Manor’ sign, glowing jack-o’-lanterns and a lit skull along an iron fence draped in fake cobwebs. Silhouetted onlookers, including children and an adult holding up a phone, gather in the foreground to watch the display.") }}
 
 {{ es_cdn_video(id = "es-4428-049", cdn_version = "v1", cdn_key = "vid/v1/2022/10/es-4428-049", title = "Skeleton Dance", caption = "Ghost Manor, New Orleans, Louisiana") }}
 

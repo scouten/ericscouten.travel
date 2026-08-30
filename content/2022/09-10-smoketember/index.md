@@ -13,6 +13,7 @@ track_log_key = "kml/v1/2022/09/2022-09-10-smoketember.kml"
 bounds = {sw = [47.648, -122.702], ne = [48.583, -122.173]}
 cover = "es-4408-020"
 cover_cdn_key = "img/v1/2022/09/es-4408-020"
+cover_alt = "A pebbly beach curves along a calm bay with a small motorboat moored offshore and forested islands and headlands in the distance, beneath a sky heavily veiled by wildfire smoke that dims the sun to a dull orange disk."
 comments = true
 +++
 
@@ -36,7 +37,7 @@ My plan was to walk on to the ferry to Orcas Island and use taxis to get to/from
 
 I was a bit into my exploration of Guemes Island and scouting out some possible kayak launch sites when I noticed the smoke was taking over the sky:
 
-{{ es_cdn_image(id = "es-4408-020", cdn_version = "v1", cdn_key = "img/v1/2022/09/es-4408-020", caption = "North Beach, Young County Park, Guemes Island, Washington") }}
+{{ es_cdn_image(id = "es-4408-020", cdn_version = "v1", cdn_key = "img/v1/2022/09/es-4408-020", caption = "North Beach, Young County Park, Guemes Island, Washington", alt = "A pebbly beach curves along a calm bay with a small motorboat moored offshore and forested islands and headlands in the distance, beneath a sky heavily veiled by wildfire smoke that dims the sun to a dull orange disk.") }}
 
 Things got smokier and smokier by the minute. Not even an hour after the previous shot, I captured this while in line waiting to return from Guemes Island to Anacortes:
 
@@ -46,5 +47,6 @@ Conditions deteriorated quickly from there and I decided to scrap my plans for t
 
 These last two images were from the ferry from Edmonds to Kingston near the end of my journey.
 
-{{ es_cdn_image(id = "es-4408-038", cdn_version = "v1", cdn_key = "img/v1/2022/09/es-4408-038", caption = "Ferry from Edmonds to Kingston, Washington") }}
-{{ es_cdn_image(id = "es-4408-045", cdn_version = "v1", cdn_key = "img/v1/2022/09/es-4408-045", caption = "Ferry from Edmonds to Kingston, Washington") }}
+{{ es_cdn_image(id = "es-4408-038", cdn_version = "v1", cdn_key = "img/v1/2022/09/es-4408-038", caption = "Ferry from Edmonds to Kingston, Washington", alt = "A hazy, smoke-filled sky over Puget Sound with a dim orange sun casting a shimmering golden reflection across the calm water, and a Washington State ferry passing in front of a low, forested shoreline in the distance.") }}
+
+{{ es_cdn_image(id = "es-4408-045", cdn_version = "v1", cdn_key = "img/v1/2022/09/es-4408-045", caption = "Ferry from Edmonds to Kingston, Washington", alt = "View from the deck of a Washington State ferry crossing Puget Sound, with a green metal railing and an orange life ring in the foreground and a hazy, smoke-dimmed sun casting a golden reflection across the calm water toward a distant tree-lined shore.") }}

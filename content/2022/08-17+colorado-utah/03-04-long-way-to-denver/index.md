@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2022/08/2022-08-20-long-way-to-denver.kml"
 bounds = {sw = [39.733, -111.842], ne = [41.793, -104.979]}
 cover = "es-4403-005"
 cover_cdn_key = "img/v1/2022/08/es-4403-005"
+cover_alt = "A wide expanse of dry grassland dotted with sagebrush and yellow wildflowers, bounded by an old wooden picket fence that runs across low rolling hills scattered with pine trees and rocky outcrops, beneath a vast sky filled with wispy cirrus and swelling cumulus clouds."
 comments = true
 +++
 
@@ -21,8 +22,9 @@ So, it turns out it's a long way from Salt Lake City to Denver. We drove this ov
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4403-002", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-002", caption = "Rawlins, Wyoming") }}
-{{ es_cdn_image(id = "es-4403-005", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-005", caption = "south of Laramie, Wyoming") }}
+{{ es_cdn_image(id = "es-4403-002", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-002", caption = "Rawlins, Wyoming", alt = "A restored vintage Texaco gas station with a corrugated metal building labeled “HAYS,” a large round Texaco star sign, and old red gas pumps under a clear blue sky. A weathered red 1950s Texaco service truck sits parked to the left beside an old trailer and rusty equipment on a dirt lot.") }}
+
+{{ es_cdn_image(id = "es-4403-005", cdn_version = "v1", cdn_key = "img/v1/2022/08/es-4403-005", caption = "south of Laramie, Wyoming", alt = "A wide expanse of dry grassland dotted with sagebrush and yellow wildflowers, bounded by an old wooden picket fence that runs across low rolling hills scattered with pine trees and rocky outcrops, beneath a vast sky filled with wispy cirrus and swelling cumulus clouds.") }}
 
 Loved this mural on a school near where we're staying in Denver:
 

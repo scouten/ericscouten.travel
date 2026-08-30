@@ -23,9 +23,9 @@ After a few days meeting with my team in our Bay Area offices, I flew to New Orl
 
 I don't usually take window seats, but when I do, I get some amazing views:
 
-{{ es_cdn_image(id = "es-4418-024", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4418-024", caption = "above Glen Canyon National Recreation Area, north of Halls Crossing, Utah") }}
+{{ es_cdn_image(id = "es-4418-024", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4418-024", caption = "above Glen Canyon National Recreation Area, north of Halls Crossing, Utah", alt = "An aerial view of a winding, dark blue river snaking through vast red-brown desert canyon country, with exposed sediment banks marking receding water levels, distant mesas and buttes, and scattered clouds near the horizon.") }}
 
-{{ es_cdn_image(id = "es-4419-009", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4419-009", caption = "On approach to New Orleans Airport · above Destrehan, Louisiana") }}
+{{ es_cdn_image(id = "es-4419-009", cdn_version = "v1", cdn_key = "img/v1/2022/10/es-4419-009", caption = "On approach to New Orleans Airport · above Destrehan, Louisiana", alt = "Aerial view of a vast marshy wetland with a mosaic of green vegetation and dark ponds and channels of standing water, bordered by a distant line of forest under a bright blue sky streaked with wispy clouds.") }}
 
 So, of _course_ once we got settled in, we checked out the French Quarter. First things first ... we had to find some seafood for dinner. Look up in the second photo below: I love the ceiling fans driven by pulleys from a single motor (on the right of this frame).
 
