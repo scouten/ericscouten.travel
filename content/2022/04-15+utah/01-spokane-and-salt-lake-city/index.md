@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2022/04/2022-04-15-spokane-and-salt-lake-city.kml"
 bounds = {sw = [40.534, -122.869], ne = [47.642, -111.894]}
 cover = "es-4329-013"
 cover_cdn_key = "img/v1/2022/04/es-4329-013"
+cover_alt = "An aerial view from high altitude looking down over a vast range of snow-covered mountains and ridges, with a hazy horizon and a deep blue sky fading to lighter tones near the top of the frame."
 +++
 
 For something a little different, I drove across the state today before heading to Utah for a few days to visit family. (Why? I need to be in eastern Washington right away when I get back.)
@@ -24,7 +25,7 @@ I had to focus on making it to Spokane on time, so no pictures along the way.
 
 My flight to Salt Lake was operated on an E175 regional jet. I paid the relatively small upgrade charge to sit in first class on this flight and wound up sitting by myself (i.e. my seat was both aisle and window). Here are some cloudscapes from that flight and approach into Salt Lake City.
 
-{{ es_cdn_image(id = "es-4329-007", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-007", caption = "above Slate Creek, Idaho") }}
-{{ es_cdn_image(id = "es-4329-013", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-013", caption = "above Hailey, Idaho") }}
-{{ es_cdn_image(id = "es-4329-014", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-014", caption = "above Great Salt Lake, Utah") }}
-{{ es_cdn_image(id = "es-4329-019", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-019", caption = "above Magna, Utah") }}
+{{ es_cdn_image(id = "es-4329-007", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-007", caption = "above Slate Creek, Idaho", alt = "A high-altitude aerial view from an airplane window looking down through scattered white clouds onto the hazy terrain far below, with a deep blue sky arcing over the distant curved horizon.") }}
+{{ es_cdn_image(id = "es-4329-013", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-013", caption = "above Hailey, Idaho", alt = "An aerial view from high altitude looking down over a vast range of snow-covered mountains and ridges, with a hazy horizon and a deep blue sky fading to lighter tones near the top of the frame.") }}
+{{ es_cdn_image(id = "es-4329-014", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-014", caption = "above Great Salt Lake, Utah", alt = "Aerial view from an airplane over the Great Salt Lake in Utah, showing shallow blue-gray water dividing tan wetlands and mudflats, with snow-capped mountain ranges and low clouds on the horizon under a clear blue sky.") }}
+{{ es_cdn_image(id = "es-4329-019", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4329-019", caption = "above Magna, Utah", alt = "An aerial view of a sprawling metropolitan valley, with clusters of large white-roofed warehouses and industrial buildings surrounded by suburban development, wetlands, and open brown land in the foreground. Snow-capped mountains of the Wasatch Range line the horizon under a clear blue sky, with a slight haze layer over the city.") }}

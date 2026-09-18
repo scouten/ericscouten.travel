@@ -20,9 +20,9 @@ I hiked Green Mountain with a couple of friends this weekend.
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4336-014", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-014") }}
+{{ es_cdn_image(id = "es-4336-014", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-014", alt = "A dense evergreen forest of tall moss-covered conifers on a hillside, with sword ferns in the foreground and a muddy, tan-colored creek visible through the trees in the valley below.") }}
 {{ es_cdn_image(id = "es-4336-018", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-018") }}
 {{ es_cdn_image(id = "es-4336-019", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-019") }}
-{{ es_cdn_image(id = "es-4336-021", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-021") }}
+{{ es_cdn_image(id = "es-4336-021", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-021", alt = "A muddy dirt trail with small puddles winds through a dense forest of tall, slender conifers in Green Mountain State Forest, with green undergrowth, moss, and fallen branches lining the path under an overcast sky.") }}
 {{ es_cdn_image(id = "es-4336-024", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-024") }}
 {{ es_cdn_image(id = "es-4336-026", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4336-026") }}

@@ -30,15 +30,15 @@ The road through the mountains was more than a little windy!
 
 {{ es_cdn_image(id = "es-4300-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-011", caption = "Utuado, Puerto Rico") }}
 
-{{ es_cdn_image(id = "es-4300-014", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-014", caption = "Utuado, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4300-014", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-014", caption = "Utuado, Puerto Rico", alt = "A concrete pedestrian bridge with green, blue, and yellow-painted metal railings leading into a narrow town street lined with weathered buildings, including a faded pink apartment building on the left and aging concrete structures on the right, under a bright blue sky with scattered clouds and a green hillside in the distance.") }}
 
 No, really, Utuado seniors, what do you think about that pandemic?
 
 {{ es_cdn_image(id = "es-4300-018", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-018", caption = "Utuado, Puerto Rico") }}
 
-{{ es_cdn_image(id = "es-4300-019", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-019", caption = "Utuado, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4300-019", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-019", caption = "Utuado, Puerto Rico", alt = "A weathered old building with peeling stucco and exposed brick, featuring an arched wooden door painted with the Puerto Rican flag. Beside it stands a green house with a barred gate and a red tile roof, under a dramatic sky of dark storm clouds.") }}
 
-{{ es_cdn_image(id = "es-4300-028", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-028", caption = "Highway 111, west of Utuado, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4300-028", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-028", caption = "Highway 111, west of Utuado, Puerto Rico", alt = "A hilltop view over a green valley toward forested mountain ridges under a bright blue sky dotted with puffy white clouds, with tall grasses and leafy shrubs in the foreground and scattered buildings visible in the valley below.") }}
 
 Sorry for the wind noise, but this is a brief sample of driving through rural Puerto Rico. Not to worry, Lisa was driving while I made this video!
 
@@ -56,7 +56,7 @@ And then we arrived at the open-air [Treehouse of the Royal Palm](https://www.ai
 
 {{ es_cdn_image(id = "es-4300-071", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-071") }}
 
-{{ es_cdn_image(id = "es-4300-073", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-073") }}
+{{ es_cdn_image(id = "es-4300-073", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-073", alt = "A woven cream-colored rope hammock chair hangs from a wooden frame on a rustic wooden deck with a corrugated metal roof, overlooking a lush green tropical jungle of palms, ferns, and dense foliage.") }}
 
 As night fell, we enjoyed the jungle sounds, wild and otherwise. (This was New Year's Eve, after all, so there were lots of fireworks and other celebrations happening nearby this night.)
 

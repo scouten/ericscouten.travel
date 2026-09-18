@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2022/01/2022-01-03-take-the-long-way-home.kml"
 bounds = {sw = [18.437, -122.737], ne = [47.681, -65.968]}
 cover = "es-4302-045"
 cover_cdn_key = "img/v1/2022/01/es-4302-045"
+cover_alt = "An aerial view from an airplane window looking down through breaks in low clouds onto a coastal landscape of marshy islands, winding channels, and estuary waters near Foster City, California, with distant developed land visible under a soft blue and pale yellow twilight sky."
 +++
 
 It was going to be a long day in any case. But when our 2am flight from San Juan became a 4:30am flight, there was no longer a direct flight available for us from Newark to Seattle. So ... we took the long(er) way home.
@@ -24,9 +25,9 @@ Some upsides to this longer route: Lisa and I got some extra time together, and 
 
 On the final leg from SFO to Seattle, I had a window seat, which gave me some beautiful sunset views on takeoff and a fun video of Seattle's city lights as we came in for our landing.
 
-{{ es_cdn_image(id = "es-4302-045", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-045", caption = "above Foster City, California") }}
+{{ es_cdn_image(id = "es-4302-045", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-045", caption = "above Foster City, California", alt = "An aerial view from an airplane window looking down through breaks in low clouds onto a coastal landscape of marshy islands, winding channels, and estuary waters near Foster City, California, with distant developed land visible under a soft blue and pale yellow twilight sky.") }}
 
-{{ es_cdn_image(id = "es-4302-047", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-047", caption = "above Hayward, California") }}
+{{ es_cdn_image(id = "es-4302-047", cdn_version = "v1", cdn_key = "img/v1/2022/01/es-4302-047", caption = "above Hayward, California", alt = "A view above a soft, rolling layer of clouds seen from high altitude, with a pastel sky glowing pink and purple near the horizon and fading to pale blue above at dusk.") }}
 
 {{ es_cdn_video(id = "es-4302-057", cdn_version = "v1", cdn_key = "vid/v1/2022/01/es-4302-057", title = "Seattle at Night", caption = "above Seattle, Washington") }}
 

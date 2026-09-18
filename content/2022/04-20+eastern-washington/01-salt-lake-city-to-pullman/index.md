@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2022/04/2022-04-20-salt-lake-city-to-pullman.kml"
 bounds = {sw = [40.750, -117.541], ne = [47.737, -111.902]}
 cover = "es-4334-002"
 cover_cdn_key = "img/v1/2022/04/es-4334-002"
+cover_alt = "A calm lake bordered by dense evergreen forest on the far shore, with a tall pine tree on the grassy near bank in the foreground. A vivid blue sky with scattered white clouds is reflected in the still water."
 +++
 
 Remember when I [said I had to be back in Eastern Washington right away](/2022/04-15+utah/01-spokane-and-salt-lake-city)?
@@ -24,4 +25,4 @@ Here's why: My partner's team was being honored in Pullman tonight. So I flew ba
 
 Not much for photos as I was on a bit of a timeline, but here's one from near Saint Maries:
 
-{{ es_cdn_image(id = "es-4334-002", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4334-002", caption = "west of Saint Maries, Idaho") }}
+{{ es_cdn_image(id = "es-4334-002", cdn_version = "v1", cdn_key = "img/v1/2022/04/es-4334-002", caption = "west of Saint Maries, Idaho", alt = "A calm lake bordered by dense evergreen forest on the far shore, with a tall pine tree on the grassy near bank in the foreground. A vivid blue sky with scattered white clouds is reflected in the still water.") }}

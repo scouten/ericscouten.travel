@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2022/05/2022-05-09-long-island.kml"
 bounds = {sw = [40.654, -73.990], ne = [41.160, -72.233]}
 cover = "es-4343-011"
 cover_cdn_key = "img/v1/2022/05/es-4343-011"
+cover_alt = "A narrow sand and gravel spit stretches into the sea from the foreground, with waves washing up on both sides toward a small offshore lighthouse and a low, tree-lined shore in the distance beneath a wide blue sky streaked with wispy clouds."
 +++
 
 As I am so often inclined to do, I took the long way from Port Jefferson into the city.
@@ -34,11 +35,11 @@ I did hike out from the end of the road to the very tip of the point:
 
 {{ es_cdn_image(id = "es-4343-009", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-009", caption = "Orient Point County Park, Orient, New York") }}
 
-{{ es_cdn_image(id = "es-4343-011", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-011", caption = "Orient Point County Park, Orient, New York") }}
+{{ es_cdn_image(id = "es-4343-011", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-011", caption = "Orient Point County Park, Orient, New York", alt = "A narrow sand and gravel spit stretches into the sea from the foreground, with waves washing up on both sides toward a small offshore lighthouse and a low, tree-lined shore in the distance beneath a wide blue sky streaked with wispy clouds.") }}
 
 {{ es_cdn_video(id = "es-4343-060", cdn_version = "v1", cdn_key = "vid/v1/2022/05/es-4343-060", caption = "Waves pound this last little bit of land from both sides. · Orient Point County Park, Orient, New York") }}
 
-{{ es_cdn_image(id = "es-4343-067", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-067", caption = "Orient Point County Park, Orient, New York") }}
+{{ es_cdn_image(id = "es-4343-067", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-067", caption = "Orient Point County Park, Orient, New York", alt = "A quiet pebble-and-sand beach curving along a calm bay, with gentle waves lapping the shore and vegetated dunes and scrubby trees on the left. Weathered driftwood logs rest on the sand under a vivid blue sky streaked with wispy cirrus clouds.") }}
 
 When I circled back through Greenport, I noticed a familiar name. Turns out I had taken a picture of this same hardware store [20 years ago](/2002/02-23-long-island/). I kind of like the older sign better.
 
@@ -46,7 +47,7 @@ When I circled back through Greenport, I noticed a familiar name. Turns out I ha
 
 {{ es_cdn_image(id = "es-4343-075", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-075", caption = "Greenport, New York") }}
 
-{{ es_cdn_image(id = "es-4343-078", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-078", title = "Fortino’s Tavern", caption = "Greenport, New York") }}
+{{ es_cdn_image(id = "es-4343-078", cdn_version = "v1", cdn_key = "img/v1/2022/05/es-4343-078", title = "Fortino’s Tavern", caption = "Greenport, New York", alt = "A red two-story waterfront building with a weathered green shingled roof and white-trimmed windows and doors, bearing a sign reading Fortino’s Tavern, Greenport NY, seen across a harbor with wooden docks and pilings under a bright blue sky.") }}
 
 Not much for pictures the remainder of the day, but I did enjoy this water tower that I saw from my hotel room.
 
