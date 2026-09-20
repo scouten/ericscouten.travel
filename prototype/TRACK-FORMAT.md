@@ -54,7 +54,6 @@ A day is a sequence of **legs**, each written as one `<trk>` in chronological or
 | `walk` | On foot, urban or beach | `fa-person-walking` |
 | `hike` | On foot, trail | `fa-person-hiking` |
 | `bike` | Bicycle | `fa-bicycle` |
-| `run` | Running | `fa-person-running` |
 | `bus` | Bus or coach | `fa-bus` |
 | `train` | Rail of any kind, including metro and tram | `fa-train` |
 | `cable` | Cable car, gondola, funicular, chairlift | `fa-cable-car` |
