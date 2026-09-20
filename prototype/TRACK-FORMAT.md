@@ -99,7 +99,12 @@ Values: `recorded` (default when absent), `routed` (replaced by a routing servic
 
 ## 2. Track JSON v1
 
-One file per page. Served from the CDN under `track/v1/YYYY/MM/<date>.json`, gzip-encoded by the CDN. The GPX it was derived from stays private.
+One file per page. Served from the CDN under `track/v2/YYYY/MM/<date>.json`, gzip-encoded by the CDN. The GPX it was derived from stays private.
+
+Two version numbers, deliberately separate:
+
+- The **CDN path** (`kml/v1/…` today, `track/v2/…` for this format) marks the pipeline generation. Once the retrofit is complete, everything under `v1` is what can be deleted.
+- The **`v` field** inside the JSON is the schema version consumers check. It starts at 1 and only changes when the JSON shape changes incompatibly.
 
 ```json
 {
@@ -209,7 +214,7 @@ Today the toolchain converts GPX to KML, strips timestamps, and uploads. It beco
 
 | Input | Output |
 |---|---|
-| Sanitized GPX from Waysmith (private, timestamps intact) | `track/v1/YYYY/MM/<date>.json` on the CDN, per §2 |
+| Sanitized GPX from Waysmith (private, timestamps intact) | `track/v2/YYYY/MM/<date>.json` on the CDN, per §2 |
 | Photo manifest for the page: `[{"id": "es-263-9512", "time": "2026-03-05T10:20:00Z"}, …]`, ids matching `markers.js` | `photos` anchors in the same JSON, per §2.3 |
 
 Rules:
@@ -226,7 +231,7 @@ Rules:
 
 | Page front matter | Map shown |
 |---|---|
-| `track = "track/v1/…json"` | New corner map (this design). |
+| `track = "track/v2/…json"` | New corner map (this design). |
 | `track_log_key = "kml/v1/…kml"` and no `track` | Existing Google map, exactly as today. |
 | `markers` only, no track of either kind | Existing Google map with markers, as today (65 pages). Later: optionally the new map with photo dots and no route. |
 | `lat` / `lon` only | Existing Google map, as today (used by other sites on the theme). |
@@ -243,7 +248,7 @@ Concretely:
 
 ```toml
 [extra]
-track = "track/v1/2026/03/2026-03-05.json"   # presence of this key selects the new map
+track = "track/v2/2026/03/2026-03-05.json"   # presence of this key selects the new map
 track_log_key = "kml/v1/2026/03/2026-03-05.kml"  # may stay during transition; ignored once `track` is set
 distance = "167 km / 104 mi"                  # optional: overrides the JSON's dist_m
 bounds = { … }                                # optional: overrides the JSON's bbox
