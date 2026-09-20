@@ -9,7 +9,7 @@ Two representations, one source of truth:
 | **GPX** (`*.gpx`) | Archival, editable source of truth. Carries timestamps and the legs. | Waysmith (Save) | Waysmith, any GPX tool | **No.** Stays private. |
 | **Track JSON** (`*.json`) | Compact, display-ready derivative. Carries no clock times. | Waysmith (Export) or a script | zola-es-theme in the browser | Yes, on the CDN |
 
-The JSON is always regenerable from the GPX plus the photo list. Nothing is hand-edited in JSON.
+The JSON is always regenerable from the GPX plus the photo list. Nothing is hand-edited in JSON. The CDN toolchain produces it; Waysmith never writes JSON.
 
 ## 0. Privacy rule
 
@@ -193,14 +193,32 @@ The reference day (5,964 GPX points, 857 KB) becomes about 1,100 points and 27 K
 
 ## 3. How each tool uses this
 
-### 3.1 Waysmith
+### 3.1 Waysmith (authoring)
 
-Filed as issues on scouten/waysmith, in dependency order:
+Waysmith is where legs are made and stays a pure GPX editor. Proposed in `docs/trip-legs.md` on the Waysmith repo, in dependency order:
 
 1. **Model and GPX round-trip.** `type` and `origin` on `Track`; parse and serialize `<trk><type>` and the `ws:origin` extension; pass `<wpt>` through.
 2. **Leg editing.** Split the current track at the focused point; join with previous; set name and type from the SEGMENTS panel.
-3. **Suggest legs.** Propose typed legs from speed, dwell, and climb rate through the existing proposal / confirm pattern. Reference implementation: `gpx2track.py` in this folder.
-4. **Export track JSON.** Serialize §2 from the document plus loaded media items, honoring §0.
+3. **Suggest legs.** Propose typed legs from speed, dwell, and climb rate through the existing proposal / confirm pattern.
+
+Waysmith does not export JSON. The sanitized GPX it saves is the hand-off to the CDN toolchain.
+
+### 3.1a CDN toolchain (publishing)
+
+Today the toolchain converts GPX to KML, strips timestamps, and uploads. It becomes the GPX-to-JSON step instead. Reference implementation: `gpx2track.py` in this folder, whose behaviour is the specification:
+
+| Input | Output |
+|---|---|
+| Sanitized GPX from Waysmith (private, timestamps intact) | `track/v1/YYYY/MM/<date>.json` on the CDN, per §2 |
+| Photo manifest for the page: `[{"id": "es-263-9512", "time": "2026-03-05T10:20:00Z"}, …]`, ids matching `markers.js` | `photos` anchors in the same JSON, per §2.3 |
+
+Rules:
+
+- **Legs present in the GPX win.** If the file has more than one `<trk>`, or any `<trk><type>`, each track becomes one leg verbatim. Nothing is inferred and nothing is re-split.
+- **Legacy files are inferred.** One untyped track (every existing sanitized file) is split by the heuristic in §3.1 item 3 so an un-retrofitted page still gets legs. The result is a best effort, not authoritative; the page is retrofitted by editing legs in Waysmith and re-running the toolchain.
+- **Never emit clock times** (§0). The GPX is not uploaded; KML is no longer produced.
+- **Photo capture times** come from the toolchain's own EXIF read (it already has the photos). Photos without a usable time are omitted from `photos`; the site falls back to nearest-point snapping for them.
+- **Idempotent.** Re-running on unchanged inputs produces byte-identical JSON.
 
 ### 3.2 zola-es-theme
 
@@ -232,4 +250,4 @@ A KML with only coordinates converts the same way.
 
 1. Should `hike` and `walk` stay distinct, or is one on-foot token enough?
 2. Should a stop show its duration ("Cape Point · 10 min")? The privacy rule as written says no; a dwell time is not a clock time, so this is a judgment call.
-3. Photo anchors could alternatively be produced by the Lightroom-to-CDN export that writes `markers.js`, if that pipeline can read the track JSON. Waysmith is the simpler home because it already has both the track and the media timestamps.
+3. Does the CDN toolchain already know each photo's capture time when it writes `markers.js`? If so the photo manifest in §3.1a is a by-product of that step.
