@@ -222,19 +222,35 @@ Rules:
 
 ### 3.2 zola-es-theme
 
-- A new map partial reads one track JSON and the page's photo list, renders the corner widget, the docking slot, and the expanded view, and draws legs by mode and origin. It never reads GPX or KML.
+**The existing Google Maps / KML map keeps working, unchanged, for as long as the transition takes.** Selection is per page, not per site:
+
+| Page front matter | Map shown |
+|---|---|
+| `track = "track/v1/…json"` | New corner map (this design). |
+| `track_log_key = "kml/v1/…kml"` and no `track` | Existing Google map, exactly as today. |
+| `markers` only, no track of either kind | Existing Google map with markers, as today (65 pages). Later: optionally the new map with photo dots and no route. |
+| `lat` / `lon` only | Existing Google map, as today (used by other sites on the theme). |
+
+Concretely:
+
+- The current `map.html` is untouched. A new partial (`map_track.html`) is included by `page.html` only when `page.extra.track` is set; otherwise `map.html` runs as before. No existing page changes behaviour until its front matter changes.
+- The new partial reads one track JSON and the page's photo list, renders the corner widget, the docking slot, and the expanded view, and draws legs by mode and origin. It never reads GPX or KML.
 - Icon map for §1.2 tokens, using the Font Awesome kit already loaded.
-- The existing Google/KML template stays until every site has migrated, selected by config.
+- Site-level config: `extra.track_map = true` enables the new partial at all (so 146parks.blog and ericscouten.dev see no change until opted in), plus basemap style choices.
+- The Google API key and the `GOOGLE_API_KEY` environment lookup stay in place until the last page has migrated, at which point removing `map.html` is a separate, deliberate change.
 
 ### 3.3 ericscouten.travel front matter
 
 ```toml
 [extra]
-track = "track/v1/2026/03/2026-03-05.json"   # replaces track_log_key
+track = "track/v1/2026/03/2026-03-05.json"   # presence of this key selects the new map
+track_log_key = "kml/v1/2026/03/2026-03-05.kml"  # may stay during transition; ignored once `track` is set
 distance = "167 km / 104 mi"                  # optional: overrides the JSON's dist_m
 bounds = { … }                                # optional: overrides the JSON's bbox
-markers = "markers.js"                        # unchanged for now; ids must match photo anchors
+markers = "markers.js"                        # unchanged; ids must match photo anchors
 ```
+
+Migrating a page is one front-matter edit after the JSON is on the CDN. Reverting a page is deleting that one line. Pages are migrated in whatever order and at whatever pace suits; nothing forces a bulk change.
 
 Per-page leg overrides are deliberately **not** in front matter. Legs are edited in Waysmith and saved in the GPX, so the GPX stays the single place where a day's structure lives.
 
