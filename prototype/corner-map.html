@@ -1,0 +1,906 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Corner Map Prototype</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;1,400&family=Source+Sans+3:wght@400;600&display=swap">
+<script src="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.js"></script>
+<style>
+  /* ---------- tokens (dark-first, to match ericscouten.travel) ---------- */
+  :root {
+    --ground: #212126;
+    --ground-deep: #18181c;
+    --panel: rgba(24, 24, 28, .88);
+    --panel-solid: #1c1c21;
+    --edge: rgba(255, 255, 255, .13);
+    --text: #e6e5e9;
+    --text-soft: #c9c8cf;
+    --muted: #9b9ba6;
+    --title: #dddddd;
+    --link: #a6a6b1;
+    --accent: #f2a65a;
+    --accent-soft: rgba(242, 166, 90, .28);
+    --ahead: rgba(255, 255, 255, .34);
+    --dot: #ffffff;
+    --casing: rgba(0, 0, 0, .55);
+    --map-bg: #1b1b20;
+    --shadow: 0 14px 34px rgba(0, 0, 0, .5);
+    --basemap: dark;
+    --mw: 300px;
+    --mh: 210px;
+    color-scheme: dark;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --ground: #f4f3ef;
+      --ground-deep: #e9e8e2;
+      --panel: rgba(255, 255, 255, .9);
+      --panel-solid: #ffffff;
+      --edge: rgba(0, 0, 0, .12);
+      --text: #232227;
+      --text-soft: #3d3c44;
+      --muted: #6b6b76;
+      --title: #2b2a30;
+      --link: #55545e;
+      --accent: #c9762a;
+      --accent-soft: rgba(201, 118, 42, .25);
+      --ahead: rgba(0, 0, 0, .3);
+      --dot: #ffffff;
+      --casing: rgba(255, 255, 255, .7);
+      --map-bg: #e6e5df;
+      --shadow: 0 14px 34px rgba(0, 0, 0, .22);
+      --basemap: positron;
+      color-scheme: light;
+    }
+  }
+  :root[data-theme="light"] {
+    --ground: #f4f3ef;
+    --ground-deep: #e9e8e2;
+    --panel: rgba(255, 255, 255, .9);
+    --panel-solid: #ffffff;
+    --edge: rgba(0, 0, 0, .12);
+    --text: #232227;
+    --text-soft: #3d3c44;
+    --muted: #6b6b76;
+    --title: #2b2a30;
+    --link: #55545e;
+    --accent: #c9762a;
+    --accent-soft: rgba(201, 118, 42, .25);
+    --ahead: rgba(0, 0, 0, .3);
+    --dot: #ffffff;
+    --casing: rgba(255, 255, 255, .7);
+    --map-bg: #e6e5df;
+    --shadow: 0 14px 34px rgba(0, 0, 0, .22);
+    --basemap: positron;
+    color-scheme: light;
+  }
+
+  * { box-sizing: border-box; }
+  html { scroll-padding-top: 6rem; }
+  body {
+    margin: 0;
+    background: var(--ground);
+    color: var(--text);
+    font-family: Alegreya, Georgia, "Times New Roman", serif;
+    font-size: 1.25rem;
+    line-height: 1.6;
+  }
+  a { color: var(--link); }
+  .ui { font-family: "Source Sans 3", "Helvetica Neue", Arial, sans-serif; }
+
+  /* ---------- site chrome (stand-in for the real header) ---------- */
+  .site-header {
+    position: fixed; top: 0; left: 0; right: 0; z-index: 800;
+    height: 3.4rem; padding: 0 1rem;
+    display: flex; align-items: center; gap: .6rem;
+    background: linear-gradient(var(--ground-deep) 75%, transparent);
+    color: var(--muted);
+    font-family: "Source Sans 3", sans-serif; font-size: .95rem;
+  }
+  .site-header .brand { font-weight: 600; letter-spacing: .02em; color: var(--text-soft); }
+  .site-header .crumb { opacity: .8; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+  .page { padding: 5.5rem 1rem 4rem; }
+  .title-block { max-width: 40rem; margin: 0 auto 2.5rem; }
+  h1.title {
+    font-family: "Source Sans 3", sans-serif; font-weight: 600;
+    font-size: 2rem; line-height: 1.1; letter-spacing: -.01em;
+    color: var(--title); margin: 0 0 .5rem; text-wrap: balance;
+  }
+  .page-date { font-family: "Source Sans 3", sans-serif; font-size: .95rem; color: var(--muted); margin: 0; }
+  .page-date b { color: var(--text-soft); font-weight: 600; }
+
+  .proto-note {
+    max-width: 40rem; margin: 1.5rem auto 0; padding: .7rem .9rem;
+    border: 1px dashed var(--edge); border-radius: 8px;
+    font-family: "Source Sans 3", sans-serif; font-size: .9rem; line-height: 1.4; color: var(--muted);
+  }
+  .proto-note b { color: var(--text-soft); }
+
+  #es-content p { max-width: 40rem; margin: 1.2rem auto; }
+  #es-content p:first-of-type { font-size: 115%; }
+
+  figure.es_image { margin: 2vw 0; text-align: center; }
+  figure.es_image .frame { position: relative; display: inline-block; max-width: 100%; }
+  figure.es_image img { display: block; max-width: 100%; max-height: 90vh; height: auto; margin: 0 auto; background: var(--ground-deep); }
+  figure.es_image .frame.is-video::after {
+    content: ""; position: absolute; left: 50%; top: 50%; width: 72px; height: 72px; transform: translate(-50%, -50%);
+    border-radius: 50%; background: rgba(0,0,0,.55) url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"%3E%3Cpath fill="white" d="M8 5v14l11-7z"/%3E%3C/svg%3E') center/38px no-repeat;
+    border: 2px solid rgba(255,255,255,.7);
+  }
+  figure.es_image figcaption { font-style: italic; font-size: 80%; color: var(--text-soft); margin-top: .3rem; }
+
+  /* ---------- docking slot at the end of the article ---------- */
+  .es-map-slot {
+    position: relative; height: 62vh; min-height: 320px; margin: 3rem auto 0;
+    max-width: 1400px; border-radius: 8px; overflow: hidden; background: var(--ground-deep);
+  }
+  .es-map-slot .slot-empty {
+    position: absolute; inset: 0; display: grid; place-items: center;
+    color: var(--muted); font-family: "Source Sans 3", sans-serif; font-size: .95rem;
+  }
+  .map-caption { text-align: center; font-family: "Source Sans 3", sans-serif; font-size: .85rem; color: var(--muted); margin: .6rem 0 0; }
+  .endmark { text-align: center; color: var(--muted); margin: 4rem 0; font-family: "Source Sans 3", sans-serif; }
+  .next-prev { max-width: 40rem; margin: 2rem auto; display: flex; justify-content: space-between; font-family: "Source Sans 3", sans-serif; font-size: .95rem; }
+
+  /* ---------- the map widget ---------- */
+  .mapw {
+    display: flex; flex-direction: column;
+    background: var(--panel); color: var(--text);
+    font-family: "Source Sans 3", sans-serif; font-size: .85rem; line-height: 1.3;
+    overflow: hidden;
+  }
+  .mapw-map { position: relative; background: var(--map-bg); }
+  .mapw-map #map { position: absolute; inset: 0; }
+  .mapw.basemap-muted #map canvas { filter: saturate(.7) contrast(.96); }
+  .mapw-map .map-notice {
+    position: absolute; inset: 0; display: grid; place-items: center; text-align: center; padding: 1rem;
+    color: var(--muted); font-size: .8rem; pointer-events: none;
+  }
+
+  .mapw-bar { position: relative; display: flex; align-items: center; gap: .55rem; padding: .55rem .8rem .6rem; min-height: 2.6rem; }
+  .mapw-progress { position: absolute; left: 0; right: 0; top: 0; height: 3px; background: var(--ahead); }
+  .mapw-progress .fill { position: absolute; left: 0; top: 0; bottom: 0; width: 0; background: var(--accent); transition: width .5s ease; }
+  .mapw-progress .tick { position: absolute; top: -1px; width: 1px; height: 5px; background: var(--muted); opacity: .7; }
+  .mapw-ico { flex: 0 0 auto; width: 1.25rem; height: 1.25rem; color: var(--accent); display: inline-flex; }
+  .mapw-ico svg { width: 100%; height: 100%; }
+  .mapw-text { flex: 1 1 auto; min-width: 0; display: flex; flex-direction: column; line-height: 1.25; }
+  .mapw-text .mode { font-weight: 600; color: var(--text); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .mapw-text .label { color: var(--muted); font-size: .78rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .mapw-dist { flex: 0 0 auto; color: var(--muted); font-variant-numeric: tabular-nums; font-size: .8rem; }
+
+  .mapw button.icon-btn {
+    position: absolute; z-index: 2; width: 1.9rem; height: 1.9rem; border-radius: 50%;
+    border: 1px solid var(--edge); background: var(--panel); color: var(--text-soft);
+    display: grid; place-items: center; cursor: pointer; padding: 0;
+  }
+  .mapw button.icon-btn:hover { color: var(--text); border-color: var(--text-soft); }
+  .mapw button.icon-btn:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .mapw button.icon-btn svg { width: 1rem; height: 1rem; }
+  .mapw-expand { top: .5rem; right: .5rem; }
+  .mapw-close { top: .5rem; right: .5rem; display: none; }
+  .mapw-attr-btn { left: .5rem; bottom: .5rem; width: 1.4rem !important; height: 1.4rem !important; font-size: .7rem; font-weight: 600; }
+  .mapw-attr { position: absolute; left: .5rem; bottom: 2.2rem; z-index: 2; background: var(--panel); border: 1px solid var(--edge); border-radius: 6px; padding: .3rem .5rem; font-size: .7rem; color: var(--muted); }
+  .mapw-attr a { color: var(--text-soft); }
+
+  .mapw-thumb {
+    position: absolute; z-index: 3; pointer-events: none; transform: translate(-50%, calc(-100% - 12px));
+    background: var(--panel-solid); border: 1px solid var(--edge); border-radius: 6px; padding: 3px; box-shadow: var(--shadow);
+  }
+  .mapw-thumb img { display: block; width: 160px; height: auto; border-radius: 3px; }
+
+  /* corner placement (desktop) */
+  .mapw.is-corner {
+    position: fixed; left: 16px; bottom: calc(16px + env(safe-area-inset-bottom, 0px)); z-index: 700;
+    width: var(--mw); border-radius: 14px; border: 1px solid var(--edge); box-shadow: var(--shadow);
+    backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+    transition: opacity .35s ease;
+  }
+  .mapw.is-corner.pos-right { left: auto; right: 16px; }
+  .mapw.is-corner .mapw-map { height: var(--mh); cursor: pointer; }
+  .mapw.is-corner.over-photo:not(:hover):not(:focus-within) { opacity: .42; }
+  .mapw.is-corner .mapw-attr { display: none; }
+  .mapw.is-corner .mapw-attr-btn[aria-expanded="true"] + .mapw-attr { display: block; }
+
+  /* docked into the end-of-article slot */
+  .mapw.is-docked { position: absolute; inset: 0; }
+  .mapw.is-docked .mapw-map { flex: 1 1 auto; }
+  .mapw.is-docked .mapw-attr { display: block; }
+  .mapw.is-docked .mapw-attr-btn { display: none; }
+
+  /* expanded modal */
+  .mapmodal { position: fixed; inset: 0; z-index: 900; background: rgba(0, 0, 0, .62); padding: 4vh 4vw; }
+  .mapw.is-expanded { position: relative; height: 100%; border-radius: 14px; border: 1px solid var(--edge); box-shadow: var(--shadow); }
+  .mapw.is-expanded .mapw-map { flex: 1 1 auto; }
+  .mapw.is-expanded .mapw-expand { display: none; }
+  .mapw.is-expanded .mapw-close { display: grid; }
+  .mapw.is-expanded .mapw-attr { display: block; }
+  .mapw.is-expanded .mapw-attr-btn { display: none; }
+  .mapw.is-expanded .mapw-bar, .mapw.is-docked .mapw-bar { font-size: .95rem; padding: .7rem 1rem .75rem; }
+
+  /* phone: bottom strip */
+  @media (max-width: 720px) {
+    .page { padding-bottom: 7rem; }
+    .mapw.is-corner {
+      left: 0; right: 0; bottom: 0; width: auto; border-radius: 12px 12px 0 0; border-bottom: 0;
+      display: grid; grid-template-columns: 76px 1fr; align-items: stretch;
+      padding-bottom: env(safe-area-inset-bottom, 0px);
+    }
+    .mapw.is-corner.pos-right { left: 0; right: 0; }
+    .mapw.is-corner .mapw-map { height: 76px; }
+    .mapw.is-corner .mapw-expand, .mapw.is-corner .mapw-attr-btn { display: none; }
+    .mapw.is-corner .mapw-bar { padding: .6rem .9rem; }
+    .mapw.is-corner.over-photo:not(:hover) { opacity: 1; }
+    .mapmodal { padding: 0; }
+    .mapw.is-expanded { border-radius: 0; border: 0; }
+  }
+
+  /* MapLibre essentials (inlined instead of the library stylesheet) */
+  .maplibregl-map { position: relative; overflow: hidden; }
+  .maplibregl-canvas-container, .maplibregl-canvas { position: absolute; left: 0; top: 0; }
+  .maplibregl-canvas-container.maplibregl-interactive { cursor: grab; }
+  .maplibregl-canvas-container.maplibregl-interactive:active { cursor: grabbing; }
+  .maplibregl-canary { background-color: salmon; }
+  .maplibregl-control-container { display: none; }
+
+  /* ---------- prototype options ---------- */
+  .proto-btn {
+    position: fixed; top: .6rem; right: 1rem; z-index: 850;
+    font-family: "Source Sans 3", sans-serif; font-size: .8rem; font-weight: 600; letter-spacing: .04em; text-transform: uppercase;
+    background: var(--panel); color: var(--text-soft); border: 1px solid var(--edge); border-radius: 999px; padding: .35rem .8rem; cursor: pointer;
+  }
+  .proto-btn:focus-visible { outline: 2px solid var(--accent); }
+  .proto-panel {
+    position: fixed; top: 3.2rem; right: 1rem; z-index: 850; width: min(320px, calc(100vw - 2rem));
+    background: var(--panel-solid); color: var(--text); border: 1px solid var(--edge); border-radius: 12px; box-shadow: var(--shadow);
+    padding: .9rem 1rem 1rem; font-family: "Source Sans 3", sans-serif; font-size: .9rem;
+    max-height: calc(100vh - 4rem); overflow: auto;
+  }
+  .proto-panel h2 { font-size: .8rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); margin: 0 0 .6rem; }
+  .proto-panel fieldset { border: 0; padding: 0; margin: 0 0 .8rem; }
+  .proto-panel legend { font-weight: 600; margin-bottom: .25rem; padding: 0; }
+  .proto-panel label { display: block; padding: .15rem 0; cursor: pointer; }
+  .proto-panel input { accent-color: var(--accent); margin-right: .4rem; }
+  .proto-panel .hint { color: var(--muted); font-size: .8rem; margin: -.1rem 0 .5rem 1.4rem; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .mapw-progress .fill, .mapw.is-corner { transition: none; }
+  }
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <span class="brand">.travel</span><span class="crumb">› South Africa and Lesotho Day 11: Penguins and Table Mountain</span>
+</header>
+
+<button class="proto-btn" id="proto-btn" aria-expanded="false" aria-controls="proto-panel">Prototype options</button>
+<div class="proto-panel" id="proto-panel" hidden>
+  <h2>Try variants</h2>
+  <fieldset>
+    <legend>Camera follows</legend>
+    <label><input type="radio" name="camera" value="segment" id="cam-segment"> The current leg (segment)</label>
+    <div class="hint">Frames the drive, walk, or ride the photo belongs to. Prose between photo groups frames the leg in between.</div>
+    <label><input type="radio" name="camera" value="cluster" id="cam-cluster"> The current photo group</label>
+    <label><input type="radio" name="camera" value="overview" id="cam-overview"> Whole day, only the dot moves</label>
+  </fieldset>
+  <fieldset>
+    <legend>Basemap detail</legend>
+    <label><input type="radio" name="detail" value="terrain" id="det-terrain"> Terrain and coast only</label>
+    <label><input type="radio" name="detail" value="minimal" id="det-minimal"> Minimal (major roads, towns)</label>
+    <label><input type="radio" name="detail" value="standard" id="det-standard"> Standard OpenFreeMap style</label>
+  </fieldset>
+  <fieldset>
+    <legend>Extras</legend>
+    <label><input type="checkbox" name="hillshade" id="opt-hillshade"> Hillshade (terrain relief)</label>
+    <label><input type="checkbox" name="dim" id="opt-dim"> Fade the widget when it overlaps a photo</label>
+    <label><input type="checkbox" name="dots" id="opt-dots"> Show a dot for every photo</label>
+    <label><input type="checkbox" name="modes" id="opt-modes"> Dash walks and rides differently from drives</label>
+  </fieldset>
+  <fieldset>
+    <legend>Widget</legend>
+    <label><input type="radio" name="size" value="s" id="size-s"> Small (240 px)</label>
+    <label><input type="radio" name="size" value="m" id="size-m"> Medium (300 px)</label>
+    <label><input type="radio" name="size" value="l" id="size-l"> Large (380 px)</label>
+    <label><input type="radio" name="corner" value="left" id="corner-left"> Lower left</label>
+    <label><input type="radio" name="corner" value="right" id="corner-right"> Lower right</label>
+  </fieldset>
+</div>
+
+<main class="page">
+  <div class="title-block">
+    <h1 class="title">South Africa and Lesotho Day 11: Penguins and Table Mountain</h1>
+    <p class="page-date"><b>5 March 2026</b> • <a href="#es-map-slot">167 km / 104 mi (map)</a></p>
+    <div class="proto-note">
+      <b>Prototype.</b> Real photo positions from this day; the track is synthetic (drives routed by road, walks and the cableway approximated) until the GPX is wired in.
+      Scroll to watch the corner map follow. Tap the map to expand it; keep scrolling to the end to see it dock into the article.
+      The <b>Prototype options</b> menu (top right) switches between design variants.
+    </div>
+  </div>
+
+  <article id="es-content"></article>
+
+  <section id="es-map-slot" class="es-map-slot" aria-label="Map of the day's route">
+    <div class="slot-empty">Map docks here</div>
+  </section>
+  <p class="map-caption">around Cape Town, Western Cape, South Africa · 167 km / 104 mi</p>
+
+  <div class="endmark">— ◦ —</div>
+  <div class="next-prev"><a href="#">‹ Day 10: Safari, Part 2</a><a href="#">Day 12: Robben Island ›</a></div>
+</main>
+
+<div id="es-map-widget" class="mapw is-corner">
+  <div class="mapw-map">
+    <div id="map"></div>
+    <div class="map-notice" id="map-notice" hidden></div>
+    <div class="mapw-thumb" id="mapw-thumb" hidden><img alt=""></div>
+    <button class="icon-btn mapw-expand" id="mapw-expand" aria-label="Expand map">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+    </button>
+    <button class="icon-btn mapw-close" id="mapw-close" aria-label="Close map">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>
+    </button>
+    <button class="icon-btn mapw-attr-btn" id="mapw-attr-btn" aria-label="Map credits" aria-expanded="false">i</button>
+    <div class="mapw-attr">© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors · <a href="https://openfreemap.org">OpenFreeMap</a> · Terrain: Mapzen, AWS</div>
+  </div>
+  <div class="mapw-bar">
+    <div class="mapw-progress" aria-hidden="true"><div class="ticks" id="mapw-ticks"></div><div class="fill" id="mapw-fill"></div></div>
+    <span class="mapw-ico" id="mapw-ico" aria-hidden="true"></span>
+    <span class="mapw-text" id="mapw-text"><span class="mode">Loading track</span><span class="label">building the route</span></span>
+    <span class="mapw-dist" id="mapw-dist"></span>
+  </div>
+</div>
+<div id="mapmodal" class="mapmodal" hidden></div>
+
+<script>
+'use strict';
+
+/* =====================================================================
+   1. Content: the real photo positions from markers.js for this day
+   ===================================================================== */
+const CDN = 'https://img.ericscouten.com/';
+const LR = 'Lisa Rozmyn';
+const BB = 'Boulders Beach, Table Mountain National Park, Simon’s Town, Western Cape, South Africa';
+const CGH = 'Cape of Good Hope, Table Mountain National Park, south of Cape Town, Western Cape, South Africa';
+const TM = 'Table Mountain National Park, Cape Town, Western Cape, South Africa';
+const IMG = (id, lat, lon, cap, by) => ({ kind: 'image', id, lat, lon, cap, by, cdn: 'img/v1/2026/03/' + id });
+const VID = (id, lat, lon, cap) => ({ kind: 'video', id, lat, lon, cap, cdn: 'vid/v1/2026/03/' + id });
+const P = html => ({ kind: 'p', html });
+
+const ARTICLE = [
+  P('We are back in Cape Town for the remaining time we have in South Africa. The weather forecast was nice today, especially in the afternoon, so we decided to explore the Cape itself and Table Mountain.'),
+  P('We started off down the east side of the Cape and saw this fun view overlooking False Bay.'),
+  IMG('lr-263-7376', -34.111022, 18.464858, 'Muizenberg, Cape Town, Western Cape, South Africa', LR),
+  P('And then we stopped for a walk on the beach in Simon’s Town, a bit farther south.'),
+  IMG('lr-263-7389', -34.194195, 18.448137, 'Simon’s Town, Western Cape, South Africa', LR),
+  P('Oh, but this wasn’t just <em>any</em> beach, it’s a beach with <em>penguins!</em>'),
+  IMG('es-263-9512', -34.195500, 18.449667, BB),
+  P('One penguin …'),
+  IMG('es-263-9516', -34.195500, 18.449833, BB),
+  P('<em>Many</em> penguins …'),
+  IMG('es-263-9521', -34.195833, 18.450333, BB),
+  P('They are <em>so</em> adorable and playful.'),
+  IMG('lr-263-7403', -34.195880, 18.450358, BB, LR),
+  IMG('es-263-9536', -34.195833, 18.450333, BB),
+  IMG('es-263-9540', -34.195833, 18.450333, BB),
+  IMG('lr-263-7406', -34.195972, 18.450400, BB, LR),
+  IMG('es-263-9547', -34.196000, 18.450333, BB),
+  IMG('lr-263-7414', -34.196012, 18.450450, BB, LR),
+  VID('es-263-9561', -34.196000, 18.450500, BB),
+  VID('es-263-9562', -34.196000, 18.450400, BB),
+  VID('es-263-9567', -34.196000, 18.450400, BB),
+  P('And who can resist penguin <em>chicks?</em>'),
+  VID('es-263-9572', -34.196000, 18.450400, BB),
+  IMG('es-263-9577', -34.196000, 18.450333, BB),
+  IMG('es-263-9605', -34.195833, 18.450333, BB),
+  P('After seeing the penguins and getting some lunch in Simon’s Town, we proceeded down to the tip of the Cape.'),
+  IMG('es-263-9683', -34.357167, 18.474000, CGH),
+  IMG('es-263-9705', -34.357333, 18.473833, CGH),
+  IMG('es-263-9708', -34.356667, 18.473167, CGH),
+  IMG('lr-263-7464', -34.356888, 18.473262, CGH, LR),
+  P('And then it was time to visit Cape Town’s iconic Table Mountain. First, a view of Cape Town itself.'),
+  IMG('es-263-9737', -33.949833, 18.406667, TM),
+  P('And then … see that little dot up there in the crevice of the mountain? That’s a cable car. We went there!'),
+  IMG('lr-263-7487', -33.949763, 18.406033, TM, LR),
+  P('Here’s the view on the way up:'),
+  IMG('lr-263-7497', -33.952020, 18.403062, TM, LR),
+  IMG('lr-263-7501', -33.953942, 18.403058, TM, LR),
+  IMG('lr-263-7504', -33.955520, 18.403008, TM, LR),
+  P('And, oh my goodness, the views from up top are <em>chef’s kiss!</em>'),
+  P('Almost everyone we knew who knew Cape Town <em>insisted</em> that we make time for Table Mountain. This is why.'),
+  IMG('es-263-9764', -33.958333, 18.403167, TM),
+  IMG('es-263-9782', -33.958500, 18.403500, TM),
+  P('The rock formations up top had some … shall we say, <em>conveniently</em> … shaped carve-outs in them to hold my glass of wine while I took other pictures.'),
+  IMG('es-263-9789', -33.959333, 18.404833, TM),
+  P('Looking to the north from Table Mountain, we can see the infamous Robben Island. Nelson Mandela was held here along with many other political prisoners for many years.'),
+  IMG('es-263-9800', -33.958667, 18.405833, TM),
+  IMG('es-263-9810', -33.957833, 18.404000, TM),
+  P('We stayed for sunset on the mountain top. So worth it …'),
+  IMG('es-263-9832', -33.958333, 18.403167, TM),
+  IMG('es-263-9841', -33.958333, 18.403167, TM),
+  IMG('es-263-9912', -33.956000, 18.403000, TM),
+  IMG('es-263-9931', -33.948000, 18.402833, TM),
+  P('We have one more full day in South Africa and then we must begin our journey home. We are sad to contemplate the end of this journey.'),
+];
+
+/* =====================================================================
+   2. Track: synthetic segments standing in for the GPX. Each is what a
+      preprocessed GPX would give us: a mode, a label, and coordinates.
+   ===================================================================== */
+const MODES = {
+  drive: { name: 'Driving', icon: 'car' },
+  walk:  { name: 'Walking', icon: 'walk' },
+  cable: { name: 'Cable car', icon: 'cable' },
+  fly:   { name: 'Flying', icon: 'plane' },
+  boat:  { name: 'By boat', icon: 'boat' },
+};
+const ICONS = {
+  car: '<path d="M5 11l1.6-4.2A1.5 1.5 0 0 1 8 6h8a1.5 1.5 0 0 1 1.4.8L19 11"/><path d="M3 17v-4.5A1.5 1.5 0 0 1 4.5 11h15a1.5 1.5 0 0 1 1.5 1.5V17h-2.5M3 17h2.5M9 17h6"/><circle cx="7.5" cy="17" r="1.6"/><circle cx="16.5" cy="17" r="1.6"/>',
+  walk: '<circle cx="13" cy="4" r="1.8"/><path d="M12 7.5l-1.5 6 3.5 3 1 5"/><path d="M10.5 13.5l-3 6.5"/><path d="M12 7.5l3 2.5 2.5 1"/><path d="M12 7.5l-3.5 1.5-1 3.5"/>',
+  cable: '<path d="M2 7l20-4"/><path d="M12 5v4"/><rect x="6.5" y="9" width="11" height="10" rx="2"/><path d="M6.5 13.5h11"/><path d="M12 9v10"/>',
+  plane: '<path d="M21 3L10.5 13.5"/><path d="M21 3l-6.5 18-3.5-8.5L2.5 9z"/>',
+  boat: '<path d="M3 18c1.5 1.5 3.5 1.5 5 0 1.5 1.5 3.5 1.5 5 0 1.5 1.5 3.5 1.5 5 0 1 1 2 1.3 3 1"/><path d="M4 15.5l1.5-5.5h13l1.5 5.5"/><path d="M12 10V4h4.5L12 7.5"/>',
+};
+const iconSvg = k => `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">${ICONS[k] || ''}</svg>`;
+
+// Coordinates are [lon, lat]. "via" points are what the routing / densifying uses.
+const SEGMENTS = [
+  { mode: 'drive', label: 'Cape Town → Simon’s Town', via: [[18.4241, -33.9249], [18.464858, -34.111022], [18.448137, -34.194195]] },
+  { mode: 'walk',  label: 'Simon’s Town beach and Boulders Beach', via: [[18.448137, -34.194195], [18.4489, -34.1950], [18.449667, -34.1955], [18.450333, -34.195833], [18.4505, -34.1960], [18.45045, -34.196012], [18.4508, -34.1962], [18.4500, -34.1958], [18.4494, -34.1954]] },
+  { mode: 'drive', label: 'Simon’s Town → Cape of Good Hope', via: [[18.4494, -34.1954], [18.4735, -34.3572]] },
+  { mode: 'walk',  label: 'Cape of Good Hope', via: [[18.4735, -34.3572], [18.4740, -34.3573], [18.473833, -34.357333], [18.473167, -34.356667], [18.4735, -34.3572]] },
+  { mode: 'drive', label: 'Cape of Good Hope → Table Mountain', via: [[18.4735, -34.3572], [18.406667, -33.949833], [18.4034, -33.9483]] },
+  { mode: 'cable', label: 'Cableway up Table Mountain', via: [[18.4034, -33.9483], [18.4030, -33.9563]] },
+  { mode: 'walk',  label: 'Table Mountain summit', via: [[18.4030, -33.9563], [18.4030, -33.9570], [18.403167, -33.958333], [18.4035, -33.9585], [18.404833, -33.959333], [18.405833, -33.958667], [18.4040, -33.957833], [18.403167, -33.958333], [18.4030, -33.9560], [18.4030, -33.9563]] },
+  { mode: 'cable', label: 'Cableway down', via: [[18.4030, -33.9563], [18.4034, -33.9483]] },
+  { mode: 'drive', label: 'Table Mountain → Cape Town', via: [[18.4034, -33.9483], [18.402833, -33.948], [18.4241, -33.9249]] },
+];
+
+/* =====================================================================
+   3. Geometry helpers
+   ===================================================================== */
+const R = 6371000;
+function hav(a, b) {
+  const toR = Math.PI / 180;
+  const dLat = (b[1] - a[1]) * toR, dLon = (b[0] - a[0]) * toR;
+  const s = Math.sin(dLat / 2) ** 2 + Math.cos(a[1] * toR) * Math.cos(b[1] * toR) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(s));
+}
+function densify(via, step) {
+  const out = [via[0]];
+  for (let i = 1; i < via.length; i++) {
+    const a = via[i - 1], b = via[i], d = hav(a, b), n = Math.max(1, Math.ceil(d / step));
+    for (let k = 1; k <= n; k++) out.push([a[0] + (b[0] - a[0]) * k / n, a[1] + (b[1] - a[1]) * k / n]);
+  }
+  return out;
+}
+function fmtKm(m) {
+  if (m < 950) return `${Math.round(m / 10) * 10} m`;
+  if (m < 9950) return `${(m / 1000).toFixed(1)} km`;
+  return `${Math.round(m / 1000)} km`;
+}
+
+async function routeDrive(via) {
+  const key = 'proto-route:' + via.map(c => c.join(',')).join(';');
+  try { const c = localStorage.getItem(key); if (c) return JSON.parse(c); } catch (e) { }
+  try {
+    const url = `https://router.project-osrm.org/route/v1/driving/${via.map(c => c.join(',')).join(';')}?overview=full&geometries=geojson`;
+    const r = await fetch(url);
+    const j = await r.json();
+    const coords = j.routes[0].geometry.coordinates;
+    try { localStorage.setItem(key, JSON.stringify(coords)); } catch (e) { }
+    return coords;
+  } catch (e) {
+    console.warn('OSRM routing unavailable, using straight lines', e);
+    return densify(via, 200);
+  }
+}
+
+let pts = [], cum = [], segOf = [], total = 0;
+const photos = [];
+function flatten() {
+  pts = []; cum = []; segOf = [];
+  SEGMENTS.forEach((s, si) => {
+    s.start = pts.length;
+    for (const c of s.coords) {
+      if (pts.length === 0) { pts.push(c); cum.push(0); segOf.push(si); continue; }
+      const d = hav(pts[pts.length - 1], c);
+      if (d < 0.5 && pts.length !== s.start) continue;
+      pts.push(c); cum.push(cum[cum.length - 1] + d); segOf.push(si);
+    }
+    s.end = pts.length - 1;
+    s.dist = cum[s.end] - cum[s.start];
+  });
+  total = cum[cum.length - 1];
+}
+// Snap each photo to the track in page order, never moving backwards
+// unless the forward match is clearly wrong (out-and-back roads).
+function snapPhotos() {
+  let last = 0;
+  photos.forEach(p => {
+    const here = [p.lon, p.lat];
+    let best = -1, bd = Infinity;
+    for (let i = last; i < pts.length; i++) { const d = hav(here, pts[i]); if (d < bd) { bd = d; best = i; } }
+    let ub = -1, ubd = Infinity;
+    for (let i = 0; i < last; i++) { const d = hav(here, pts[i]); if (d < ubd) { ubd = d; ub = i; } }
+    if (ub >= 0 && ubd < bd / 3 && bd > 500) { best = ub; bd = ubd; }
+    p.idx = best; p.seg = segOf[best]; p.frac = cum[best] / total; p.m = cum[best];
+    last = best;
+  });
+}
+const segCoords = (a, b) => { const out = []; for (let s = a; s <= b; s++) out.push(SEGMENTS[s].coords); return out; };
+
+/* =====================================================================
+   4. Options
+   ===================================================================== */
+const DEFAULTS = { camera: 'segment', detail: 'minimal', hillshade: true, dim: true, dots: true, modes: true, size: 'm', corner: 'left' };
+let OPTS = { ...DEFAULTS };
+try { Object.assign(OPTS, JSON.parse(localStorage.getItem('proto-opts') || '{}')); } catch (e) { }
+const SIZES = { s: [240, 160], m: [300, 210], l: [380, 270] };
+const RM = matchMedia('(prefers-reduced-motion: reduce)').matches;
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const isDark = () => css('--basemap') === 'dark';
+
+/* =====================================================================
+   5. Render the article
+   ===================================================================== */
+const items = [];
+const content = document.getElementById('es-content');
+ARTICLE.forEach(it => {
+  if (it.kind === 'p') {
+    const p = document.createElement('p'); p.innerHTML = it.html; content.appendChild(p);
+    items.push({ kind: 'p', el: p }); return;
+  }
+  const fig = document.createElement('figure'); fig.className = 'es_image'; fig.id = it.id;
+  let img;
+  if (it.kind === 'image') {
+    const b = `${CDN}${it.cdn}/${it.id}`;
+    img = `<img src="${b}-1000w.jpg" srcset="${b}-400w.jpg 400w, ${b}-1000w.jpg 1000w, ${b}-1500w.jpg 1500w" sizes="(max-width: 1000px) 100vw, 1500px" alt="" loading="lazy" decoding="async">`;
+  } else {
+    img = `<img src="${CDN}${it.cdn}/poster.jpg" alt="" loading="lazy" decoding="async">`;
+  }
+  fig.innerHTML = `<div class="frame${it.kind === 'video' ? ' is-video' : ''}">${img}</div><figcaption>${it.cap}${it.by ? ' · by ' + it.by : ''}</figcaption>`;
+  content.appendChild(fig);
+  it.el = fig; photos.push(it);
+  items.push({ kind: it.kind, el: fig, photo: it });
+});
+
+/* =====================================================================
+   6. Map
+   ===================================================================== */
+const widget = document.getElementById('es-map-widget');
+const slot = document.getElementById('es-map-slot');
+const modal = document.getElementById('mapmodal');
+const notice = document.getElementById('map-notice');
+let map = null, mapReady = false, baseStyle = null;
+let placement = 'corner', slotVisible = false, expanded = false;
+let view = null, lastCamKey = null, lastGrad = -1, lastPhotoIdx = -2;
+
+function showNotice(msg) { notice.textContent = msg; notice.hidden = !msg; }
+
+async function loadBaseStyle() {
+  const name = isDark() ? 'dark' : 'positron';
+  try {
+    const r = await fetch(`https://tiles.openfreemap.org/styles/${name}`);
+    if (!r.ok) throw new Error(r.status);
+    baseStyle = await r.json();
+  } catch (e) {
+    baseStyle = null;
+    showNotice('Basemap tiles unavailable (offline?). Showing the track alone.');
+  }
+}
+
+function keepLayer(l, detail) {
+  if (detail === 'standard') return true;
+  const id = l.id;
+  if (detail === 'terrain') {
+    if (l.type === 'background') return true;
+    if (l.type === 'symbol') return /place_(city|town)|water_name/.test(id) && !/poi|highway|road/.test(id);
+    return /^(water|waterway|ocean|landcover|park)/.test(id) && !/outline|name/.test(id);
+  }
+  // minimal
+  if (l.type === 'symbol') return /place_(city|town|village|country|state)|water_name/.test(id) && !/poi|highway|road|housenum|transit|airport|shield|suburb|other|neighbourhood|hamlet/.test(id);
+  if (l.type === 'fill' || l.type === 'fill-extrusion') return !/building|residential|commercial|industrial|pitch|cemetery|hospital|school|stadium|aeroway|zoo|theme_park/.test(id);
+  if (l.type === 'line') return !/minor|service|path|track|pier|tunnel|rail|transit|aeroway|ferry|oneway|steps|pedestrian|link|area|outline|bridge_(minor|service|path|rail)/.test(id);
+  return true;
+}
+
+function ourSources() {
+  const cur = view;
+  return {
+    track: { type: 'geojson', lineMetrics: true, data: { type: 'Feature', geometry: { type: 'LineString', coordinates: pts } } },
+    modes: { type: 'geojson', data: { type: 'FeatureCollection', features: SEGMENTS.map(s => ({ type: 'Feature', properties: { mode: s.mode }, geometry: { type: 'LineString', coordinates: s.coords } })) } },
+    next: { type: 'geojson', data: nextLegData(cur) },
+    photos: { type: 'geojson', data: { type: 'FeatureCollection', features: photos.map((p, i) => ({ type: 'Feature', properties: { id: p.id, i, cdn: p.cdn, kind: p.kind }, geometry: { type: 'Point', coordinates: [p.lon, p.lat] } })) } },
+    dot: { type: 'geojson', data: dotData(cur) },
+  };
+}
+function nextLegData(v) {
+  if (!v || !v.transit) return { type: 'FeatureCollection', features: [] };
+  return { type: 'FeatureCollection', features: segCoords(v.segs[0], v.segs[1]).map(c => ({ type: 'Feature', properties: {}, geometry: { type: 'LineString', coordinates: c } })) };
+}
+function dotData(v) {
+  const c = v ? v.dot : pts[0];
+  return { type: 'Feature', properties: {}, geometry: { type: 'Point', coordinates: c } };
+}
+function gradientExpr(p) {
+  const accent = css('--accent'), ahead = css('--ahead');
+  if (p <= 0.001) return ['interpolate', ['linear'], ['line-progress'], 0, ahead, 1, ahead];
+  if (p >= 0.999) return ['interpolate', ['linear'], ['line-progress'], 0, accent, 1, accent];
+  const e = 0.0004;
+  return ['interpolate', ['linear'], ['line-progress'], 0, accent, p - e, accent, p + e, ahead, 1, ahead];
+}
+function photoColorExpr(curIdx) {
+  return ['case', ['<=', ['get', 'i'], curIdx], css('--accent'), css('--ahead')];
+}
+function ourLayers() {
+  const big = placement !== 'corner';
+  const accent = css('--accent');
+  const layers = [
+    { id: 'track-casing', type: 'line', source: 'track', layout: { 'line-cap': 'round', 'line-join': 'round' }, paint: { 'line-color': css('--casing'), 'line-width': big ? 7 : 5.5, 'line-opacity': .6 } },
+    { id: 'track-line', type: 'line', source: 'track', layout: { 'line-cap': 'round', 'line-join': 'round' }, paint: { 'line-width': big ? 3.5 : 3, 'line-gradient': gradientExpr(view ? view.frac : 0) } },
+  ];
+  if (OPTS.modes) {
+    const ov = isDark() ? '#ffffff' : '#000000';
+    layers.push({ id: 'mode-walk', type: 'line', source: 'modes', filter: ['==', ['get', 'mode'], 'walk'], layout: { 'line-cap': 'round' }, paint: { 'line-color': ov, 'line-width': 1.3, 'line-opacity': .5, 'line-dasharray': [0.2, 2.2] } });
+    layers.push({ id: 'mode-ride', type: 'line', source: 'modes', filter: ['in', ['get', 'mode'], ['literal', ['cable', 'boat', 'fly']]], paint: { 'line-color': ov, 'line-width': 1.3, 'line-opacity': .55, 'line-dasharray': [3, 2.2] } });
+  }
+  layers.push({ id: 'next-leg', type: 'line', source: 'next', layout: { 'line-cap': 'round', 'line-join': 'round' }, paint: { 'line-color': accent, 'line-width': big ? 3.5 : 3, 'line-opacity': .85, 'line-dasharray': [1.2, 1.6] } });
+  if (OPTS.dots) {
+    layers.push({ id: 'photos', type: 'circle', source: 'photos', paint: { 'circle-radius': big ? 5 : 3, 'circle-color': photoColorExpr(view && view.photoIdx != null ? view.photoIdx : -1), 'circle-stroke-color': css('--ground-deep'), 'circle-stroke-width': 1 } });
+  }
+  layers.push({ id: 'dot-halo', type: 'circle', source: 'dot', paint: { 'circle-radius': big ? 14 : 11, 'circle-color': accent, 'circle-opacity': .3, 'circle-blur': .4 } });
+  layers.push({ id: 'dot', type: 'circle', source: 'dot', paint: { 'circle-radius': big ? 6 : 5, 'circle-color': css('--dot'), 'circle-stroke-color': accent, 'circle-stroke-width': 2.5 } });
+  return layers;
+}
+function buildStyle() {
+  let style;
+  if (baseStyle) {
+    style = JSON.parse(JSON.stringify(baseStyle));
+    style.layers = style.layers.filter(l => keepLayer(l, OPTS.detail));
+  } else {
+    style = { version: 8, sources: {}, layers: [{ id: 'bg', type: 'background', paint: { 'background-color': css('--map-bg') } }] };
+  }
+  if (OPTS.hillshade) {
+    style.sources.dem = { type: 'raster-dem', tiles: ['https://s3.amazonaws.com/elevation-tiles-prod/terrarium/{z}/{x}/{y}.png'], encoding: 'terrarium', tileSize: 256, maxzoom: 15 };
+    const at = style.layers.findIndex(l => l.type === 'symbol');
+    const hs = { id: 'hillshade', type: 'hillshade', source: 'dem', paint: { 'hillshade-exaggeration': isDark() ? .45 : .3, 'hillshade-shadow-color': '#000000', 'hillshade-highlight-color': isDark() ? '#7c828f' : '#ffffff', 'hillshade-accent-color': '#000000' } };
+    style.layers.splice(at < 0 ? style.layers.length : at, 0, hs);
+  }
+  Object.assign(style.sources, ourSources());
+  style.layers.push(...ourLayers());
+  widget.classList.toggle('basemap-muted', OPTS.detail !== 'standard');
+  return style;
+}
+
+function setInteractive(on) {
+  ['scrollZoom', 'dragPan', 'dragRotate', 'keyboard', 'doubleClickZoom', 'touchZoomRotate', 'boxZoom', 'touchPitch'].forEach(h => {
+    if (map[h]) on ? map[h].enable() : map[h].disable();
+  });
+  if (map.touchZoomRotate) map.touchZoomRotate.disableRotation();
+  if (map.dragRotate) map.dragRotate.disable();
+}
+
+function initMap() {
+  if (!window.maplibregl) { showNotice('MapLibre could not be loaded. Check your connection and reload.'); return; }
+  map = new maplibregl.Map({ container: 'map', style: buildStyle(), attributionControl: false, fadeDuration: 0, maxZoom: 17, minZoom: 1, pitchWithRotate: false, center: pts[0], zoom: 9 });
+  setInteractive(false);
+  map.on('load', () => { mapReady = true; lastCamKey = null; lastGrad = -1; lastPhotoIdx = -2; applyView(true); });
+  map.on('style.load', () => { if (mapReady) { lastCamKey = null; lastGrad = -1; lastPhotoIdx = -2; applyView(true); } });
+  map.on('error', e => { const m = (e && e.error && e.error.message) || ''; if (/dem|terrarium|elevation/.test(m)) console.warn(m); });
+
+  // hover thumbnails and click-to-jump, only when the map is big
+  const thumb = document.getElementById('mapw-thumb'), timg = thumb.querySelector('img');
+  map.on('mousemove', 'photos', e => {
+    if (placement === 'corner' || !e.features.length) return;
+    const f = e.features[0], p = f.properties;
+    const src = p.kind === 'video' ? `${CDN}${p.cdn}/poster.jpg` : `${CDN}${p.cdn}/${p.id}-400w.jpg`;
+    if (timg.getAttribute('src') !== src) timg.src = src;
+    const pt = map.project(f.geometry.coordinates);
+    thumb.style.left = pt.x + 'px'; thumb.style.top = pt.y + 'px'; thumb.hidden = false;
+    map.getCanvas().style.cursor = 'pointer';
+  });
+  map.on('mouseleave', 'photos', () => { thumb.hidden = true; map.getCanvas().style.cursor = ''; });
+  map.on('click', 'photos', e => {
+    if (placement === 'corner' || !e.features.length) return;
+    const id = e.features[0].properties.id;
+    if (expanded) { expanded = false; place(); }
+    thumb.hidden = true;
+    const el = document.getElementById(id);
+    if (el) el.scrollIntoView({ behavior: RM ? 'auto' : 'smooth', block: 'center' });
+  });
+}
+
+/* =====================================================================
+   7. Scroll tracking → view state → map
+   ===================================================================== */
+function currentItem() {
+  const y = innerHeight * 0.45;
+  let best = null, bd = Infinity;
+  for (const it of items) {
+    const r = it.el.getBoundingClientRect();
+    const d = (r.top <= y && r.bottom >= y) ? 0 : Math.min(Math.abs(r.top - y), Math.abs(r.bottom - y));
+    if (d < bd) { bd = d; best = it; }
+  }
+  return best;
+}
+function computeView(it) {
+  if (!it) return null;
+  const i = items.indexOf(it);
+  if (it.photo) {
+    const p = it.photo;
+    return { kind: 'photo', photoIdx: photos.indexOf(p), segs: [p.seg, p.seg], capSeg: p.seg, dot: [p.lon, p.lat], frac: p.frac, m: p.m };
+  }
+  let prev = null, next = null;
+  for (let k = i - 1; k >= 0; k--) if (items[k].photo) { prev = items[k].photo; break; }
+  for (let k = i + 1; k < items.length; k++) if (items[k].photo) { next = items[k].photo; break; }
+  if (!prev) return { kind: 'start', photoIdx: -1, segs: [0, 0], capSeg: 0, dot: pts[0], frac: 0, m: 0 };
+  const pi = photos.indexOf(prev);
+  const last = SEGMENTS.length - 1;
+  if (!next) {
+    const a = Math.min(prev.seg + 1, last);
+    if (prev.seg === last) return { kind: 'photo', photoIdx: pi, segs: [last, last], capSeg: last, dot: [prev.lon, prev.lat], frac: prev.frac, m: prev.m };
+    return { kind: 'transit', transit: true, photoIdx: pi, segs: [a, last], capSeg: a, dot: [prev.lon, prev.lat], frac: prev.frac, m: prev.m };
+  }
+  if (next.seg <= prev.seg) return { kind: 'photo', photoIdx: pi, segs: [prev.seg, prev.seg], capSeg: prev.seg, dot: [prev.lon, prev.lat], frac: prev.frac, m: prev.m };
+  return { kind: 'transit', transit: true, photoIdx: pi, segs: [prev.seg + 1, next.seg], capSeg: prev.seg + 1, dot: [prev.lon, prev.lat], frac: prev.frac, m: prev.m };
+}
+
+function boundsOf(coordLists, extra) {
+  const b = new maplibregl.LngLatBounds();
+  coordLists.forEach(cs => cs.forEach(c => b.extend(c)));
+  if (extra) extra.forEach(c => b.extend(c));
+  return b;
+}
+function fitAll(pad) {
+  if (!mapReady) return;
+  map.fitBounds(boundsOf([pts]), { padding: pad, duration: RM ? 0 : 900, maxZoom: 15 });
+}
+function applyCamera(force) {
+  if (!mapReady || !view || placement !== 'corner') return;
+  const mode = OPTS.camera;
+  let key, bounds;
+  const small = innerWidth <= 720;
+  const pad = small ? 14 : 26;
+  if (mode === 'overview') { key = 'all'; bounds = boundsOf([pts]); }
+  else if (mode === 'cluster' && !view.transit) {
+    key = 'c' + view.capSeg;
+    const ps = photos.filter(p => p.seg === view.capSeg).map(p => [p.lon, p.lat]);
+    bounds = boundsOf([ps.length ? ps : [view.dot]], [view.dot]);
+  } else { key = 's' + view.segs.join('-'); bounds = boundsOf(segCoords(view.segs[0], view.segs[1]), [view.dot]); }
+  if (!force && key === lastCamKey) return;
+  lastCamKey = key;
+  map.fitBounds(bounds, { padding: pad, duration: RM ? 0 : 1100, maxZoom: mode === 'cluster' ? 14.5 : 15.5, essential: true });
+}
+function applyView(force) {
+  if (!view) return;
+  // caption
+  const seg = SEGMENTS[view.capSeg], md = MODES[seg.mode];
+  document.getElementById('mapw-ico').innerHTML = iconSvg(md.icon);
+  document.getElementById('mapw-text').innerHTML = `<span class="mode">${md.name} · ${fmtKm(seg.dist)}</span><span class="label">${seg.label}</span>`;
+  document.getElementById('mapw-dist').textContent = `${fmtKm(view.m)} of ${fmtKm(total)}`;
+  document.getElementById('mapw-fill').style.width = (view.frac * 100).toFixed(2) + '%';
+  if (!mapReady) return;
+  // map data
+  map.getSource('dot').setData(dotData(view));
+  map.getSource('next').setData(nextLegData(view));
+  if (force || Math.abs(view.frac - lastGrad) > 0.0008) { lastGrad = view.frac; map.setPaintProperty('track-line', 'line-gradient', gradientExpr(view.frac)); }
+  if (OPTS.dots && map.getLayer('photos') && (force || view.photoIdx !== lastPhotoIdx)) { lastPhotoIdx = view.photoIdx; map.setPaintProperty('photos', 'circle-color', photoColorExpr(view.photoIdx)); }
+  applyCamera(force);
+}
+
+let ticking = false;
+function onScroll() {
+  if (ticking) return; ticking = true;
+  requestAnimationFrame(() => {
+    ticking = false;
+    const it = currentItem();
+    const v = computeView(it);
+    if (v && (!view || v.kind !== view.kind || v.photoIdx !== view.photoIdx || v.segs[0] !== view.segs[0] || v.segs[1] !== view.segs[1])) { view = v; applyView(false); }
+    updateOverlap();
+  });
+}
+function updateOverlap() {
+  if (placement !== 'corner' || !OPTS.dim || innerWidth <= 720) { widget.classList.remove('over-photo'); return; }
+  const w = widget.getBoundingClientRect();
+  let over = false;
+  for (const p of photos) {
+    const img = p.el.querySelector('img'); if (!img) continue;
+    const r = img.getBoundingClientRect();
+    if (r.bottom < 0 || r.top > innerHeight) continue;
+    if (r.left < w.right && r.right > w.left && r.top < w.bottom && r.bottom > w.top) { over = true; break; }
+  }
+  widget.classList.toggle('over-photo', over);
+}
+
+/* =====================================================================
+   8. Placement: corner ⇄ docked ⇄ expanded
+   ===================================================================== */
+function place() {
+  const target = expanded ? 'expanded' : (slotVisible ? 'docked' : 'corner');
+  if (target === placement && widget.parentElement) return;
+  placement = target;
+  widget.classList.remove('is-corner', 'is-docked', 'is-expanded');
+  widget.classList.add('is-' + target);
+  (target === 'corner' ? document.body : target === 'docked' ? slot : modal).appendChild(widget);
+  modal.hidden = target !== 'expanded';
+  document.body.style.overflow = target === 'expanded' ? 'hidden' : '';
+  document.getElementById('mapw-thumb').hidden = true;
+  if (!mapReady) return;
+  setInteractive(target !== 'corner');
+  // re-style so marker sizes match the new scale, then frame
+  map.setStyle(buildStyle());
+  map.once('style.load', () => {
+    map.resize();
+    if (target === 'corner') { lastCamKey = null; applyCamera(true); }
+    else fitAll(target === 'expanded' ? (innerWidth <= 720 ? 30 : 70) : 40);
+  });
+  requestAnimationFrame(() => map.resize());
+}
+new IntersectionObserver(es => { slotVisible = es[0].isIntersecting; place(); }, { threshold: 0 }).observe(slot);
+
+widget.addEventListener('click', e => {
+  if (placement !== 'corner') return;
+  if (e.target.closest('.mapw-attr-btn, .mapw-attr')) return;
+  expanded = true; place();
+});
+document.getElementById('mapw-expand').addEventListener('click', e => { e.stopPropagation(); expanded = true; place(); });
+document.getElementById('mapw-close').addEventListener('click', e => { e.stopPropagation(); expanded = false; place(); });
+modal.addEventListener('click', e => { if (e.target === modal) { expanded = false; place(); } });
+document.addEventListener('keydown', e => { if (e.key === 'Escape' && expanded) { expanded = false; place(); } });
+const attrBtn = document.getElementById('mapw-attr-btn');
+attrBtn.addEventListener('click', e => { e.stopPropagation(); const on = attrBtn.getAttribute('aria-expanded') !== 'true'; attrBtn.setAttribute('aria-expanded', on); });
+
+/* =====================================================================
+   9. Options panel
+   ===================================================================== */
+function applyLayoutOpts() {
+  const [w, h] = SIZES[OPTS.size] || SIZES.m;
+  document.documentElement.style.setProperty('--mw', w + 'px');
+  document.documentElement.style.setProperty('--mh', h + 'px');
+  widget.classList.toggle('pos-right', OPTS.corner === 'right');
+  if (mapReady) requestAnimationFrame(() => { map.resize(); lastCamKey = null; applyCamera(true); });
+}
+function syncPanel() {
+  document.querySelectorAll('#proto-panel input[type=radio]').forEach(i => { i.checked = OPTS[i.name] === i.value; });
+  document.querySelectorAll('#proto-panel input[type=checkbox]').forEach(i => { i.checked = !!OPTS[i.name]; });
+}
+const panel = document.getElementById('proto-panel'), pbtn = document.getElementById('proto-btn');
+pbtn.addEventListener('click', () => { panel.hidden = !panel.hidden; pbtn.setAttribute('aria-expanded', !panel.hidden); });
+panel.addEventListener('change', e => {
+  const i = e.target;
+  OPTS[i.name] = i.type === 'checkbox' ? i.checked : i.value;
+  try { localStorage.setItem('proto-opts', JSON.stringify(OPTS)); } catch (err) { }
+  if (i.name === 'size' || i.name === 'corner') applyLayoutOpts();
+  else if (i.name === 'camera') { lastCamKey = null; applyCamera(true); }
+  else if (i.name === 'dim') updateOverlap();
+  else if (mapReady) map.setStyle(buildStyle());
+});
+syncPanel();
+applyLayoutOpts();
+
+/* =====================================================================
+   10. Boot
+   ===================================================================== */
+(async function boot() {
+  for (const s of SEGMENTS) s.coords = s.mode === 'drive' ? await routeDrive(s.via) : densify(s.via, 20);
+  flatten();
+  snapPhotos();
+  const ticks = document.getElementById('mapw-ticks');
+  const seen = new Set();
+  photos.forEach(p => { const k = p.frac.toFixed(3); if (seen.has(k)) return; seen.add(k); const t = document.createElement('span'); t.className = 'tick'; t.style.left = (p.frac * 100) + '%'; ticks.appendChild(t); });
+  view = computeView(currentItem()); applyView(true);
+  await loadBaseStyle();
+  initMap();
+  addEventListener('scroll', onScroll, { passive: true });
+  addEventListener('resize', () => { onScroll(); if (mapReady) { map.resize(); lastCamKey = null; applyCamera(true); } });
+  photos.forEach(p => { const img = p.el.querySelector('img'); if (img && !img.complete) img.addEventListener('load', onScroll, { once: true }); });
+  const mq = matchMedia('(prefers-color-scheme: dark)');
+  mq.addEventListener('change', async () => { await loadBaseStyle(); if (map) map.setStyle(buildStyle()); });
+  onScroll();
+})();
+</script>
+</body>
+</html>
