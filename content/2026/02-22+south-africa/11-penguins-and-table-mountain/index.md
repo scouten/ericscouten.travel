@@ -11,6 +11,7 @@ distance = "167 km / 104 mi"
 route = "around Cape Town, Western Cape, South Africa"
 markers = "markers.js"
 track_log_key = "kml/v1/2026/03/2026-03-05.kml"
+track_url = "/track/v2/2026/03/2026-03-05.json"
 bounds = {sw = [-34.357, 18.322], ne = [-33.900, 18.481]}
 cover = "es-263-9536"
 cover_cdn_key = "img/v1/2026/03/es-263-9536"

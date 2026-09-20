@@ -47,3 +47,14 @@ sort = "date"
 [extra.taxonomies.state]
 title = "US States and Territories"
 sort = "date"
+
+# Corner map for pages with a track_key / track_url (themes/zola-es-theme/docs/track-map.md).
+[extra.track_map]
+cdn_url = "https://img.ericscouten.com"
+detail = "minimal"
+hillshade = true
+photo_dots = true
+mode_dashes = true
+dim_over_photos = true
+mobile_collapsed = true
+corner = "left"
