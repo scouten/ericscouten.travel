@@ -1,15 +1,21 @@
 # Track legs: GPX authoring convention and the derived track JSON
 
-Status: proposal, v1. Consumed by zola-es-theme; authored in Waysmith; stored on the image CDN.
+Status: proposal, v1. Authored in Waysmith; published to the image CDN; consumed by zola-es-theme.
 
 Two representations, one source of truth:
 
-| | Purpose | Written by | Read by |
-|---|---|---|---|
-| **GPX** (`*.gpx`) | Archival, editable source of truth. Carries the legs. | Waysmith (Save) | Waysmith, any GPX tool |
-| **Track JSON** (`*.json`) | Compact, display-ready derivative. | Waysmith (Export) or a script | zola-es-theme in the browser |
+| | Purpose | Written by | Read by | Published? |
+|---|---|---|---|---|
+| **GPX** (`*.gpx`) | Archival, editable source of truth. Carries timestamps and the legs. | Waysmith (Save) | Waysmith, any GPX tool | **No.** Stays private. |
+| **Track JSON** (`*.json`) | Compact, display-ready derivative. Carries no clock times. | Waysmith (Export) or a script | zola-es-theme in the browser | Yes, on the CDN |
 
 The JSON is always regenerable from the GPX plus the photo list. Nothing is hand-edited in JSON.
+
+## 0. Privacy rule
+
+Nothing public shows or ships a clock time. The JSON has no start or end instants, no per-point times, and no time zone. The only time-derived value it carries is a **duration**, and only on `fly` and `boat` legs, so a caption can read "Flying · ATL → CPT · 14 h 15 min". Stops and other legs are described by place, mode, and distance only.
+
+The GPX keeps everything (it is what makes editing and re-export possible) and is never uploaded to a public location.
 
 ---
 
@@ -34,9 +40,10 @@ A day is a sequence of **legs**, each written as one `<trk>` in chronological or
 </trk>
 ```
 
-- `<name>` is the label shown in the widget caption. Free text. Optional; when absent the display falls back to the leg's local time range.
+- `<name>` is the label shown in the widget caption. Free text. Optional; when absent the caption shows the mode and distance alone.
 - `<type>` is the mode token (§1.2). Optional; when absent the leg is shown without a mode icon.
 - A leg may contain several `<trkseg>` elements (a brief signal dropout inside one drive). Segments within a track are drawn as one leg; the gap between them is not a stop.
+- Consecutive legs abut: the boundary point is the last point of one leg and the first point of the next. Consumers de-duplicate it.
 - Files that predate this convention (one unnamed, untyped track) remain valid. See §3.4 for how they degrade.
 
 ### 1.2 Mode vocabulary
@@ -59,9 +66,9 @@ Unknown tokens are preserved and shown with a generic icon. New tokens are added
 
 ### 1.3 Stops
 
-A stop is a leg with `<type>stop</type>`. Its points are whatever was recorded while stationary, which may be a single point when the logger paused, or a small cloud of GPS wander. Consumers use the stop's time span and the centroid of its points; the wander is never drawn.
+A stop is a leg with `<type>stop</type>`. Its points are whatever was recorded while stationary, which may be a single point when the logger paused, or a small cloud of GPS wander. Consumers use the centroid of its points; the wander is never drawn.
 
-A stop is the unit that photo clusters attach to ("Cape Point · 10 min"), so name stops as places. A stop may be as short as you like; the converter's own threshold for *inferring* a stop is 3 minutes, but an explicit `<type>stop</type>` is always honored.
+A stop is the unit that photo clusters attach to ("Cape Point"), so name stops as places. A stop may be as short as you like; the converter's own threshold for *inferring* a stop is 3 minutes, but an explicit `<type>stop</type>` is always honored.
 
 ### 1.4 Optional extension: origin of a leg
 
@@ -69,7 +76,7 @@ Waysmith reconstructs legs the logger missed (flights, tunnels, dead batteries).
 
 ```xml
 <trk>
-  <name>Seattle → Amsterdam</name>
+  <name>ATL → CPT</name>
   <type>fly</type>
   <extensions>
     <ws:origin xmlns:ws="https://waysmith.app/gpx/1">synthesized</ws:origin>
@@ -78,7 +85,7 @@ Waysmith reconstructs legs the logger missed (flights, tunnels, dead batteries).
 </trk>
 ```
 
-Values: `recorded` (default when absent), `routed` (replaced by a routing service), `synthesized` (generated, e.g. smooth flight path or great-circle). Anything else is treated as `recorded`.
+Values: `recorded` (default when absent), `routed` (replaced by a routing service), `synthesized` (generated, e.g. smooth flight path or great-circle). Anything else is treated as `recorded`. Origin is per leg: a route fix inside a drive does not change the drive's origin; a leg that is entirely reconstructed is marked.
 
 ### 1.5 Waypoints
 
@@ -86,50 +93,44 @@ Values: `recorded` (default when absent), `routed` (replaced by a routing servic
 
 ### 1.6 Metadata
 
-`<metadata><name>` and `<metadata><time>` are passed through to the JSON as `name` and `start` when present. No other metadata is required.
+`<metadata><name>` is passed through to the JSON as `name` when it is not a timestamp-shaped string (the logger's default name is one, and is dropped). `<metadata><time>` is never exported.
 
 ---
 
 ## 2. Track JSON v1
 
-One file per page. Served from the CDN under `track/v1/YYYY/MM/<date>.json`, gzip-encoded by the CDN, next to the GPX it was derived from.
+One file per page. Served from the CDN under `track/v1/YYYY/MM/<date>.json`, gzip-encoded by the CDN. The GPX it was derived from stays private.
 
 ```json
 {
   "v": 1,
-  "src": "2026-03-05.gpx",
-  "name": "2026-03-05T10:18:42",
-  "tz": "Africa/Johannesburg",
-  "start": "2026-03-05T08:18:42Z",
-  "end": "2026-03-05T18:11:50Z",
-  "dist_m": 167100,
+  "dist_m": 166100,
   "bbox": [18.4023, -34.3571, 18.4747, -33.8996],
   "legs": [
     {
       "mode": "drive",
       "label": "Cape Town → Muizenberg",
-      "origin": "recorded",
-      "start": "2026-03-05T08:18:42Z",
-      "end": "2026-03-05T09:12:57Z",
-      "off": 120,
       "dist_m": 35700,
-      "dur_s": 3255,
       "ele": [5, 140],
-      "pts": [[18.41206, -33.89974, 0, 6], [18.41177, -33.89978, 101, 12]]
+      "pts": [[18.41206, -33.89974, 6], [18.41177, -33.89978, 12]]
     },
     {
       "mode": "stop",
       "label": "Muizenberg",
-      "start": "2026-03-05T09:25:31Z",
-      "end": "2026-03-05T09:29:00Z",
-      "off": 120,
       "dist_m": 0,
-      "dur_s": 209,
-      "pts": [[18.4321, -34.13599, 0, 7]]
+      "pts": [[18.4321, -34.13599]]
+    },
+    {
+      "mode": "fly",
+      "label": "ATL → CPT",
+      "origin": "synthesized",
+      "dist_m": 13580000,
+      "dur_s": 51300,
+      "pts": [[-84.4281, 33.6407], [18.6021, -33.9715]]
     }
   ],
   "photos": [
-    { "id": "lr-263-7376", "t": "2026-03-05T09:26:10Z", "leg": 1, "i": 0, "f": 0.2138 }
+    { "id": "lr-263-7376", "leg": 1, "i": 0, "f": 0.2138 }
   ]
 }
 ```
@@ -139,10 +140,7 @@ One file per page. Served from the CDN under `track/v1/YYYY/MM/<date>.json`, gzi
 | Field | Type | Notes |
 |---|---|---|
 | `v` | int | Format version. Consumers refuse files with a major version they don't know. |
-| `src` | string | Basename of the GPX this was derived from. Informational. |
-| `name` | string? | From `<metadata><name>`. |
-| `tz` | string | IANA zone at the track's first point (Waysmith's `tz_name_at`). Used for display when a leg has no `off`. |
-| `start`, `end` | RFC 3339 UTC | Whole-day span. |
+| `name` | string? | From `<metadata><name>`, when it is a real title. |
 | `dist_m` | int | Sum of moving legs, metres. Stops contribute 0. Replaces the hand-typed `distance` in front matter when that is absent. |
 | `bbox` | [minLon, minLat, maxLon, maxLat] | Of all points. Replaces the hand-typed `bounds` in front matter when that is absent. |
 | `legs` | array | In chronological order. See §2.2. |
@@ -155,32 +153,41 @@ One file per page. Served from the CDN under `track/v1/YYYY/MM/<date>.json`, gzi
 | `mode` | string? | Token from §1.2, or absent when the GPX had no `<type>`. |
 | `label` | string? | From `<name>`. |
 | `origin` | string? | From §1.4. Absent means `recorded`. |
-| `start`, `end` | RFC 3339 UTC | Leg time span. Absent when the GPX had no timestamps. |
-| `off` | int? | Local UTC offset in minutes at the leg's start, for caption times. A day that crosses a zone boundary gets a different `off` per leg. |
 | `dist_m` | int | Metres along the (unsimplified) leg. 0 for stops. |
-| `dur_s` | int? | Seconds between `start` and `end`. |
-| `ele` | [min, max]? | Metres. Present when elevation was recorded. |
-| `pts` | array of [lon, lat, t, ele] | Simplified geometry. `lon`, `lat` to 5 decimals (about 1 m). `t` is whole seconds since the leg's `start`, or `null` when untimed. `ele` is whole metres or `null`. Trailing `null`s may be omitted, so an untimed, unelevated point is `[lon, lat]`. |
+| `dur_s` | int? | **Only on `fly` and `boat` legs.** Seconds. Omitted everywhere else. |
+| `ele` | [min, max]? | Metres. Present when elevation was recorded. Omitted on stops. |
+| `pts` | array of [lon, lat, ele?] | Simplified geometry. `lon`, `lat` to 5 decimals (about 1 m). `ele` is whole metres; omitted when unknown. |
 
-Simplification is Ramer–Douglas–Peucker with a 6 m cross-track tolerance on moving legs. That keeps a full day under about 1,500 points. A stop is reduced to one point at the centroid of its recorded points, with `t` 0.
+Simplification is Ramer–Douglas–Peucker with a 6 m cross-track tolerance on moving legs. That keeps a full day under about 1,500 points. A stop is reduced to one point at the centroid of its recorded points.
 
 ### 2.3 Photo anchors
 
-Produced when the exporter knows the photo capture times, which Waysmith does when media were loaded into the document. Keyed by the same `id` used in `markers.js` and the `es_cdn_image` shortcodes.
+Produced when the exporter knows the photo capture times, which Waysmith does when media were loaded into the document. The times are used at export and never written. Keyed by the same `id` used in `markers.js` and the `es_cdn_image` shortcodes.
 
 | Field | Type | Notes |
 |---|---|---|
 | `id` | string | Photo or video id. |
-| `t` | RFC 3339 UTC? | Capture time, when known. |
 | `leg` | int | Index into `legs`. |
 | `i` | int | Index into that leg's `pts` of the point at or before the photo. |
 | `f` | number | Fraction of the day's `dist_m` travelled at the photo, 0 to 1. Drives the progress bar and the traveled-portion gradient. |
 
 When `photos` is absent, or a photo id is missing from it, the theme falls back to the forward-constrained nearest-point rule: snap each photo, in page order, to the nearest track point at or after the previous photo's point. That works without timestamps and handles out-and-back roads.
 
-### 2.4 Size budget
+### 2.4 Caption rules (what the reader sees)
 
-The reference day (5,964 GPX points, 857 KB) becomes about 1,100 points and 30 KB before gzip. A page should stay under 100 KB of track JSON; a multi-day flight track that exceeds it should use a larger simplification tolerance for the flight legs.
+| Leg | Caption |
+|---|---|
+| Moving leg with a label | `Driving · 36 km` over `Cape Town → Muizenberg` |
+| Moving leg without a label | `Driving · 36 km` |
+| `fly` or `boat` leg | `Flying · ATL → CPT · 14 h 15 min` |
+| Stop | `Cape Point` with the pin icon |
+| Reconstructed leg (`origin` not `recorded`) | Same text; the line is drawn dashed |
+
+Progress reads as distance: `36 km of 167 km`.
+
+### 2.5 Size budget
+
+The reference day (5,964 GPX points, 857 KB) becomes about 1,100 points and 27 KB before gzip. A page should stay under 100 KB of track JSON; a multi-day flight track that exceeds it should use a larger simplification tolerance for the flight legs.
 
 ---
 
@@ -188,12 +195,12 @@ The reference day (5,964 GPX points, 857 KB) becomes about 1,100 points and 30 K
 
 ### 3.1 Waysmith
 
-Needed, in dependency order:
+Filed as issues on scouten/waysmith, in dependency order:
 
-1. **Model and GPX round-trip.** Add `type: Option<String>` and `origin: Option<String>` to `Track`; parse and serialize `<trk><type>` and the `ws:origin` extension; pass `<wpt>` through (already a TODO). Existing files are unaffected: untyped tracks stay untyped.
-2. **Leg editing.** Split the current track at the focused point (the point starts the new track); join with previous; set name and type from the SEGMENTS panel. Fix Route and Smooth Flight Path set `origin` on the leg they produce.
-3. **Suggest legs.** A core function that proposes a split of an untyped track into typed legs from speed, dwell, and climb rate. The reference implementation is `gpx2track.py` in this folder: smooth speed over ±20 s, classify each point (stop < 1.5 km/h, walk < 8, cable when horizontal < 35 km/h and vertical > 40 m/min, fly > 200), absorb runs under 150 s (60 s for cable and fly, 180 s for stop), then promote a stop with more than 400 m of wandering to a walk. On the reference day it produced 15 of 16 legs correctly. Present it through the existing proposal / confirm pattern.
-4. **Export track JSON.** Serialize §2 from the document plus loaded media items. This is where photo anchors come from.
+1. **Model and GPX round-trip.** `type` and `origin` on `Track`; parse and serialize `<trk><type>` and the `ws:origin` extension; pass `<wpt>` through.
+2. **Leg editing.** Split the current track at the focused point; join with previous; set name and type from the SEGMENTS panel.
+3. **Suggest legs.** Propose typed legs from speed, dwell, and climb rate through the existing proposal / confirm pattern. Reference implementation: `gpx2track.py` in this folder.
+4. **Export track JSON.** Serialize §2 from the document plus loaded media items, honoring §0.
 
 ### 3.2 zola-es-theme
 
@@ -206,7 +213,6 @@ Needed, in dependency order:
 ```toml
 [extra]
 track = "track/v1/2026/03/2026-03-05.json"   # replaces track_log_key
-gpx = "gpx/v1/2026/03/2026-03-05.gpx"         # optional: archival link for a "download GPX" affordance
 distance = "167 km / 104 mi"                  # optional: overrides the JSON's dist_m
 bounds = { … }                                # optional: overrides the JSON's bbox
 markers = "markers.js"                        # unchanged for now; ids must match photo anchors
@@ -216,14 +222,14 @@ Per-page leg overrides are deliberately **not** in front matter. Legs are edited
 
 ### 3.4 Degradation for un-retrofitted files
 
-A GPX with one unnamed, untyped track (every file today) converts to a JSON with one leg, no `mode`, no `label`. The widget draws the route and the traveled portion, shows the local time range as the caption, and anchors photos by the nearest-point rule. Retrofitting a page means opening the GPX in Waysmith, accepting or correcting suggested legs, saving, exporting, and uploading.
+A GPX with one unnamed, untyped track (every file today) converts to a JSON with one leg, no `mode`, no `label`. The widget draws the route and the traveled portion, shows only the distance as the caption, and anchors photos by the nearest-point rule. Retrofitting a page means opening the GPX in Waysmith, accepting or correcting suggested legs, saving, exporting, and uploading the JSON.
 
-A KML with only coordinates converts the same way, minus times: no `start`, `end`, `dur_s`, or `off`, and `t` is `null` on every point.
+A KML with only coordinates converts the same way.
 
 ---
 
 ## 4. Open questions
 
 1. Should `hike` and `walk` stay distinct, or is one on-foot token enough?
-2. Is a "download GPX" link on the page wanted? If not, `gpx` in front matter can be dropped.
+2. Should a stop show its duration ("Cape Point · 10 min")? The privacy rule as written says no; a dwell time is not a clock time, so this is a judgment call.
 3. Photo anchors could alternatively be produced by the Lightroom-to-CDN export that writes `markers.js`, if that pipeline can read the track JSON. Waysmith is the simpler home because it already has both the track and the media timestamps.

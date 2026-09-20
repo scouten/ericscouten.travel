@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """Convert a GPX track log into the compact per-page track JSON the corner map uses.
 
-Usage: gpx2track.py input.gpx [output.json] [--label N=Text ...] [--mode N=walk|drive|cable|fly|boat|stop ...]
+Usage: gpx2track.py input.gpx [output.json] [--label N=Text ...] [--mode N=walk|drive|cable|fly|boat|stop ...] [--times]
+
+The JSON is meant to be published, so by default it carries no clock times:
+no start/end, no per-point times, and a duration only on fly and boat legs.
+Pass --times to include them (for local inspection only).
 
 Segments are inferred from speed and vertical rate:
   stop   smoothed speed below 1.5 km/h for at least 3 minutes (logger pauses count);
@@ -10,7 +14,7 @@ Segments are inferred from speed and vertical rate:
   cable  below 35 km/h horizontally but climbing or descending faster than 40 m/min
   fly    above 200 km/h
   drive  everything else
-Runs shorter than 90 s are absorbed into their neighbours. Coordinates are
+Runs shorter than 150 s (60 s for cable and fly, 180 s for stops) are absorbed into their neighbours. Coordinates are
 simplified with Douglas-Peucker (6 m tolerance) so a full day is a few hundred
 points instead of several thousand.
 """
@@ -172,7 +176,7 @@ def simplify(coords, tol_m):
     return [c for c, k in zip(coords, keep) if k]
 
 
-def build(pts, labels=None, mode_overrides=None, tol_m=6.0):
+def build(pts, labels=None, mode_overrides=None, tol_m=6.0, times=False):
     annotate(pts)
     runs = merge_short(pts, runs_of(pts))
     # a stop's boundary points belong to the moving legs on either side
@@ -188,31 +192,34 @@ def build(pts, labels=None, mode_overrides=None, tol_m=6.0):
         # a "stop" with real wandering (a beach, a summit) is a walk, not a pause
         if mode == 'stop' and dist > 400 and i not in (mode_overrides or {}):
             mode = 'walk'
-        seg = {
-            'mode': mode,
-            'label': (labels or {}).get(i),
-            'start': pp[0]['t'].isoformat().replace('+00:00', 'Z'),
-            'end': pp[-1]['t'].isoformat().replace('+00:00', 'Z'),
-            'dist_m': round(dist),
-            'dur_s': round(secs),
-        }
+        seg = {'mode': mode, 'label': (labels or {}).get(i), 'dist_m': 0 if mode == 'stop' else round(dist)}
+        if times or mode in ('fly', 'boat'):
+            seg['dur_s'] = round(secs)
+        if times:
+            seg['start'] = pp[0]['t'].isoformat().replace('+00:00', 'Z')
+            seg['end'] = pp[-1]['t'].isoformat().replace('+00:00', 'Z')
         if eles:
-            seg['ele_min'] = round(min(eles)); seg['ele_max'] = round(max(eles))
+            seg['ele'] = [round(min(eles)), round(max(eles))]
         if mode == 'stop':
-            seg['coords'] = [[round(sum(c[0] for c in coords) / len(coords), 5), round(sum(c[1] for c in coords) / len(coords), 5)]]
+            seg['pts'] = [[round(sum(c[0] for c in coords) / len(coords), 5), round(sum(c[1] for c in coords) / len(coords), 5)]]
         else:
-            seg['coords'] = simplify(coords, tol_m)
+            kept = simplify(coords, tol_m)
+            ele_by = {(c[0], c[1]): p['ele'] for c, p in zip(coords, pp)}
+            seg['pts'] = [[c[0], c[1], round(ele_by[(c[0], c[1])])] if ele_by.get((c[0], c[1])) is not None else c for c in kept]
+        seg['_secs'] = secs
         segs.append(seg)
     total = sum(s['dist_m'] for s in segs)
-    return {
-        'creator': 'gpx2track',
-        'start': pts[0]['t'].isoformat().replace('+00:00', 'Z'),
-        'end': pts[-1]['t'].isoformat().replace('+00:00', 'Z'),
+    lons = [c[0] for s in segs for c in s['pts']]; lats = [c[1] for s in segs for c in s['pts']]
+    out = {
+        'v': 1,
         'dist_m': total,
-        'points_in': len(pts),
-        'points_out': sum(len(s['coords']) for s in segs),
-        'segments': segs,
+        'bbox': [min(lons), min(lats), max(lons), max(lats)],
+        'legs': segs,
     }
+    if times:
+        out['start'] = pts[0]['t'].isoformat().replace('+00:00', 'Z')
+        out['end'] = pts[-1]['t'].isoformat().replace('+00:00', 'Z')
+    return out
 
 
 def fmt_dur(s):
@@ -223,10 +230,12 @@ def fmt_dur(s):
 def main(argv):
     if len(argv) < 2:
         print(__doc__); return 2
-    labels, modes, files = {}, {}, []
+    labels, modes, files, times = {}, {}, [], False
     it = iter(argv[1:])
     for a in it:
-        if a == '--label':
+        if a == '--times':
+            times = True
+        elif a == '--label':
             k, v = next(it).split('=', 1); labels[int(k)] = v
         elif a == '--mode':
             k, v = next(it).split('=', 1); modes[int(k)] = v
@@ -234,12 +243,16 @@ def main(argv):
             files.append(a)
     src = files[0]
     out = files[1] if len(files) > 1 else None
-    track = build(parse(src), labels, modes)
-    for i, s in enumerate(track['segments']):
-        t0 = s['start'][11:16]; t1 = s['end'][11:16]
-        print(f"{i:2d} {s['mode']:<5} {t0}-{t1}Z {fmt_dur(s['dur_s']):>10} {s['dist_m'] / 1000:7.1f} km "
-              f"ele {s.get('ele_min', '?'):>4}-{s.get('ele_max', '?'):<4} pts {len(s['coords']):4d}  {s['label'] or ''}", file=sys.stderr)
-    print(f"total {track['dist_m'] / 1000:.1f} km, {track['points_in']} -> {track['points_out']} points", file=sys.stderr)
+    parsed = parse(src)
+    track = build(parsed, labels, modes, times=times)
+    n_out = 0
+    for i, s in enumerate(track['legs']):
+        ele = s.get('ele', ['?', '?'])
+        print(f"{i:2d} {s['mode']:<5} {fmt_dur(s['_secs']):>10} {s['dist_m'] / 1000:7.1f} km "
+              f"ele {ele[0]:>4}-{ele[1]:<4} pts {len(s['pts']):4d}  {s['label'] or ''}", file=sys.stderr)
+        n_out += len(s['pts'])
+        del s['_secs']
+    print(f"total {track['dist_m'] / 1000:.1f} km, {len(parsed)} -> {n_out} points", file=sys.stderr)
     js = json.dumps(track, separators=(',', ':'))
     if out:
         with open(out, 'w') as f:
