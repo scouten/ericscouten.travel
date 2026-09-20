@@ -35,7 +35,7 @@
   const grid = document.getElementById('grid');
   if (!T) { grid.textContent = 'The track-map script did not expose its icons.'; return; }
   const NEW = ['taxi', 'ferry', 'tram', 'horse', 'kayak', 'helicopter', 'prop'];
-  const REDRAWN = ['horse', 'boat', 'ferry', 'fly', 'prop'];
+  const REDRAWN = ['horse', 'prop', 'helicopter'];
   const SAMPLE = { stop: ['Cape Point', ''], fly: ['Flying · 13,580 km / 8,439 mi', 'ATL → 14 h 15 min → CPT'], prop: ['Flying · 180 km / 112 mi', 'Victoria Harbour flightseeing · 55 min'], ferry: ['By ferry · 12 km / 7.5 mi', 'Cape Town → 45 min → Robben Island'] };
   const rows = Object.keys(T.MODES).map(k => [k, T.MODES[k]]).concat([['(none)', { name: '', icon: 'route' }]]);
   rows.forEach(([token, m]) => {
