@@ -34,8 +34,9 @@
   const T = window.esTrackIcons;
   const grid = document.getElementById('grid');
   if (!T) { grid.textContent = 'The track-map script did not expose its icons.'; return; }
-  const NEW = ['taxi', 'ferry', 'tram', 'horse', 'kayak', 'helicopter'];
-  const SAMPLE = { stop: ['Cape Point', ''], fly: ['Flying · 13,580 km / 8,439 mi · 14 h 15 min', 'ATL → CPT'] };
+  const NEW = ['taxi', 'ferry', 'tram', 'horse', 'kayak', 'helicopter', 'prop'];
+  const REDRAWN = ['horse', 'boat', 'ferry', 'fly', 'prop'];
+  const SAMPLE = { stop: ['Cape Point', ''], fly: ['Flying · 13,580 km / 8,439 mi · 14 h 15 min', 'ATL → CPT'], prop: ['Flying · 180 km / 112 mi · 55 min', 'Victoria Harbour flightseeing'] };
   const rows = Object.keys(T.MODES).map(k => [k, T.MODES[k]]).concat([['(none)', { name: '', icon: 'route' }]]);
   rows.forEach(([token, m]) => {
     const card = document.createElement('div'); card.className = 'card';
@@ -44,7 +45,7 @@
     card.innerHTML = `
       <div class="caption"><span class="ico">${T.iconSvg(m.icon)}</span><span class="text"><span class="mode">${head}</span>${sub ? `<span class="label">${sub}</span>` : ''}</span></div>
       <div class="big">${T.iconSvg(m.icon)}</div>
-      <div class="token"><b>${token}</b> · glyph <b>${m.icon}</b>${NEW.includes(token) ? '<span class="new">new</span>' : ''}</div>`;
+      <div class="token"><b>${token}</b> · glyph <b>${m.icon}</b>${NEW.includes(token) ? '<span class="new">new</span>' : ''}${REDRAWN.includes(token) ? '<span class="new">redrawn</span>' : ''}</div>`;
     grid.appendChild(card);
   });
 })();
