@@ -53,7 +53,6 @@ sort = "date"
 detail = "minimal"
 hillshade = true
 photo_dots = true
-mode_dashes = true
 dim_over_photos = true
 mobile_collapsed = true
 corner = "left"
