@@ -7,10 +7,10 @@ updated = 2026-05-12T20:53:42-07:00
 state = ["Oregon"]
 
 [extra]
-distance = "1267 km / 787 mi"
+distance = "1,267 km / 787 mi"
 route = "San Jose, California, to Seattle, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/05/2026-05-06b-dl4100.kml"
+track_key = "track/v2/2026/05/2026-05-06.json"
 bounds = {sw = [37.304, -122.737], ne = [47.790, -121.802]}
 cover = "es-265-0693"
 cover_cdn_key = "img/v1/2026/05/es-265-0693"
@@ -21,8 +21,6 @@ Today's trip brought us home, mostly above the clouds, but there was one brief m
 
 <!-- more -->
 
-above Upper Soda, Oregon
-
-{{ es_cdn_image(id = "es-265-0693", cdn_version = "v1", cdn_key = "img/v1/2026/05/es-265-0693", alt = "An aerial view of a snow-capped volcanic peak glowing golden in low-angle sunlight, rising above hazy darker terrain with scattered clouds in the foreground.") }}
+{{ es_cdn_image(id = "es-265-0693", cdn_version = "v1", cdn_key = "img/v1/2026/05/es-265-0693", alt = "An aerial view of a snow-capped volcanic peak glowing golden in low-angle sunlight, rising above hazy darker terrain with scattered clouds in the foreground.", caption = "above Upper Soda, Oregon") }}
 
 Looking forward to being home after two very busy weeks, but also looking forward to the next adventure whenever that may be.
