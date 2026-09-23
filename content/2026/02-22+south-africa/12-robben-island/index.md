@@ -10,7 +10,7 @@ country = ["South Africa"]
 distance = "61 km / 38 mi"
 route = "Cape Town to Robben Island, Western Cape, South Africa, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/03/2026-03-06.kml"
+track_key = "track/v2/2026/03/2026-03-06.json"
 bounds = {sw = [-33.970, 18.371], ne = [-33.798, 18.595]}
 cover = "es-263-0083"
 cover_cdn_key = "img/v1/2026/03/es-263-0083"
@@ -74,7 +74,7 @@ These meager mats were what "sufficed" for a bed for many of those held in this 
 
 And now for something lighter ... here is Table Mountain as seen from the ferry returning from Robben Island. Looks like we lucked out with the weather yesterday — having clear skies and sunny weather was _amazing._
 
-{{ es_cdn_image(id = "es-263-0159", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0159", caption = "Ferry from Robben Island to Cape Town, Western Cape, South Africa", alt = "View from a ferry across choppy dark grey water toward Cape Town, where a thick blanket of cloud spills over Table Mountain like a tablecloth, with the faint city skyline and harbour cranes visible below under a heavily overcast sky.") }}
+{{ es_cdn_image(id = "es-263-0159", cdn_version = "v1", cdn_key = "img/v1/2026/03/es-263-0159", caption = "ferry from Robben Island to Cape Town, Western Cape, South Africa", alt = "View from a ferry across choppy dark grey water toward Cape Town, where a thick blanket of cloud spills over Table Mountain like a tablecloth, with the faint city skyline and harbour cranes visible below under a heavily overcast sky.") }}
 
 One last photo for today: Back in Cape Town, I loved this steampunk giraffe sculpture with a crow on its nose.
 
