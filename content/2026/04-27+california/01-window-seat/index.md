@@ -7,10 +7,10 @@ updated = 2026-04-30T12:43:05-07:00
 state = ["California"]
 
 [extra]
-distance = "1279 km / 795 mi"
+distance = "1,279 km / 795 mi"
 route = "Seattle, Washington, to San Jose, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/04/2026-04-27b-dl4100.kml"
+track_key = "track/v2/2026/04/2026-04-27.json"
 bounds = {sw = [37.095, -123.218], ne = [47.464, -121.712]}
 cover = "es-264-0581"
 cover_cdn_key = "img/v1/2026/04/es-264-0581"
