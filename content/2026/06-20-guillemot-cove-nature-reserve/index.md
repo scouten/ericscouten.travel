@@ -10,7 +10,8 @@ state = ["Washington"]
 distance = "3.5 km / 2.2 mi"
 route = "Guillemot Cove Nature Reserve, west of Seabeck, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/06/2026-06-20.kml"
+track_key = "track/v2/2026/06/2026-06-20.json"
+parks = ["relation/5291525"]  # Guillemot Cove Nature Reserve
 bounds = {sw = [47.602, -122.922], ne = [47.622, -122.902]}
 cover = "es-266-0859"
 cover_cdn_key = "img/v1/2026/06/es-266-0859"
