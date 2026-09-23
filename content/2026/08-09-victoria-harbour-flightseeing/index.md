@@ -10,6 +10,7 @@ country = ["Canada"]
 distance = "65 km / 40 mi"
 route = "around Victoria, British Columbia, Canada"
 markers = "markers.js"
+track_key = "track/v2/2026/08/2026-08-09-flight.json"
 track_log_key = "kml/v1/2026/08/2026-08-09-flight-2.kml"
 bounds = {sw = [48.389, -123.440], ne = [48.469, -123.214]}
 cover = "es-268-1585"
