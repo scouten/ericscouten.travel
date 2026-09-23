@@ -7,10 +7,10 @@ updated = 2026-07-30T06:21:33-07:00
 country = ["Canada"]
 
 [extra]
-distance = "591 km / 367 mi"
+distance = "589 km / 366 mi"
 route = "Poulsbo, Washington, to Gibsons, British Columbia, Canada, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/07/2026-07-02+sanitized.kml"
+track_key = "track/v2/2026/07/2026-07-02.json"
 bounds = {sw = [47.776, -123.764], ne = [49.474, -122.174]}
 cover = "es-267-1312"
 cover_cdn_key = "img/v1/2026/07/es-267-1312"
