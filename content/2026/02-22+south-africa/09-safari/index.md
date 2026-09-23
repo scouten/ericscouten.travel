@@ -10,7 +10,8 @@ country = ["South Africa"]
 distance = "216 km / 134 mi"
 route = "Cape Town to Ceres, Western Cape, South Africa"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/03/2026-03-03.kml"
+track_key = "track/v2/2026/03/2026-03-03.json"
+parks = ["way/1237335344"]  # Inverdoorn Private Game Reserve
 bounds = {sw = [-33.922, 18.424], ne = [-33.105, 19.825]}
 cover = "es-4741-214"
 cover_cdn_key = "img/v1/2026/03/es-4741-214"
