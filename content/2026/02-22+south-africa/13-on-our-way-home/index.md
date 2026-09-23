@@ -10,7 +10,7 @@ country = ["France", "Morocco", "Namibia", "South Africa"]
 distance = "10,143 km / 6,302 mi"
 route = "Cape Town, Western Cape, South Africa, to Paris, France"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/03/2026-03-07.kml"
+track_key = "track/v2/2026/03/2026-03-07.json"
 bounds = {sw = [-34.127, -9.108], ne = [49.006, 18.638]}
 cover = "es-263-0324"
 cover_cdn_key = "img/v1/2026/03/es-263-0324"
