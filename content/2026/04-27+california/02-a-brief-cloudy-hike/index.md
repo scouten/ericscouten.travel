@@ -10,7 +10,8 @@ state = ["California"]
 distance = "108 km / 67 mi"
 route = "around San Jose, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/05/2026-05-03.kml"
+track_key = "track/v2/2026/05/2026-05-03.json"
+parks = ["relation/193013"]  # Russian Ridge Open Space Preserve
 bounds = {sw = [37.190, -122.269], ne = [37.435, -121.898]}
 cover = "es-265-0647"
 cover_cdn_key = "img/v1/2026/05/es-265-0647"
