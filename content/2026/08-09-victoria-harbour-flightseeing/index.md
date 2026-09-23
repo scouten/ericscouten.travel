@@ -7,7 +7,7 @@ updated = 2026-08-18T08:44:24-07:00
 country = ["Canada"]
 
 [extra]
-distance = "65 km / 40 mi"
+distance = "64 km / 40 mi"
 route = "around Victoria, British Columbia, Canada"
 markers = "markers.js"
 track_key = "track/v2/2026/08/2026-08-09-flight.json"
