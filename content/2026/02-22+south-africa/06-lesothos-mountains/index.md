@@ -7,10 +7,10 @@ updated = 2026-03-28T14:50:37-07:00
 country = ["Lesotho"]
 
 [extra]
-distance = "70 km / 43 mi"
+distance = "72 km / 45 mi"
 route = "around Makhalaneng, Lesotho"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/02/2026-02-28.kml"
+track_key = "track/v2/2026/02/2026-02-28.json"
 bounds = {sw = [-29.719, 27.744], ne = [-29.608, 27.949]}
 cover = "es-262-9146"
 cover_cdn_key = "img/v1/2026/02/es-262-9146"
