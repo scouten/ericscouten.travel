@@ -32,6 +32,7 @@ fathom_site_id = "FOORZJBV"
 hyvor_site_id = 9789
 comments_enabled_default = true
 section_reverse_default = true
+section_chronological_depth = 2
 
 [[taxonomies]]
 name = "country"
