@@ -6,11 +6,13 @@ date = 2026-01-01T11:56:44+09:00
 country = ["South Korea"]
 
 [extra]
+distance = "15 km / 9 mi"
 markers = "markers.js"
 bounds = {sw = [37.503, 127.093], ne = [37.523, 127.113]}
 cover = "es-261-8553"
 cover_cdn_key = "img/v1/2026/01/es-261-8553"
 cover_alt = "A high-altitude view over Seoul from an observation deck, looking out through a window across the wide Han River as it winds through dense clusters of apartment towers and city blocks, with bridges crossing the water and distant mountains under a clear blue sky."
+track_key = "track/v2/2026/01/2026-01-01.json"
 +++
 
 Today we ventured into the heart of the city and toured the literal high point of Seoul, the observation deck at Lotte World Tower.
