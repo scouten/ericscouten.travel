@@ -6,10 +6,10 @@ date = 2025-12-27T18:27:54.802+09:00
 country = ["South Korea"]
 
 [extra]
-distance = "212 km / 132 mi"
+distance = "214 km / 133 mi"
 route = "around Seoul, South Korea"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/12/2025-12-27-2.kml"
+track_key = "track/v2/2025/12/2025-12-27.json"
 bounds = {sw = [37.517, 127.006], ne = [37.847, 127.729]}
 cover = "es-25c-8098"
 cover_cdn_key = "img/v1/2025/12/es-25c-8098"
