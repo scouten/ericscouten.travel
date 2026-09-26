@@ -7,10 +7,11 @@ updated = 2025-12-30T07:45:11+10:00
 state = ["Guam"]
 
 [extra]
-distance = "105 km / 65 mi"
+distance = "106 km / 66 mi"
 route = "around Guam"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/12/2025-12-29.kml"
+track_key = "track/v2/2025/12/2025-12-29.json"
+days = 1
 bounds = {sw = [13.247, 144.649], ne = [13.536, 144.822]}
 cover = "es-25c-8362"
 cover_cdn_key = "img/v1/2025/12/es-25c-8362"

@@ -6,10 +6,10 @@ date = 2025-12-31T21:20:15+09:00
 country = ["South Korea"]
 
 [extra]
-distance = "82 km / 51 mi"
+distance = "86 km / 54 mi"
 route = "Incheon to Seoul, South Korea"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/12/2025-12-31.kml"
+track_key = "track/v2/2025/12/2025-12-31.json"
 bounds = {sw = [37.441, 126.457], ne = [37.586, 127.034]}
 cover = "es-25c-8503"
 cover_cdn_key = "img/v1/2025/12/es-25c-8503"
@@ -31,7 +31,7 @@ If you're ever in Seoul, you owe it to check out O.verte. Even if (like me) you'
 
 {{ es_cdn_image(id = "es-25c-8503", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8503", caption = "O.verte, Seoul, South Korea") }}
 
-We did a bit of shopping in the Myeongdong before heading back to our hotel.
+We did a bit of shopping in the Myeongdong neighborhood before heading back to our hotel.
 
 {{ es_cdn_image(id = "es-25c-8505", cdn_version = "v1", cdn_key = "img/v1/2025/12/es-25c-8505", caption = "Myeongdong Night Market, Seoul, South Korea") }}
 
