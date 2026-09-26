@@ -4,7 +4,8 @@ sort_by = "date"
 transparent = true
 
 [extra]
-cover_abs = "/2012/11-26+south-america/12-you-say-iguacu-i-say-iguazu/cover-es-2259-055.jpg"
+cover = "es-2259-055"
+cover_cdn_key = "img/v1/2012/12/es-2259-055"
 +++
 
 I'm spending a month in South America this winter (South American summer).

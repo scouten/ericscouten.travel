@@ -4,7 +4,8 @@ sort_by = "date"
 transparent = true
 
 [extra]
-cover_abs = "/2021/12-25+puerto-rico/05-el-yunque/"
+cover = "es-4289-040"
+cover_cdn_key = "img/v1/2021/12/es-4289-040"
 +++
 
 My partner and I spent most of our Christmas + New Years' holiday vacation exploring the island of Puerto Rico.

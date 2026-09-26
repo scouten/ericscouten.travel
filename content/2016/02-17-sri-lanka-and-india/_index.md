@@ -4,7 +4,7 @@ sort_by = "date"
 transparent = true
 
 [extra]
-cover = "es-3128-071"
-cover_cdn_key = "img/v1/2016/02/es-3128-071"
-cover_alt = "A line of open safari jeeps drives along a dusty red dirt road through dense green forest, with hazy pale sky above and trees lining both sides of the track."
+cover = "es-3141-052"
+cover_cdn_key = "img/v1/2016/02/es-3141-052"
+cover_alt = "Cantilevered Chinese fishing nets silhouetted against a hazy pink sky at sunset, with the orange sun setting behind them over the water at Fort Kochi. Small boats and distant figures dot the calm sea on the right, and the sun’s reflection shimmers across the water."
 +++

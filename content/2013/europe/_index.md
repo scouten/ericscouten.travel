@@ -4,7 +4,8 @@ sort_by = "date"
 transparent = true
 
 [extra]
-# cover_abs = "/2012/11-26+south-america/12-you-say-iguacu-i-say-iguazu/cover-es-2259-055.jpg"
+cover = "es-2469-086"
+cover_cdn_key = "img/v1/2013/08/es-2469-086"
 +++
 
 This summer, I am working temporarily from my company’s offices in Hamburg, Germany.

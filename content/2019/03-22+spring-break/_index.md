@@ -4,7 +4,8 @@ sort_by = "date"
 transparent = true
 
 [extra]
-cover_abs = "/2019/03-22+spring-break/12-kyoto-inari-japan/cover-es-3928-021.jpg"
+cover = "es-3910-079"
+cover_cdn_key = "img/v1/2019/03/es-3910-079"
 +++
 
 I'm on a two-week globe-trotting adventure.
