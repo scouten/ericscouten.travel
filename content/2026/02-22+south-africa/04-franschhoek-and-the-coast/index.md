@@ -7,10 +7,10 @@ updated = 2026-03-24T19:49:37-07:00
 country = ["South Africa"]
 
 [extra]
-distance = "209 km / 130 mi"
+distance = "207 km / 128 mi"
 route = "around Stellenbosch, Western Cape, South Africa"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/02/2026-02-26.kml"
+track_key = "track/v2/2026/02/2026-02-26.json"
 bounds = {sw = [-33.937, 18.439], ne = [-33.663, 19.119]}
 cover = "es-262-8913"
 cover_cdn_key = "img/v1/2026/02/es-262-8913"

@@ -7,10 +7,10 @@ updated = 2026-03-26T20:54:49-07:00
 country = ["Lesotho", "South Africa"]
 
 [extra]
-distance = "1962 km / 1219 mi"
-route = "Cape Town, Western Cape, South Africa, to Makhalaneng, Lesotho"
+distance = "1,963 km / 1,220 mi"
+route = "Stellenbosch, Western Cape, South Africa, to Makhalaneng, Lesotho"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/02/2026-02-27.kml"
+track_key = "track/v2/2026/02/2026-02-27.json"
 bounds = {sw = [-34.072, 18.589], ne = [-26.124, 28.255]}
 cover = "es-262-9036"
 cover_cdn_key = "img/v1/2026/02/es-262-9036"
