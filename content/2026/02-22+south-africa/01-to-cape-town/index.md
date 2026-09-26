@@ -7,10 +7,10 @@ updated = 2026-02-24T22:42:58+02:00
 country = ["South Africa"]
 
 [extra]
-distance = "17,084 km / 10,616 mi"
+distance = "17,085 km / 10,616 mi"
 route = "Seattle, Washington, to Cape Town, South Africa"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/02/2026-02-22.kml"
+track_key = "track/v2/2026/02/2026-02-22.json"
 bounds = {sw = [-34.101, -122.310], ne = [47.464, 18.609]}
 cover = "es-262-8745"
 cover_cdn_key = "img/v1/2026/02/es-262-8745"

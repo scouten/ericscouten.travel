@@ -10,7 +10,7 @@ country = ["South Africa"]
 distance = "87 km / 54 mi"
 route = "Cape Town to Stellenbosch, Western Cape, South Africa"
 markers = "markers.js"
-track_log_key = "kml/v1/2026/02/2026-02-24.kml"
+track_key = "track/v2/2026/02/2026-02-24.json"
 bounds = {sw = [-34.197, 18.575], ne = [-33.935, 18.906]}
 cover = "es-262-8789"
 cover_cdn_key = "img/v1/2026/02/es-262-8789"
