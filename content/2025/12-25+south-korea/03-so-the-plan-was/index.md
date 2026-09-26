@@ -6,10 +6,10 @@ date = 2025-12-28T23:36:01+10:00
 country = ["South Korea"]
 
 [extra]
-distance = "3352 km / 2083 mi"
+distance = "3,355 km / 2,085 mi"
 route = "Seoul, South Korea, to Tamuning, Guam"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/12/2025-12-28.kml"
+track_key = "track/v2/2025/12/2025-12-28.json"
 bounds = {sw = [13.402, 126.417], ne = [37.586, 144.807]}
 cover = "es-25c-8287"
 cover_cdn_key = "img/v1/2025/12/es-25c-8287"
