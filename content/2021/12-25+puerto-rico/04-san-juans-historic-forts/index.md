@@ -25,56 +25,56 @@ Today we walked through the old city and its historic forts.
 I love the blue bricks used to pave the streets in the historic district.
 
 {{ es_cdn_image(id = "es-4293-020", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-020") }}
-{{ es_cdn_image(id = "es-4293-029", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-029") }}
-{{ es_cdn_image(id = "es-4293-038", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-038") }}
+{{ es_cdn_image(id = "es-4293-029", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-029", alt = "A quiet, empty cobblestone street in Old San Juan lined with pastel-colored colonial buildings in yellow, pink, green, and blue, with potted plants along the walls and a Puerto Rican flag hanging from a wall on the right under an overcast sky.") }}
+{{ es_cdn_image(id = "es-4293-038", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-038", alt = "A large tree with a thick, textured trunk and leafy green canopy stands in front of a whitewashed colonial building with barred windows in Old San Juan, Puerto Rico. A low stone wall topped with a green wrought-iron railing runs behind the tree, above brick and stone steps, under a blue sky.") }}
 
 Is it me, or are the Three Wise Men looking a bit grumpy? Especially the one on the right.
 
-{{ es_cdn_image(id = "es-4293-040", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-040") }}
+{{ es_cdn_image(id = "es-4293-040", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-040", alt = "The symmetrical yellow-and-white neoclassical facade of a historic building with a triangular pediment, white columns forming a second-floor gallery, and three tall stained-glass panels depicting robed bearded figures set between the upper balconies. A Spanish-language inscription runs across the middle of the facade, and an arched central doorway with a “Cerrado” sign is fronted by a black iron fence, framed by palm fronds on either side.") }}
 {{ es_cdn_image(id = "es-4293-041", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-041") }}
-{{ es_cdn_image(id = "es-4293-042", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-042") }}
+{{ es_cdn_image(id = "es-4293-042", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-042", alt = "A seaside plaza in Old San Juan on an overcast day, with palm trees, flowering green shrubs, wet stone paving, and a wrought-iron lamppost overlooking the ocean, where a lone person in a light jacket stands at the railing looking out to sea.") }}
 
 We started at the [Castillo San Felipe del Morro](https://www.discoverpuertorico.com/profile/castillo-san-felipe-del-morro/8024), at the very northwest corner of the city. This fort helped Spanish and later American forces to defend the island until it was retired in 1961 to become a museum and park.
 
-{{ es_cdn_image(id = "es-4293-061", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-061", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-061", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-061", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", alt = "A child in a white shirt runs across a grassy slope flying a kite decorated with the Puerto Rican flag, near the weathered stone walls of a historic fort in San Juan, with other visitors gathered on the ramparts and a moody blue sky overhead.") }}
 {{ es_cdn_image(id = "es-4293-071", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-071", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
 {{ es_cdn_image(id = "es-4293-074", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-074", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
-{{ es_cdn_image(id = "es-4293-082", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-082", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
-{{ es_cdn_image(id = "es-4293-086", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-086", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-082", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-082", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico", alt = "A curved stone rampart of a historic Spanish fort with a domed sentry box (garita) overlooking the deep blue Atlantic Ocean, under a bright sky filled with white clouds. A barred iron gate is set into the weathered fortress wall on the left.") }}
+{{ es_cdn_image(id = "es-4293-086", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-086", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico", alt = "A weathered, crumbling stone rampart at Castillo San Felipe del Morro, framing a metal barred gate that opens onto a view of the calm sea and a partly cloudy blue sky. Patches of yellow lichen and exposed brick mottle the aged fortress walls.") }}
 {{ es_cdn_image(id = "es-4293-092", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-092", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
 {{ es_cdn_image(id = "lr-21c-1207", cdn_version = "v1", cdn_key = "img/v1/2021/12/lr-21c-1207", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_cdn_image(id = "es-4293-113", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-113", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-113", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-113", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico", alt = "A weathered, whitewashed stone fortress wall with peeling, mottled black-and-white surfaces, topped by a tuft of tall dry grass, set against a dramatic sky of heavy gray and white clouds.") }}
 {{ es_cdn_image(id = "lr-21c-1211", cdn_version = "v1", cdn_key = "img/v1/2021/12/lr-21c-1211", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_cdn_image(id = "es-4293-132", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-132", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
-{{ es_cdn_image(id = "es-4293-134", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-134", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-132", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-132", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico", alt = "A narrow, dark passageway cutting through the weathered stone and brick walls of Castillo San Felipe del Morro, framed by crumbling, mottled ramparts with exposed brickwork beneath a dramatic sky of heavy gray clouds and deep blue.") }}
+{{ es_cdn_image(id = "es-4293-134", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-134", caption = "Castillo San Felipe del Morro, San Juan, Puerto Rico", alt = "A weathered stone fortress wall with a domed sentry box (garita) at the edge of a rocky coastline, overlooking the ocean where a lone white sailboat crosses beneath a dramatic sky of heavy grey and white clouds. A few visitors stand along the fort’s rampart on the right.") }}
 {{ es_cdn_image(id = "lr-21c-1219", cdn_version = "v1", cdn_key = "img/v1/2021/12/lr-21c-1219", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
-{{ es_cdn_image(id = "es-4293-153", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-153", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-153", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-153", caption = "Sitio Histórico de San Juan, San Juan, Puerto Rico", alt = "A dense seaside cemetery filled with white marble headstones, crosses, and statues on green grass, with a Puerto Rican flag among the graves and the Atlantic Ocean, palm trees, and colorful houses in the background beneath a bright blue sky with billowing clouds.") }}
 
 We then walked along the north coast, where we skirted the [la Perla (the Pearl)](https://www.discoverpuertorico.com/article/visiting-la-perla-neighborhood-old-san-juan) neighborhood.
 
 {{ es_cdn_image(id = "es-4293-170", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-170") }}
 {{ es_cdn_image(id = "lr-21c-1230", cdn_version = "v1", cdn_key = "img/v1/2021/12/lr-21c-1230", creator = "Lisa Rozmyn") }}
 {{ es_cdn_image(id = "es-4293-184", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-184") }}
-{{ es_cdn_image(id = "es-4293-189", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-189") }}
+{{ es_cdn_image(id = "es-4293-189", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-189", alt = "A narrow cobblestone street in Old San Juan lined with brightly colored colonial buildings in green, yellow, orange, and pink, featuring wrought-iron balconies and arched doorways under a deep blue sky. A black Jeep and a yellow SUV are parked along the left curb with more cars down the street.") }}
 {{ es_cdn_image(id = "es-4293-199", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-199") }}
 
 That walk led us to [Castillo de San Cristóbal](https://www.discoverpuertorico.com/profile/castillo-san-cristobal/8023), the eastern counterpart to Castillo San Felipe del Morro. This fort was designed to protect San Juan from attacks from land. It, too, has been retired from military service and is now open for visitors to explore and enjoy.
 
-{{ es_cdn_image(id = "es-4293-209", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-209", caption = "Castillo de San Cristóbal, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-209", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-209", caption = "Castillo de San Cristóbal, San Juan, Puerto Rico", alt = "A weathered stone sentry box (garita) with a domed roof and a ball finial stands on a brick-lined fortress wall overlooking the deep blue ocean under a bright sky with scattered clouds.") }}
 {{ es_cdn_image(id = "es-4293-210", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-210", caption = "Castillo de San Cristóbal, San Juan, Puerto Rico") }}
 {{ es_cdn_image(id = "es-4293-227", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-227", caption = "Castillo de San Cristóbal, San Juan, Puerto Rico") }}
 
 At this point it was early afternoon, and the heat and humidity got to us. We found an outdoor restaurant for lunch and appreciated the cool of an afternoon rainstorm:
 
 {{ es_cdn_image(id = "es-4293-249", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-249", caption = "El Balcón del Moreno, San Juan, Puerto Rico") }}
-{{ es_cdn_image(id = "es-4293-263", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-263", caption = "El Balcón del Moreno, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4293-263", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4293-263", caption = "El Balcón del Moreno, San Juan, Puerto Rico", alt = "A rain-slicked plaza with a wet terrazzo pavement under a heavy, overcast gray sky, framed by large leafy trees and city buildings, with a bronze statue on a stone pedestal at right and a person in a poncho standing near a white van in the distance.") }}
 
 In the evening, we set out for another walk around the city.
 
-{{ es_cdn_image(id = "es-4294-012", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-012", caption = "Capilla del Santo Cristo de la Salud, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4294-012", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-012", caption = "Capilla del Santo Cristo de la Salud, San Juan, Puerto Rico", alt = "A small weathered stone chapel with a wrought-iron gated entrance under a rounded arch, topped by a bell tower crowned with an iron cross, its ledges covered with roosting pigeons against a deep blue sky. Pigeons also peck at the cobblestone plaza in the foreground, with a decorative fence and trees to the right.") }}
 {{ es_cdn_image(id = "es-4294-020", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-020") }}
 {{ es_cdn_image(id = "es-4294-035", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-035", caption = "Paseo del Morro, San Juan, Puerto Rico") }}
 {{ es_cdn_image(id = "es-4294-047", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-047", caption = "Paseo del Morro, San Juan, Puerto Rico") }}
-{{ es_cdn_image(id = "es-4294-079", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-079", caption = "Paseo del Morro, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4294-079", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-079", caption = "Paseo del Morro, San Juan, Puerto Rico", alt = "A sailboat with two white sails glides across dark, rippling water at sunset, its hull and crew silhouetted against the glowing orange sun setting behind a low tree-lined shoreline. Bands of golden and dark clouds stretch across the sky above, with the sun’s light reflecting in a shimmering path on the water.") }}
 {{ es_cdn_image(id = "es-4294-136", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-136", caption = "Departamento de Estado de Puerto Rico, San Juan, Puerto Rico") }}
 {{ es_cdn_image(id = "es-4294-138", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4294-138", caption = "The Cave, San Juan, Puerto Rico") }}

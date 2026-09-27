@@ -28,7 +28,7 @@ The road through the mountains was more than a little windy!
 
 {{ es_cdn_image(id = "es-4300-008", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-008", caption = "Utuado, Puerto Rico") }}
 
-{{ es_cdn_image(id = "es-4300-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-011", caption = "Utuado, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4300-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-011", caption = "Utuado, Puerto Rico", alt = "A shallow, rocky river winds through a valley lined with dense green vegetation, with tree-covered mountains and a colorful playground visible in the background under a deep blue sky with scattered white clouds.") }}
 
 {{ es_cdn_image(id = "es-4300-014", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-014", caption = "Utuado, Puerto Rico", alt = "A concrete pedestrian bridge with green, blue, and yellow-painted metal railings leading into a narrow town street lined with weathered buildings, including a faded pink apartment building on the left and aging concrete structures on the right, under a bright blue sky with scattered clouds and a green hillside in the distance.") }}
 

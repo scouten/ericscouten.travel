@@ -22,9 +22,9 @@ This evening, we walked among the colorful streets and then to the [Paseo del Mo
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4290-003", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-003") }}
+{{ es_cdn_image(id = "es-4290-003", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-003", alt = "A narrow, sloping street in Old San Juan lined with colorful colonial buildings — a white one with wrought-iron balconies and a black lantern on the left, and a mustard-yellow building on the right — with cars parked along the curb and an orange-and-white construction barrel under a blue sky with scattered clouds.") }}
 
-{{ es_cdn_image(id = "es-4290-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-011") }}
+{{ es_cdn_image(id = "es-4290-011", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-011", alt = "A narrow colonial street in Old San Juan lined with pastel-colored buildings featuring wrought-iron balconies, with cars parked along the left side and pedestrians walking in the distance beneath a blue sky with golden sunset clouds.") }}
 
 {{ es_cdn_image(id = "es-4290-014", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-014") }}
 
@@ -42,7 +42,7 @@ I intend to someday revive my [long-defunct black-and-white photoblog](https://p
 
 {{ es_cdn_image(id = "es-4290-039", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-039", caption = "Paseo del Morro, San Juan, Puerto Rico") }}
 
-{{ es_cdn_image(id = "es-4290-048", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-048", caption = "Puerta de San Juan, San Juan, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4290-048", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4290-048", caption = "Puerta de San Juan, San Juan, Puerto Rico", alt = "A cobblestone street in Old San Juan at dusk, lit by warm streetlamps that cast long shadows, with pedestrians strolling between pastel colonial buildings under a deep blue twilight sky framed by palm fronds. A yellow corner building with a wrought-iron balcony bears a sign reading “Calle Clara Lair.”") }}
 
 After the sun went down, we walked back to the main square ([Plaza de Armas](https://www.discoverpuertorico.com/profile/plaza-de-armas/8822)) and enjoyed dinner with some live music nearby.
 

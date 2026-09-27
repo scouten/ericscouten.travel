@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2021/12/2021-12-29-el-yunque.kml"
 bounds = {sw = [17.959, -66.297], ne = [18.466, -65.758]}
 cover = "es-4295-030"
 cover_cdn_key = "img/v1/2021/12/es-4295-030"
+cover_alt = "A misty, cloud-shrouded view over the forested peaks of El Yunque National Forest, with a young palm tree and lush green tropical foliage in the foreground beneath a heavy overcast sky."
 +++
 
 We left San Juan this morning, rented a car, and explored the tropical rain forest in El Yunque National Forest.
@@ -28,9 +29,9 @@ Today's highlight was the hike up the trail to [the tower at Mount Britton](http
 
 {{ es_cdn_image(id = "es-4295-027", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-027") }}
 
-{{ es_cdn_image(id = "es-4295-030", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-030") }}
+{{ es_cdn_image(id = "es-4295-030", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-030", alt = "A misty, cloud-shrouded view over the forested peaks of El Yunque National Forest, with a young palm tree and lush green tropical foliage in the foreground beneath a heavy overcast sky.") }}
 
-{{ es_cdn_image(id = "es-4295-035", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-035") }}
+{{ es_cdn_image(id = "es-4295-035", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-035", alt = "A gravel footpath winds uphill through lush tropical rainforest, flanked by tall grasses, ferns, and palm and tree-fern fronds under an overcast gray sky.") }}
 
 {{ es_cdn_image(id = "es-4295-037", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-037") }}
 
@@ -58,13 +59,13 @@ On our way out of the park, we explored the once-popular bathing grounds at [El 
 
 {{ es_cdn_image(id = "es-4295-084", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-084") }}
 
-{{ es_cdn_image(id = "es-4295-088", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-088") }}
+{{ es_cdn_image(id = "es-4295-088", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-088", alt = "A lush tropical rainforest valley in El Yunque National Forest, Puerto Rico, with dense green foliage and palm fronds in the foreground giving way to forested mountain ridges beneath a heavy, overcast gray sky.") }}
 
 Our final visit as we departed was at the [Yokahú Tower](https://www.fs.usda.gov/recarea/elyunque/recarea/?recid=43389).
 
 {{ es_cdn_image(id = "lr-21c-1308", cdn_version = "v1", cdn_key = "img/v1/2021/12/lr-21c-1308", creator = "Lisa Rozmyn") }}
 
-{{ es_cdn_image(id = "es-4295-093", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-093") }}
+{{ es_cdn_image(id = "es-4295-093", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-093", alt = "A tall cylindrical stone observation tower with castle-like crenellations at its top and small arched windows, rising against a cloudy gray sky in a lush tropical rainforest. A concrete walkway leads toward it through dense green vegetation and palm trees, with forested mountains visible in the distance.") }}
 
 {{ es_cdn_image(id = "es-4295-097", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4295-097") }}
 
