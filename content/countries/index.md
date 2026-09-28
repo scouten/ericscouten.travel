@@ -82,7 +82,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     state_term = true
     image = "es-4289-040"
     cdn_key = "img/v1/2021/12/es-4289-040"
-    caption = "Numero Uno Beach House, San Juan, Puerto Rico, 2021") }}
+    caption = "Numero Uno Beach House, San Juan, Puerto Rico, 2021"
+    alt = "A sandy beach at dusk with palm trees silhouetted against a soft pink and golden sky, and a two-story beachfront building strung with warm string lights where people gather among lounge chairs and beanbags.") }}
 
 {{ es_country(
     seq = 75

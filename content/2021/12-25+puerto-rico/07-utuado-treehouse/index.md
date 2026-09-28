@@ -20,7 +20,7 @@ We left Salinas this morning and drove through the mountains to the town of Utua
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4300-004", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-004", caption = "Highway 10, north of Adjuntas, Puerto Rico") }}
+{{ es_cdn_image(id = "es-4300-004", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4300-004", caption = "Highway 10, north of Adjuntas, Puerto Rico", alt = "A lush green tropical landscape of dense jungle vegetation, including large banana leaves, ferns, and vine-covered trees, overlooking forested mountains under a bright blue sky dotted with white clouds.") }}
 
 The road through the mountains was more than a little windy!
 
