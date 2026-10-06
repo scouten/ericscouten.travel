@@ -21,7 +21,7 @@
   {% set caption = "" -%}
 {% endif -%}
 
-<div class="card">
+<div class="card" data-country="{{ name | slugify }}" data-name="{{ name }}" data-flag="{{ flag }}" data-years="{{ years }}" data-seq="{{ seq }}"{% if country_link %} data-href="{{ country_link | safe }}"{% endif %}>
   <card-header class="card-header">
     <card-header-title class="card-header-title">
       <info class="card-header-meta">

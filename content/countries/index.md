@@ -6,6 +6,7 @@ aliases = ["log"]
 [extra]
 hide_date = true
 hide_from_section = true
+country_map = true
 cover_abs = "/countries/es-3359-003.jpg"
 +++
 

@@ -36,3 +36,38 @@ $accent-text-color: hsl(0, 0, 100%);
 cta {
     background-color: darken($main-section-background, 10%);
 }
+
+// The countries page's corner map: the country's number in the list leads the first line, lighter, and
+// stays whole when a long name is cut short.
+.es-track-widget .es-track-text .cm-title {
+    display: flex;
+    gap: .6em;
+    align-items: baseline;
+
+    .cm-name {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .cm-count {
+        flex: none;
+        font-weight: 300;
+        color: var(--es-track-muted);
+    }
+}
+
+// The story count in the countries map's caption links to the country's page.
+.es-track-widget .es-track-text .label a {
+    color: inherit;
+    text-decoration: none;
+
+    &:hover {
+        color: var(--es-track-text);
+    }
+}
+
+// A card for a country with no travel stories yet says so, where the others link to theirs.
+.countries .card .read-more .no-stories {
+    color: $link;
+}
