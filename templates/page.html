@@ -15,3 +15,12 @@
 </li>
 {% endif -%}
 {% endblock page_meta_extra -%}
+
+{#- The countries page follows the reader with a corner map of the country in view, in place of a page map. -#}
+{% block map -%}
+{%- if config.extra.track_map and page.extra.country_map -%}
+{%- include "countries_map.html" -%}
+{%- else -%}
+{{ super() }}
+{%- endif -%}
+{% endblock map -%}
