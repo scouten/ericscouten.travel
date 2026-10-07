@@ -1,0 +1,18 @@
+{#- A country's or state's page: the theme's list of its posts, with a corner map of the place that follows the reader and
+    shows the track of each post that has one (static/common/place-map.js). -#}
+{% extends "zola-es-theme/templates/taxonomy_single.html" -%}
+
+{% block pages -%}
+{{ super() }}
+{%- if config.extra.track_map and (taxonomy.name == "country" or taxonomy.name == "state") -%}
+  {%- set_global has_tracks = false -%}
+  {%- for page in term.pages -%}
+    {%- if page.extra.track_key or page.extra.track_url -%}
+      {%- set_global has_tracks = true -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if has_tracks -%}
+    {%- include "place_map.html" -%}
+  {%- endif -%}
+{%- endif -%}
+{% endblock pages -%}

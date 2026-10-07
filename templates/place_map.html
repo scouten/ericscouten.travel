@@ -1,0 +1,47 @@
+{#-
+  The corner map on a country's or state's page (static/common/place-map.js): the place, held at one zoom, with the
+  track of the post in view drawn on it, or a dot where the track is too small to find. Built on the theme's track
+  map, so it takes the same widget markup and the site's [extra.track_map] options. The outlines are in
+  static/common/country-shapes.json and state-shapes.json, made by tools/build-country-shapes.js. The posts' tracks
+  come from the pages listed here, which the script pairs with the cards by their permalinks.
+-#}
+{%- set tm = config.extra.track_map -%}
+{%- set cdn = "https://img.ericscouten.com" -%}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.css">
+<script defer src="https://cdn.jsdelivr.net/npm/maplibre-gl@5/dist/maplibre-gl.js"></script>
+
+<script type="application/json" id="place-map-config">{
+  "kind": {{ taxonomy.name | json_encode() | safe }},
+  "term": {{ term.slug | json_encode() | safe }},
+  "name": {{ term.name | json_encode() | safe }},
+  "shapesUrl": "/common/{{ taxonomy.name }}-shapes.json",
+  "isDark": {{ config.extra.is_dark | default(value=false) | json_encode() }},
+  "basemap": {{ tm.basemap | default(value="") | json_encode() | safe }},
+  "detail": {{ tm.detail | default(value="minimal") | json_encode() | safe }},
+  "hillshade": {{ tm.hillshade | default(value=true) | json_encode() }},
+  "glyphs": {{ tm.glyphs | default(value="") | json_encode() | safe }},
+  "labelFont": {% if tm.label_font %}{{ tm.label_font | json_encode() | safe }}{% else %}[]{% endif %},
+  "dim": {{ tm.dim_over_photos | default(value=true) | json_encode() }},
+  "mobileCollapsed": {{ tm.mobile_collapsed | default(value=true) | json_encode() }},
+  "pages": [
+    {%- set_global first = true -%}
+    {%- for page in term.pages -%}
+      {%- if page.extra.track_key or page.extra.track_url -%}
+        {%- if page.extra.track_url -%}
+          {%- set track_url = page.extra.track_url -%}
+          {%- set track_fallback = "" -%}
+        {%- else -%}
+          {%- set track_url = cdn ~ "/" ~ page.extra.track_key -%}
+          {%- set track_fallback = "/" ~ page.extra.track_key -%}
+        {%- endif %}
+    {% if not first %},{% endif %}{"permalink": {{ page.permalink | json_encode() | safe }}, "title": {{ page.title | json_encode() | safe }}, "date": {{ page.date | date(format="%-d %B %Y") | json_encode() | safe }}, "trackUrl": {{ track_url | json_encode() | safe }}, "trackFallback": {{ track_fallback | json_encode() | safe }}, "route": {{ page.extra.route | default(value="") | json_encode() | safe }}, "distance": {{ page.extra.distance | default(value="") | json_encode() | safe }}}
+        {%- set_global first = false -%}
+      {%- endif -%}
+    {%- endfor %}
+  ]
+}</script>
+
+{%- set fit_label = "Show all of " ~ term.name -%}
+{%- include "corner_map_widget.html" -%}
+
+<script defer src="/common/place-map.js"></script>
