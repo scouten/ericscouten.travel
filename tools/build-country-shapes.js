@@ -1,13 +1,19 @@
 #!/usr/bin/env node
-// Builds static/common/country-shapes.json, the outlines behind the countries page's corner map.
+// Builds the outlines behind the corner maps on the countries page and on the country and state pages:
+//
+//   static/common/country-shapes.json   one shape per entry on the countries page, plus any country that has posts but
+//                                       isn't on that page, and `terms`, which says which shapes make up each country
+//                                       tag (the United Kingdom is England, Scotland, Wales, and Northern Ireland)
+//   static/common/state-shapes.json     one shape per US state, and Guam and Puerto Rico, keyed by the slug of the tag
 //
 // The shapes come from Natural Earth (public domain, https://www.naturalearthdata.com/), from the geojson folder of
 // https://github.com/nvkelso/natural-earth-vector:
 //
 //   ne_10m_admin_0_map_subunits.geojson
+//   ne_10m_admin_1_states_provinces.geojson
 //   ne_50m_admin_1_states_provinces.geojson
 //
-// Usage: node tools/build-country-shapes.js <folder with the two files above>
+// Usage: node tools/build-country-shapes.js <folder with the three files above>
 //
 // Every `es_country` entry on the countries page gets one shape, keyed by the slug of its name (the shortcode puts the
 // same slug on the card). An entry that matches nothing is an error, so a new entry fails loudly here.
@@ -26,6 +32,7 @@ const root = path.join(__dirname, '..');
 const read = f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'));
 const subunits = read('ne_10m_admin_0_map_subunits.geojson').features;
 const admin1 = read('ne_50m_admin_1_states_provinces.geojson').features;
+const usStates = read('ne_10m_admin_1_states_provinces.geojson').features.filter(f => f.properties.admin === 'United States of America');
 
 const slugify = s => s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
@@ -136,11 +143,27 @@ function extent(polys) {
   return e.map(n => +n.toFixed(3));
 }
 
-// ------------------------------------------------------------ the entries
-const names = [...fs.readFileSync(path.join(root, 'content/countries/index.md'), 'utf8').matchAll(/^\s*name = "([^"]+)"/gm)].map(m => m[1]);
+// ------------------------------------------------------------ the shapes
 const bySubunit = n => subunits.filter(f => f.properties.SUBUNIT === n);
-const shapes = {};
 const problems = [];
+
+// A shape from its polygons: its extent (framed by `framing` alone, if given), and its simplified outline.
+function shapeOf(name, polys, extra) {
+  // Alaska reaches across the antimeridian with the Aleutians; the map frames the part east of it.
+  const framed = FRAMING[name] ? polys.filter(p => inBox(centroid(p), FRAMING[name])) : polys;
+  const [w, s, e, n] = extent(framed);
+  return {
+    name,
+    bbox: [w, s, e, n],
+    ...(SPANS[name] && { span: SPANS[name] }),
+    ...extra,
+    geometry: { type: 'MultiPolygon', coordinates: prepare(polys, framed) },
+  };
+}
+
+// ------------------------------------------------------------ the countries page's entries
+const names = [...fs.readFileSync(path.join(root, 'content/countries/index.md'), 'utf8').matchAll(/^\s*name = "([^"]+)"/gm)].map(m => m[1]);
+const shapes = {};
 
 for (const name of names) {
   let polys = [];
@@ -157,32 +180,73 @@ for (const name of names) {
     polys = wanted.flatMap(n => bySubunit(n)).flatMap(f => polygonsOf(f.geometry));
   }
   if (!polys.length) { problems.push(name); continue; }
-
-  // Alaska reaches across the antimeridian with the Aleutians; the map frames the part east of it.
-  const framed = FRAMING[name] ? polys.filter(p => inBox(centroid(p), FRAMING[name])) : polys;
-  const [w, s, e, n] = extent(framed);
-  shapes[slugify(name)] = {
-    name,
-    bbox: [w, s, e, n],
-    ...(SPANS[name] && { span: SPANS[name] }),
-    geometry: { type: 'MultiPolygon', coordinates: prepare(polys, framed) },
-  };
+  shapes[slugify(name)] = shapeOf(name, polys);
 }
+
+// ------------------------------------------------------------ the tags
+// The country and state tags the posts use, from their front matter.
+const tagged = { country: new Set(), state: new Set() };
+(function walk(dir) {
+  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+    const p = path.join(dir, e.name);
+    if (e.isDirectory()) walk(p);
+    else if (e.name.endsWith('.md')) {
+      const front = (fs.readFileSync(p, 'utf8').match(/^\+\+\+\n([\s\S]*?)\n\+\+\+/) || [])[1] || '';
+      for (const kind of ['country', 'state']) {
+        const m = front.match(new RegExp('^' + kind + '\\s*=\\s*\\[(.*?)\\]', 'm'));
+        if (m) [...m[1].matchAll(/"([^"]+)"/g)].forEach(t => tagged[kind].add(t[1]));
+      }
+    }
+  }
+})(path.join(root, 'content'));
+
+// A tag made of several of the shapes above.
+const TERM_GROUPS = {
+  'United Kingdom': ['England, United Kingdom', 'Scotland, United Kingdom', 'Wales, United Kingdom', 'Northern Ireland, United Kingdom'],
+};
+
+// Which shapes make up each country tag. A tag that is a shape's name, or the name before its comma ("Tasmania"),
+// takes that shape; a country with posts but no entry on the countries page gets a shape of its own, marked `extra` so
+// that page leaves it out.
+const terms = {};
+for (const tag of [...tagged.country].sort()) {
+  const slug = slugify(tag);
+  const keys = (TERM_GROUPS[tag] || []).map(slugify);
+  if (!keys.length) {
+    const hit = Object.keys(shapes).find(k => k === slug || slugify(shapes[k].name.split(',')[0]) === slug);
+    if (hit) keys.push(hit);
+  }
+  if (!keys.length) {
+    const polys = bySubunit(tag).flatMap(f => polygonsOf(f.geometry));
+    if (!polys.length) { problems.push(`country tag ${tag}`); continue; }
+    shapes[slug] = shapeOf(tag, polys, { extra: true });
+    keys.push(slug);
+  }
+  terms[slug] = keys;
+}
+
+// ------------------------------------------------------------ the states
+const stateShapes = {};
+for (const f of usStates) stateShapes[slugify(f.properties.name)] = shapeOf(f.properties.name, polygonsOf(f.geometry));
+
+// Territories that are tagged as states.
+for (const [name, subunit] of [['Guam', 'Guam'], ['Puerto Rico', 'Puerto Rico']]) {
+  stateShapes[slugify(name)] = shapeOf(name, bySubunit(subunit).flatMap(f => polygonsOf(f.geometry)));
+}
+for (const tag of tagged.state) if (!stateShapes[slugify(tag)]) problems.push(`state tag ${tag}`);
 
 if (problems.length) {
   console.error('No outline found for: ' + problems.join(', '));
   process.exit(1);
 }
 
-const doc = {
-  source: 'Natural Earth (public domain), simplified',
-  shapes,
-};
-const dest = path.join(root, 'static/common/country-shapes.json');
-fs.mkdirSync(path.dirname(dest), { recursive: true });
-fs.writeFileSync(dest, JSON.stringify(doc));
-console.log(`${Object.keys(shapes).length} shapes, ${(fs.statSync(dest).size / 1024).toFixed(0)} KB -> ${path.relative(root, dest)}`);
-for (const [k, v] of Object.entries(shapes)) {
-  const [w, s, e, n] = v.bbox;
-  console.log(k.padEnd(40), `${w},${s},${e},${n}`.padEnd(34), (JSON.stringify(v.geometry).length / 1024).toFixed(1) + ' KB');
+// ------------------------------------------------------------ output
+function write(file, doc) {
+  const dest = path.join(root, 'static/common', file);
+  fs.mkdirSync(path.dirname(dest), { recursive: true });
+  fs.writeFileSync(dest, JSON.stringify(doc));
+  console.log(`${Object.keys(doc.shapes).length} shapes, ${(fs.statSync(dest).size / 1024).toFixed(0)} KB -> ${path.relative(root, dest)}`);
 }
+
+write('country-shapes.json', { source: 'Natural Earth (public domain), simplified', shapes, terms });
+write('state-shapes.json', { source: 'Natural Earth (public domain), simplified', shapes: stateShapes });
