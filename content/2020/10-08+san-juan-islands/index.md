@@ -33,17 +33,17 @@ The first two are here:
 
 While getting to and from those parks, there were a few other fun scenes, documented here:
 
-{{ es_cdn_image(id = "es-4127-001", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4127-001", caption = "Ferry from Anacortes to Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4127-001", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4127-001", caption = "ferry from Anacortes to Lopez Island, Washington") }}
 
-{{ es_cdn_image(id = "es-4126-032", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-032", caption = "Ferry from Anacortes to Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-032", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-032", caption = "ferry from Anacortes to Lopez Island, Washington", alt = "A small motorboat cuts across calm gray-blue water, leaving a white wake, with low forested islands and cloud-shrouded hills on the horizon under an overcast sky.") }}
 
 {{ es_cdn_image(id = "es-4126-041", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-041", caption = "Spencer Spit State Park, Lopez Island, Washington") }}
 
 {{ es_cdn_image(id = "es-4126-067", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-067", caption = "Lopez Island, Washington") }}
 
-{{ es_cdn_image(id = "es-4126-078", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-078", caption = "Ferry from Lopez Island to Friday Harbor, Washington") }}
+{{ es_cdn_image(id = "es-4126-078", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-078", caption = "ferry from Lopez Island to Friday Harbor, Washington", alt = "A ferry dock juts into calm blue-gray water beside a forested island shoreline thick with evergreens, under a broad, overcast sky with a faint band of yellow light low on the horizon across the strait.") }}
 
-{{ es_cdn_image(id = "es-4126-079", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-079", caption = "Ferry from Lopez Island to Friday Harbor, Washington") }}
+{{ es_cdn_image(id = "es-4126-079", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-079", caption = "ferry from Lopez Island to Friday Harbor, Washington", alt = "A rocky, forested headland of evergreen trees juts into calm blue-gray water under an overcast sky, with a distant tree-lined shoreline visible across the channel.") }}
 
 {{ es_cdn_image(id = "es-4126-093", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-093", caption = "San Juan Island, Washington") }}
 
