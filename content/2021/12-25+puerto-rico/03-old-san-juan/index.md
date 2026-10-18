@@ -31,7 +31,7 @@ This evening, we walked among the colorful streets and then to the [Paseo del Mo
 
 I intend to someday revive my [long-defunct black-and-white photoblog](https://photoblog.ericscouten.com); in the meantime, I couldn't resist breaking out the infrared camera.
 
-{{ es_cdn_image(id = "es-4291-005", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4291-005", title = "Le Chat Noir et Blanc") }}
+{{ es_cdn_image(id = "es-4291-005", cdn_version = "v1", cdn_key = "img/v1/2021/12/es-4291-005", title = "Le Chat Noir et Blanc", alt = "A black-and-white infrared photograph of a leafy courtyard where palm fronds and trees glow bright white, with a black-and-white cat walking down a set of concrete steps onto a brick-paved plaza. An ornate wall-mounted lantern, benches, a low plastered wall, and a weathered statue are visible in the shadowed garden setting.") }}
 
 {{ es_cdn_image(id = "lr-21c-1182", cdn_version = "v1", cdn_key = "img/v1/2021/12/lr-21c-1182", caption = "Paseo del Morro, San Juan, Puerto Rico", creator = "Lisa Rozmyn") }}
 
