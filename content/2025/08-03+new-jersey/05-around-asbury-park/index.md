@@ -12,6 +12,7 @@ bounds = {sw = [40.207, -74.012], ne = [40.227, -73.992]}
 cover = "es-258-6595"
 cover_cdn_key = "img/v1/2025/08/es-258-6595"
 cover_alt = "A row of large Victorian seaside buildings and houses silhouetted at dusk under a vast gradient sky fading from deep blue to warm orange near the horizon, with a few lit windows and street lamps glowing and a grassy field in the foreground."
+track_key = "track/v2/2025/08/2025-08-07+around-asbury-park.json"
 +++
 
 We're mostly hanging out around our hotel and visiting family. Today I will share a few candid photos that we took around our neighborhood.
