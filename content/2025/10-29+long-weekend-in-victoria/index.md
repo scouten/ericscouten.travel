@@ -10,7 +10,7 @@ country = ["Canada"]
 distance = "491 km / 305 mi"
 route = "Poulsbo, Washington, to Victoria, British Columbia, Canada"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/10/2025-10-29+sanitized.kml"
+track_key = "track/v2/2025/10/2025-10-29.json"
 bounds = {sw = [47.737, -124.451], ne = [48.834, -122.610]}
 cover = "es-25a-7747"
 cover_cdn_key = "img/v1/2025/10/es-25a-7747"
