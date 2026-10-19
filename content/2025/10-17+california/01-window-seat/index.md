@@ -7,10 +7,10 @@ updated = 2025-10-28T21:05:50-07:00
 state = ["California", "Washington"]
 
 [extra]
-distance = "1351 km / 840 mi"
+distance = "1,351 km / 840 mi"
 route = "Poulsbo, Washington, to San Jose, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/10/2025-10-17.kml"
+track_key = "track/v2/2025/10/2025-10-17.json"
 bounds = {sw = [37.195, -123.194], ne = [47.761, -121.848]}
 cover = "es-25a-7413"
 cover_cdn_key = "img/v1/2025/10/es-25a-7413"

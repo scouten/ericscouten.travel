@@ -7,10 +7,10 @@ updated = 2025-11-04T21:48:35-08:00
 state = ["California"]
 
 [extra]
-distance = "326 km / 202 mi"
+distance = "326 km / 203 mi"
 route = "San Jose to Mendocino, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/10/2025-10-18.kml"
+track_key = "track/v2/2025/10/2025-10-18.json"
 bounds = {sw = [37.393, -123.803], ne = [39.307, -121.917]}
 cover = "es-25a-7511"
 cover_cdn_key = "img/v1/2025/10/es-25a-7511"
