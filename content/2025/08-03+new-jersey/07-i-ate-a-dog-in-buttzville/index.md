@@ -10,7 +10,7 @@ state = ["New Jersey"]
 distance = "315 km / 196 mi"
 route = "Ocean Grove to Buttzville, New Jersey, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/08/2025-08-09.kml"
+track_key = "track/v2/2025/08/2025-08-09.json"
 bounds = {sw = [40.154, -75.144], ne = [40.837, -74.004]}
 cover = "es-258-6619"
 cover_cdn_key = "img/v1/2025/08/es-258-6619"
