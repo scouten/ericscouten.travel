@@ -10,7 +10,7 @@ country = ["Canada"]
 distance = "359 km / 223 mi"
 route = "Langley to Earl’s Cove, British Columbia, Canada, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/10/2025-10-04.kml"
+track_key = "track/v2/2025/10/2025-10-04.json"
 bounds = {sw = [49.101, -124.030], ne = [49.753, -122.493]}
 cover = "es-25a-7266"
 cover_cdn_key = "img/v1/2025/10/es-25a-7266"
