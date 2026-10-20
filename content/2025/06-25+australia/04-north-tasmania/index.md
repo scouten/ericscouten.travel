@@ -10,7 +10,7 @@ country = ["Australia", "Tasmania"]
 distance = "203 km / 126 mi"
 route = "around Launceston, Tasmania, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-28.kml"
+track_key = "track/v2/2025/06/2025-06-28.json"
 bounds = {sw = [-41.521, 146.360], ne = [-41.180, 147.142]}
 cover = "es-256-5576"
 cover_cdn_key = "img/v1/2025/06/es-256-5576"
