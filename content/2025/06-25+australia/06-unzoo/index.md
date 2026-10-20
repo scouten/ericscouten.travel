@@ -10,7 +10,7 @@ country = ["Australia", "Tasmania"]
 distance = "167 km / 104 mi"
 route = "Hobart to Taranna, Tasmania, Australia, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-30.kml"
+track_key = "track/v2/2025/06/2025-06-30.json"
 bounds = {sw = [-43.061, 147.331], ne = [-42.781, 147.927]}
 cover = "es-4730-028"
 cover_cdn_key = "img/v1/2025/06/es-4730-028"

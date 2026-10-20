@@ -7,10 +7,10 @@ updated = 2025-07-02T20:41:03+10:00
 country = ["Australia", "Tasmania"]
 
 [extra]
-distance = "2003 km / 1245 mi"
+distance = "2,003 km / 1,245 mi"
 route = "Hobart, Tasmania, to Brisbane, Queensland, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/07/2025-07-01.kml"
+track_key = "track/v2/2025/07/2025-07-01.json"
 bounds = {sw = [-43.109, 147.189], ne = [-27.266, 153.331]}
 cover = "es-257-5775"
 cover_cdn_key = "img/v1/2025/07/es-257-5775"
