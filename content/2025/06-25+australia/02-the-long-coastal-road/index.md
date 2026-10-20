@@ -10,7 +10,7 @@ country = ["Australia"]
 distance = "594 km / 369 mi"
 route = "Erowan Bay, New South Wales, to Mossiface, Victoria, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-26.kml"
+track_key = "track/v2/2025/06/2025-06-26.json"
 bounds = {sw = [-37.757, 147.807], ne = [-35.072, 150.762]}
 cover = "es-256-5337"
 cover_cdn_key = "img/v1/2025/06/es-256-5337"
