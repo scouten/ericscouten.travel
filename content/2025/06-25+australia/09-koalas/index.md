@@ -10,7 +10,7 @@ country = ["Australia"]
 distance = "293 km / 182 mi"
 route = "Brisbane to Noosa Heads, Queensland, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/07/2025-07-03.kml"
+track_key = "track/v2/2025/07/2025-07-03.json"
 bounds = {sw = [-27.609, 152.368], ne = [-26.382, 153.092]}
 cover = "es-4731-031"
 cover_cdn_key = "img/v1/2025/07/es-4731-031"
@@ -47,6 +47,6 @@ We then took a meandering road trip through the inland hills before arriving at 
 
 Fun fact: I had the chance to shoot this same sunset on [my first trip to Australia](/1996/08-26-australia/#es-0217-005) 29 years ago.
 
-I'm struck by how lucky I was to arrive just as the sun was setting right over the mountain across the way. It being depeer into winter this time, the sun was not as conveniently placed.
+I'm struck by how lucky I was to arrive just as the sun was setting right over the mountain across the way. It being deeper into winter this time, the sun was not as conveniently placed.
 
 Also: After experiencing the depth of Tasmanian winter, it's really nice to have warm and sunny weather to wrap up our trip.
