@@ -7,10 +7,10 @@ updated = 2025-06-03T23:16:45-04:00
 state = ["New York"]
 
 [extra]
-distance = "4212 km / 2617 mi"
+distance = "4,212 km / 2,617 mi"
 route = "Poulsbo, Washington, to New York, New York"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/05/2025-05-30.kml"
+track_key = "track/v2/2025/05/2025-05-30.json"
 bounds = {sw = [40.291, -122.713], ne = [47.761, -73.345]}
 cover = "es-255-4550"
 cover_cdn_key = "img/v1/2025/05/es-255-4550"
