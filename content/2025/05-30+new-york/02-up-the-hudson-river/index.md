@@ -7,10 +7,10 @@ updated = 2025-06-06T06:50:59-04:00
 state = ["New York"]
 
 [extra]
-distance = "473 km / 294 mi"
+distance = "474 km / 294 mi"
 route = "New York City to Jay, New York"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/05/2025-05-31.kml"
+track_key = "track/v2/2025/05/2025-05-31.json"
 bounds = {sw = [40.645, -73.992], ne = [44.375, -73.663]}
 cover = "es-255-4632"
 cover_cdn_key = "img/v1/2025/05/es-255-4632"
