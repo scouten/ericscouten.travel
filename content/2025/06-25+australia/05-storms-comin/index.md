@@ -10,7 +10,7 @@ country = ["Australia", "Tasmania"]
 distance = "201 km / 125 mi"
 route = "Launceston to Hobart, Tasmania, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-29.kml"
+track_key = "track/v2/2025/06/2025-06-29.json"
 bounds = {sw = [-42.881, 147.137], ne = [-41.436, 147.507]}
 cover = "es-256-5673"
 cover_cdn_key = "img/v1/2025/06/es-256-5673"
