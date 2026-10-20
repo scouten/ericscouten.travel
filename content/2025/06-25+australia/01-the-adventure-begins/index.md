@@ -6,10 +6,10 @@ date = 2025-06-25T18:34:21+10:00
 country = ["Australia", "Canada"]
 
 [extra]
-distance = "13,233 km / 8,222 mi"
+distance = "13,224 km / 8,217 mi"
 route = "Poulsbo, Washington, to Erowan Bay, New South Wales, Australias"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-23.kml"
+track_key = "track/v2/2025/06/2025-06-23.json"
 bounds = {sw = [-35.097, -178.027], ne = [49.213, 179.481]}
 cover = "es-256-5234"
 cover_cdn_key = "img/v1/2025/06/es-256-5234"
@@ -37,7 +37,7 @@ There are just a few photos from today, as we drove a few hours south from Sydne
 
 {{ es_cdn_image(id = "es-256-5243", cdn_version = "v1", cdn_key = "img/v1/2025/06/es-256-5243", caption = "south of Wildes Meadow, New South Wales, Australia", alt = "A rural landscape near Wildes Meadow, New South Wales, with a foreground field of dry pasture where black cattle graze on a sloping paddock. Dense stands of eucalyptus and other trees fill the middle distance, with forested hills under a bright blue sky scattered with white clouds.") }}
 
-If you zoom in on the map a bit (hint: use the <img src="data:image/svg+xml,%3Csvg%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20viewBox%3D%220%200%2024%2024%22%3E%3Cpath%20d%3D%22M12%2019.175l2.125-2.125%201.425%201.4L12%2022l-3.55-3.55%201.425-1.4L12%2019.175zM4.825%2012l2.125%202.125-1.4%201.425L2%2012l3.55-3.55%201.4%201.425L4.825%2012zm14.35%200L17.05%209.875l1.4-1.425L22%2012l-3.55%203.55-1.4-1.425L19.175%2012zM12%204.825L9.875%206.95%208.45%205.55%2012%202l3.55%203.55-1.425%201.4L12%204.825z%22%20fill%3D%22%23666%22/%3E%3C/svg%3E" width="24" height="24"> button to show Google's navigation controls), you might notice that our trip includes a brief trip through Canada.
+If you zoom out on the map a bit, you might notice that our trip includes a brief trip through Canada.
 
 When planning this trip, I discovered that there's a non-stop flight from Vancouver to Sydney that is quite reasonably priced. Any trip from Seattle's airport would have involved a transfer somewhere in California. So ... we _drove_ from our home up to Vancouver.
 
