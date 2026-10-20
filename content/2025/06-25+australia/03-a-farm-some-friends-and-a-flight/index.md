@@ -10,7 +10,7 @@ country = ["Australia"]
 distance = "854 km / 531 mi"
 route = "Mossiface, Victoria, to Launceston, Tasmania, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-27.kml"
+track_key = "track/v2/2025/06/2025-06-27.json"
 bounds = {sw = [-41.550, 144.637], ne = [-37.658, 147.807]}
 cover = "es-256-5445"
 cover_cdn_key = "img/v1/2025/06/es-256-5445"
