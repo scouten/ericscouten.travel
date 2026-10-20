@@ -10,7 +10,7 @@ country = ["Australia"]
 distance = "152 km / 94 mi"
 route = "Noosa Heads to Brisbane, Queensland, Australia"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/07/2025-07-04+sanitized.kml"
+track_key = "track/v2/2025/07/2025-07-04.json"
 bounds = {sw = [-27.405, 152.975], ne = [-26.378, 153.145]}
 cover = "es-257-6137"
 cover_cdn_key = "img/v1/2025/07/es-257-6137"
