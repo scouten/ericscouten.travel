@@ -6,7 +6,7 @@ date = 2025-12-30T10:08:12.76+10:00
 state = ["Guam"]
 
 [extra]
-distance = "3,342 km / 2,077 mi"
+distance = "3,341 km / 2,076 mi"
 route = "Tamuning, Guam, to Incheon, South Korea"
 markers = "markers.js"
 track_key = "track/v2/2025/12/2025-12-30.json"
