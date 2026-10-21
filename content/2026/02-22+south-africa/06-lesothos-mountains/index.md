@@ -7,7 +7,7 @@ updated = 2026-03-28T14:50:37-07:00
 country = ["Lesotho"]
 
 [extra]
-distance = "72 km / 45 mi"
+distance = "73 km / 45 mi"
 route = "around Makhalaneng, Lesotho"
 markers = "markers.js"
 track_key = "track/v2/2026/02/2026-02-28.json"

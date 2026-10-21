@@ -7,7 +7,7 @@ updated = 2026-03-26T20:54:49-07:00
 country = ["Lesotho", "South Africa"]
 
 [extra]
-distance = "1,963 km / 1,220 mi"
+distance = "1,962 km / 1,219 mi"
 route = "Stellenbosch, Western Cape, South Africa, to Makhalaneng, Lesotho"
 markers = "markers.js"
 track_key = "track/v2/2026/02/2026-02-27.json"
