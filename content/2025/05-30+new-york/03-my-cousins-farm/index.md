@@ -10,7 +10,7 @@ state = ["New York"]
 distance = "328 km / 204 mi"
 route = "Jay to Albany, New York"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/06/2025-06-01.kml"
+track_key = "track/v2/2025/06/2025-06-01.json"
 bounds = {sw = [42.632, -74.540], ne = [44.393, -73.728]}
 cover = "es-256-4790"
 cover_cdn_key = "img/v1/2025/06/es-256-4790"
