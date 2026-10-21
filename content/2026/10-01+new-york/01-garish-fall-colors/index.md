@@ -7,7 +7,7 @@ updated = 2026-10-06T21:43:33-04:00
 state = ["New York"]
 
 [extra]
-distance = "4,949 km / 3,075 mi"
+distance = "4,947 km / 3,074 mi"
 route = "Poulsbo, Washington, to Albany, New York"
 markers = "markers.js"
 track_key = "track/v2/2026/10/2026-10-01.json"
