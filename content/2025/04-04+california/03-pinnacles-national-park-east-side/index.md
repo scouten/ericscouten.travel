@@ -6,10 +6,11 @@ date = 2025-04-06T12:54:10.673-07:00
 state = ["California"]
 
 [extra]
-distance = "287 km / 178 mi"
+distance = "286 km / 178 mi"
 route = "Monterey to Pinnacles National Park, California and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/04/2025-04-06.kml"
+track_key = "track/v2/2025/04/2025-04-06.json"
+parks = ["relation/6183160"]  # Pinnacles National Park
 bounds = {sw = [36.198, -121.913], ne = [36.863, -120.993]}
 cover = "es-254-4018"
 cover_cdn_key = "img/v1/2025/04/es-254-4018"
