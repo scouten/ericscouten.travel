@@ -7,7 +7,7 @@ updated = 2025-10-28T21:05:50-07:00
 state = ["California", "Washington"]
 
 [extra]
-distance = "1,351 km / 840 mi"
+distance = "1,351 km / 839 mi"
 route = "Poulsbo, Washington, to San Jose, California"
 markers = "markers.js"
 track_key = "track/v2/2025/10/2025-10-17.json"
