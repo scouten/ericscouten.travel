@@ -4,9 +4,9 @@ sort_by = "date"
 transparent = true
 
 [extra]
-cover = "es-4640-046"
-cover_cdn_key = "img/v1/2024/04/es-4640-046"
-cover_alt = "A tall white lighthouse and cluster of keeper’s buildings sit atop a coastal bluff, seen across a foreground carpet of blooming ice plant with pale yellow and pink flowers, with a rocky shoreline and ocean waves under an overcast sky."
+cover = "es-254-3906"
+cover_cdn_key = "img/v1/2025/04/es-254-3906"
+cover_alt = "A sandy hiking trail winds through scrubby green and golden grassland toward dramatic rust-colored rock formations and jagged spires under a clear blue sky, with scattered pines and a faint moon visible above the peaks."
 +++
 
 I'm in California for a few days to attend a conference and do some exploring.
