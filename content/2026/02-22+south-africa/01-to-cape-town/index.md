@@ -7,7 +7,7 @@ updated = 2026-02-24T22:42:58+02:00
 country = ["South Africa"]
 
 [extra]
-distance = "17,085 km / 10,616 mi"
+distance = "17,083 km / 10,615 mi"
 route = "Seattle, Washington, to Cape Town, South Africa"
 markers = "markers.js"
 track_key = "track/v2/2026/02/2026-02-22.json"
