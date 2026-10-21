@@ -12,6 +12,7 @@ bounds = {sw = [40.746, -73.966], ne = [40.766, -73.946]}
 cover = "es-256-5135"
 cover_cdn_key = "img/v1/2025/06/es-256-5135"
 cover_alt = "The Manhattan skyline at dusk seen across the East River from Roosevelt Island, with silhouetted skyscrapers including a slender supertall tower against an orange-to-blue gradient sky, and the lit span of the Queensboro Bridge on the right."
+track_key = "track/v2/2025/06/2025-06-04+skyline-panorama.json"
 +++
 
 Today my team hosted the third [Content Authenticity Summit](https://www.contentauthenticitysummit.com) on Roosevelt Island in New York City. I've written about the event [over on my dev blog](https://ericscouten.dev/2025/content-authenticity-summit/). After the event wound down, some of us went to a nearby rooftop lounge to celebrate with a cocktail. We got there just at dusk, which gave me the opportunity to take a few skyline photos.
