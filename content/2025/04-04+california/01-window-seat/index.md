@@ -7,10 +7,10 @@ updated = 2025-04-05T20:09:11-07:00
 state = ["California", "Washington"]
 
 [extra]
-distance = "1503 km / 934 mi"
+distance = "1,502 km / 934 mi"
 route = "Poulsbo, Washington, to Monterey, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/04/2025-04-04.kml"
+track_key = "track/v2/2025/04/2025-04-04.json"
 bounds = {sw = [36.577, -123.215], ne = [47.761, -121.547]}
 cover = "es-254-3805"
 cover_cdn_key = "img/v1/2025/04/es-254-3805"
