@@ -7,10 +7,10 @@ updated = 2025-04-13T08:49:38-07:00
 state = ["California", "Washington"]
 
 [extra]
-distance = "1402 km / 871 mi"
+distance = "1,285 km / 799 mi"
 route = "Mountain View, California, to Poulsbo, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/04/2025-04-11.kml"
+track_key = "track/v2/2025/04/2025-04-11.json"
 bounds = {sw = [37.286, -122.734], ne = [47.764, -121.731]}
 cover = "es-254-4152"
 cover_cdn_key = "img/v1/2025/04/es-254-4152"
