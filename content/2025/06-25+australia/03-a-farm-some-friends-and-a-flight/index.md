@@ -7,7 +7,7 @@ updated = 2025-06-30T12:09:52+10:00
 country = ["Australia"]
 
 [extra]
-distance = "854 km / 531 mi"
+distance = "853 km / 530 mi"
 route = "Mossiface, Victoria, to Launceston, Tasmania, Australia"
 markers = "markers.js"
 track_key = "track/v2/2025/06/2025-06-27.json"
