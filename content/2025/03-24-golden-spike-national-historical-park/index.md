@@ -10,7 +10,8 @@ state = ["Utah"]
 distance = "38 km / 24 mi"
 route = "around Golden Spike National Historical Park, west of Corinne, Utah"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/03/2025-03-24-golden-spike.kml"
+track_key = "track/v2/2025/03/2025-03-24-golden-spike.json"
+parks = ["relation/19997604"]  # Golden Spike National Historical Park
 bounds = {sw = [41.565, -112.609], ne = [41.639, -112.461]}
 cover = "es-253-3578"
 cover_cdn_key = "img/v1/2025/03/es-253-3578"

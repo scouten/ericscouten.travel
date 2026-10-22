@@ -7,7 +7,7 @@ updated = 2025-04-12T20:06:35-07:00
 state = ["Idaho", "Utah", "Washington"]
 
 [extra]
-distance = "3,110 km / 1,933 mi"
+distance = "3,064 km / 1,904 mi"
 route = "Seattle, Washington, to Midway, Utah, and back"
 markers = "markers.js"
 track_key = "track/v2/2025/03/2025-03-19+utah.json"
