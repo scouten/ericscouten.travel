@@ -7,10 +7,10 @@ updated = 2025-04-12T20:06:35-07:00
 state = ["Idaho", "Utah", "Washington"]
 
 [extra]
-distance = "3110 km / 1933 mi"
+distance = "3,110 km / 1,933 mi"
 route = "Seattle, Washington, to Midway, Utah, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/03/2025-03-19+utah.kml"
+track_key = "track/v2/2025/03/2025-03-19+utah.json"
 bounds = {sw = [40.558, -122.318], ne = [47.717, -111.426]}
 cover = "es-253-3456"
 cover_cdn_key = "img/v1/2025/03/es-253-3456"
