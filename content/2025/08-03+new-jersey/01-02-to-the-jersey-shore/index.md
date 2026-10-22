@@ -7,10 +7,11 @@ updated = 2025-08-14T11:22:18-07:00
 state = ["New Jersey"]
 
 [extra]
-distance = "4,456 km / 2,769 mi"
+distance = "4,454 km / 2,767 mi"
 route = "Poulsbo, Washington, to Ocean Grove, New Jersey"
 markers = "markers.js"
 track_key = "track/v2/2025/08/2025-08-02.json"
+parks = ["relation/11134695"]  # Delaware Water Gap National Recreation Area
 bounds = {sw = [40.092, -74.978], ne = [41.301, -73.777]}
 cover = "es-258-6343"
 cover_cdn_key = "img/v1/2025/08/es-258-6343"
