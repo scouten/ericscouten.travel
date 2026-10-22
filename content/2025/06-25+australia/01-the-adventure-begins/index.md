@@ -6,7 +6,7 @@ date = 2025-06-25T18:34:21+10:00
 country = ["Australia", "Canada"]
 
 [extra]
-distance = "13,224 km / 8,217 mi"
+distance = "13,223 km / 8,216 mi"
 route = "Poulsbo, Washington, to Erowan Bay, New South Wales, Australias"
 markers = "markers.js"
 track_key = "track/v2/2025/06/2025-06-23.json"
