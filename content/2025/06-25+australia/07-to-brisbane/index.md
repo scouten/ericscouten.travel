@@ -7,7 +7,7 @@ updated = 2025-07-02T20:41:03+10:00
 country = ["Australia", "Tasmania"]
 
 [extra]
-distance = "2,003 km / 1,245 mi"
+distance = "2,003 km / 1,244 mi"
 route = "Hobart, Tasmania, to Brisbane, Queensland, Australia"
 markers = "markers.js"
 track_key = "track/v2/2025/07/2025-07-01.json"
