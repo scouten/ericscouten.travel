@@ -7,10 +7,10 @@ updated = 2024-06-12T13:35:44-07:00
 country = ["Germany", "Poland"]
 
 [extra]
-distance = "646 km / 401 mi"
+distance = "647 km / 402 mi"
 route = "Warsaw, Poland, to Berlin, Germany"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/06/2024-06-03.kml"
+track_key = "track/v2/2024/06/2024-06-03.json"
 bounds = {sw = [51.892, 13.141], ne = [52.530, 21.005]}
 cover = "es-4661-023"
 cover_cdn_key = "img/v1/2024/06/es-4661-023"
