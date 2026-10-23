@@ -7,10 +7,10 @@ updated = 2024-12-10T19:43:03-08:00
 country = ["Mexico"]
 
 [extra]
-distance = "3521 km / 2188 mi"
+distance = "3,520 km / 2,187 mi"
 route = "Seattle, Washington, to Nuevo Vallarta, Nayarit, Mexico"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/11/2024-11-24.kml"
+track_key = "track/v2/2024/11/2024-11-24.json"
 bounds = {sw = [20.673, -122.309], ne = [47.464, -104.899]}
 cover = "lr-24b-5920"
 cover_cdn_key = "img/v1/2024/11/lr-24b-5920"

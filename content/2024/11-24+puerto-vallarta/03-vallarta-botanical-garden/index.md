@@ -7,10 +7,10 @@ updated = 2024-12-18T20:15:26-08:00
 country = ["Mexico"]
 
 [extra]
-distance = "89 km / 56 mi"
+distance = "90 km / 56 mi"
 route = "Nuevo Vallarta, Nayarit, to Las Juntas y Los Veranos, Jalisco, Mexico, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/11/2024-11-27.kml"
+track_key = "track/v2/2024/11/2024-11-27.json"
 bounds = {sw = [20.465, -105.319], ne = [20.696, -105.222]}
 cover = "es-4706-096"
 cover_cdn_key = "img/v1/2024/11/es-4706-096"

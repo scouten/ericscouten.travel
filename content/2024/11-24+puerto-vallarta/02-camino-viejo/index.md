@@ -7,10 +7,10 @@ updated = 2024-12-15T09:30:39-08:00
 country = ["Mexico"]
 
 [extra]
-distance = "170 km / 106 mi"
+distance = "167 km / 104 mi"
 route = "Nuevo Vallarta to Sayulita, Nayarit, Mexico, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/11/2024-11-26.kml"
+track_key = "track/v2/2024/11/2024-11-26.json"
 bounds = {sw = [20.682, -105.521], ne = [21.108, -105.125]}
 cover = "es-4706-066"
 cover_cdn_key = "img/v1/2024/11/es-4706-066"

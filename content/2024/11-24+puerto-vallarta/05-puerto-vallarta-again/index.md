@@ -10,7 +10,7 @@ country = ["Mexico"]
 distance = "40 km / 25 mi"
 route = "around Puerto Vallarta, Jalisco, Mexico"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/11/2024-11-29.kml"
+track_key = "track/v2/2024/11/2024-11-29.json"
 bounds = {sw = [20.609, -105.285], ne = [20.696, -105.225]}
 cover = "es-4706-304"
 cover_cdn_key = "img/v1/2024/11/es-4706-304"

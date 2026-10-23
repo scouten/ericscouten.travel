@@ -7,10 +7,10 @@ updated = 2024-12-25T10:51:13-08:00
 country = ["Mexico"]
 
 [extra]
-distance = "65 km / 41 mi"
+distance = "65 km / 40 mi"
 route = "city, state, to city, state"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/11/2024-11-30.kml"
+track_key = "track/v2/2024/11/2024-11-30.json"
 bounds = {sw = [20.504, -105.384], ne = [20.703, -105.250]}
 cover = "es-4706-344"
 cover_cdn_key = "img/v1/2024/11/es-4706-344"
