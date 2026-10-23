@@ -7,10 +7,10 @@ updated = 2024-06-15T21:29:01-07:00
 country = ["Germany"]
 
 [extra]
-distance = "8879 km / 5517 mi"
-route = "Berlin, Germany, to Seattle, Washington"
+distance = "565 km / 351 mi"
+route = "Berlin to Frankfurt, Germany"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/06/2024-06-08.kml"
+track_key = "track/v2/2024/06/2024-06-05.json"
 bounds = {sw = [47.439, -122.308], ne = [73.244, 13.426]}
 cover = "es-4664-065"
 cover_cdn_key = "img/v1/2024/06/es-4664-065"
