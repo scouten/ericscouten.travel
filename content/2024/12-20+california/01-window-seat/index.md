@@ -7,10 +7,10 @@ updated = 2024-12-26T19:11:25-08:00
 state = ["California", "Washington"]
 
 [extra]
-distance = "1911 km / 1188 mi"
+distance = "1,911 km / 1,187 mi"
 route = "Poulsbo, Washington, to Joshua Tree, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/12/2024-12-20.kml"
+track_key = "track/v2/2024/12/2024-12-20.json"
 bounds = {sw = [33.723, -122.713], ne = [47.761, -116.244]}
 cover = "es-4710-008"
 cover_cdn_key = "img/v1/2024/12/es-4710-008"

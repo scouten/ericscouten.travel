@@ -7,10 +7,11 @@ updated = 2024-12-29T19:10:12-08:00
 state = ["California"]
 
 [extra]
-distance = "387 km / 241 mi"
+distance = "387 km / 240 mi"
 route = "Joshua Tree to Palm Springs, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/12/2024-12-22.kml"
+track_key = "track/v2/2024/12/2024-12-22.json"
+parks = ["relation/6145614"]  # Joshua Tree National Park
 bounds = {sw = [32.979, -116.546], ne = [34.237, -115.514]}
 cover = "es-4711-084"
 cover_cdn_key = "img/v1/2024/12/es-4711-084"

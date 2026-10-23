@@ -7,10 +7,11 @@ updated = 2024-12-27T15:29:46-08:00
 state = ["California"]
 
 [extra]
-distance = "149 km / 93 mi"
+distance = "149 km / 92 mi"
 route = "around Joshua Tree National Park, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/12/2024-12-21.kml"
+track_key = "track/v2/2024/12/2024-12-21.json"
+parks = ["relation/6145614"]  # Joshua Tree National Park
 bounds = {sw = [33.926, -116.315], ne = [34.241, -116.019]}
 cover = "es-4710-090"
 cover_cdn_key = "img/v1/2024/12/es-4710-090"

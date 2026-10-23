@@ -7,10 +7,10 @@ updated = 2024-12-29T20:29:17-08:00
 state = ["California", "Washington"]
 
 [extra]
-distance = "1844 km / 1146 mi"
+distance = "1,844 km / 1,146 mi"
 route = "Palm Springs, California, to Poulsbo, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/12/2024-12-24.kml"
+track_key = "track/v2/2024/12/2024-12-24.json"
 bounds = {sw = [33.819, -122.738], ne = [47.758, -116.386]}
 cover = "es-4713-045"
 cover_cdn_key = "img/v1/2024/12/es-4713-045"
