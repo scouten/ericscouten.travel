@@ -11,7 +11,7 @@ country = ["Canada"]
 distance = "26 km / 16 mi"
 route = "around Point Roberts, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2025/01/2025-01-12-point-roberts.kml"
+track_key = "track/v2/2025/01/2025-01-12.json"
 bounds = {sw = [48.972, -123.089], ne = [49.002, -123.025]}
 cover = "es-4716-055"
 cover_cdn_key = "img/v1/2025/01/es-4716-055"
