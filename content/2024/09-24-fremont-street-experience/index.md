@@ -11,6 +11,7 @@ markers = "markers.js"
 bounds = {sw = [36.160, -115.152], ne = [36.180, -115.132]}
 cover = "es-4697-031"
 cover_cdn_key = "img/v1/2024/09/es-4697-031"
+track_key = "track/v2/2024/09/2024-09-24+24-fremont-street-experience.json"
 +++
 
 As I mentioned yesterday, Lisa and I are taking a few days in Las Vegas for a conference. For dinner tonight, we ventured away from the Strip to check out the [Fremont Street Experience](https://www.visitlasvegas.com/listing/fremont-street-experience/35013/), which is a pedestrian mall in a more historic part of the city.

@@ -10,7 +10,8 @@ state = ["Nevada"]
 distance = "222 km / 138 mi"
 route = "Las Vegas, Nevada, to Valley of Fire State Park and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/09/2024-09-23.kml"
+track_key = "track/v2/2024/09/2024-09-23.json"
+parks = ["relation/9080718"]  # Valley of Fire State Park
 bounds = {sw = [36.024, -115.181], ne = [36.502, -114.409]}
 cover = "es-4696-097"
 cover_cdn_key = "img/v1/2024/09/es-4696-097"
