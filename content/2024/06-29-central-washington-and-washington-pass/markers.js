@@ -10,6 +10,6 @@ function addGpxMarkers(map) {
 
         addParkMarker(map, 130, "Curlew Lake", "curlew-lake", 48.719, -118.664, "es-4676-052"),
         addParkMarker(map, 131, "Ranald MacDonald", "ranald-macdonald", 48.941, -118.759, "es-4676-096"),
-        addParkMarker(map, 132, "Squilchuck", "squilchuck", 47.310, -120.372, "es-4677-046"),
+        addParkMarker(map, 132, "Squilchuck", "squilchuck", 47.310, -120.372, "es-4677-046", "img/v1/2024/07/es-4677-046"),
     ]
 }

@@ -7,10 +7,10 @@ updated = 2024-08-25T00:36:03-07:00
 state = ["Washington"]
 
 [extra]
-distance = "1123 km / 698 mi"
+distance = "1,057 km / 657 mi"
 route = "Poulsbo to Republic, Washington, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/06/2024-06-29.kml"
+track_key = "track/v2/2024/06/2024-06-28.json"
 bounds = {sw = [47.304, -122.646], ne = [48.947, -118.592]}
 cover = "es-4675-036"
 cover_cdn_key = "img/v1/2024/06/es-4675-036"
