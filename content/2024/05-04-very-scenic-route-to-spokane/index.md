@@ -8,10 +8,10 @@ state = ["Oregon", "Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/112470672329314139"
-distance = "1007 km / 626 mi"
+distance = "1,003 km / 623 mi"
 route = "Poulsbo to Spokane, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/05/2024-05-04.kml"
+track_key = "track/v2/2024/05/2024-05-03.json"
 bounds = {sw = [45.330, -122.646], ne = [47.829, -116.958]}
 cover = "es-4644-110"
 cover_cdn_key = "img/v1/2024/05/es-4644-110"
