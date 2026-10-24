@@ -7,10 +7,10 @@ updated = 2024-06-11T18:45:49-07:00
 country = ["Czechia", "Poland", "Slovakia"]
 
 [extra]
-distance = "685 km / 426 mi"
+distance = "682 km / 424 mi"
 route = "Bratislava, Slovakia, to Warsaw, Poland"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/06/2024-06-02.kml"
+track_key = "track/v2/2024/06/2024-06-02.json"
 bounds = {sw = [48.127, 17.071], ne = [52.234, 21.003]}
 cover = "es-4660-145"
 cover_cdn_key = "img/v1/2024/06/es-4660-145"
