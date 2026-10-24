@@ -8,10 +8,10 @@ state = ["District of Columbia", "Maryland", "New Jersey", "New York"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/112516640648131208"
-distance = "402 km / 250 mi"
+distance = "401 km / 249 mi"
 route = "New York, New York, to Fairfax, Virginia"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/05/2024-05-17.kml"
+track_key = "track/v2/2024/05/2024-05-17.json"
 bounds = {sw = [38.864, -77.354], ne = [40.773, -73.995]}
 cover = "es-4655-123"
 cover_cdn_key = "img/v1/2024/05/es-4655-123"

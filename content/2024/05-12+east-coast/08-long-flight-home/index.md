@@ -8,10 +8,10 @@ state = ["Michigan", "Ohio", "Virginia", "Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/112521118614873014"
-distance = "4094 km / 2544 mi"
+distance = "4,093 km / 2,543 mi"
 route = "Fairfax, Virginia, to Poulsbo, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/05/2024-05-19.kml"
+track_key = "track/v2/2024/05/2024-05-19.json"
 bounds = {sw = [38.790, -122.712], ne = [48.127, -77.039]}
 cover = "es-4658-065"
 cover_cdn_key = "img/v1/2024/05/es-4658-065"
@@ -40,7 +40,7 @@ It got a bit choppy mid-flight. Turns out we were dodging around some storms. If
 
 {{ es_cdn_image(id = "es-4658-029", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4658-029", caption = "above Sand Creek, Michigan", alt = "An aerial view from high above the clouds, showing fluffy white cumulus clouds scattered over the land below, with a deep blue sky and wispy cirrus clouds stretching toward the horizon. The faint patchwork of ground is visible far beneath the clouds.") }}
 
-{{ es_cdn_image(id = "es-4658-035", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4658-035", caption = "The shore of Lake Michigan as seen from an aerial view. · above Lake Michigan, near Macatawa, Michigan", alt = "A high-altitude aerial view of the Lake Michigan shoreline near Macatawa, Michigan, with deep blue water filling the left half and a thin pale beach line separating it from forested land, farm fields, and inland waterways on the right, all softened by atmospheric blue haze.") }}
+{{ es_cdn_image(id = "es-4658-035", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4658-035", caption = "above Lake Michigan, near Macatawa, Michigan", alt = "A high-altitude aerial view of the Lake Michigan shoreline near Macatawa, Michigan, with deep blue water filling the left half and a thin pale beach line separating it from forested land, farm fields, and inland waterways on the right, all softened by atmospheric blue haze.") }}
 
 {{ es_cdn_image(id = "es-4658-051", cdn_version = "v1", cdn_key = "img/v1/2024/05/es-4658-051", caption = "above Keller, Washington", alt = "An aerial view from high above a vast layer of clouds at dusk, with pink and orange light warming the cloud tops while a clear blue sky deepens overhead and a soft golden glow lingers near the horizon.") }}
 

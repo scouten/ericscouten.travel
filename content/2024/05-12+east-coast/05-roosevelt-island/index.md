@@ -13,6 +13,7 @@ bounds = {sw = [40.749, -73.963], ne = [40.769, -73.943]}
 cover = "es-4655-029"
 cover_cdn_key = "img/v1/2024/05/es-4655-029"
 cover_alt = "The Midtown Manhattan skyline seen across the East River from Roosevelt Island under a cloudy morning sky, with the United Nations Secretariat building, the Chrysler Building, and other skyscrapers rising above a waterfront promenade lined with trees. A rocky shoreline appears in the foreground."
+track_key = "track/v2/2024/05/2024-05-17+roosevelt-island.json"
 +++
 
 Lisa suggested I explore [Roosevelt Island](https://www.nyctourism.com/new-york/manhattan/roosevelt-island/) while I was in NYC. Today is my last day in the city and I made some time before heading out to do so. I found an island that was clean and quiet and mostly residential, with some great views across the East River to the larger parts of the city:

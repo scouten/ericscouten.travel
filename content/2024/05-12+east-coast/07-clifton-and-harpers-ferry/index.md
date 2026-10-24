@@ -8,10 +8,11 @@ state = ["Virginia", "West Virginia"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/112516640737015406"
-distance = "193 km / 120 mi"
+distance = "194 km / 120 mi"
 route = "Fairfax, Virginia, to Harpers Ferry, West Virginia, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/05/2024-05-18.kml"
+track_key = "track/v2/2024/05/2024-05-18.json"
+parks = ["relation/6311355"]  # Harpers Ferry National Historical Park
 bounds = {sw = [38.777, -77.746], ne = [39.326, -77.325]}
 cover = "es-4657-007"
 cover_cdn_key = "img/v1/2024/05/es-4657-007"

@@ -8,10 +8,10 @@ state = ["New York"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/112471014438744686"
-distance = "2.2 km / 1.4 mi"
+distance = "1.3 km / 0.8 mi"
 route = "The High Line, New York, New York"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/05/2024-05-13.kml"
+track_key = "track/v2/2024/05/2024-05-13-high-line.json"
 bounds = {sw = [40.737, -74.011], ne = [40.757, -73.991]}
 cover = "es-4647-207"
 cover_cdn_key = "img/v1/2024/05/es-4647-207"
