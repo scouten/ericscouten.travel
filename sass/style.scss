@@ -52,7 +52,7 @@ cta {
 
     .cm-count {
         flex: none;
-        font-weight: 300;
+        font-weight: $header-font-weight-light;
         color: var(--es-track-muted);
     }
 }
