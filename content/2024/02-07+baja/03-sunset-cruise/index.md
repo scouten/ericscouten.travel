@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/111973433051595650"
 distance = "11 km / 7 mi"
 route = "Pacific Ocean, near Cabo San Lucas, Baja California Sur, Mexico"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/02/2024-02-10.kml"
+track_key = "track/v2/2024/02/2024-02-10.json"
 bounds = {sw = [22.866, -109.910], ne = [22.886, -109.879]}
 cover = "es-4631-190"
 cover_cdn_key = "img/v1/2024/02/es-4631-190"
@@ -26,7 +26,7 @@ I'll let the photos speak for themselves.
 
 {{ es_cdn_image(id = "es-4631-019", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4631-019", caption = "Marina, Cabo San Lucas, Baja California Sur, Mexico", alt = "A bright lime-green panga boat named “ALOHA” motors across blue harbor water, steered by a man in a red jacket standing under its canopy, with a Mexican flag flying at the stern. Behind it are rocky breakwater boulders, anchored yachts, a beach, and hillside resort buildings in Cabo San Lucas.") }}
 
-{{ es_cdn_image(id = "es-4632-207", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-207", caption = "Several boats on the ocean near the El Arco rock formation. · El Arco, near Cabo San Lucas, Baja California Sur, Mexico", alt = "Tourists ride in several small boats on choppy blue water beside the dramatic golden rock formations of El Arco at Cabo San Lucas, including the famous sea arch, under a clear late-afternoon sky with seagulls flying overhead.") }}
+{{ es_cdn_image(id = "es-4632-207", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-207", caption = "El Arco, near Cabo San Lucas, Baja California Sur, Mexico", alt = "Tourists ride in several small boats on choppy blue water beside the dramatic golden rock formations of El Arco at Cabo San Lucas, including the famous sea arch, under a clear late-afternoon sky with seagulls flying overhead.") }}
 
 {{ es_cdn_image(id = "es-4631-056", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4631-056", caption = "El Arco, near Cabo San Lucas, Baja California Sur, Mexico", alt = "A pelican perched atop a white-streaked rocky outcrop in silhouette against a pale sky, beside a large dark cliff rising from the sea at El Arco near Cabo San Lucas. Gently rippling blue ocean water fills the foreground.") }}
 

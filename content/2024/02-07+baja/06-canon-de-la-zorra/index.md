@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/112153934288248034"
 distance = "62 km / 39 mi"
 route = "Cabo Pulmo to Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/02/2024-02-13.kml"
+track_key = "track/v2/2024/02/2024-02-13-santiago.json"
 bounds = {sw = [23.438, -109.794], ne = [23.590, -109.428]}
 cover = "lr-242-4909"
 cover_cdn_key = "img/v1/2024/02/lr-242-4909"
@@ -25,7 +25,7 @@ Our route took us through the town of Santiago, which is located on an inland la
 
 {{ es_cdn_image(id = "es-4632-463", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-463", caption = "Santiago, Baja California Sur, Mexico") }}
 
-{{ es_cdn_image(id = "es-4632-468", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-468", caption = "A view from above Santiago’s lagoon with palm trees and mountains in the background. · Santiago, Baja California Sur, Mexico", alt = "An elevated view over a green wetland oasis with pools of open water surrounded by reeds and scattered palm trees, backed by dense vegetation, low arid hills, and a wide sky filled with streaky clouds near Santiago, Baja California Sur, Mexico.") }}
+{{ es_cdn_image(id = "es-4632-468", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-468", caption = "Santiago, Baja California Sur, Mexico", alt = "An elevated view over a green wetland oasis with pools of open water surrounded by reeds and scattered palm trees, backed by dense vegetation, low arid hills, and a wide sky filled with streaky clouds near Santiago, Baja California Sur, Mexico.") }}
 
 Once out of Santiago, the road quickly became another dusty washboard:
 
@@ -33,7 +33,7 @@ Once out of Santiago, the road quickly became another dusty washboard:
 
 {{ es_cdn_image(id = "es-4632-473", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-473", title = "Rules of the Trail", caption = "Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico") }}
 
-{{ es_cdn_image(id = "es-4632-474", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-474", caption = "A dusty hiking trail through a desert landscape. · Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico", alt = "A sandy dirt trail winds through arid desert scrubland lined with bare-branched trees, tall columnar cactus, and clusters of rounded boulders, with a brush-covered mountain rising under a partly cloudy blue sky.") }}
+{{ es_cdn_image(id = "es-4632-474", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-474", caption = "Cañón de la Zorra, west of Santiago, Baja California Sur, Mexico", alt = "A sandy dirt trail winds through arid desert scrubland lined with bare-branched trees, tall columnar cactus, and clusters of rounded boulders, with a brush-covered mountain rising under a partly cloudy blue sky.") }}
 
 I'm often chided for taking "texture photos." In case there was any question, I've met my match. Lisa takes texture photos, too!
 

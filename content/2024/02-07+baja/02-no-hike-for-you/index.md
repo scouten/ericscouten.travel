@@ -8,10 +8,10 @@ country = ["Mexico"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/111961948735735810"
-distance = "142 km / 88 mi"
+distance = "136 km / 84 mi"
 route = "around Cabo San Lucas, Baja California Sur, Mexico"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/02/2024-02-08.kml"
+track_key = "track/v2/2024/02/2024-02-08.json"
 bounds = {sw = [22.888, -110.106], ne = [23.069, -109.667]}
 cover = "es-4632-120"
 cover_cdn_key = "img/v1/2024/02/es-4632-120"
@@ -34,11 +34,11 @@ One thing that was new was this statue, named _El Rey Pescador_ (The Fisher King
 
 After several more attempts to find trails and beaches, we found a relatively quiet beach near Migriño, about 20 minutes north of Cabo. By then, though, it was windy and quite cloudy. That made for some fun ocean-scapes, but not the warm beach experience we were after. Ah well.
 
-{{ es_cdn_image(id = "es-4632-102", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-102", caption = "Waves crash onto a rock formation on a cloudy day. · Playa Pública Migriño, near Migriño, Baja California Sur, Mexico", alt = "A wide sandy beach under an overcast gray sky, with foaming white waves rolling in and crashing against a cluster of dark rocks partially submerged in the surf.") }}
+{{ es_cdn_image(id = "es-4632-102", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-102", caption = "Playa Pública Migriño, near Migriño, Baja California Sur, Mexico", alt = "A wide sandy beach under an overcast gray sky, with foaming white waves rolling in and crashing against a cluster of dark rocks partially submerged in the surf.") }}
 
-{{ es_cdn_image(id = "es-4632-107", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-107", caption = "Waves crash onto a rock formation on a cloudy day. · Playa Pública Migriño, near Migriño, Baja California Sur, Mexico", alt = "A stormy beach scene at Playa Pública Migriño, with white breaking waves rolling toward a smooth sandy shore and dark rocks protruding from the surf. A lone bird flies against a heavy gray, cloud-filled sky, with a single seabird visible in the distance.") }}
+{{ es_cdn_image(id = "es-4632-107", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-107", caption = "Playa Pública Migriño, near Migriño, Baja California Sur, Mexico", alt = "A stormy beach scene at Playa Pública Migriño, with white breaking waves rolling toward a smooth sandy shore and dark rocks protruding from the surf. A lone bird flies against a heavy gray, cloud-filled sky, with a single seabird visible in the distance.") }}
 
-{{ es_cdn_image(id = "es-4632-120", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-120", caption = "Waves crash onto a rock formation on a cloudy day. · Playa Pública Migriño, near Migriño, Baja California Sur, Mexico", alt = "A large wave crashes against a dark rock jutting from the churning surf, sending a tall plume of white spray into the air under a heavy gray overcast sky, with a faint ship visible on the distant horizon.") }}
+{{ es_cdn_image(id = "es-4632-120", cdn_version = "v1", cdn_key = "img/v1/2024/02/es-4632-120", caption = "Playa Pública Migriño, near Migriño, Baja California Sur, Mexico", alt = "A large wave crashes against a dark rock jutting from the churning surf, sending a tall plume of white spray into the air under a heavy gray overcast sky, with a faint ship visible on the distant horizon.") }}
 
 Before watching this video, I suggest turning down the volume. (Someday I shall learn how to avoid wind noise!)
 

@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/112033378022534847"
 distance = "82 km / 51 mi"
 route = "Cabo San Lucas to Todos Santos, Baja California Sur, Mexico"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/02/2024-02-11.kml"
+track_key = "track/v2/2024/02/2024-02-11-todos-santos.json"
 bounds = {sw = [22.885, -110.226], ne = [23.451, -109.905]}
 cover = "es-4632-339"
 cover_cdn_key = "img/v1/2024/02/es-4632-339"
