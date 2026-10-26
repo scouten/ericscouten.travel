@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/112151908401991908"
 distance = "270 km / 168 mi"
 route = "Poulsbo to Port Angeles, Washington, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/02/2024-02-03.kml"
+track_key = "track/v2/2024/02/2024-02-03.json"
 bounds = {sw = [47.737, -123.868], ne = [48.155, -122.610]}
 cover = "es-4630-081"
 cover_cdn_key = "img/v1/2024/02/es-4630-081"
