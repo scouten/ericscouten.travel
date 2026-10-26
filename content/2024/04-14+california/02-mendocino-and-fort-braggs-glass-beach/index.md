@@ -8,10 +8,11 @@ state = ["California"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/112352289768000843"
-distance = "361 km / 225 mi"
+distance = "362 km / 225 mi"
 route = "Mountain View to Mendocino, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2024/04/2024-04-20.kml"
+track_key = "track/v2/2024/04/2024-04-19.json"
+parks = ["relation/187065"]  # Mendocino Headlands State Park
 bounds = {sw = [37.413, -123.816], ne = [39.453, -122.078]}
 cover = "lr-244-5036"
 cover_cdn_key = "img/v1/2024/04/lr-244-5036"
@@ -27,13 +28,13 @@ We arrived on a cloudy evening and went for a walk along the coastal trails.
 
 For all my times here, I had never been down on the beach below Mendocino. How did I let that happen?
 
-{{ es_cdn_image(id = "es-4641-017", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-017", caption = "An ocean coast with rocky cliffs and trees in fog. · Mendocino Headlands State Park, Mendocino, California", alt = "A gray, overcast coastal scene with gentle waves washing onto a dark sandy beach in the foreground, and rugged rocky cliffs topped with green grass and evergreen trees receding into fog across the bay.") }}
+{{ es_cdn_image(id = "es-4641-017", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-017", caption = "Mendocino Headlands State Park, Mendocino, California", alt = "A gray, overcast coastal scene with gentle waves washing onto a dark sandy beach in the foreground, and rugged rocky cliffs topped with green grass and evergreen trees receding into fog across the bay.") }}
 
-{{ es_cdn_image(id = "es-4641-021", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-021", caption = "A sandy beach with a fort made of driftwood on a cloudy day. · Mendocino Headlands State Park, Mendocino, California", alt = "A driftwood shelter built from stacked logs and branches sits on a sandy beach at the base of steep coastal bluffs covered in green vegetation and yellow-flowering shrubs, under an overcast gray sky. Scattered driftwood logs lie across the pale sand in the foreground.") }}
+{{ es_cdn_image(id = "es-4641-021", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4641-021", caption = "Mendocino Headlands State Park, Mendocino, California", alt = "A driftwood shelter built from stacked logs and branches sits on a sandy beach at the base of steep coastal bluffs covered in green vegetation and yellow-flowering shrubs, under an overcast gray sky. Scattered driftwood logs lie across the pale sand in the foreground.") }}
 
 Saturday brought blue skies, which inspired more exploring ...
 
-{{ es_cdn_image(id = "es-4642-005", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-005", caption = "A church spire with a statue on top against a blue sky. · Mendocino, California", alt = "A white wooden Victorian building with a steep gable roof edged in ornate scalloped trim, topped by an octagonal cupola bearing a white statue, all set against a deep blue cloudless sky. A crow perches atop the statue and another bird sits on the cupola ledge, with trees and parked cars visible in the lower background.") }}
+{{ es_cdn_image(id = "es-4642-005", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-005", caption = "Mendocino, California", alt = "A white wooden Victorian building with a steep gable roof edged in ornate scalloped trim, topped by an octagonal cupola bearing a white statue, all set against a deep blue cloudless sky. A crow perches atop the statue and another bird sits on the cupola ledge, with trees and parked cars visible in the lower background.") }}
 
 {{ es_cdn_image(id = "lr-244-5030", cdn_version = "v1", cdn_key = "img/v1/2024/04/lr-244-5030", caption = "Mendocino, California", creator = "Lisa Rozmyn") }}
 
@@ -59,6 +60,6 @@ We did a brief exploration of Noyo Bay on our way out of Fort Bragg.
 
 And then a bit of walking about on the coast when we got back into Mendocino.
 
-{{ es_cdn_image(id = "es-4642-024", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-024", caption = "A rocky ocean coast with a blue sky and some clouds on the horizon. · Mendocino Headlands State Park, Mendocino, California", alt = "A rugged coastline at Mendocino Headlands State Park, with green vegetation and pink flowers in the foreground giving way to rocky bluffs and blue ocean water dotted with offshore rocks. A low bank of fog hovers over the horizon under a bright blue sky, and a house sits atop a wooded headland on the right.") }}
+{{ es_cdn_image(id = "es-4642-024", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-024", caption = "Mendocino Headlands State Park, Mendocino, California", alt = "A rugged coastline at Mendocino Headlands State Park, with green vegetation and pink flowers in the foreground giving way to rocky bluffs and blue ocean water dotted with offshore rocks. A low bank of fog hovers over the horizon under a bright blue sky, and a house sits atop a wooded headland on the right.") }}
 
-{{ es_cdn_image(id = "es-4642-030", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-030", caption = "A hiking trail along a rocky ocean coast. · Mendocino Headlands State Park, Mendocino, California", alt = "A narrow dirt trail winds through grassy coastal bluffs toward the ocean at Mendocino Headlands State Park, with dark jagged rock formations and shallow tide pools along the shoreline under a partly cloudy blue sky.") }}
+{{ es_cdn_image(id = "es-4642-030", cdn_version = "v1", cdn_key = "img/v1/2024/04/es-4642-030", caption = "Mendocino Headlands State Park, Mendocino, California", alt = "A narrow dirt trail winds through grassy coastal bluffs toward the ocean at Mendocino Headlands State Park, with dark jagged rock formations and shallow tide pools along the shoreline under a partly cloudy blue sky.") }}
