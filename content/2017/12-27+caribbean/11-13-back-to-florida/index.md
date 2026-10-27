@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2018/01/2018-01-07-back-to-florida.kml"
 bounds = {sw = [9.986, -122.318], ne = [47.747, -79.987]}
 cover = "es-3699-020"
 cover_cdn_key = "img/v1/2018/01/es-3699-020"
+cover_alt = "A black-and-white infrared photograph of a wetland, with a large tree and dense reeds along the far bank of calm, dark water reflecting a dramatic, cloud-filled sky."
 +++
 
 After Costa Rica, it was time to head home. We sailed for two nights back to Fort Lauderdale. Since my flight back to Seattle departed late in the day, I had the opportunity to go out on a sight-seeing tour in the Everglades "on the way" to the airport.
@@ -38,7 +39,7 @@ So, the idea of this sight-seeing tour was to get in one of those air boats and 
 
 {{ es_cdn_image(id = "es-3699-016", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3699-016", title = "Remember and Let Go", caption = "Everglades Wildlife Management Area, north of Weston, Florida") }}
 
-{{ es_cdn_image(id = "es-3699-020", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3699-020", title = "The Hurting Time", caption = "Everglades Wildlife Management Area, north of Weston, Florida") }}
+{{ es_cdn_image(id = "es-3699-020", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3699-020", title = "The Hurting Time", caption = "Everglades Wildlife Management Area, north of Weston, Florida", alt = "A black-and-white infrared photograph of a wetland, with a large tree and dense reeds along the far bank of calm, dark water reflecting a dramatic, cloud-filled sky.") }}
 
 So, as I said, we went out looking for alligators. When we got back to port from the tour, one of the shore staff asked if we'd seen any.
 
