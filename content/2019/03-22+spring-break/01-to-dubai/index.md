@@ -16,6 +16,7 @@ track_log_key = "kml/v1/2019/03/2019-03-22-to-dubai.kml"
 bounds = {sw = [25.242, -122.509], ne = [70.041, 55.376]}
 cover = "es-3896-003"
 cover_cdn_key = "img/v1/2019/03/es-3896-003"
+cover_alt = "The Seattle skyline viewed from the water on a clear day, with downtown skyscrapers, the Seattle Great Wheel, and busy waterfront piers lining the shore under a bright blue sky, with construction cranes visible among the buildings."
 +++
 
 Ah, spring break is here.
@@ -28,7 +29,7 @@ Tonight I am overnighting in the desert palace that is Dubai. Tomorrow morning I
 
 Few pictures today, as this was a day full of plane travel without the benefit (or curse) of a window seat. Tomorrow should be good.
 
-{{ es_cdn_image(id = "es-3896-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3896-003", caption = "ferry from Bainbridge Island to Seattle, Washington") }}
+{{ es_cdn_image(id = "es-3896-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3896-003", caption = "ferry from Bainbridge Island to Seattle, Washington", alt = "The Seattle skyline viewed from the water on a clear day, with downtown skyscrapers, the Seattle Great Wheel, and busy waterfront piers lining the shore under a bright blue sky, with construction cranes visible among the buildings.") }}
 
 {{ es_cdn_image(id = "es-3897-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3897-004", caption = "Sea-Tac International Airport, Seattle, Washington") }}
 

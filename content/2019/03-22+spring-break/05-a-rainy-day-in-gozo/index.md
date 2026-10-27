@@ -25,13 +25,13 @@ Despite the rain (or maybe because of it), they were right.
 
 Today I took the ferry from the main island of Malta to the second island of Gozo.
 
-{{ es_cdn_image(id = "es-3910-015", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-015", caption = "ferry from Cirkewwa to Gozo, Malta") }}
+{{ es_cdn_image(id = "es-3910-015", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-015", caption = "ferry from Cirkewwa to Gozo, Malta", alt = "A wet, empty blue deck of a ferry on an overcast day, with white cabin structures, railings, and storage boxes lining both sides and a bridge or control cabin visible at the far end. Rain-soaked flooring reflects the grey sky, and rust streaks mark some of the white surfaces.") }}
 
-{{ es_cdn_image(id = "es-3910-025", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-025", caption = "ferry from Cirkewwa to Gozo, Malta, near Comino Island") }}
+{{ es_cdn_image(id = "es-3910-025", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-025", caption = "ferry from Cirkewwa to Gozo, Malta, near Comino Island", alt = "A white Gozo Channel Line ferry marked “Gozo Channel Line” crosses grey open water under overcast, hazy skies, with a dim coastline visible in the misty distance.") }}
 
 The village of Mġarr, as seen from the ferry shortly before landing:
 
-{{ es_cdn_image(id = "es-3910-034", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-034", caption = "ferry from Cirkewwa to Gozo, near Mġarr, Malta") }}
+{{ es_cdn_image(id = "es-3910-034", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-034", caption = "ferry from Cirkewwa to Gozo, near Mġarr, Malta", alt = "A hazy, overcast view across calm harbor water toward the hillside village of Mġarr in Gozo, with sand-colored buildings rising on the slopes and two prominent churches crowned by a spire and a dome on the ridgeline. A marina full of yachts and boats lines the waterfront in the foreground.") }}
 
 Upon arrival, I drove up to Gozo's main city of Victoria and walked around for a bit.
 
