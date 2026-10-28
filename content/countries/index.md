@@ -318,7 +318,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/07/es-3563-016"
     caption = "Helsinki, Finland"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A white city bicycle parked against a metal railing beside a cobblestone path, its saddle covered with a pink Foodora plastic bag, with tall pink fireweed and white wildflowers growing in the background.") }}
 
 {{ es_country(
     seq = 54

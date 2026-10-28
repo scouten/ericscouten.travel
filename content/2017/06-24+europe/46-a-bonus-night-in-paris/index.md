@@ -29,7 +29,7 @@ Here are some photos from the flight and some walks around the Montmartre neighb
 
 {{ es_cdn_image(id = "es-3620-006", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-006", caption = "above Gruberau, Austria") }}
 
-{{ es_cdn_image(id = "es-3620-007", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-007", caption = "Hello, France! · above Proviseux-et-Plesnoy, France") }}
+{{ es_cdn_image(id = "es-3620-007", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-007", caption = "Hello, France! · above Proviseux-et-Plesnoy, France", alt = "An aerial view from an aircraft window looking down through scattered puffy white cumulus clouds onto a patchwork of green and brown farm fields far below, with hazy blue sky stretching to the horizon.") }}
 
 {{ es_cdn_image(id = "es-3620-013", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-013", caption = "above Nantouillet, France") }}
 
