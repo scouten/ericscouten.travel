@@ -7,10 +7,10 @@ country = ["Canada"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/111672984671906262"
-distance = "103 km / 64 mi"
+distance = "104 km / 65 mi"
 route = "Port Hardy to Port Alice, British Columbia, Canada, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/12/2023-12-30.kml"
+track_key = "track/v2/2023/12/2023-12-30.json"
 bounds = {sw = [50.423, -127.502], ne = [50.724, -127.307]}
 cover = "es-4625-019"
 cover_cdn_key = "img/v1/2023/12/es-4625-019"

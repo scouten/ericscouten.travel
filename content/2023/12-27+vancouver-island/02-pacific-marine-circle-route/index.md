@@ -10,7 +10,7 @@ mastodon_url = "https://ericscouten.social/@travel/111661802501695587"
 distance = "407 km / 253 mi"
 route = "Nanaimo to Port Renfrew to Parkville, British Columbia, Canada"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/12/2023-12-28.kml"
+track_key = "track/v2/2023/12/2023-12-28.json"
 bounds = {sw = [48.358, -124.445], ne = [49.321, -123.509]}
 cover = "es-4623-050"
 cover_cdn_key = "img/v1/2023/12/es-4623-050"
