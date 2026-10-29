@@ -31,11 +31,11 @@ Here are some photos from the flight and some walks around the Montmartre neighb
 
 {{ es_cdn_image(id = "es-3620-007", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-007", caption = "Hello, France! · above Proviseux-et-Plesnoy, France", alt = "An aerial view from an aircraft window looking down through scattered puffy white cumulus clouds onto a patchwork of green and brown farm fields far below, with hazy blue sky stretching to the horizon.") }}
 
-{{ es_cdn_image(id = "es-3620-013", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-013", caption = "above Nantouillet, France") }}
+{{ es_cdn_image(id = "es-3620-013", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-013", caption = "above Nantouillet, France", alt = "An aerial view over a patchwork of farmland fields in shades of tan, green, and brown near Nantouillet, France, with small villages and industrial buildings scattered across the plain while a heavy rain shower falls from dark storm clouds on the horizon.") }}
 
-{{ es_cdn_image(id = "es-3620-017", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-017", caption = "above Compans, France") }}
+{{ es_cdn_image(id = "es-3620-017", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-017", caption = "above Compans, France", alt = "An aerial view over a flat patchwork of green and golden farmland dotted with small wooded strips and a village of white buildings with red roofs, beneath a vast, heavy bank of dark grey storm clouds that fills most of the sky with a brighter break on the right horizon.") }}
 
-{{ es_cdn_image(id = "es-3620-019", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-019", caption = "On final approach to Paris CDG. · Charles de Gaulle Airport, Paris, France") }}
+{{ es_cdn_image(id = "es-3620-019", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-019", caption = "On final approach to Paris CDG. · Charles de Gaulle Airport, Paris, France", alt = "Aerial view on final approach over an airport, showing a runway and taxiways cutting through flat green and brown grassland, with hangars and buildings in the distance under a heavy dark storm cloud dropping rain across the horizon.") }}
 
 {{ es_cdn_image(id = "es-3620-024", cdn_version = "v1", cdn_key = "img/v1/2017/08/es-3620-024", caption = "I’m all about that basss, ’bout that basss … · Paris, France") }}
 
