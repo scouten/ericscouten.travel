@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/111321813378434758"
 distance = "166 km / 103 mi"
 route = "Edisto Beach, South Carolina, to Savannah, Georgia"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/10/2023-10-27-savannah.kml"
+track_key = "track/v2/2023/10/2023-10-26.json"
 bounds = {sw = [32.068, -81.108], ne = [32.774, -80.280]}
 cover = "es-4604-372"
 cover_cdn_key = "img/v1/2023/10/es-4604-372"

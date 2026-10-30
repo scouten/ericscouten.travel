@@ -8,10 +8,10 @@ state = ["South Carolina"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/111347449331432452"
-distance = "251 km / 156 mi"
+distance = "255 km / 158 mi"
 route = "Savannah, Georgia, to Johns Island, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/10/2023-10-28-edisto-plantations.kml"
+track_key = "track/v2/2023/10/2023-10-28.json"
 bounds = {sw = [32.067, -81.244], ne = [32.803, -80.038]}
 cover = "es-4605-051"
 cover_cdn_key = "img/v1/2023/10/es-4605-051"

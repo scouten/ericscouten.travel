@@ -7,10 +7,10 @@ state = ["South Carolina"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/111281856422477686"
-distance = "186 km / 115 mi"
+distance = "185 km / 115 mi"
 route = "Edisto Island to Bennett’s Point, South Carolina, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/10/2023-10-22-low-country-back-roads.kml"
+track_key = "track/v2/2023/10/2023-10-22.json"
 bounds = {sw = [32.504, -80.577], ne = [32.774, -80.280]}
 cover = "es-4600-013"
 cover_cdn_key = "img/v1/2023/10/es-4600-013"

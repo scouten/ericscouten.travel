@@ -7,12 +7,15 @@ updated = 2023-11-04T14:27:32-05:00
 state = ["South Carolina"]
 
 [extra]
+distance = "25 km / 16 mi"
 mastodon_url = "https://ericscouten.social/@travel/111353977401613024"
 markers = "markers.js"
 bounds = {sw = [32.533, -80.244], ne = [32.553, -80.224]}
 cover = "es-4609-064n"
 cover_cdn_key = "img/v1/2023/11/es-4609-064n"
 cover_alt = "A pale gray-brown shorebird, likely a willet, walking along the wet sand at the edge of the surf, its reflection visible in the shallow water beneath it."
+track_key = "track/v2/2023/11/2023-11-01.json"
+parks = ["relation/13673817"]  # Botany Bay Heritage Preserve
 +++
 
 The _plan_ was ... OK, the _hope_ was that there would be a day with fog and low tides while we were in South Carolina so I could come back to Botany Bay and make some of the ethereal photos that this location is famous for.

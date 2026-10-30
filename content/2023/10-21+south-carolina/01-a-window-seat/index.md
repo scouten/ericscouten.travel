@@ -8,10 +8,10 @@ state = ["Missouri", "South Carolina", "Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/111279612723492546"
-distance = "4052 km / 2518 mi"
+distance = "4,051 km / 2,517 mi"
 route = "Seattle, Washington, to Edisto Island, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/10/2023-10-21-a-window-seat.kml"
+track_key = "track/v2/2023/10/2023-10-21.json"
 bounds = {sw = [32.493, -122.310], ne = [47.464, -79.926]}
 cover = "es-4597-045"
 cover_cdn_key = "img/v1/2023/10/es-4597-045"

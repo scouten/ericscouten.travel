@@ -6,12 +6,14 @@ date = 2023-10-23T20:00:56-04:00
 state = ["South Carolina"]
 
 [extra]
+distance = "38 km / 24 mi"
 mastodon_url = "https://ericscouten.social/@travel/111287078360763393"
 markers = "markers.js"
 bounds = {sw = [32.494, -80.339], ne = [32.591, -80.267]}
 cover = "es-4601-035"
 cover_cdn_key = "img/v1/2023/10/es-4601-035"
 cover_alt = "A sandy dirt road running through a canopy of live oak trees draped with Spanish moss, with morning sunlight filtering through the dense green foliage on either side."
+track_key = "track/v2/2023/10/2023-10-23.json"
 +++
 
 Keeping it simple today; took the day off from work (as did the most of Adobe) and also from doing much with the camera.
