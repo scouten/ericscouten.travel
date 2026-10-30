@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/111279612432615123"
 distance = "1.9 km / 1.2 mi"
 route = "Bob Bammert Grove Trail, west of Littlerock, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/10/2023-10-08-bob-bammert-grove-trail.kml"
+track_key = "track/v2/2023/10/2023-10-08.json"
 bounds = {sw = [46.885, -123.108], ne = [46.905, -123.088]}
 cover = "es-4578-051"
 cover_cdn_key = "img/v1/2023/10/es-4578-051"
