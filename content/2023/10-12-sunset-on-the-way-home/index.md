@@ -8,10 +8,10 @@ state = ["California"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/111279612645629443"
-distance = "1183 km / 735 mi"
+distance = "1,183 km / 735 mi"
 route = "San Jose, California, to Seattle, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/10/2023-10-12-sunset-on-the-way-home.kml"
+track_key = "track/v2/2023/10/2023-10-12.json"
 bounds = {sw = [37.329, -122.738], ne = [47.460, -121.861]}
 cover = "es-4595-002"
 cover_cdn_key = "img/v1/2023/10/es-4595-002"
