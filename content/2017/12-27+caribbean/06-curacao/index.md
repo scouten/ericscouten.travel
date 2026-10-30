@@ -34,7 +34,7 @@ Here are some photos from today's walkabout in the main city of Willemstad:
 
 {{ es_cdn_image(id = "es-3677-005", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-005", caption = "Koningin Emmabrug, Willemstad, Curaçao") }}
 
-{{ es_cdn_image(id = "es-3678-007", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3678-007", caption = "#pundawings · Punda, Willemstad, Curaçao") }}
+{{ es_cdn_image(id = "es-3678-007", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3678-007", caption = "#pundawings · Punda, Willemstad, Curaçao", alt = "A colorful street mural of large white angel wings spreading across a wall painted with bold geometric triangles in red, green, blue, yellow and pink, with a yellow pillar running through the center and the hashtag “#PundaWings” lettered at the lower right. A red herringbone brick walkway runs along the base of the wall.") }}
 
 {{ es_cdn_image(id = "es-3677-016", cdn_version = "v1", cdn_key = "img/v1/2017/12/es-3677-016", caption = "Willemstad, Curaçao") }}
 

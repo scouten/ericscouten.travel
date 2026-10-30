@@ -24,4 +24,4 @@ Give me ten hours to drive from Bainbridge Island to Seattle and creative routin
 
 {{ es_cdn_image(id = "es-3778-002", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3778-002", title = "The Perfect Distraction", caption = "Thorp, Washington") }}
 
-{{ es_cdn_image(id = "es-3780-022", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3780-022", title = "The Wrong Road", caption = "Ellensburg, Washington") }}
+{{ es_cdn_image(id = "es-3780-022", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3780-022", title = "The Wrong Road", caption = "Ellensburg, Washington", alt = "A white street sign reading “WRONG Rd.” mounted on a wooden post beside a rural two-lane road, with dry golden grass, a wooden utility pole, and low brown hills under a clear blue sky.") }}
