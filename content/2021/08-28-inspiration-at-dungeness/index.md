@@ -14,10 +14,11 @@ track_log_key = "kml/v1/2021/08/2021-08-28-inspiration-at-dungeness.kml"
 bounds = {sw = [48.141, -123.191], ne = [48.167, -123.161]}
 cover = "es-4249-050"
 cover_cdn_key = "img/v1/2021/08/es-4249-050"
+cover_alt = "Sunbeams stream through fog behind silhouetted conifer trees, with a tall evergreen in the center against a deep blue sky and dense green shrubbery in the foreground."
 +++
 
 I often hike Dungeness Spit when I need a moment to myself. On this morning, returning from one such hike, Mother Nature sent me this inspiring visual with the receding fog.
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4249-050", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4249-050") }}
+{{ es_cdn_image(id = "es-4249-050", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4249-050", alt = "Sunbeams stream through fog behind silhouetted conifer trees, with a tall evergreen in the center against a deep blue sky and dense green shrubbery in the foreground.") }}
