@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/111045039352382274"
 distance = "11 km / 7 mi"
 route = "around Budd Inlet, near Olympia, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/09/2023-09-06-south-sound-boat-trip.kml"
+track_key = "track/v2/2023/09/2023-09-06.json"
 bounds = {sw = [47.050, -122.922], ne = [47.094, -122.902]}
 cover = "es-4571-069"
 cover_cdn_key = "img/v1/2023/09/es-4571-069"
