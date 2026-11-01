@@ -6,12 +6,14 @@ date = 2023-09-10T15:15:42.628-07:00
 state = ["California"]
 
 [extra]
+distance = "2,702 km / 1,679 mi"
 mastodon_url = "https://ericscouten.social/@travel/111043441621388497"
 markers = "markers.js"
 route = "around San Francisco, California"
 bounds = {sw = [37.645, -122.411], ne = [37.811, -122.315]}
 cover = "es-4572-019"
 cover_cdn_key = "img/v1/2023/09/es-4572-019"
+track_key = "track/v2/2023/09/2023-09-07.json"
 +++
 
 My fiancé and I took a short trip to San Francisco this weekend. This was partly so I could have a couple of work-related meetings and partly just for fun.
