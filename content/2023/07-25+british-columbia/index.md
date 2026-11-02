@@ -8,10 +8,10 @@ country = ["Canada"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110790426038653097"
-distance = "861 km / 535 mi"
+distance = "851 km / 529 mi"
 route = "Orcas Island, Washington, to Quesnel, British Columbia over three days"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/07/2023-07-27-british-columbia.kml"
+track_key = "track/v2/2023/07/2023-07-25+27.json"
 bounds = {sw = [48.417, -123.274], ne = [52.987, -121.287]}
 cover = "es-4564-027"
 cover_cdn_key = "img/v1/2023/07/es-4564-027"
