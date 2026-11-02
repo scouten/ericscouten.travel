@@ -12,6 +12,7 @@ markers = "markers.js"
 bounds = {sw = [46.878, -124.127], ne = [46.898, -124.107]}
 cover = "es-4244-002"
 cover_cdn_key = "img/v1/2021/08/es-4244-002"
+cover_alt = "A tall white octagonal lighthouse with a dark lantern room rises above a grassy meadow and a border of evergreen and leafy trees under an overcast gray sky. RVs, a white pop-up tent and a flagpole stand near the base of the tower at Grays Harbor Lighthouse in Westport, Washington."
 +++
 
 My partner and I visited the Grays Harbor Lighthouse in Westport recently.
@@ -22,7 +23,7 @@ Funny story: We _thought_ we were checking out [Westport Light State Park](https
 
 Meanwhile, it was fun to tour the lighthouse.
 
-{{ es_cdn_image(id = "es-4244-002", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-002") }}
+{{ es_cdn_image(id = "es-4244-002", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-002", alt = "A tall white octagonal lighthouse with a dark lantern room rises above a grassy meadow and a border of evergreen and leafy trees under an overcast gray sky. RVs, a white pop-up tent and a flagpole stand near the base of the tower at Grays Harbor Lighthouse in Westport, Washington.") }}
 {{ es_cdn_image(id = "es-4244-004", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-004") }}
 {{ es_cdn_image(id = "es-4244-006", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-006") }}
 {{ es_cdn_image(id = "es-4244-011", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-011") }}
