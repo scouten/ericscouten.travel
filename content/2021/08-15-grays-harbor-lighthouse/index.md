@@ -25,9 +25,9 @@ Meanwhile, it was fun to tour the lighthouse.
 
 {{ es_cdn_image(id = "es-4244-002", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-002", alt = "A tall white octagonal lighthouse with a dark lantern room rises above a grassy meadow and a border of evergreen and leafy trees under an overcast gray sky. RVs, a white pop-up tent and a flagpole stand near the base of the tower at Grays Harbor Lighthouse in Westport, Washington.") }}
 {{ es_cdn_image(id = "es-4244-004", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-004") }}
-{{ es_cdn_image(id = "es-4244-006", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-006") }}
+{{ es_cdn_image(id = "es-4244-006", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-006", alt = "A gravel path curves through a grove of white-barked birch and tall evergreen trees, flanked by lush green grass and ferns, with a glimpse of campers and a red-roofed structure visible among the trees on the left.") }}
 {{ es_cdn_image(id = "es-4244-011", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-011") }}
-{{ es_cdn_image(id = "es-4244-013", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-013") }}
+{{ es_cdn_image(id = "es-4244-013", cdn_version = "v1", cdn_key = "img/v1/2021/08/es-4244-013", alt = "Looking up the interior of a spiral staircase inside the Grays Harbor Lighthouse, the metal treads and railing curling tightly around a central column toward a small bright window far above, with weathered textured walls lining the tower.") }}
 
 I am prone to vertigo, so I had to turn back midway up. A few more photos from the top, courtesy of Lisa Rozmyn.
 
