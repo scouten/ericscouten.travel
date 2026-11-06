@@ -8,10 +8,10 @@ state = ["Idaho", "Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110586019996114300"
-distance = "660 km / 410 mi"
+distance = "657 km / 408 mi"
 route = "Richland, Washington, to Boise, Idaho"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/06/2023-06-21-to-boise.kml"
+track_key = "track/v2/2023/06/2023-06-21.json"
 bounds = {sw = [43.613, -119.268], ne = [46.547, -115.999]}
 cover = "es-4540-008"
 cover_cdn_key = "img/v1/2023/06/es-4540-008"

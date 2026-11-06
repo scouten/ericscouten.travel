@@ -8,10 +8,10 @@ state = ["California"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110640612387328875"
-distance = "1758 km / 1092 mi"
+distance = "1,757 km / 1,092 mi"
 route = "Half Moon Bay, California, to Poulsbo, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/06/2023-06-30-comforts-of-home.kml"
+track_key = "track/v2/2023/06/2023-06-28-30.json"
 bounds = {sw = [37.457, -123.816], ne = [47.758, -122.148]}
 cover = "es-4546-020"
 cover_cdn_key = "img/v1/2023/06/es-4546-020"

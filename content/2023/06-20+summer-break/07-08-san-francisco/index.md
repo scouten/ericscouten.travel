@@ -7,10 +7,10 @@ state = ["California", "Nevada"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110620508338362251"
-distance = "553 km / 343 mi"
+distance = "551 km / 343 mi"
 route = "Reno, Nevada, to Half Moon Bay, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/06/2023-06-27-san-francisco.kml"
+track_key = "track/v2/2023/06/2023-06-26-27.json"
 bounds = {sw = [37.457, -122.518], ne = [39.524, -119.738]}
 cover = "es-4545-017"
 cover_cdn_key = "img/v1/2023/06/es-4545-017"

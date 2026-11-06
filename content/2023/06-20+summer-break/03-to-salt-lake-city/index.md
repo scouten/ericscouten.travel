@@ -8,10 +8,10 @@ state = ["Idaho", "Utah"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110591722324640108"
-distance = "732 km / 455 mi"
+distance = "758 km / 471 mi"
 route = "Boise, Idaho, to Salt Lake City, Utah"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/06/2023-06-22-to-salt-lake-city.kml"
+track_key = "track/v2/2023/06/2023-06-22.json"
 bounds = {sw = [40.746, -116.203], ne = [43.611, -111.891]}
 cover = "es-4541-037"
 cover_cdn_key = "img/v1/2023/06/es-4541-037"

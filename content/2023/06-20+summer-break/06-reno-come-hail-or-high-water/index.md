@@ -8,10 +8,10 @@ state = ["Nevada", "Utah"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110608925356921485"
-distance = "841 km / 522 mi"
+distance = "840 km / 522 mi"
 route = "Salt Lake City, Utah, to Reno, Nevada"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/06/2023-06-25-reno-come-hail-or-high-water.kml"
+track_key = "track/v2/2023/06/2023-06-25.json"
 bounds = {sw = [39.510, -119.798], ne = [41.115, -111.870]}
 cover = "es-4543-026"
 cover_cdn_key = "img/v1/2023/06/es-4543-026"
