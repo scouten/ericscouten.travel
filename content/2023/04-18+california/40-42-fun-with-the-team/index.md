@@ -8,10 +8,10 @@ state = ["California"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110277346992732950"
-distance = "107 km / 67 mi"
+distance = "110 km / 68 mi"
 route = "San Jose to Felton, California, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-26-fun-with-the-team.kml"
+track_key = "track/v2/2023/04/2023-04-26.json"
 bounds = {sw = [37.034, -122.070], ne = [37.331, -121.894]}
 cover = "es-4527-019"
 cover_cdn_key = "img/v1/2023/04/es-4527-019"

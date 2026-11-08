@@ -8,10 +8,10 @@ state = ["California"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110250592628849749"
-distance = "345 km / 215 mi"
+distance = "346 km / 215 mi"
 route = "Mountain View to Mendocino, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-21-on-california-coast.kml"
+track_key = "track/v2/2023/04/2023-04-20-21.json"
 bounds = {sw = [37.416, -123.806], ne = [39.307, -122.078]}
 cover = "es-4524-088"
 cover_cdn_key = "img/v1/2023/04/es-4524-088"

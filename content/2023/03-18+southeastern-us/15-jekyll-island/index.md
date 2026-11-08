@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/110132333468734561"
 distance = "157 km / 98 mi"
 route = "Townsend to Jekyll Island, Georgia, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-01-jekyll-island.kml"
+track_key = "track/v2/2023/04/2023-04-01.json"
 bounds = {sw = [31.017, -81.574], ne = [31.531, -81.403]}
 cover = "es-4500-002"
 cover_cdn_key = "img/v1/2023/04/es-4500-002"

@@ -11,7 +11,8 @@ mastodon_url = "https://ericscouten.social/@travel/110098356606165583"
 distance = "105 km / 65 mi"
 route = "Charleston to Rockville, South Carolina, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-26-swamp-walk-and-some-bluegrass-music.kml"
+track_key = "track/v2/2023/03/2023-03-26.json"
+parks = ["way/1223604677"]  # Caw Caw Interpretive Center
 bounds = {sw = [32.600, -80.203], ne = [32.803, -79.937]}
 cover = "es-4494-007"
 cover_cdn_key = "img/v1/2023/03/es-4494-007"

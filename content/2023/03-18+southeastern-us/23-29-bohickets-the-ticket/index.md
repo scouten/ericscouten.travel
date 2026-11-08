@@ -10,7 +10,7 @@ mastodon_url = "https://ericscouten.social/@travel/110204724567929578"
 distance = "162 km / 100 mi"
 route = "Edisto Island to Johns Island, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-15-bohickets-the-ticket.kml"
+track_key = "track/v2/2023/04/2023-04-09+12.json"
 bounds = {sw = [32.503, -80.353], ne = [32.894, -79.787]}
 cover = "es-4516-011"
 cover_cdn_key = "img/v1/2023/04/es-4516-011"

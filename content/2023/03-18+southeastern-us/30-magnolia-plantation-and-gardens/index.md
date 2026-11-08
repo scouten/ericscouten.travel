@@ -7,12 +7,14 @@ updated = 2023-04-17T12:43:34-04:00
 state = ["South Carolina"]
 
 [extra]
+distance = "74 km / 46 mi"
 mastodon_url = "https://ericscouten.social/@travel/110215228904890086"
 markers = "markers.js"
 bounds = {sw = [32.865, -80.096], ne = [32.885, -80.076]}
 cover = "es-4520-071"
 cover_cdn_key = "img/v1/2023/04/es-4520-071"
 cover_alt = "An anhinga perched on a rock in a pond spreads its wings wide to dry, its dark silhouette beside two turtles basking on the same sunlit rock, with green foliage and reflections filling the calm water."
+track_key = "track/v2/2023/04/2023-04-16.json"
 +++
 
 Today is our last full day together on the Southeast. We were expecting clouds and rain but instead got a beautiful sunny day. We decided to visit one more plantation — the [Magnolia Plantation and Gardens](https://www.magnoliaplantation.com/), located on the Ashley River just outside of Charleston.

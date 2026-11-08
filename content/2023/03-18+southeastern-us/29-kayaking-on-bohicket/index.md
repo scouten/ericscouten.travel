@@ -7,12 +7,14 @@ updated = 2023-04-16T11:12:07-04:00
 state = ["South Carolina"]
 
 [extra]
+distance = "4.5 km / 2.8 mi"
 mastodon_url = "https://ericscouten.social/@travel/110209223187751651"
 markers = "markers.js"
 bounds = {sw = [32.580, -80.117], ne = [32.780, -80.097]}
 cover = "es-4518-070"
 cover_cdn_key = "img/v1/2023/04/es-4518-070"
 cover_alt = "The sun setting low over a tree-lined shore across a rippling expanse of water, with a wooden dock silhouetted at left and streaks of high cirrus cloud across a blue and golden sky."
+track_key = "track/v2/2023/04/2023-04-15.json"
 +++
 
 The AirBNB where we're staying includes the use of kayaks, so I took one out just before sunset tonight.

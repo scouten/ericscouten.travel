@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/110058892657781980"
 distance = "660 km / 410 mi"
 route = "Atlanta, Georgia, to Manning, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-19-pop-goes-the.kml"
+track_key = "track/v2/2023/03/2023-03-19.json"
 bounds = {sw = [32.479, -84.390], ne = [33.766, -80.241]}
 cover = "es-4487-010"
 cover_cdn_key = "img/v1/2023/03/es-4487-010"

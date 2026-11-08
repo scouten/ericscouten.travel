@@ -11,7 +11,8 @@ mastodon_url = "https://ericscouten.social/@travel/110258143710928706"
 distance = "391 km / 243 mi"
 route = "Mendocino to San Jose, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-24-point-cabrillo-light-station.kml"
+track_key = "track/v2/2023/04/2023-04-23+24.json"
+parks = ["relation/227984"]  # Point Cabrillo Light Station State Historic Park
 bounds = {sw = [37.329, -123.826], ne = [39.420, -121.894]}
 cover = "es-4525-064"
 cover_cdn_key = "img/v1/2023/04/es-4525-064"

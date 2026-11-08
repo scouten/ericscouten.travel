@@ -12,7 +12,8 @@ distance = "97 km / 60 mi"
 hashtags = "#wormsloe #savannah #georgia"
 route = "Savannah to Tybee Island, Georgia, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-07-wormsloe-state-historic-site.kml"
+track_key = "track/v2/2023/04/2023-04-07.json"
+parks = ["relation/4061082"]  # Wormsloe State Historic Site
 bounds = {sw = [31.959, -81.105], ne = [32.076, -80.841]}
 cover = "es-4505-009"
 cover_cdn_key = "img/v1/2023/04/es-4505-009"

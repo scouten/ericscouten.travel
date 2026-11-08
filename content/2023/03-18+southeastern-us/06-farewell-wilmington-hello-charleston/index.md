@@ -8,10 +8,10 @@ state = ["North Carolina", "South Carolina"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110086891997371359"
-distance = "275 km / 171 mi"
+distance = "276 km / 172 mi"
 route = "Wilmington, North Carolina, to Charleston, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-23-farewell-wilmington-hello-charleston.kml"
+track_key = "track/v2/2023/03/2023-03-23.json"
 bounds = {sw = [32.777, -79.947], ne = [34.235, -77.947]}
 cover = "es-4490-067"
 cover_cdn_key = "img/v1/2023/03/es-4490-067"

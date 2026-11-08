@@ -7,10 +7,10 @@ state = ["Georgia", "Montana", "Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110047678371264822"
-distance = "3639 km / 2261 mi"
+distance = "3,636 km / 2,259 mi"
 route = "Seattle, Washington, to Atlanta, Georgia"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-18-to-atlanta.kml"
+track_key = "track/v2/2023/03/2023-03-18.json"
 bounds = {sw = [33.733, -121.115], ne = [47.329, -84.222]}
 cover = "es-4486-058"
 cover_cdn_key = "img/v1/2023/03/es-4486-058"

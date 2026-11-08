@@ -10,7 +10,7 @@ mastodon_url = "https://ericscouten.social/@travel/110165884453567835"
 distance = "182 km / 113 mi"
 route = "Savannah, Georgia, to Edisto Island, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-08-bonaventure-cemetery.kml"
+track_key = "track/v2/2023/04/2023-04-08.json"
 bounds = {sw = [32.041, -81.104], ne = [32.774, -80.280]}
 cover = "es-4509-009"
 cover_cdn_key = "img/v1/2023/04/es-4509-009"

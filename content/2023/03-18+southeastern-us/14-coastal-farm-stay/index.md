@@ -8,10 +8,10 @@ state = ["Georgia"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110125589128624511"
-distance = "258 km / 161 mi"
+distance = "259 km / 161 mi"
 route = "Hilton Head Island, South Carolina, to Townsend, Georgia"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-31-coastal-farm-stay.kml"
+track_key = "track/v2/2023/03/2023-03-31.json"
 bounds = {sw = [31.244, -81.509], ne = [32.251, -80.738]}
 cover = "es-4498-050"
 cover_cdn_key = "img/v1/2023/03/es-4498-050"

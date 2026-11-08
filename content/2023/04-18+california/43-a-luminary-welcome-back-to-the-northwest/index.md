@@ -8,10 +8,10 @@ state = ["California", "Oregon", "Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110294955445676040"
-distance = "1310 km / 814 mi"
+distance = "1,310 km / 814 mi"
 route = "San Jose, California, to Olympia, Washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-28-a-luminary-welcome-back-to-the-northwest.kml"
+track_key = "track/v2/2023/04/2023-04-28.json"
 bounds = {sw = [37.241, -122.905], ne = [47.460, -121.738]}
 cover = "es-4530-057"
 cover_cdn_key = "img/v1/2023/04/es-4530-057"

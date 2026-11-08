@@ -11,7 +11,7 @@ mastodon_url = "https://ericscouten.social/@travel/110115258064329510"
 distance = "164 km / 102 mi"
 route = "Charleston to Hilton Head Island, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-30-to-hilton-head-island.kml"
+track_key = "track/v2/2023/03/2023-03-29.json"
 bounds = {sw = [32.198, -80.939], ne = [32.803, -79.931]}
 cover = "es-4497-010"
 cover_cdn_key = "img/v1/2023/03/es-4497-010"

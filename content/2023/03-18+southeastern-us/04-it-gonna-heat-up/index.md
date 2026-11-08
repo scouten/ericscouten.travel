@@ -7,10 +7,10 @@ state = ["North Carolina"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110064601040526312"
-distance = "100 km / 62 mi"
+distance = "102 km / 63 mi"
 route = "Wilmington to Wrightsville Beach, North Carolina, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-21-it-gonna-heat-up.kml"
+track_key = "track/v2/2023/03/2023-03-21.json"
 bounds = {sw = [33.959, -77.949], ne = [34.261, -77.791]}
 cover = "es-4489-027"
 cover_cdn_key = "img/v1/2023/03/es-4489-027"

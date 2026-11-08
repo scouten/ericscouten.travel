@@ -8,10 +8,10 @@ state = ["Alabama", "Georgia", "Mississippi", "South Carolina"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/110222561204026645"
-distance = "4070 km / 2529 mi"
+distance = "4,069 km / 2,528 mi"
 route = "Johns Island, South Carolina, to Mountain View, California"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/04/2023-04-17-now-for-something-completely-different.kml"
+track_key = "track/v2/2023/04/2023-04-17.json"
 bounds = {sw = [32.075, -122.078], ne = [37.414, -80.069]}
 cover = "es-4521-025"
 cover_cdn_key = "img/v1/2023/04/es-4521-025"

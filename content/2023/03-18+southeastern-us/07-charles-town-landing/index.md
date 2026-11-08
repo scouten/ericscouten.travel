@@ -11,7 +11,8 @@ mastodon_url = "https://ericscouten.social/@travel/110098356475519094"
 distance = "28 km / 17 mi"
 route = "around Charleston, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/03/2023-03-24-charles-town-landing.kml"
+track_key = "track/v2/2023/03/2023-03-24.json"
+parks = ["way/632611360"]  # Charles Towne Landing State Historic Site
 bounds = {sw = [32.795, -79.995], ne = [32.845, -79.942]}
 cover = "es-4490-099"
 cover_cdn_key = "img/v1/2023/03/es-4490-099"
