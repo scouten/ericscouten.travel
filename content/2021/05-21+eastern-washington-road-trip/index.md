@@ -30,4 +30,4 @@ I netted eight new parks on this weekend (see the brown dots on the map below) a
 {{ es_cdn_image(id = "es-4207-006", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4207-006", caption = "west of Colfax, Washington") }}
 {{ es_cdn_image(id = "es-4206-113", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4206-113", caption = "Oakesdale, Washington") }}
 {{ es_cdn_image(id = "es-4207-011", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4207-011", caption = "west of Colfax, Washington") }}
-{{ es_cdn_image(id = "es-4213-616p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-616p", caption = "Hotel Windrow, Ellensburg, Washington") }}
+{{ es_cdn_image(id = "es-4213-616p", cdn_version = "v1", cdn_key = "img/v1/2021/05/es-4213-616p", caption = "Hotel Windrow, Ellensburg, Washington", alt = "A rooftop painted with a colorful abstract mural resembling an aerial map with a winding blue river, overlooking the downtown buildings of Ellensburg, Washington, with rolling hills and a partly cloudy evening sky in the distance.") }}
