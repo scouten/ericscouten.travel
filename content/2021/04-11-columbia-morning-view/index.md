@@ -14,12 +14,13 @@ track_log_key = "kml/v1/2021/04/2021-04-11-columbia-morning-view.kml"
 bounds = {sw = [45.559, -123.102], ne = [47.758, -119.140]}
 cover = "es-4186-199"
 cover_cdn_key = "img/v1/2021/04/es-4186-199"
+cover_alt = "A broad river winding between dark basalt cliffs and rolling hills at dawn, with a long freight train hugging the near shoreline and the warm orange glow of sunrise lighting the horizon beneath a clear blue sky."
 +++
 
 I woke up at 3:30 this morning to get to a sunrise shoot at [Columbia Hills Historical State Park](https://146parks.blog/columbia-hills/). As dusk rose over the Columbia Gorge, I had to stop for a moment and capture this view along the way.
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-4186-199", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-199", caption = "Wishram, Washington") }}
+{{ es_cdn_image(id = "es-4186-199", cdn_version = "v1", cdn_key = "img/v1/2021/04/es-4186-199", caption = "Wishram, Washington", alt = "A broad river winding between dark basalt cliffs and rolling hills at dawn, with a long freight train hugging the near shoreline and the warm orange glow of sunrise lighting the horizon beneath a clear blue sky.") }}
 
 Later, I went for one more hike in [Beacon Rock State Park](https://146parks.blog/beacon-rock/) and then returned home.
