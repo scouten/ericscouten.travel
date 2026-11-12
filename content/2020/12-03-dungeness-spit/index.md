@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2020/12/2020-12-03-dungeness-spit.kml"
 bounds = {sw = [47.737, -123.216], ne = [48.149, -122.610]}
 cover = "es-4155-028"
 cover_cdn_key = "img/v1/2020/12/es-4155-028"
+cover_alt = "A long, low spit of driftwood-strewn sand and grass stretches into the distance at Dungeness National Wildlife Refuge, bordered by calm water on both sides, under a wide morning sky streaked with blue and gold-tinged clouds, with an evergreen tree framing the right edge."
 +++
 
 I woke up early this morning for a walk in one of my favorite quiet places.
@@ -22,4 +23,4 @@ I woke up early this morning for a walk in one of my favorite quiet places.
 
 Dungeness National Wildlife Refuge, north of Sequim, Washington
 
-{{ es_cdn_image(id = "es-4155-028", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4155-028") }}
+{{ es_cdn_image(id = "es-4155-028", cdn_version = "v1", cdn_key = "img/v1/2020/12/es-4155-028", alt = "A long, low spit of driftwood-strewn sand and grass stretches into the distance at Dungeness National Wildlife Refuge, bordered by calm water on both sides, under a wide morning sky streaked with blue and gold-tinged clouds, with an evergreen tree framing the right edge.") }}
