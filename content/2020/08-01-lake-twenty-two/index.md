@@ -36,4 +36,4 @@ It's good to get out and about a bit. This afternoon, I hiked Lake Twenty-Two ne
 
 {{ es_cdn_image(id = "es-4107-028", cdn_version = "v1", cdn_key = "img/v1/2020/08/es-4107-028", caption = "Lake Twenty-Two Trail, east of Granite Falls, Washington") }}
 
-{{ es_cdn_image(id = "es-4107-030", cdn_version = "v1", cdn_key = "img/v1/2020/08/es-4107-030", caption = "Lake Twenty-Two Trail, east of Granite Falls, Washington") }}
+{{ es_cdn_image(id = "es-4107-030", cdn_version = "v1", cdn_key = "img/v1/2020/08/es-4107-030", caption = "Lake Twenty-Two Trail, east of Granite Falls, Washington", alt = "A small cascade of a forest creek tumbles over mossy rocks and smooth bedrock in a dense evergreen old-growth forest, with fallen logs crossing the stream and lush green undergrowth and ferns lining the banks.") }}

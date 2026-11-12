@@ -14,6 +14,7 @@ track_log_key = "kml/v1/2020/10/2020-10-11-san-juan-islands.kml"
 bounds = {sw = [47.736, -123.165], ne = [48.611, -122.581]}
 cover = "es-4128-005"
 cover_cdn_key = "img/v1/2020/10/es-4128-005"
+cover_alt = "A two-lane rural road with a double yellow line curves through open farmland on San Juan Island, bordered by a wooden fence and dry golden grass, with a weathered barn, a white farmhouse, and grazing cattle in pastures edged by evergreen trees under a cloudy purple-gray sky."
 +++
 
 I had the opportunity to take a long weekend away and visit two of the San Juan Islands.
@@ -39,16 +40,16 @@ While getting to and from those parks, there were a few other fun scenes, docume
 
 {{ es_cdn_image(id = "es-4126-041", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-041", caption = "Spencer Spit State Park, Lopez Island, Washington") }}
 
-{{ es_cdn_image(id = "es-4126-067", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-067", caption = "Lopez Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-067", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-067", caption = "Lopez Island, Washington", alt = "A calm bay on Lopez Island dotted with sailboats and moored yachts, with a marina and forested shoreline in the distance under an overcast gray sky. A large evergreen tree frames the right side and top of the scene.") }}
 
 {{ es_cdn_image(id = "es-4126-078", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-078", caption = "ferry from Lopez Island to Friday Harbor, Washington", alt = "A ferry dock juts into calm blue-gray water beside a forested island shoreline thick with evergreens, under a broad, overcast sky with a faint band of yellow light low on the horizon across the strait.") }}
 
 {{ es_cdn_image(id = "es-4126-079", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-079", caption = "ferry from Lopez Island to Friday Harbor, Washington", alt = "A rocky, forested headland of evergreen trees juts into calm blue-gray water under an overcast sky, with a distant tree-lined shoreline visible across the channel.") }}
 
-{{ es_cdn_image(id = "es-4126-093", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-093", caption = "San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4126-093", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-093", caption = "San Juan Island, Washington", alt = "A single round-crowned tree stands on a grassy coastal bluff overlooking calm gray-blue water, with a gravel path lined by low wooden fencing winding through dry golden grass toward the viewpoint. Distant hills and a hazy headland sit beneath a heavily overcast, moody sky.") }}
 
 {{ es_cdn_image(id = "es-4126-095", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4126-095", caption = "Lime Kiln Point State Park, San Juan Island, Washington") }}
 
-{{ es_cdn_image(id = "es-4128-005", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4128-005", caption = "San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4128-005", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4128-005", caption = "San Juan Island, Washington", alt = "A two-lane rural road with a double yellow line curves through open farmland on San Juan Island, bordered by a wooden fence and dry golden grass, with a weathered barn, a white farmhouse, and grazing cattle in pastures edged by evergreen trees under a cloudy purple-gray sky.") }}
 
-{{ es_cdn_image(id = "es-4130-004", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4130-004", caption = "San Juan Island National Historical Park, San Juan Island, Washington") }}
+{{ es_cdn_image(id = "es-4130-004", cdn_version = "v1", cdn_key = "img/v1/2020/10/es-4130-004", caption = "San Juan Island National Historical Park, San Juan Island, Washington", alt = "A sweeping coastal headland of golden dry grassland sloping down toward a turquoise sea, with a small white lighthouse on the bluff, scattered houses and trees along the shore, and distant islands under a blue sky filled with wispy white clouds.") }}
