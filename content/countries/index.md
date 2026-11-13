@@ -96,7 +96,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     cdn_key = "img/v1/2019/04/es-3932-202"
     title = "Sunrise, Mount Fuji"
     caption = "Yamanakako, Yamanashi, Japan"
-    country_term = true) }}
+    country_term = true
+    alt = "The snow-capped cone of Mount Fuji glows with the soft pink light of early morning, rising above a dark plain under a vast, hazy blue dawn sky near Yamanakako.") }}
 
 {% es_country(
     seq = 74
