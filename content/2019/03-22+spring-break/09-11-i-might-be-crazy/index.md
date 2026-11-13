@@ -15,6 +15,7 @@ bounds = {sw = [25.079, 10.157], ne = [60.000, -122.294]}
 # bounds = {sw = [25.079, 10.157], ne = [87.935, -122.294]}
 cover = "es-3921-047"
 cover_cdn_key = "img/v1/2019/03/es-3921-047"
+cover_alt = "An aerial view from an airplane window high above the Mediterranean Sea south of Greece, showing scattered white cumulus clouds over deep blue water with the curved horizon fading into a gradient of blue sky. The dark edge of the plane’s engine nacelle is visible in the lower right corner."
 +++
 
 And now, for something _completely_ different ...
@@ -29,15 +30,15 @@ But the thing is ... I wanted a special travel companion with me. So I few from 
 
 First, let's bid farewell to Tunisia, as seen on departure from Tunis-Carthage Airport:
 
-{{ es_cdn_image(id = "es-3921-027", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-027", caption = "above Tunis, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-027", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-027", caption = "above Tunis, Tunisia", alt = "An aerial view over Tunis, Tunisia, showing a sprawling landscape of low white buildings, green fields and golf-course-like open spaces stretching toward the Mediterranean coast, with a large shallow lagoon on the left and a clear blue sky above.") }}
 
-{{ es_cdn_image(id = "es-3921-032", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-032", caption = "above Tunis, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-032", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-032", caption = "above Tunis, Tunisia", alt = "Aerial view from an airplane window of a coastal landscape near Tunis, Tunisia, with the dark shadow of the plane cast on a green lagoon below, scattered marshy islands, a white-built coastal town, and the turquoise sea stretching to the horizon under a clear blue sky.") }}
 
-{{ es_cdn_image(id = "es-3921-036", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-036", caption = "above Raoued, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-036", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-036", caption = "above Raoued, Tunisia", alt = "An aerial view from an airplane window over the coast of Raoued, Tunisia, showing a sandy shoreline meeting turquoise Mediterranean waters on the right, with a grid of low buildings, farmland, and arid terrain stretching inland under a clear deep-blue sky.") }}
 
-{{ es_cdn_image(id = "es-3921-040", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-040", caption = "above Raoued, Tunisia") }}
+{{ es_cdn_image(id = "es-3921-040", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-040", caption = "above Raoued, Tunisia", alt = "A high-altitude aerial view over Raoued, Tunisia, showing a patchwork of green and tan farm fields crossed by roads, with a dense town of white low-rise buildings spreading across the lower right and hazy hills fading into the horizon under a clear blue sky.") }}
 
-{{ es_cdn_image(id = "es-3921-047", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-047", caption = "above the Mediterranean Ocean, south of Greece") }}
+{{ es_cdn_image(id = "es-3921-047", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3921-047", caption = "above the Mediterranean Ocean, south of Greece", alt = "An aerial view from an airplane window high above the Mediterranean Sea south of Greece, showing scattered white cumulus clouds over deep blue water with the curved horizon fading into a gradient of blue sky. The dark edge of the plane’s engine nacelle is visible in the lower right corner.") }}
 
 The flight into Tunis took a rather curvy path for two reasons, as I understand it:
 

@@ -137,4 +137,4 @@ For the record, I did _not_ plant this sticker here.
 
 {{ es_cdn_image(id = "es-3918-131", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3918-131") }}
 
-{{ es_cdn_image(id = "es-3918-132", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3918-132") }}
+{{ es_cdn_image(id = "es-3918-132", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3918-132", alt = "A busy pedestrian square in Tunis lined with ornate white and cream buildings featuring blue shutters, balconies, and a tiled hotel facade, with crowds of people walking and others seated under large awnings at an outdoor cafe. A tall palm trunk, potted plants, and Tunisian flags add to the lively midday scene under a partly cloudy sky.") }}
