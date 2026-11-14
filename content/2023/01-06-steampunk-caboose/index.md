@@ -15,6 +15,7 @@ bounds = {sw = [48.068, -123.102], ne = [48.088, -123.078]}
 cover = "es-4467-007"
 cover_cdn_key = "img/v1/2023/01/es-4467-007"
 cover_alt = "A green Burlington Northern railway caboose photographed against a deep blue twilight sky, with its cupola window glowing warm yellow from interior lighting and the white “B” logo and “Burlington Northern” lettering on the weathered side."
+track_key = "track/v2/2023/01/2023-01-07+06-steampunk-caboose.json"
 +++
 
 Had a night to myself last night so I looked on AirBNB for last-minute getaways and found a steampunk caboose! Couldn't pass that up, so I booked it and drove up there straight away.
