@@ -7,6 +7,7 @@ updated = 2023-01-17T20:36:32-07:00
 state = ["Washington"]
 
 [extra]
+distance = "2.6 km / 1.6 mi"
 mastodon_url = "https://ericscouten.social/@travel/109765039613389177"
 hashtags = "#olympia #washington"
 markers = "markers.js"
@@ -14,6 +15,8 @@ bounds = {sw = [47.124, -122.853], ne = [47.144, -122.833]}
 cover = "es-4468-019"
 cover_cdn_key = "img/v1/2023/01/es-4468-019"
 cover_alt = "A weathered, derelict wooden pier and railroad trestle extends into calm gray water under a heavy overcast sky, with an evergreen-forested shoreline receding into misty haze on the left."
+track_key = "track/v2/2023/01/2023-01-08.json"
+parks = ["relation/9749072"]  # Woodard Bay Natural Resources Conservation Area
 +++
 
 Lisa and I went for a hike in [Woodard Bay Conservation Area](https://www.dnr.wa.gov/WoodardBay) recently.
