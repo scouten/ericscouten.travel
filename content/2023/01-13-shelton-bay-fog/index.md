@@ -14,6 +14,7 @@ bounds = {sw = [47.242, -123.05], ne = [47.262, -123.03]}
 cover = "es-4468-034"
 cover_cdn_key = "img/v1/2023/01/es-4468-034"
 cover_alt = "A calm, glassy stretch of water reflecting a moody overcast sky, with low mist drifting across a distant shoreline lined by evergreen forest. A dense cluster of tall conifers rises on the right side, mirrored in the still water below."
+track_key = "track/v2/2023/01/2023-01-13+13-shelton-bay-fog.json"
 +++
 
 A random photo grab while I was driving near Shelton recently ...
