@@ -8,11 +8,12 @@ state = ["Washington"]
 
 [extra]
 mastodon_url = "https://ericscouten.social/@travel/109815839330245494"
-distance = "5.7 km / 3.5 mi"
+distance = "4.5 km / 2.8 mi"
 route = "Mima Mounds Natural Area Preserve, southwest of Olympia, Washington"
 hashtags = "#olympia #washington"
 markers = "markers.js"
-track_log_key = "kml/v1/2023/01/2023-01-28-mima-mounds.kml"
+track_key = "track/v2/2023/01/2023-01-28.json"
+parks = ["relation/14009292"]  # Mima Mounds Natural Area Preserve
 bounds = {sw = [46.888, -123.062], ne = [46.908, -123.042]}
 cover = "es-4473-054"
 cover_cdn_key = "img/v1/2023/01/es-4473-054"
