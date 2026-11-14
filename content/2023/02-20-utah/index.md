@@ -7,6 +7,7 @@ updated = 2023-02-26T17:08:09-08:00
 state = ["Utah"]
 
 [extra]
+distance = "1,463 km / 909 mi"
 mastodon_url = "https://ericscouten.social/@travel/109934157884728501"
 route = "east of Salt Lake City, Utah"
 markers = "markers.js"
@@ -15,6 +16,7 @@ bounds = {sw = [40.574, -112.1], ne = [40.594, -111]}
 cover = "es-4482-010"
 cover_cdn_key = "img/v1/2023/02/es-4482-010"
 cover_alt = "A snow-covered mountain basin under a deep blue sky, with rocky ridgelines dotted by evergreen trees and a large wispy cloud drifting over the peaks. Bare shrubs poke through the smooth expanse of snow in the foreground."
+track_key = "track/v2/2023/02/2023-02-15.json"
 +++
 
 I was in Utah for a long weekend. This was mostly a family visit, but I did get a chance to get out and enjoy the snowy mountain landscapes east of Salt Lake City a bit.
