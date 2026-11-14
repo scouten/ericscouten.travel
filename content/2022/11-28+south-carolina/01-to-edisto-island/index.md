@@ -7,10 +7,11 @@ updated = 2022-12-27T14:59:29-08:00
 state = ["Washington", "Montana", "South Carolina"]
 
 [extra]
-distance = "4041 km / 2511 mi"
+distance = "4,045 km / 2,513 mi"
 route = "Seattle, Washington, to Edisto Island, South Carolina"
 markers = "markers.js"
-track_log_key = "kml/v1/2022/11/2022-11-28-to-edisto-island.kml"
+track_key = "track/v2/2022/11/2022-11-28.json"
+parks = ["relation/13673817"]  # Botany Bay Heritage Preserve
 bounds = {sw = [32.542, -121.004], ne = [47.335, -80.233]}
 cover = "lr-22b-3463"
 cover_cdn_key = "img/v1/2022/11/lr-22b-3463"
@@ -23,8 +24,11 @@ Lisa had a bit of a head start on me, having spent Thanksgiving visiting her fri
 I had a window seat and got the opportunity to look down on snowy mountainscapes for the first part of the journey. A few of these made it to Facebook while I was still in-flight.
 
 {{ es_cdn_image(id = "es-4438-006", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4438-006", caption = "above Roslyn, Washington", alt = "An aerial view from an airplane window over snow-covered mountain peaks and ridges, with scattered white clouds drifting between the summits and a hazy horizon in the morning light.") }}
+
 {{ es_cdn_image(id = "es-4438-014", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4438-014", caption = "above Liberty, Washington", alt = "An aerial view from an airplane window of snow-covered mountain ridges near Liberty, Washington, with deep shadowed valleys, forested slopes dusted in snow, and scattered white clouds drifting over the peaks in morning light.") }}
+
 {{ es_cdn_image(id = "es-4438-017", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4438-017", caption = "above Liberty, Washington", alt = "An aerial view from an airplane window of snow-covered mountain ridges near Liberty, Washington, with low morning sunlight highlighting the peaks and wisps of cloud drifting across the valleys.") }}
+
 {{ es_cdn_image(id = "es-4439-006", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4439-006", caption = "above Red Bluff, Montana", alt = "An aerial view from high altitude over a snow-covered winter landscape near Red Bluff, Montana, showing folded ridges, eroded valleys, and a meandering river cutting through white plains, with a deep blue sky fading to the curved horizon above scattered clouds.") }}
 
 Lisa and her friend Nicky had been spending the day at [Botany Bay Heritage Preserve](https://www2.dnr.sc.gov/ManagedLands/ManagedLand/ManagedLand/57). My flight landed a bit too late for me to enjoy it today, but I'm excited to check it out later this week. Here's a preview from her day there:
@@ -34,5 +38,7 @@ Lisa and her friend Nicky had been spending the day at [Botany Bay Heritage Pres
 We met just after sunset and what a treat it was!
 
 {{ es_cdn_image(id = "es-4439-031", cdn_version = "v1", cdn_key = "img/v1/2022/11/es-4439-031", caption = "Edisto Island, South Carolina", alt = "The sun setting low over a coastal salt marsh on Edisto Island, casting golden light across tall marsh grasses and a winding tidal creek. Wispy cirrus clouds streak a mostly blue sky, with a tree line silhouetted on the horizon, power lines crossing the top of the frame, and a rocky riprap embankment in the lower left corner.") }}
+
 {{ es_cdn_image(id = "lr-22b-3463", cdn_version = "v1", cdn_key = "img/v1/2022/11/lr-22b-3463", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
+
 {{ es_cdn_image(id = "lr-22b-3475", cdn_version = "v1", cdn_key = "img/v1/2022/11/lr-22b-3475", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}

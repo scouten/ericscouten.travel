@@ -7,10 +7,11 @@ updated = 2022-12-31T12:44:40-08:00
 state = ["South Carolina"]
 
 [extra]
-distance = "177 km / 110 mi"
+distance = "181 km / 113 mi"
 route = "Charleston to Edisto Island, South Carolina, and back"
 markers = "markers.js"
-track_log_key = "kml/v1/2022/12/2022-12-03-bonus-day-botany-bay.kml"
+track_key = "track/v2/2022/12/2022-12-03.json"
+parks = ["relation/13673817"]  # Botany Bay Heritage Preserve
 bounds = {sw = [32.539, -80.353], ne = [32.894, -79.849]}
 cover = "es-4452-163"
 cover_cdn_key = "img/v1/2022/12/es-4452-163"
@@ -26,12 +27,19 @@ I'd long heard of this location, famous for its weather-worn trees standing in t
 I hope to return some day in moodier weather.
 
 {{ es_cdn_image(id = "es-4452-050", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-050", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "Two bare, weathered tree skeletons stand silhouetted in shallow seawater at the shoreline of a beach, their twisting branches reaching into a bright sky scattered with wispy clouds. Foamy waves wash over dark sand in the foreground under strong daylight.") }}
+
 {{ es_cdn_image(id = "es-4452-085", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-085", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "The dark, weathered trunks of two boneyard-beach trees rise from shallow surf and cast long reflections across the wet, rippled sand at Botany Bay. Small shells and pebbles are scattered across the foreground as gentle foamy waves roll up the shore.") }}
+
 {{ es_cdn_image(id = "es-4452-088", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-088", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "Two bare, weathered trees stand silhouetted in the shallow surf of a beach, their leafless branches reaching against a bright blue sky with the sun high overhead. Wet sand in the foreground reflects the trees, with foamy waves washing in from the sea.") }}
+
 {{ es_cdn_image(id = "es-4452-096", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-096", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "A close-up of wet, damp sand on a beach showing intricate lacy patterns of tiny holes and dotted swirls, with a single small white shell fragment near the upper left.") }}
+
 {{ es_cdn_image(id = "es-4452-163", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-163", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "Silhouettes of four bare, weathered dead trees standing in shallow ocean water at the edge of a beach, with the bright sun high in a mostly blue sky and small waves breaking behind them.") }}
+
 {{ es_cdn_image(id = "lr-22c-3643", cdn_version = "v1", cdn_key = "img/v1/2022/12/lr-22c-3643", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
+
 {{ es_cdn_image(id = "es-4452-179", cdn_version = "v1", cdn_key = "img/v1/2022/12/es-4452-179", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", alt = "A bare, weathered dead tree stands silhouetted on a wide sandy beach, its skeletal branches spreading against a blue sky streaked with wispy clouds, while the sun glows behind the trunk and casts long branching shadows across the sand toward the ocean.") }}
+
 {{ es_cdn_image(id = "lr-22c-3634", cdn_version = "v1", cdn_key = "img/v1/2022/12/lr-22c-3634", caption = "Botany Bay Heritage Preserve / Wildlife Management Area, Edisto Island, South Carolina", creator = "Lisa Rozmyn") }}
 
 If ya gotta spend an extra day away from home, this view ain’t bad.
