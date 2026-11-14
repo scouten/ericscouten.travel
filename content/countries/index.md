@@ -108,7 +108,8 @@ I’ve driven a car in each of the 58 countries and territories listed below mar
     cdn_key = "img/v1/2019/03/es-3916-015"
     caption = "La Marsa, Tunisia"
     drive = false
-    country_term = true) %}
+    country_term = true
+    alt = "A whitewashed seaside building topped with a domed roof and an Islamic crescent moon finial, with a large arched entrance and heavy dark wooden doors, set on a sandy beach in La Marsa, Tunisia. A sandy path lined with green shrubs and agave plants leads up to the entrance, with the sea and breaking waves visible on either side under a blue sky dotted with clouds.") %}
 
 My first visit to Africa.
 
