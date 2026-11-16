@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2019/03/2019-03-26-a-plan-comes-to-fruition.kml"
 bounds = {sw = [34.680, 14.328], ne = [35.987, 33.701]}
 cover = "es-3909-009"
 cover_cdn_key = "img/v1/2019/03/es-3909-009"
+cover_alt = "A floodlit baroque church with twin bell towers and a large dome rises above the waterfront of Senglea, Malta, during the blue hour, with its golden lights and the surrounding buildings reflected in the calm harbour where moored yachts and boats line the quay."
 +++
 
 Like the last two days, there was a plan for today.
@@ -93,6 +94,6 @@ Herewith, my favorites from today’s initial exploration:
 
 {{ es_cdn_image(id = "es-3908-026", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3908-026", caption = "Senglea, Malta") }}
 
-{{ es_cdn_image(id = "es-3909-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3909-003", caption = "Senglea, Malta") }}
+{{ es_cdn_image(id = "es-3909-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3909-003", caption = "Senglea, Malta", alt = "A marina in Senglea, Malta, at dusk, with yachts and sailboats moored in the calm harbor water that reflects warm lights. Behind them, honey-colored stone fortifications and historic buildings rise up the hillside, crowned by an illuminated church dome against a deep blue twilight sky.") }}
 
-{{ es_cdn_image(id = "es-3909-009", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3909-009", caption = "Senglea, Malta") }}
+{{ es_cdn_image(id = "es-3909-009", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3909-009", caption = "Senglea, Malta", alt = "A floodlit baroque church with twin bell towers and a large dome rises above the waterfront of Senglea, Malta, during the blue hour, with its golden lights and the surrounding buildings reflected in the calm harbour where moored yachts and boats line the quay.") }}

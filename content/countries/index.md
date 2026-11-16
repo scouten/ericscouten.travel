@@ -124,7 +124,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2019/03/es-3909-009"
     caption = "Senglea, Malta"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A floodlit baroque church with twin bell towers and a large dome rises above the waterfront of Senglea, Malta, during the blue hour, with its golden lights and the surrounding buildings reflected in the calm harbour where moored yachts and boats line the quay.") }}
 
 {{ es_country(
     seq = 72

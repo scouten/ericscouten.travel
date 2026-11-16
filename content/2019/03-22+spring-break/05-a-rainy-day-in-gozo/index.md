@@ -36,7 +36,7 @@ The village of Mġarr, as seen from the ferry shortly before landing:
 
 Upon arrival, I drove up to Gozo's main city of Victoria and walked around for a bit.
 
-{{ es_cdn_image(id = "es-3910-038", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-038", caption = "Victoria, Gozo, Malta") }}
+{{ es_cdn_image(id = "es-3910-038", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-038", caption = "Victoria, Gozo, Malta", alt = "A person under a green umbrella walks out through the arched stone entrance of Victoria Hospital in Victoria, Gozo, on a rainy day, with a bright red British-style pillar box, parked cars, and a wet zebra crossing in the foreground.") }}
 
 {{ es_cdn_image(id = "es-3910-046", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3910-046", caption = "Victoria, Gozo, Malta", alt = "A grand entrance of a weathered pale limestone building in Victoria, Gozo, framed by two classical columns supporting a balustraded balcony above. The double doors feature leaded glass panels marked with the monogram “SDC,” flanked by louvered shutters, with a wet road and crosswalk markings in the foreground.") }}
 
