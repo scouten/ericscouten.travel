@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2019/03/2019-03-24-cyprus.kml"
 bounds = {sw = [25.142, 32.399], ne = [35.039, 55.448]}
 cover = "es-3900-013"
 cover_cdn_key = "img/v1/2019/03/es-3900-013"
+cover_alt = "An elevated view over Kourion Beach near Episkopi, Cyprus, where a long sweeping coastline of sand meets calm turquoise-blue sea under an overcast, hazy sky. Green fields and scrubland stretch along the shore in the foreground, with a coastal road, a beach restaurant with a red roof, and palm trees visible near the water."
 +++
 
 Come to the Mediterranean, they said. It will be warm, they said.
@@ -32,7 +33,7 @@ There was a grand plan for today. It was:
 
 It … seemed like a good idea at the time.
 
-{{ es_cdn_image(id = "es-3900-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-004", caption = "Poli Crysochous, Cyprus") }}
+{{ es_cdn_image(id = "es-3900-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-004", caption = "Poli Crysochous, Cyprus", alt = "An old wooden double door set in a carved pale limestone surround within a rough stone wall, with a decorative stained-glass transom above and barred, blinded glass panels on the upper half. A worn stone step and a yellow road line sit in the foreground in Poli Crysochous, Cyprus.") }}
 
 P.S. Good thing I know how to drive a stick shift, left- or right-handed. Automatics were hard to find here!
 
@@ -40,11 +41,11 @@ P.S. Good thing I know how to drive a stick shift, left- or right-handed. Automa
 
 Here, you can see that I got as far as step 3. Maybe even 3½. Here is as close as I got to the northwestern most point of the island:
 
-{{ es_cdn_image(id = "es-3900-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-006", caption = "Latsi, Cyprus") }}
+{{ es_cdn_image(id = "es-3900-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-006", caption = "Latsi, Cyprus", alt = "A pebbly sand beach along the coast of Latsi, Cyprus, with white-capped waves rolling in under a bright blue sky scattered with large fluffy clouds. In the distance a harbor with moored sailboats, breakwaters, and low buildings sits at the foot of rolling hills.") }}
 
 I made a few photos, including some fun, dramatic ones like this ...
 
-{{ es_cdn_image(id = "es-3901-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3901-003", title = "The Whole Catastrophe", caption = "Prodromi, Cyprus") }}
+{{ es_cdn_image(id = "es-3901-003", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3901-003", title = "The Whole Catastrophe", caption = "Prodromi, Cyprus", alt = "A dramatic black-and-white sky dominates the frame, with wispy and billowing clouds set against a deep dark expanse, above a thin strip of distant hills and open land near Prodromi, Cyprus.") }}
 
 And then the **rain** came.
 
@@ -60,10 +61,9 @@ I tapped the brakes on the car. Not much happened, aside from the car bleating o
 
 And that mostly defined the afternoon. You might understand my reticence to get out and make more photos. Getting struck by lightning and then freezing to death while getting pelted by hailstones somehow didn’t sound all that charming.
 
+{{ es_cdn_image(id = "es-3900-011", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-011", caption = "Tsada, Cyprus", alt = "A hazy view from the hills above Tsada, Cyprus, looking down over a green valley and a sprawling coastal town toward the pale silver expanse of the Mediterranean Sea, all beneath a heavy overcast grey sky with dark hillsides framing the foreground.") }}
 
-{{ es_cdn_image(id = "es-3900-011", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-011", caption = "Tsada, Cyprus") }}
-
-{{ es_cdn_image(id = "es-3900-013", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-013", caption = "During a brief respite from the rains … · Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom") }}
+{{ es_cdn_image(id = "es-3900-013", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3900-013", caption = "During a brief respite from the rains … · Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom", alt = "An elevated view over Kourion Beach near Episkopi, Cyprus, where a long sweeping coastline of sand meets calm turquoise-blue sea under an overcast, hazy sky. Green fields and scrubland stretch along the shore in the foreground, with a coastal road, a beach restaurant with a red roof, and palm trees visible near the water.") }}
 
 . . .
 

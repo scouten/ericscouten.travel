@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2019/03/2019-03-25-im-sorry-boss.kml"
 bounds = {sw = [34.695, 32.897], ne = [35.175, 34.081]}
 cover = "es-3902-023"
 cover_cdn_key = "img/v1/2019/03/es-3902-023"
+cover_alt = "A wide open field silhouetted in darkness beneath a vast twilight sky glowing orange near the horizon and fading to blue above, with a low mountain ridge and distant town lights in the background at sunset near Pyla, Cyprus."
 +++
 
 As they say, be careful what you wish for.
@@ -42,7 +43,7 @@ The Grand Plan B for today was:
 
 As planned, I drove to the east from Larnaca as far as I could.
 
-{{ es_cdn_image(id = "es-3902-001", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-001", caption = "Typical view in Cypriot countryside. · Ormideia, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-001", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-001", caption = "Typical view in Cypriot countryside. · Ormideia, Cyprus", alt = "A rolling Cypriot countryside under a vast clear blue sky, with grassy fields dotted with yellow wildflowers in the foreground and scattered low-rise houses, red-tiled roofs, and cultivated plots spread across the gently sloping terrain beyond.") }}
 
 . . .
 
@@ -54,7 +55,7 @@ It's fascinating and a bit macabre to drive through a tourist area in off-season
 
 {{ es_cdn_image(id = "es-3902-002", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-002", caption = "Ayia Napa, Cyprus") }}
 
-{{ es_cdn_image(id = "es-3902-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-004", caption = "Livadia, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-004", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-004", caption = "Livadia, Cyprus", alt = "A quiet two-lane country road curves through green fields dotted with yellow wildflowers under a vast blue sky with wispy clouds, with the low white buildings of a town visible along the horizon.") }}
 
 ## Step 3: Nicosia
 
@@ -64,7 +65,7 @@ I made it to Nicosia, where I spotted this Turkish flag on the hills north of Ni
 
 I parked and walked a bit around the old city. This was on my way to the border crossing ...
 
-{{ es_cdn_image(id = "es-3902-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-006", caption = "Nicosia, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-006", caption = "Nicosia, Cyprus", alt = "A weathered wooden double door with peeling paint, decorative pediments, broken glass panes, and a chain-and-padlock closure, set in an aged sandstone building facade with an ornate ironwork transom above marked 1926, in Nicosia, Cyprus.") }}
 
 ## Step 4: Surprise!
 
@@ -114,7 +115,7 @@ _shrug_
 
 Here is Ledras Street, on the Greek Cypriot side, a block or so south of the border crossing. This is as close as I really got to having a photo from Northern Cyprus.
 
-{{ es_cdn_image(id = "es-3903-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3903-006", caption = "Ledras Street, Nicosia, Cyprus") }}
+{{ es_cdn_image(id = "es-3903-006", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3903-006", caption = "Ledras Street, Nicosia, Cyprus", alt = "A busy pedestrian shopping street in Nicosia, Cyprus, shaded by yellow fabric sails strung overhead, with people walking and carrying H&M bags while others sit at outdoor café tables. Greek-language shop and restaurant signs line the buildings, including one reading ‘Λήδρας 55’, and a tabby cat sits near a bag display on the right.") }}
 
 ## Remember Plan A?
 
@@ -140,18 +141,18 @@ And, for that, I’m thankful. If the Turkish authorities were going to have a p
 
 A little frazzled from that unexpected encounter, I left Nicosia and went for a longish drive back to my hotel by way of the mountains west of the city. That was welcome therapy, and you’ll find below some photos taken from the South, looking across the border to the North.
 
-{{ es_cdn_image(id = "es-3902-011", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-011", caption = "Kato Koutrafas, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-011", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-011", caption = "Kato Koutrafas, Cyprus", alt = "A solitary dark-green tree stands at the edge of a green field under a vast clear blue sky near Kato Koutrafas, Cyprus, with a dirt track in the foreground and distant plains and a utility pole with power lines overhead.") }}
 
-{{ es_cdn_image(id = "es-3902-012", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-012", caption = "Looking across the line of control into Northern Cyprus. · Kato Koutrafas, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-012", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-012", caption = "Looking across the line of control into Northern Cyprus. · Kato Koutrafas, Cyprus", alt = "A broad green plain of tall grass and low shrubs stretches toward a distant town and a line of low hills and mountains under a clear deep-blue sky, in the central Cyprus countryside near the line of control.") }}
 
-{{ es_cdn_image(id = "es-3902-016", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-016", caption = "Kato Koutrafas, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-016", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-016", caption = "Kato Koutrafas, Cyprus", alt = "A sandy dirt road curves through rolling green hills near Kato Koutrafas, Cyprus, lined with shrubs and clusters of yellow wildflowers under a clear blue sky, with rocky hills rising in the distance.") }}
 
-{{ es_cdn_image(id = "es-3902-019", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-019", caption = "Galata, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-019", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-019", caption = "Galata, Cyprus", alt = "A hillside village of red-roofed and white houses spreads across green mountain slopes under a clear blue sky, with a low pink building topped by a terracotta tiled roof in the foreground and distant peaks showing patches of snow.") }}
 
-{{ es_cdn_image(id = "es-3902-020", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-020", caption = "Pelentri, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-020", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-020", caption = "Pelentri, Cyprus", alt = "A green valley flanked by scrub-covered hills near Pelentri, Cyprus, with a scattering of houses nestled in the distance beneath a vast clear blue sky, and tall grasses in the shaded foreground.") }}
 
-{{ es_cdn_image(id = "es-3902-023", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-023", caption = "Sunset near my hotel. · Pyla, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-023", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-023", caption = "Sunset near my hotel. · Pyla, Cyprus", alt = "A wide open field silhouetted in darkness beneath a vast twilight sky glowing orange near the horizon and fading to blue above, with a low mountain ridge and distant town lights in the background at sunset near Pyla, Cyprus.") }}
 
-{{ es_cdn_image(id = "es-3902-024", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-024", caption = "Pyla, Cyprus") }}
+{{ es_cdn_image(id = "es-3902-024", cdn_version = "v1", cdn_key = "img/v1/2019/03/es-3902-024", caption = "Pyla, Cyprus", alt = "A broad green field stretches toward a distant low hilltop under a vast sky at sunset near Pyla, Cyprus, with wispy clouds glowing pink and orange above and a warm golden band along the horizon.") }}
 
 I’m going to avoid wishing for anything specific tomorrow. That seems to cause problems.

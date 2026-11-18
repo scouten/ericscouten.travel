@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2018/09/2018-09-22-isle-of-man.kml"
 bounds = {sw = [53.338, -6.314], ne = [54.414, -4.357]}
 cover = "es-3802-063"
 cover_cdn_key = "img/v1/2018/09/es-3802-063"
+cover_alt = "A hilltop view over the Isle of Man coast near Ramsey, with a wire fence on wooden posts running through long grass and gorse in the foreground, rolling green farmland and a coastal town below, and the blue sea meeting a sky of scattered clouds beyond."
 +++
 
 Farewell, Dublin. Hello, Isle of Man.
@@ -79,15 +80,15 @@ Love the cast-in-iron navigational markers here ...
 
 {{ es_cdn_image(id = "es-3803-049", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3803-049", title = "Wrapped in Something Beautiful", caption = "Ballaugh, Isle of Man, United Kingdom") }}
 
-{{ es_cdn_image(id = "es-3801-043", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3801-043", caption = "north of Bride, Isle of Man, United Kingdom") }}
+{{ es_cdn_image(id = "es-3801-043", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3801-043", caption = "north of Bride, Isle of Man, United Kingdom", alt = "A rolling green countryside near Bride on the Isle of Man, with a grassy roadside verge in the foreground beside a narrow lane, a stone farmhouse with a light-coloured roof set among fields, and distant hills under a broad, cloudy grey sky with power lines crossing overhead.") }}
 
-{{ es_cdn_image(id = "es-3802-047", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-047", caption = "Ramsey, Isle of Man, United Kingdom") }}
+{{ es_cdn_image(id = "es-3802-047", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-047", caption = "Ramsey, Isle of Man, United Kingdom", alt = "Colorful fishing trawlers—a red-hulled boat marked PL39 “Venture Again” and a blue-hulled boat marked PL280—moored together in Ramsey harbour, with rigging, winches and nets on deck, and dockside buildings and a tall crane visible across the water under a bright sky with wispy clouds.") }}
 
-{{ es_cdn_image(id = "es-3802-063", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-063", caption = "south of Ramsey, Isle of Man, United Kingdom") }}
+{{ es_cdn_image(id = "es-3802-063", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-063", caption = "south of Ramsey, Isle of Man, United Kingdom", alt = "A hilltop view over the Isle of Man coast near Ramsey, with a wire fence on wooden posts running through long grass and gorse in the foreground, rolling green farmland and a coastal town below, and the blue sea meeting a sky of scattered clouds beyond.") }}
 
-{{ es_cdn_image(id = "es-3802-067", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-067", caption = "west of Laxey, Isle of Man, United Kingdom") }}
+{{ es_cdn_image(id = "es-3802-067", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-067", caption = "west of Laxey, Isle of Man, United Kingdom", alt = "A weathered wooden farm gate with a sign reading “Please Close the Gate” stands across a gravel path in open moorland, with a green footpath waymarker on a post to the right. Beyond stretch rolling hills and green fields west of Laxey on the Isle of Man under a cloudy grey sky.") }}
 
-{{ es_cdn_image(id = "es-3802-085", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-085", caption = "Douglas, Isle of Man, United Kingdom") }}
+{{ es_cdn_image(id = "es-3802-085", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3802-085", caption = "Douglas, Isle of Man, United Kingdom", alt = "A curving seafront promenade in Douglas, Isle of Man, lined with a row of red Manx flags on white poles, overlooking a wide sandy beach exposed at low tide. Rows of pale Victorian hotels and townhouses stretch along the bay beneath green hills and a mostly cloudy sky.") }}
 
 . . .
 

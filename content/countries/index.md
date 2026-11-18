@@ -135,7 +135,8 @@ My first visit to Africa.
     image = "es-3900-013"
     cdn_key = "img/v1/2019/03/es-3900-013"
     caption = "Kourion Beach, Episkopi, Western Sovereign Base Area (Cyprus), United Kingdom"
-    drive = true) }}
+    drive = true
+    alt = "An elevated view over Kourion Beach near Episkopi, Cyprus, where a long sweeping coastline of sand meets calm turquoise-blue sea under an overcast, hazy sky. Green fields and scrubland stretch along the shore in the foreground, with a coastal road, a beach restaurant with a red roof, and palm trees visible near the water.") }}
 
 {{ es_country(
     seq = 71
@@ -146,7 +147,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2019/03/es-3902-023"
     caption = "Pyla, Cyprus"
     country_term = true
-    drive = true) }}
+    drive = true
+    alt = "A wide open field silhouetted in darkness beneath a vast twilight sky glowing orange near the horizon and fading to blue above, with a low mountain ridge and distant town lights in the background at sunset near Pyla, Cyprus.") }}
 
 {{ es_country(
     seq = 70
@@ -157,7 +159,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2018/09/es-3814-037"
     caption = "Mont Orgueil Castle, Saint Martin, Jersey, United Kingdom"
     drive = true
-    country_term = "Jersey") }}
+    country_term = "Jersey"
+    alt = "Mont Orgueil Castle sits atop a rocky hill overlooking Gorey harbour in Jersey, with rows of boats stranded on the exposed mud and sand at low tide below a bright blue sky streaked with wispy clouds. A line of colourful waterfront buildings runs along the harbour edge beneath the medieval fortress.") }}
 
 {{ es_country(
     seq = 69
@@ -168,7 +171,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2018/09/es-3805-004"
     caption = "north of Welshpool, Wales, United Kingdom"
     drive = true
-    country_term = "Wales") }}
+    country_term = "Wales"
+    alt = "A black-and-white infrared landscape showing a muddy, rutted dirt track with puddles winding through tall hedgerows and grass toward a wooded hill, under a dramatic sky filled with billowing clouds in the countryside north of Welshpool, Wales.") }}
 
 {{ es_country(
     seq = 68
@@ -179,7 +183,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2018/09/es-3802-063"
     caption = "south of Ramsey, Isle of Man, United Kingdom"
     drive = true
-    country_term = "Isle of Man") }}
+    country_term = "Isle of Man"
+    alt = "A hilltop view over the Isle of Man coast near Ramsey, with a wire fence on wooden posts running through long grass and gorse in the foreground, rolling green farmland and a coastal town below, and the blue sea meeting a sky of scattered clouds beyond.") }}
 
 {{ es_country(
     seq = 67
