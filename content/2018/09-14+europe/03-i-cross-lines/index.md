@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2018/09/2018-09-19-i-cross-lines.kml"
 bounds = {sw = [53.340, -7.380], ne = [54.247, -6.260]}
 cover = "es-3795-011"
 cover_cdn_key = "img/v1/2018/09/es-3795-011"
+cover_alt = "A black-and-white rural landscape south of Magheraveely, Northern Ireland, with a dramatic cloudy sky and shafts of light breaking through above rolling hills. In the foreground a grassy field runs toward a line of trees, scattered farm buildings and fences in the middle distance."
 +++
 
 Borders fascinate me. Always have.
@@ -25,7 +26,7 @@ So, of course, I had to go.
 
 <!-- more -->
 
-{{ es_cdn_image(id = "es-3796-003", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3796-003", caption = "east of Poles, County Cavan, Ireland") }}
+{{ es_cdn_image(id = "es-3796-003", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3796-003", caption = "east of Poles, County Cavan, Ireland", alt = "Rolling green pastures stretch toward a distant tree line under a bright blue sky scattered with white clouds, with a lone tree standing on the left and morning sun hazing the right side of the frame near Poles, County Cavan, Ireland.") }}
 
 Road geek here ...
 
@@ -39,7 +40,7 @@ And the return to Ireland is even more understated:
 
 {{ es_cdn_image(id = "es-3794-029", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3794-029", caption = "west of Clonooney, County Monaghan, Ireland") }}
 
-{{ es_cdn_image(id = "es-3795-011", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3795-011", title = "Unperfected", caption = "south of Magheraveely, Northern Ireland, United Kingdom") }}
+{{ es_cdn_image(id = "es-3795-011", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3795-011", title = "Unperfected", caption = "south of Magheraveely, Northern Ireland, United Kingdom", alt = "A black-and-white rural landscape south of Magheraveely, Northern Ireland, with a dramatic cloudy sky and shafts of light breaking through above rolling hills. In the foreground a grassy field runs toward a line of trees, scattered farm buildings and fences in the middle distance.") }}
 
 Aside from the road geekery and a few great photos, I also was rewarded with some driving adventures.
 

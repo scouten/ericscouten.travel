@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2017/07/2017-07-23-a-new-city-crush.kml"
 bounds = {sw = [59.434, 24.663], ne = [60.169, 25.000]}
 cover = "es-3575-038"
 cover_cdn_key = "img/v1/2017/07/es-3575-038"
+cover_alt = "The massive round stone artillery tower known as Fat Margaret in Tallinn’s Old Town, with its red-tiled conical roof, set against a clear sky with a tall green church spire rising behind it. In the foreground a grassy park with shrubs, trees and park lamps is bathed in warm evening light, where a couple of people recline on the lawn."
 +++
 
 Today I took a ferry from Helsinki to Tallinn, Estonia.
@@ -49,7 +50,7 @@ My hotel is right in the heart of the old town, which made it easy for me to go 
 
 {{ es_cdn_image(id = "es-3573-028", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3573-028", alt = "A pale green metal double door with embossed diamond panels and a padlock, set into a rough honey-colored stone wall, covered in black and white graffiti tags including names like “John Smith” and a small photo sticker. A paved sidewalk runs along the base of the wall.") }}
 
-{{ es_cdn_image(id = "es-3573-029", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3573-029") }}
+{{ es_cdn_image(id = "es-3573-029", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3573-029", alt = "A quiet cobblestone street in the old town of Tallinn, Estonia, lined with pastel-colored historic buildings, a wrought-iron lantern mounted on a wall, and a bright yellow doorway on the left, with cars parked on the right under a clear blue summer sky.") }}
 
 {{ es_cdn_image(id = "es-3573-031", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3573-031", alt = "The yellow facade of the Hell Hunt pub in Tallinn, featuring an ornate painted sign with a winged wolf between the words “Hell” and “Hunt,” with white-framed windows, flower boxes of pink blooms, and a cobblestone street in the foreground.") }}
 
@@ -61,39 +62,39 @@ My hotel is right in the heart of the old town, which made it easy for me to go 
 
 {{ es_cdn_image(id = "es-3575-001", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-001") }}
 
-{{ es_cdn_image(id = "es-3575-005", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-005") }}
+{{ es_cdn_image(id = "es-3575-005", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-005", alt = "A cobblestone street in Tallinn’s Old Town lined with historic gabled buildings and market stalls, where pedestrians stroll in the warm late-afternoon light beneath the tall spire of the medieval Town Hall tower against a clear blue sky, with a bird in flight at upper left.") }}
 
-{{ es_cdn_image(id = "es-3575-007", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-007", caption = "Ironic, since I was just in Helsinki …") }}
+{{ es_cdn_image(id = "es-3575-007", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-007", caption = "Ironic, since I was just in Helsinki …", alt = "A pale green classical building in Tallinn’s old town with a blue neon “HELSINKI” sign and the words “RESTORAN BAAR KARAOKE” below, fronted by a crowded outdoor cafe terrace shaded by white A. Le Coq umbrellas and busy with people.") }}
 
-{{ es_cdn_image(id = "es-3575-017", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-017") }}
+{{ es_cdn_image(id = "es-3575-017", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-017", alt = "A medieval round stone tower with a red tiled conical roof stands beside a cobblestone street in Tallinn’s old town, while children chase colourful soap bubbles drifting through the warm evening sunlight under a clear blue sky.") }}
 
 {{ es_cdn_video(id = "es-3574-001", cdn_version = "v1", cdn_key = "vid/v1/2017/07/es-3574-001", caption = "8pm on a Sunday in Tallinn …") }}
 
-{{ es_cdn_image(id = "es-3575-025", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-025") }}
+{{ es_cdn_image(id = "es-3575-025", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-025", alt = "An empty cobblestone street in Tallinn’s Old Town lined with ornate historic buildings, including a coral-pink gabled house on the left with a decorative flag jutting out and a pale yellow gabled building on the right with white-framed windows and red tile roofs, under a clear evening sky.") }}
 
-{{ es_cdn_image(id = "es-3575-029", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-029") }}
+{{ es_cdn_image(id = "es-3575-029", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-029", alt = "A quiet cobblestone street winding through Tallinn’s old town in the evening, lined with pastel-colored historic houses, iron street lamps, and a large leafy tree overhanging the left side. A woman in a blue skirt with a red bag stands taking a photo while another person sits on a bench, under a clear pale blue sky.") }}
 
-{{ es_cdn_image(id = "es-3575-032", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-032") }}
+{{ es_cdn_image(id = "es-3575-032", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-032", alt = "A quiet cobblestone street winding through the old town of Tallinn, lined with pastel-colored and whitewashed historic buildings, with a couple sitting on a doorstep and a wrought-iron lamp mounted on an orange facade in the evening light.") }}
 
 {{ es_cdn_image(id = "es-3575-036", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-036") }}
 
-{{ es_cdn_image(id = "es-3575-038", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-038") }}
+{{ es_cdn_image(id = "es-3575-038", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-038", alt = "The massive round stone artillery tower known as Fat Margaret in Tallinn’s Old Town, with its red-tiled conical roof, set against a clear sky with a tall green church spire rising behind it. In the foreground a grassy park with shrubs, trees and park lamps is bathed in warm evening light, where a couple of people recline on the lawn.") }}
 
 {{ es_cdn_image(id = "es-3574-004", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3574-004", alt = "A medieval stone city gate with a large arched passageway and a round tower topped with a red-tiled conical roof, viewed from a wide cobblestone street. Through the arch, a few pedestrians walk along a narrow old-town street lined with pale historic buildings in warm evening light.") }}
 
-{{ es_cdn_image(id = "es-3575-044", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-044") }}
+{{ es_cdn_image(id = "es-3575-044", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-044", alt = "A medieval stone gate tower with a tiled roof and an arched passageway spans a cobblestone street in Tallinn’s old town, with a crucifix relief set into the tower wall and blue banners hanging from an adjacent limestone building. A person in a light shirt walks along the sidewalk on the right in the warm evening light.") }}
 
-{{ es_cdn_image(id = "es-3575-048", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-048") }}
+{{ es_cdn_image(id = "es-3575-048", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-048", alt = "A grey-blue double wooden door with decorative red geometric panels and a glass transom above, set into a pale blue-washed building wall in Tallinn, Estonia. A pot of bright blue lobelia flowers sits on the stone step beside the door, which bears a small plate reading “6-23”.") }}
 
-{{ es_cdn_image(id = "es-3575-049", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-049") }}
+{{ es_cdn_image(id = "es-3575-049", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-049", alt = "An empty cobblestone street in Tallinn’s old town, lined with pastel pink, yellow, and red plaster buildings, with a “Pikk 50” street sign, a black wrought-iron wall lantern, and a red no-entry traffic sign. A green tree and a small house are visible where the narrow lane bends in the distance under a pale evening sky.") }}
 
-{{ es_cdn_image(id = "es-3575-050", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-050") }}
+{{ es_cdn_image(id = "es-3575-050", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-050", alt = "A quiet cobblestone street in Tallinn’s Old Town lined with pastel-colored historic buildings in cream, yellow, and pink, with an ornate wrought-iron lamp mounted on a wall at right and a few pedestrians in the distance under a clear evening sky.") }}
 
-{{ es_cdn_image(id = "es-3575-051", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-051") }}
+{{ es_cdn_image(id = "es-3575-051", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-051", alt = "A narrow, empty cobblestone lane in Tallinn’s old town, flanked by weathered pale-yellow plastered buildings with a black ‘Õlle-Teek’ beer shop sign, a green door, an ornate wrought-iron lamp bracket, and a gabled building at the far end bathed in warm evening light.") }}
 
-{{ es_cdn_image(id = "es-3575-053", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-053") }}
+{{ es_cdn_image(id = "es-3575-053", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-053", alt = "A stone archway with open green wooden doors in a pink plastered old-town building, leading through a passage to a sunlit courtyard restaurant where a few people stand near a table under a parasol. A hanging lantern lights the passage and a chalkboard sign reading ‘Welcome’ is mounted on the wall to the right.") }}
 
-{{ es_cdn_image(id = "es-3575-057", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-057") }}
+{{ es_cdn_image(id = "es-3575-057", cdn_version = "v1", cdn_key = "img/v1/2017/07/es-3575-057", alt = "A large weathered double door with peeling pale green paint and a semicircular fanlight window, set within a white stone archway in a stuccoed wall. Cobblestones and stone paving slabs with round metal utility covers lie in the foreground.") }}
 
 One of the things that fascinates me about Tallinn is the extent to which any traces of the Soviet era have been eliminated. (Estonia was occupied by the USSR from 1944 to 1991.)
 

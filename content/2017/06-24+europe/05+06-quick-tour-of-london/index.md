@@ -30,6 +30,6 @@ We slept in this morning and then found time for a quick tour of the city and to
 
 {{ es_cdn_image(id = "es-3492-003", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3492-003", caption = "Saint Pancras Station, London, England") }}
 
-{{ es_cdn_image(id = "es-3492-010", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3492-010", caption = "School of Chocolate? Oh. Yes. · London, England") }}
+{{ es_cdn_image(id = "es-3492-010", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3492-010", caption = "School of Chocolate? Oh. Yes. · London, England", alt = "A dark grey shopfront fascia reading “Hotel Chocolat, School of Chocolate” in white lettering, set below a red-brick building with tall white-framed sash windows and an ‘H’ fire hydrant marker plate, on Shaftesbury Avenue in London.") }}
 
 {{ es_cdn_image(id = "es-3492-021", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3492-021", caption = "Granary Square, London, England") }}

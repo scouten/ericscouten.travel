@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2018/09/2018-09-16-prelude.kml"
 bounds = {sw = [38.745, -122.510], ne = [47.623, -74.076]}
 cover = "es-3786-002"
 cover_cdn_key = "img/v1/2018/09/es-3786-002"
+cover_alt = "A white and blue car ferry with a black hull docked at a terminal on calm green water under a bright blue sky streaked with wispy clouds. Weathered wooden pilings stand in the foreground, with a low wooded shoreline visible in the distance."
 +++
 
 I am beginning a new journey.
@@ -31,13 +32,13 @@ Being the contrarian that I am, I drove down the length of New Jersey and took t
 
 Most of my photos for this post are from the ferry trip. Even though I ride ferries often, I still revel in the experience of a new vessel. Each one has its own personality; its own little quirks to share with you.
 
-{{ es_cdn_image(id = "es-3785-004", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-004", caption = "My ship has come in … · Ferry Terminal, Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3785-004", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-004", caption = "My ship has come in … · Ferry Terminal, Cape May, New Jersey", alt = "A white and blue car ferry approaches the Cape May ferry terminal across calm greenish water under a broad blue sky dotted with wispy clouds, with a low wooded shoreline, concrete dock structures, and a wind sock in the distance.") }}
 
-{{ es_cdn_image(id = "es-3786-001", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-001", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3786-001", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-001", caption = "Delaware Bay, southwest of Cape May, New Jersey", alt = "The upper deck of the ferry “Cape May - Lewes Ferry” with the name “CAPE HENLOPEN” painted in black letters across its white superstructure, set against a deep blue sky. White railings, twin black-and-white funnels, red and blue covered equipment, and white life raft canisters with green emergency signage fill the frame.") }}
 
-{{ es_cdn_image(id = "es-3786-002", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-002", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3786-002", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-002", caption = "Delaware Bay, southwest of Cape May, New Jersey", alt = "A white and blue car ferry with a black hull docked at a terminal on calm green water under a bright blue sky streaked with wispy clouds. Weathered wooden pilings stand in the foreground, with a low wooded shoreline visible in the distance.") }}
 
-{{ es_cdn_image(id = "es-3786-005", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-005", caption = "Delaware Bay, southwest of Cape May, New Jersey") }}
+{{ es_cdn_image(id = "es-3786-005", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3786-005", caption = "Delaware Bay, southwest of Cape May, New Jersey", alt = "The white superstructure and bridge of the ferry Cape Henlopen seen from below against a deep blue sky, with its mast carrying radar, navigation lights, antennas and a flag, and a nameplate reading “CAPE HENLOPEN.”") }}
 
 Huh. Wasn’t expecting to see that sign until week after next. 🤔
 
@@ -49,7 +50,7 @@ A few of the photos are from my dinner with Thor at [Oloroso](https://www.oloros
 
 {{ es_cdn_image(id = "es-3785-020", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-020", caption = "Oloroso, Philadelphia, Pennsylvania") }}
 
-{{ es_cdn_image(id = "es-3785-023", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-023", caption = "Penn Square, Philadelphia, Pennsylvania") }}
+{{ es_cdn_image(id = "es-3785-023", cdn_version = "v1", cdn_key = "img/v1/2018/09/es-3785-023", caption = "Penn Square, Philadelphia, Pennsylvania", alt = "The ornate masonry tower and facade of Philadelphia City Hall rising into low morning fog, its tall clock tower partly obscured by mist against a soft gray and peach sky. Street lamps glow along the base of the Second Empire-style building, and an American flag flies from a smaller turret.") }}
 
 As I write this, I am at the airport in Newark, New Jersey, awaiting word that it’s time to board my flight to Dublin.
 

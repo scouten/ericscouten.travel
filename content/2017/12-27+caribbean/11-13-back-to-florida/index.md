@@ -35,9 +35,9 @@ Props to Jim Thomsen or one of his colleagues at Eagle Harbor Books; this was on
 
 So, the idea of this sight-seeing tour was to get in one of those air boats and find us some alligators. Turns out it _can_ get cold in Florida in January. Today, it was something like 7°C / 45°F.
 
-{{ es_cdn_image(id = "es-3694-002", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3694-002", caption = "Everglades Wildlife Management Area, north of Weston, Florida") }}
+{{ es_cdn_image(id = "es-3694-002", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3694-002", caption = "Everglades Wildlife Management Area, north of Weston, Florida", alt = "A blue and white airboat loaded with passengers speeds across open marsh water in the Everglades, kicking up a spray of mist behind it, with a band of tall grass and reeds along the far shore under a bright blue sky dotted with clouds.") }}
 
-{{ es_cdn_image(id = "es-3699-016", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3699-016", title = "Remember and Let Go", caption = "Everglades Wildlife Management Area, north of Weston, Florida") }}
+{{ es_cdn_image(id = "es-3699-016", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3699-016", title = "Remember and Let Go", caption = "Everglades Wildlife Management Area, north of Weston, Florida", alt = "A high-contrast black-and-white landscape of a vast, flat wetland under a dramatic sky, with rippled shallow water and low marsh grasses in the foreground stretching to a distant flat horizon beneath towering cumulus and wispy clouds.") }}
 
 {{ es_cdn_image(id = "es-3699-020", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3699-020", title = "The Hurting Time", caption = "Everglades Wildlife Management Area, north of Weston, Florida", alt = "A black-and-white infrared photograph of a wetland, with a large tree and dense reeds along the far bank of calm, dark water reflecting a dramatic, cloud-filled sky.") }}
 
@@ -49,7 +49,7 @@ I said, "No, but we got close." And I showed her this picture:
 
 Ah well, we had a good laugh. Turns out alligators can rest underwater for several hours at a time when it's cold like this. And, we suppose, that's what was happening.
 
-{{ es_cdn_image(id = "es-3694-030", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3694-030", caption = "Sawgrass Recreation Park, Weston, Florida") }}
+{{ es_cdn_image(id = "es-3694-030", cdn_version = "v1", cdn_key = "img/v1/2018/01/es-3694-030", caption = "Sawgrass Recreation Park, Weston, Florida", alt = "Close-up profile portrait of a male Indian peafowl showing its iridescent blue head and neck, fan-shaped crest of feathers, and white facial markings around a dark eye, set against a soft blurred pale gray background.") }}
 
 The only alligator I saw was this one which, sadly, was in captivity:
 

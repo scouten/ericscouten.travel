@@ -15,6 +15,7 @@ track_log_key = "kml/v1/2017/06/2017-06-28-back-to-boston.kml"
 bounds = {sw = [42.362, -73.490], ne = [44.725, -71.017]}
 cover = "es-3488-013"
 cover_cdn_key = "img/v1/2017/06/es-3488-013"
+cover_alt = "A dramatic black-and-white sky filled with towering cumulus and dark storm clouds looms over the calm, dark waters of Lake Champlain, with a low distant shoreline visible along the horizon."
 +++
 
 Today we said goodbye to our relatives in Plattsburgh and returned to the airport in Boston.
@@ -23,12 +24,12 @@ Today we said goodbye to our relatives in Plattsburgh and returned to the airpor
 
 This was mostly a "pounding down the miles" kind of day, but there was a brief opportunity for photos while we took the ferry from Plattsburgh to Burlington.
 
-{{ es_cdn_image(id = "es-3488-001", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3488-001", caption = "Lake Champlain Ferry, Plattsburgh, New York") }}
+{{ es_cdn_image(id = "es-3488-001", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3488-001", caption = "Lake Champlain Ferry, Plattsburgh, New York", alt = "A dramatic black-and-white view of towering cumulus clouds over Lake Champlain, with the wheelhouse, mast, antennas, and flag of a ferry occupying the lower left of the frame and a distant shoreline on the horizon across the water.") }}
 
 {{ es_cdn_image(id = "es-3487-009", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3487-009", caption = "Lake Champlain Ferry, Plattsburgh, New York") }}
 
-{{ es_cdn_image(id = "es-3488-013", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3488-013", title = "What Did You Decide?", caption = "Lake Champlain Ferry, Plattsburgh, New York") }}
+{{ es_cdn_image(id = "es-3488-013", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3488-013", title = "What Did You Decide?", caption = "Lake Champlain Ferry, Plattsburgh, New York", alt = "A dramatic black-and-white sky filled with towering cumulus and dark storm clouds looms over the calm, dark waters of Lake Champlain, with a low distant shoreline visible along the horizon.") }}
 
-{{ es_cdn_image(id = "es-3487-014", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3487-014", caption = "Lake Champlain Ferry, Plattsburgh, New York") }}
+{{ es_cdn_image(id = "es-3487-014", cdn_version = "v1", cdn_key = "img/v1/2017/06/es-3487-014", caption = "Lake Champlain Ferry, Plattsburgh, New York", alt = "The churning white wake of a boat trails across the dark, choppy water of Lake Champlain toward a distant tree-lined shore under a bright sky filled with puffy clouds.") }}
 
 Tomorrow my parents head back to Seattle. Ayla and I "cross the pond" and will land in London tomorrow evening. The European adventure begins!

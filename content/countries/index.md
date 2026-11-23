@@ -195,7 +195,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2018/03/es-3709-009"
     caption = "Xiangde Temple, Taroko National Park, Taiwan"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "Xiangde Temple, a traditional Chinese-style building with sweeping orange tiled roofs, red pillars hung with lanterns, and a central hall topped with a dark signboard bearing gold characters, set against forested mountain slopes under a cloudy sky. A checkerboard marble-paved courtyard with twin golden dragon mosaics leads up to the temple entrance.") }}
 
 {{ es_country(
     seq = 66
@@ -206,7 +207,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2018/01/es-3687-020"
     caption = "Panama Canal, Colón, Panama"
     drive = false
-    country_term = true) }}
+    country_term = true
+    alt = "A sweeping view of dense green tropical rainforest stretching to low rolling hills on the horizon, with wisps of morning fog rising from the canopy under a pale, overcast sky.") }}
 
 {{ es_country(
     seq = 65
@@ -217,7 +219,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2018/01/es-3685-035"
     caption = "Cartagena, Columbia"
     drive = false
-    country_term = true) }}
+    country_term = true
+    alt = "A black horse pulls an open carriage carrying tourists along a paved street in Cartagena, Colombia, driven by a man in a white shirt and straw hat. Behind them is an old stone fortress wall with green trees and flowering shrubs, and another horse-drawn carriage and a white tour bus are nearby under an overcast sky.") }}
 
 {{ es_country(
     seq = 64
@@ -228,7 +231,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/12/es-3681-002"
     caption = "Willemstad, Curaçao"
     drive = false
-    country_term = true) }}
+    country_term = true
+    alt = "An elevated harbor view of Willemstad, Curaçao, with colorful Dutch-style buildings in yellow, orange and blue lining the waterfront, a tall blue arched bridge (Queen Juliana Bridge) spanning hills in the background, and the turquoise Caribbean waters in the foreground under an overcast gray sky.") }}
 
 {{ es_country(
     seq = 63
@@ -239,7 +243,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/12/es-3674-016"
     caption = "Tamarijn, Aruba"
     drive = false
-    country_term = true) }}
+    country_term = true
+    alt = "A conical green hill, Hooiberg, rises above a low-lying Aruban landscape dotted with cacti, scrubby vegetation, and residential homes with terracotta roofs, under a bright sky filled with large puffy white clouds.") }}
 
 {{ es_country(
     seq = 62
@@ -250,7 +255,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/08/es-3601-001"
     caption = "Buje, Croatia"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "The hilltop town of Buje in Istria, Croatia, with its cluster of stone houses, terracotta roofs, and two prominent church towers rising above a slope of green terraced vegetation and scrubland under a clear blue sky.") }}
 
 {{ es_country(
     seq = 61
@@ -261,7 +267,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/08/es-3593-018"
     caption = "Râmnicu Vâlcea, Romania"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A calm lake reflects a bright blue sky dotted with white clouds, its far shore lined with green trees and backed by rolling, forested hills near Râmnicu Vâlcea, Romania.") }}
 
 {{ es_country(
     seq = 60
@@ -271,7 +278,8 @@ My first visit to Africa.
     image = "es-3589-021"
     cdn_key = "img/v1/2017/07/es-3589-021"
     drive = false
-    country_term = true) }}
+    country_term = true
+    alt = "St. Peter’s Basilica with its grand dome rises over St. Peter’s Square in Vatican City, flanked by Bernini’s curved colonnades and the central obelisk, with scattered tourists and a blue police van crossing the cobblestone piazza under a clear evening sky.") }}
 
 {{ es_country(
     seq = 59
@@ -282,7 +290,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/07/es-3588-013"
     caption = "Borgo Maggiore, San Marino"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A tree-covered hilltop in San Marino crowned by medieval fortress towers and towns spilling down the forested slopes, with pale buildings and red-roofed houses clustered beneath the rocky summit under a clear blue sky.") }}
 
 {{ es_country(
     seq = 58
@@ -293,7 +302,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/07/es-3579-022"
     caption = "Vilnius, Lithuania"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "An elevated view over a wet cobblestone square in Vilnius Old Town on an overcast, rainy day, dominated by the pink Baroque facade and twin domed towers of St. Casimir’s Church, with rows of parked cars, leafy trees, and pastel historic buildings lining the plaza.") }}
 
 {{ es_country(
     seq = 57
@@ -304,7 +314,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/07/es-3579-007"
     caption = "Vecumnieki, Latvia"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "An empty two-lane asphalt country road recedes toward the horizon, lined on both sides by tall birch and other green trees, with grassy verges and open fields beyond, beneath a bright sky full of scattered white clouds.") }}
 
 {{ es_country(
     seq = 56
@@ -315,7 +326,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/07/es-3575-038"
     caption = "Tallinn, Estonia"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "The massive round stone artillery tower known as Fat Margaret in Tallinn’s Old Town, with its red-tiled conical roof, set against a clear sky with a tall green church spire rising behind it. In the foreground a grassy park with shrubs, trees and park lamps is bathed in warm evening light, where a couple of people recline on the lawn.") }}
 
 {{ es_country(
     seq = 55
@@ -338,7 +350,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/07/es-3559-023"
     caption = "Tregde, Norway"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A traditional red Norwegian cabin with a flagpole flying the Norwegian flag sits on a rocky, pine-covered shoreline, with a small red outbuilding nearby and a boat moored at a jetty below, viewed from the blue water under a clear sky.") }}
 
 {{ es_country(
     seq = 53
@@ -350,7 +363,8 @@ My first visit to Africa.
     title = "Unperfected"
     caption = "south of Magheraveely, Northern Ireland, 2018"
     drive = true
-    country_term = "Northern Ireland") }}
+    country_term = "Northern Ireland"
+    alt = "A black-and-white rural landscape south of Magheraveely, Northern Ireland, with a dramatic cloudy sky and shafts of light breaking through above rolling hills. In the foreground a grassy field runs toward a line of trees, scattered farm buildings and fences in the middle distance.") }}
 
 {{ es_country(
     seq = 52
@@ -362,7 +376,8 @@ My first visit to Africa.
     title = "Last Ray of Hope"
     caption = "Inch Beach, County Kerry, Ireland, 2017"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A ruined stone cottage with a partially collapsed corrugated roof and crumbling lichen-covered walls stands beneath a dramatic, cloud-filled sky, with overgrown foliage spilling over the walls and distant hills on the horizon, rendered in moody black and white.") }}
 
 {{ es_country(
     seq = 51
@@ -374,7 +389,8 @@ My first visit to Africa.
     title = "The Gatekeeper’s Cottage"
     caption = "Kinross, Scotland"
     drive = true
-    country_term = "Scotland") }}
+    country_term = "Scotland"
+    alt = "A black-and-white infrared photograph of rural Scottish farmland, with a metal field gate leading to a pale, luminous meadow. A dramatic sky of billowing clouds fills most of the frame, with trees and distant hills lining the horizon and a track running along the right edge.") }}
 
 {{ es_country(
     seq = 50
@@ -384,7 +400,8 @@ My first visit to Africa.
     image = "es-3438-016"
     cdn_key = "img/v1/2017/04/es-3438-016"
     caption = "Runaway Bay, Jamaica"
-    drive = true) }}
+    drive = true
+    alt = "A grassy coastal plain with a dirt track winding toward the turquoise Caribbean Sea in Runaway Bay, Jamaica, under a bright blue sky scattered with wispy clouds. A small group of horses grazes near scattered trees and a few low buildings along the shoreline.") }}
 
 {{ es_country(
     seq = 49
@@ -416,7 +433,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/12/es-3666-001"
     caption = "Half Moon Cay, Little San Salvador Island, Bahamas, 2017"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "An old weathered rowboat repurposed as a flower planter sits on white sand, overflowing with pink bougainvillea, white blossoms, and green foliage. Lush tropical greenery and palm trees fill the background, with pale rocks and a weathered wooden stump in the sandy foreground.") }}
 
 {{ es_country(
     seq = 46
@@ -572,7 +590,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/08/es-3610-030"
     caption = "Radau, Austria, 2017"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "A rolling green alpine landscape near Radau in Upper Austria, with forested mountain ridges in the background under a bright sky of scattered clouds. A red tractor towing a tank travels along a country road through the meadows, with scattered farmhouses, trees, and wildflowers in the foreground.") }}
 
 {{ es_country(
     seq = 32
@@ -801,7 +820,8 @@ My first visit to Africa.
     cdn_key = "img/v1/2017/08/es-3621-001"
     caption = "Paris, France, 2017"
     drive = true
-    country_term = true) }}
+    country_term = true
+    alt = "An elevated view over the Paris skyline under a wide sky filled with scattered white clouds, with the Eiffel Tower visible in the hazy distance and rows of rooftops, leafy green trees, and a large white building spread across the horizon.") }}
 
 {{ es_country(
     seq = 11
